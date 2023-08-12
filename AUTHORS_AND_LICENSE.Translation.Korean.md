@@ -27,5 +27,5 @@ The Korean translation is provided by:
 # License for THE RENEGADE COLLECTION translation
 
 ```
-© 2022 mv-ko authors. All rights reserved.
+© 2023 mv-ko authors. All rights reserved.
 ```
