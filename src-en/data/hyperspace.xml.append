@@ -1,0 +1,1324 @@
+<FTL>
+<version>^1.7.0</version>
+
+<mod:findLike type="ships">
+	<mod:findLike type="shipOrder">
+		<mod-append:ship>TRC_PLAYER_SHIP_KESTREL</mod-append:ship>			
+		<mod-append:ship>TRC_PLAYER_SHIP_ENGI</mod-append:ship>
+		<mod-append:ship>TRC_PLAYER_SHIP_STEALTH</mod-append:ship>
+		<mod-append:ship>TRC_PLAYER_SHIP_MONK</mod-append:ship>
+		<mod-append:ship>TRC_PLAYER_SHIP_LOSTSUN</mod-append:ship>
+		<mod-append:ship>TRC_PLAYER_SHIP_SCIENTIST</mod-append:ship>
+		<mod-append:ship>TRC_PLAYER_SHIP_BROOD</mod-append:ship>
+		<mod-append:ship>TRC_PLAYER_SHIP_LANIUS</mod-append:ship>
+		<mod-append:ship>TRC_PLAYER_SHIP_PLEASURE</mod-append:ship>
+		<mod-append:ship>TRC_PLAYER_SHIP_REBEL</mod-append:ship>
+	</mod:findLike>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_KESTREL" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_KESTREL</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_KESTREL_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_KESTREL_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ENGINEER</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ENGINEER_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ENGINEER_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ANGEL</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ANGEL_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ANGEL_3</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_KESTREL">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>11</crewLimit>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_KESTREL_2">
+		<hiddenAug>SHIP_REBEL</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_KESTREL_3">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>6</crewLimit>
+		<rooms>
+			<room id="9">
+				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
+			</room>
+		</rooms>
+	</mod-append:customShip>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_ENGI" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ENGI</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ENGI_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ENGI_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_OUTCAST</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_OUTCAST_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_OUTCAST_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ORCHID</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ORCHID_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ORCHID_3</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_ENGI">
+		<hiddenAug>SHIP_ENGI</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_ENGI_2">
+		<hiddenAug>SHIP_OUTCAST</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>6</crewLimit>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_ENGI_3">
+		<hiddenAug>SHIP_ORCHID</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_STEALTH" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_CLOAK</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_CLOAK_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_CLOAK_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_FEDERATION</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_FEDERATION_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_FEDERATION_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_HIVE</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_HIVE_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_HIVE_3</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_STEALTH">
+		<hiddenAug>SHIP_STEALTH</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_STEALTH_2">
+		<hiddenAug>SHIP_FEDERATION</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_STEALTH_3">
+		<hiddenAug>SHIP_HIVE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_MONK" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_MONK</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_MONK_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_MONK_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_PEACEKEEPER</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_PEACEKEEPER_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_PEACEKEEPER_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SLUG</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SLUG_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SLUG_3</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_MONK">
+		<hiddenAug>SHIP_MONK</hiddenAug>
+		<hiddenAug>ZOLTAN_BLESSING</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_MONK_2">
+		<hiddenAug>SHIP_DUSKBRINGER</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<rooms>
+			<room id="6">
+				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
+			</room>
+		</rooms>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_MONK_3">
+		<hiddenAug>SHIP_SLUG</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<rooms>
+			<room id="11">
+				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
+			</room>
+		</rooms>
+		<crewLimit>9</crewLimit>
+	</mod-append:customShip>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_LOSTSUN" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_LOSTSUN</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_LOSTSUN_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_LOSTSUN_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ROCKMAN</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ROCKMAN_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_ROCKMAN_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_LEECH</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_LEECH_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_LEECH_3</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_LOSTSUN">
+		<hiddenAug>SHIP_LOSTSUN</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_LOSTSUN_2">
+		<hiddenAug>SHIP_ROCK</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_LOSTSUN_3">
+		<hiddenAug>SHIP_LEECH</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<rooms>
+			<room id="4">
+				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
+			</room>
+		</rooms>
+	</mod-append:customShip>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_SCIENTIST" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SCIENTIST</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SCIENTIST_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SCIENTIST_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_AUTO</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_AUTO_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_AUTO_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_DYNASTY</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_DYNASTY_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_DYNASTY_3</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_SCIENTIST">
+		<hiddenAug>SHIP_SHELL</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<rooms>	
+			<room id="0">
+				<roomAnim renderLayer="0">gash_1x3</roomAnim>
+			</room>
+			<room id="1">
+				<roomAnim renderLayer="0">gash_1x2</roomAnim>
+			</room>
+			<room id="2">
+				<roomAnim renderLayer="0">gash_2x2</roomAnim>
+			</room>
+			<room id="3">
+				<roomAnim renderLayer="0">gash_2x2</roomAnim>
+			</room>
+			<room id="4">
+				<roomAnim renderLayer="0">gash_1x2</roomAnim>
+			</room>
+			<room id="5">
+				<roomAnim renderLayer="0">gash_2x2</roomAnim>
+			</room>
+			<room id="6">
+				<roomAnim renderLayer="0">gash_1x2</roomAnim>
+			</room>
+			<room id="7">
+				<roomAnim renderLayer="0">gash_2x2</roomAnim>
+			</room>
+			<room id="8">
+				<roomAnim renderLayer="0">gash_2x2</roomAnim>
+			</room>
+			<room id="9">
+				<roomAnim renderLayer="0">gash_2x2</roomAnim>
+			</room>
+			<room id="10">
+				<roomAnim renderLayer="0">gash_1x3</roomAnim>
+				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
+			</room>
+			<room id="11">
+				<roomAnim renderLayer="0">gash_2x1</roomAnim>
+			</room>
+			<room id="12">
+				<roomAnim renderLayer="0">gash_1x2</roomAnim>
+			</room>
+			<room id="13">
+				<roomAnim renderLayer="0">gash_3x1</roomAnim>
+			</room>
+			<room id="14">
+				<roomAnim renderLayer="0">gash_2x2</roomAnim>
+			</room>
+			<room id="15">
+				<roomAnim renderLayer="0">gash_1x2</roomAnim>
+			</room>
+			<room id="16">
+				<roomAnim renderLayer="0">gash_2x1</roomAnim>
+			</room>
+			<room id="17">
+				<roomAnim renderLayer="0">gash_2x1</roomAnim>
+			</room>
+			<room id="18">
+				<roomAnim renderLayer="0">gash_2x1</roomAnim>
+			</room>
+			<room id="19">
+				<roomAnim renderLayer="0">gash_2x1</roomAnim>
+			</room>
+			<room id="20">
+				<roomAnim renderLayer="0">gash_2x1</roomAnim>
+			</room>
+		</rooms>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_SCIENTIST_2">
+		<hiddenAug>SHIP_AUTO</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>6</crewLimit>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_SCIENTIST_3">
+		<hiddenAug>SHIP_DYNASTY</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>12</crewLimit>
+		<rooms>
+			<room id="19">
+				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
+			</room>
+		</rooms>
+	</mod-append:customShip>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_BROOD" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_BROOD</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_BROOD_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_BROOD_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_TUCO</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_TUCO_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_TUCO_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SEPARATIST</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SEPARATIST_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SEPARATIST_3</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_BROOD">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>10</crewLimit>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_BROOD_2">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_BROOD_3">
+		<hiddenAug>SHIP_ENGI</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>6</crewLimit>
+	</mod-append:customShip>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_LANIUS" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_LANIUS</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_LANIUS_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_LANIUS_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_MVREBEL</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_MVREBEL_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_MVREBEL_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SUZERAIN</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SUZERAIN_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_SUZERAIN_3</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_LANIUS">
+		<hiddenAug>SHIP_LANIUS</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_LANIUS_2">
+		<hiddenAug>SHIP_REBEL</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_LANIUS_3">
+		<hiddenAug>SHIP_HIVE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_PLEASURE" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_PLEASURE</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_PLEASURE_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_PLEASURE_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_AUGMENTED</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_AUGMENTED_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_AUGMENTED_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_HACKER</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_HACKER_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_HACKER_3</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_PLEASURE">
+		<hiddenAug>SHIP_SLUG</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>9</crewLimit>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_PLEASURE_2">
+		<hiddenAug>SHIP_AUGMENTED</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<rooms>
+			<room id="1">
+				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
+			</room>
+		</rooms>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_PLEASURE_3">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>9</crewLimit>
+	</mod-append:customShip>
+	
+	<mod-append:ship name="TRC_PLAYER_SHIP_REBEL" b="true" c="true">
+		<splitVictoryAchievement>true</splitVictoryAchievement>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_REBEL</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_REBEL_2</victory>
+            </victories>
+		</unlock>
+		<unlock variant="a" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>PLAYER_SHIP_REBEL_3</victory>
+            </victories>
+		</unlock>
+		<unlock variant="b" silent="false">
+            <type>4</type>
+        </unlock>
+		<unlock variant="c" silent="false">
+			<type>5</type>
+            <victories>
+				<victory>TRC_PLAYER_SHIP_KESTREL</victory>
+				<victory>TRC_PLAYER_SHIP_KESTREL_2</victory>
+				<victory>TRC_PLAYER_SHIP_KESTREL_3</victory>
+				<victory>TRC_PLAYER_SHIP_ENGI</victory>
+				<victory>TRC_PLAYER_SHIP_ENGI_2</victory>
+				<victory>TRC_PLAYER_SHIP_ENGI_3</victory>
+				<victory>TRC_PLAYER_SHIP_STEALTH</victory>
+				<victory>TRC_PLAYER_SHIP_STEALTH_2</victory>
+				<victory>TRC_PLAYER_SHIP_STEALTH_3</victory>
+				<victory>TRC_PLAYER_SHIP_MONK</victory>
+				<victory>TRC_PLAYER_SHIP_MONK_2</victory>
+				<victory>TRC_PLAYER_SHIP_MONK_3</victory>
+				<victory>TRC_PLAYER_SHIP_LOSTSUN</victory>
+				<victory>TRC_PLAYER_SHIP_LOSTSUN_2</victory>
+				<victory>TRC_PLAYER_SHIP_LOSTSUN_3</victory>
+				<victory>TRC_PLAYER_SHIP_SCIENTIST</victory>
+				<victory>TRC_PLAYER_SHIP_SCIENTIST_2</victory>
+				<victory>TRC_PLAYER_SHIP_SCIENTIST_3</victory>
+				<victory>TRC_PLAYER_SHIP_BROOD</victory>
+				<victory>TRC_PLAYER_SHIP_BROOD_2</victory>
+				<victory>TRC_PLAYER_SHIP_BROOD_3</victory>
+				<victory>TRC_PLAYER_SHIP_LANIUS</victory>
+				<victory>TRC_PLAYER_SHIP_LANIUS_2</victory>
+				<victory>TRC_PLAYER_SHIP_LANIUS_3</victory>
+				<victory>TRC_PLAYER_SHIP_PLEASURE</victory>
+				<victory>TRC_PLAYER_SHIP_PLEASURE_2</victory>
+				<victory>TRC_PLAYER_SHIP_PLEASURE_3</victory>
+				<victory>TRC_PLAYER_SHIP_REBEL</victory>
+            </victories>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_REBEL">
+		<hiddenAug>SHIP_REBEL</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_REBEL_2">
+		<hiddenAug>SHIP_SYLVAN</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crew>
+			<unique_sylvan room="7" name="Collector"/>  <!--piloting-->
+			<slug_saboteur room="0"/>  <!--engines-->
+			<slug_clansman room="6"/>  <!--weapons-->
+			<slug_clansman room="5"/>  <!--shields-->
+		</crew>
+		<rooms>
+			<room id="2">
+				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
+			</room>
+		</rooms>
+	</mod-append:customShip>
+	<mod-append:customShip name="TRC_PLAYER_SHIP_REBEL_3">
+		<hiddenAug>SHIP_GHOST</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>6</crewLimit>
+	</mod-append:customShip>
+	
+	<mod-append:customShip name="MU_COLLECTOR">
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+			<shipIcon>icon_resist</shipIcon>
+        </shipIcons>
+		<hpCap>30</hpCap>
+		<crew>
+			<unique_sylvan room="11" name="Sylvan"/>  <!--teleporter-->
+			<slug_ranger room="11"/>  <!--teleporter-->
+			<slug_saboteur room="11"/>  <!--teleporter-->
+			<slug_saboteur room="11"/>  <!--teleporter-->
+			<slug_clansman room="6"/>  <!--weapons-->
+			<slug_hektar room="5"/>  <!--shields-->
+			<slug_clansman room="12"/>  <!--engines-->
+			<slug_clansman room="0"/>  <!--doors-->
+			<slug_ranger room="5"/>  <!--doors-->
+		</crew>
+		<rooms>
+			<room id="6"> <!--weapons-->
+				<roomAnim renderLayer="0">resist_2x2</roomAnim>
+                <roomAnim renderLayer="3">resist_icon</roomAnim>
+				<sysDamageResistChance>100</sysDamageResistChance>
+			</room>
+			<room id="5"> <!--shields-->
+				<roomAnim renderLayer="0">resist_2x2</roomAnim>
+                <roomAnim renderLayer="3">resist_icon</roomAnim>
+				<sysDamageResistChance>100</sysDamageResistChance>
+			</room>
+			<room id="12"> <!--engines-->
+				<roomAnim renderLayer="0">resist_2x2</roomAnim>
+                <roomAnim renderLayer="3">resist_icon</roomAnim>
+				<sysDamageResistChance>100</sysDamageResistChance>
+			</room>
+		</rooms>
+	</mod-append:customShip>
+	<mod-append:customShip name="MT_ANOMALY_1">
+		<shipIcons>
+            <shipIcon>icon_threat</shipIcon>
+        </shipIcons>
+		<noFuelStalemate/>
+	</mod-append:customShip>
+	<mod-append:customShip name="MT_ANOMALY_2">
+		<shipIcons>
+            <shipIcon>icon_threat</shipIcon>
+        </shipIcons>
+		<noFuelStalemate/>
+	</mod-append:customShip>
+	<mod-append:customShip name="MT_ANOMALY_3">
+		<shipIcons>
+            <shipIcon>icon_threat</shipIcon>
+			<shipIcon>icon_auto</shipIcon>
+        </shipIcons>
+		<noFuelStalemate/>
+	</mod-append:customShip>
+	<mod-append:customShip name="MT_ANOMALY_4">
+		<shipIcons>
+            <shipIcon>icon_threat</shipIcon>
+        </shipIcons>
+		<noFuelStalemate/>
+	</mod-append:customShip>
+	<mod-append:customShip name="MT_ANOMALY_5">
+		<shipIcons>
+            <shipIcon>icon_threat</shipIcon>
+        </shipIcons>
+		<noFuelStalemate/>
+	</mod-append:customShip>
+	<mod-append:customShip name="MU_CONTINUITY_BOSS">
+		<shipIcons>
+            <shipIcon>icon_threat</shipIcon>
+			<shipIcon>icon_auto</shipIcon>
+        </shipIcons>
+		<noFuelStalemate/>
+	</mod-append:customShip>
+</mod:findLike>
+
+<crew>
+	<race name="spider_hatch_temp">
+		<lowHealthThreshold>-1</lowHealthThreshold>
+		<controllable>false</controllable>
+		<selectable>true</selectable>
+		<canMan>false</canMan>
+		<maxHealth>50</maxHealth>
+		<moveSpeedMultiplier>2.2</moveSpeedMultiplier>
+		<damageMultiplier>1.7</damageMultiplier>
+		<repairSpeed>0.25</repairSpeed>
+		<fireRepairMultiplier>0.9</fireRepairMultiplier>
+		<fireDamageMultiplier>1.2</fireDamageMultiplier>
+		<healSpeed>3.0</healSpeed>
+		<animSheet>spider_hatch</animSheet>
+		<animBase>mantis</animBase>
+		<deathSounds>
+			<deathSound>spiderDeath</deathSound>
+		</deathSounds>
+		<shootingSounds>
+			<shootingSound>mantisSpit1</shootingSound>
+			<shootingSound>mantisSpit2</shootingSound>
+			<shootingSound>mantisSpit3</shootingSound>
+		</shootingSounds>
+		<skills>
+			<piloting req="18"/>
+			<engines req="18"/>
+			<shields req="66"/>
+			<weapons req="78"/>
+			<repair req="21"/>
+			<combat req="8"/>
+		</skills>
+		<powerEffect>
+			<cooldown>10</cooldown>
+			<req>
+				<aiDisabled/>
+			</req>
+			<jumpCooldown>full</jumpCooldown>
+			<powerSounds>
+				<powerSound>spiderRoar</powerSound>
+			</powerSounds>
+			<buttonText>CONTROL</buttonText>
+			<tooltip>[COOLDOWN:10s  DURATION:6s]
+				Assume control of the spider.</tooltip>
+			<cooldownColor r="176" g="113" b="224"/>
+			<temporaryEffect>
+				<duration>6</duration>
+				<cooldownColor r="120" g="33" b="190"/>
+				<controllable>true</controllable>
+				<effectAnim>mindcontrol</effectAnim>
+			</temporaryEffect>
+		</powerEffect>
+	</race>
+	<race name="mutant">
+		<canRepair>false</canRepair>
+		<damageMultiplier>2.3</damageMultiplier>
+		<moveSpeedMultiplier>0.5</moveSpeedMultiplier>
+		<healSpeed>0</healSpeed>
+		<hasCustomDeathAnimation>true</hasCustomDeathAnimation>
+		<hasDeathExplosion>true</hasDeathExplosion>
+		<deathEffect>
+			<sysDamage>1</sysDamage>
+			<persDamage>1</persDamage>
+			<friendlyFire>true</friendlyFire>
+			<shipFriendlyFire>true</shipFriendlyFire>
+		</deathEffect>
+		<deathSounds>
+			<deathSound>technicianDroneDeath</deathSound>
+		</deathSounds>
+	</race>
+	<race name="clone_soldier">
+		<lowHealthThreshold>-1</lowHealthThreshold>
+		<damageMultiplier>1.2</damageMultiplier>
+		<damageTakenMultiplier>0.7</damageTakenMultiplier>
+		<fireDamageMultiplier>0.6</fireDamageMultiplier>
+		<suffocationModifier>0.83</suffocationModifier>
+		<noClone>true</noClone>
+		<noSlot>true</noSlot>
+		<animBase>human</animBase>
+		<deathSounds>
+			<deathSound>death1</deathSound>
+			<deathSound>death2</deathSound>
+		</deathSounds>
+		<skills>
+			<piloting req="10"/>
+			<engines req="10"/>
+			<shields req="43"/>
+			<weapons req="50"/>
+			<repair req="12"/>
+			<combat req="1"/>
+		</skills>
+	</race>
+	<race name="clone_soldier_slot">
+		<damageMultiplier>1.2</damageMultiplier>
+		<damageTakenMultiplier>0.7</damageTakenMultiplier>
+		<fireDamageMultiplier>0.6</fireDamageMultiplier>
+		<suffocationModifier>0.83</suffocationModifier>
+		<animBase>human</animBase>
+		<animSheet>clone_soldier</animSheet>
+		<deathSounds>
+			<deathSound>death1</deathSound>
+			<deathSound>death2</deathSound>
+		</deathSounds>
+		<skills>
+			<piloting req="10"/>
+			<engines req="10"/>
+			<shields req="43"/>
+			<weapons req="50"/>
+			<repair req="12"/>
+			<combat req="1"/>
+		</skills>
+	</race>
+	<race name="drone_extinguisher">
+		<canFight>false</canFight>
+		<canRepair>true</canRepair>
+		<canSabotage>false</canSabotage>
+		<canSuffocate>false</canSuffocate>
+		<canMan>false</canMan>
+		<canPunch>false</canPunch>
+		<canShoot>false</canShoot>
+		<repairSpeed>0.5</repairSpeed>
+		<fireRepairMultiplier>8</fireRepairMultiplier>
+		<maxHealth>50</maxHealth>
+		<stunMultiplier>0.25</stunMultiplier>
+		<oxygenChangeSpeed>-0.25</oxygenChangeSpeed>
+		<droneAI>
+			<repairAI/>
+			<returnToDroneRoom/>
+		</droneAI>
+		<fireDamageMultiplier>0</fireDamageMultiplier>
+		<moveSpeedMultiplier>1.5</moveSpeedMultiplier>
+		<controllable>true</controllable>
+	</race>
+	<race name="drone_battery">
+		<canFight>false</canFight>
+		<canRepair>false</canRepair>
+		<canSabotage>false</canSabotage>
+		<canSuffocate>false</canSuffocate>
+		<canMan>false</canMan>
+		<maxHealth>75</maxHealth>
+		<stunMultiplier>0</stunMultiplier>
+		<healSpeed>0</healSpeed>
+		<bonusPower>6</bonusPower>
+		<trueHealAmount>-1.0</trueHealAmount>
+		<droneAI>
+			<batteryAI/>
+		</droneAI>
+		<fireDamageMultiplier>0.25</fireDamageMultiplier>
+		<moveSpeedMultiplier>2</moveSpeedMultiplier>
+		<controllable>true</controllable>
+		<deathEffect>
+			<sysDamage>4</sysDamage>
+			<shipFriendlyFire>true</shipFriendlyFire>
+			<fireChance>1</fireChance>
+		</deathEffect>
+	</race>
+	<race name="drone_overcharger">
+		<canFight>false</canFight>
+		<canRepair>false</canRepair>
+		<canSabotage>false</canSabotage>
+		<canSuffocate>false</canSuffocate>
+		<canMan>false</canMan>
+		<maxHealth>50</maxHealth>
+		<stunMultiplier>0.25</stunMultiplier>
+		<powerDrain>3</powerDrain>
+		<powerDrainFriendly>true</powerDrainFriendly>
+		<droneAI>
+			<batteryAI/>
+		</droneAI>
+		<fireDamageMultiplier>0.25</fireDamageMultiplier>
+		<moveSpeedMultiplier>0.75</moveSpeedMultiplier>
+		<controllable>true</controllable>
+		<passiveStatBoosts>
+			<statBoost name="allDamageTakenMultiplier">
+				<boostType>MULT</boostType>
+				<amount>0.25</amount>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<functionalTarget>true</functionalTarget>
+				<droneTarget>CREW</droneTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>0</priority>
+				<boostAnim>energy_shield_buff</boostAnim>
+				<maxStacks id="labZoltanShield">1</maxStacks>
+				<systemRoomTarget>ALL</systemRoomTarget>
+				<systemList>
+					<all/>
+				</systemList>
+			</statBoost>
+		</passiveStatBoosts>
+	</race>
+</crew>
+
+<drones>
+	<drone name="TRC_EXTINGUISHER">
+		<crewBlueprint>drone_extinguisher</crewBlueprint>
+		<tooltipName>Extinguisher Drone</tooltipName>
+	</drone>
+	<drone name="TRC_VOLTAGE">
+		<crewBlueprint>drone_battery</crewBlueprint>
+		<tooltipName>Voltage Drone</tooltipName>
+	</drone>
+	<drone name="TRC_OVERSHIELD">
+		<crewBlueprint>drone_overcharger</crewBlueprint>
+		<tooltipName>Overshield Drone</tooltipName>
+	</drone>
+</drones>
+
+<mod:findLike type="augments">
+	<mod:findName type="aug" name="EX_DRONE_SPEED">
+		<mod:findLike type="statBoosts">
+			<mod-append:statBoost name="moveSpeedMultiplier">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<whiteList>
+					<repair/>
+				</whiteList>
+				<amount>2</amount>
+				<priority>0</priority>
+				<systemPowerDependency>
+					<drones/>
+				</systemPowerDependency>
+				<systemPowerScaling>
+					<noSys>0</noSys>
+					<noPwr>0</noPwr>
+					<onePwr>1</onePwr>
+				</systemPowerScaling>
+			</mod-append:statBoost>
+			<mod-append:statBoost name="damageMultiplier">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<whiteList>
+					<repair/>
+				</whiteList>
+				<amount>1.5</amount>
+				<priority>0</priority>
+				<systemPowerDependency>
+					<drones/>
+				</systemPowerDependency>
+				<systemPowerScaling>
+					<noSys>0</noSys>
+					<noPwr>0</noPwr>
+					<onePwr>1</onePwr>
+				</systemPowerScaling>
+			</mod-append:statBoost>
+			<mod-append:statBoost name="sabotageSpeedMultiplier">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<whiteList>
+					<repair/>
+				</whiteList>
+				<amount>1.5</amount>
+				<priority>0</priority>
+				<systemPowerDependency>
+					<drones/>
+				</systemPowerDependency>
+				<systemPowerScaling>
+					<noSys>0</noSys>
+					<noPwr>0</noPwr>
+					<onePwr>1</onePwr>
+				</systemPowerScaling>
+			</mod-append:statBoost>
+			<mod-append:statBoost name="repairSpeed">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<whiteList>
+					<repair/>
+				</whiteList>
+				<amount>1.5</amount>
+				<priority>0</priority>
+				<systemPowerDependency>
+					<drones/>
+				</systemPowerDependency>
+				<systemPowerScaling>
+					<noSys>0</noSys>
+					<noPwr>0</noPwr>
+					<onePwr>1</onePwr>
+				</systemPowerScaling>
+			</mod-append:statBoost>
+			<mod-append:statBoost name="healCrewAmount">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<amount>1.2</amount>
+				<priority>0</priority>
+				<whiteList>
+					<repair/>
+				</whiteList>
+				<systemPowerDependency>
+					<drones/>
+				</systemPowerDependency>
+				<systemPowerScaling>
+					<noSys>0</noSys>
+					<noPwr>0</noPwr>
+					<onePwr>1</onePwr>
+				</systemPowerScaling>
+			</mod-append:statBoost>
+		</mod:findLike>
+	</mod:findName>
+	
+	<mod-append:aug name="EX_LAB_ENGI_COMBAT">
+    	<statBoosts>
+			<statBoost name="damageMultiplier">
+				<boostType>SET</boostType>
+				<amount>1.00</amount>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<priority>999</priority>
+				<whiteList load="LIST_CREW_ENGI"/>
+			</statBoost>
+			<statBoost name="maxHealth">
+				<boostType>FLAT</boostType>
+				<amount>10</amount>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<priority>999</priority>
+				<whiteList load="LIST_CREW_ENGI"/>
+			</statBoost>
+			<statBoost name="repairSpeed">
+				<boostType>MULT</boostType>
+				<amount>0.75</amount>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<priority>999</priority>
+				<whiteList load="LIST_CREW_ENGI"/>
+			</statBoost>
+		</statBoosts>
+    </mod-append:aug>
+</mod:findLike>
+
+<events>
+	<bossShip>MU_COLLECTOR</bossShip>
+	<bossShip>MU_CONTINUITY_BOSS</bossShip>
+	
+	<variable name="addon_extraequipment_enabled" op="set" val="1"/>
+	
+	<variable name="trc_collector" op="set" val="0"/>
+	<metaVariable name="trc_found_collector" op="set" val="0"/>
+	<metaVariable name="trc_fed" op="set" val="0"/>
+	<metaVariable name="trc_zoltan" op="set" val="0"/>
+	<metaVariable name="trc_auto" op="set" val="0"/>
+	<metaVariable name="trc_rock" op="set" val="0"/>
+	<metaVariable name="trc_lanius" op="set" val="0"/>
+	<metaVariable name="trc_probe" op="set" val="0"/>
+	
+	<req name="COLLECTOR_SPAWN_CHECK" type="all">
+		<req lvl="4" max_lvl="4">
+			<name>loc_sector_count</name>
+		</req>
+		<req lvl="0" max_lvl="0">
+			<name>trc_collector</name>
+		</req>
+	</req>
+	
+	<req name="PROBE_FIRST_TIME" type="all">
+		<name>trc_lanius</name>
+		<req max_lvl="0">
+			<name>trc_probe</name>
+		</req>
+	</req>
+</events>
+
+<store>
+	<customStore id="STORE_COLLECTOR">
+		<resource>
+		  <type>drones</type>
+		  <count min="4" max="7"/>
+          <price>-1</price>
+		</resource>
+		<resource>
+		  <type>missiles</type>
+		  <count min="2" max="5"/>
+          <price>-1</price>
+		</resource>
+        <itemPurchaseLimit>2</itemPurchaseLimit>
+		<category type="WEAPONS">
+			<item>
+                <blueprint>COLLECTORS_WEAPONS</blueprint>
+                <price>-1</price>
+            </item>    
+            <item>
+                <blueprint>COLLECTORS_WEAPONS</blueprint>
+                <price>-1</price>
+            </item>    
+            <item>
+                <blueprint>COLLECTORS_WEAPONS</blueprint>
+                <price>-1</price>
+            </item>    
+        </category>
+		<category type="DRONES">
+			<item>
+                <blueprint>COLLECTORS_DRONES</blueprint>
+                <price>-1</price>
+            </item>    
+            <item>
+                <blueprint>COLLECTORS_DRONES</blueprint>
+                <price>-1</price>
+            </item>    
+            <item>
+                <blueprint>COLLECTORS_DRONES</blueprint>
+                <price>-1</price>
+            </item>   
+        </category>
+    </customStore>
+</store>
+
+<mod:findLike type="scripts" limit="1">
+    <mod-append:script>data/trc_scripts/trc_weaponFunctions.lua</mod-append:script>
+</mod:findLike>
+</FTL>

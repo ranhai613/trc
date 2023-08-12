@@ -1,0 +1,5 @@
+﻿<FTL>
+<imageList name="PLANET_PROBE">
+	<img w="257" h="217">stars_special/planet_probe.png</img>
+</imageList>
+</FTL>

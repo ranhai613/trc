@@ -1,0 +1,238 @@
+<FTL>
+<mod:findName type="event" name="STORAGE_CHECK_JOB_FLEET">
+	<mod-append:choice req="TRC_MINELAUNCHER_ION" hidden="true">
+		 <text>Use your Ion Mine Launcher. [-15}, gives 2 delay, does not impact notoriety]</text> 
+		 <event>
+            <text>You rig the ammunition and set a trap for the Rebels. Fortunately, due to obscure legal loopholes, the use of this weapon isn't illegal, though it is very morally dubious.</text>
+            <modifyPursuit amount="-2"/>
+            <item_modify>
+                <item type="missiles" min="-15" max="-15"/>
+            </item_modify>
+        </event>
+	</mod-append:choice>
+	<mod:findWithChildLike type="choice" child-type="event"><mod:selector load="STORAGE_CHECK_JOB_LOAD"/>
+		<mod:setAttributes req="pilot" lvl="1" blue="false" max_group="999"/>
+	</mod:findWithChildLike>
+</mod:findName>
+
+<mod:findName type="event" name="COMBAT_CHECK_TOGGLE">
+	<mod-append:choice req="TRC_THUNDER_1_BREACH" blue="false">
+		 <text>(Thundershock Drone) Set the state of the drone. [Current mode: Breach]</text> 
+		 <event load="COMBAT_CHECK_THUNDER_BREACH"/>
+	</mod-append:choice>
+	<mod-append:choice req="TRC_THUNDER_1_ION" blue="false">
+		 <text>(Thundershock Drone) Set the state of the drone. [Current mode: Ion]</text> 
+		 <event load="COMBAT_CHECK_THUNDER_ION"/>
+	</mod-append:choice>
+	<mod-append:choice req="TRC_LASER_AMP2" blue="false">
+		<text>(Amp Laser) Set the state of the weapon. [Current power: 2]</text>
+		<event load="COMBAT_CHECK_LASER_AMP2"/>
+	</mod-append:choice>
+	<mod-append:choice req="TRC_LASER_AMP3" blue="false">
+		<text>(Amp Laser) Set the state of the weapon. [Current power: 3]</text>
+		<event load="COMBAT_CHECK_LASER_AMP3"/>
+	</mod-append:choice>
+	<mod-append:choice req="TRC_LASER_AMP4" blue="false">
+		<text>(Amp Laser) Set the state of the weapon. [Current power: 4]</text>
+		<event load="COMBAT_CHECK_LASER_AMP4"/>
+	</mod-append:choice>
+</mod:findName>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					THUNDERSHOCK
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_THUNDER_BREACH">
+	<text>Are you sure you want to change the drone's settings?</text>
+	<choice hidden="true">
+		<text>Set the drone to Ion Bomb Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="TRC_THUNDER_1_BREACH"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="TRC_THUNDER_1_ION"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+	</choice>
+</event>
+<event name="COMBAT_CHECK_THUNDER_ION">
+	<text>Are you sure you want to change the drone's settings?</text>
+	<choice hidden="true">
+		<text>Set the drone to Breach Bomb Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="TRC_THUNDER_1_ION"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="TRC_THUNDER_1_BREACH"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+	</choice>
+</event>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					AMP LASER
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_LASER_AMP2">
+	<text>What power do you want to set the weapon to?
+	Current stats; [damage: 2, cooldown: 6]</text>
+	<choice hidden="true">
+		<text>Set the weapon to 3 power. [damage: 4, cooldown: 9]</text>
+		<event>
+			<text>You start calibrating the weapon...</text>
+			<remove name="TRC_LASER_AMP2"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the weapon successfully.</text>
+					<weapon name="TRC_LASER_AMP3"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Set the weapon to 4 power. [damage: 6, cooldown: 12]</text>
+		<event>
+			<text>You start calibrating the weapon...</text>
+			<remove name="TRC_LASER_AMP2"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the weapon successfully.</text>
+					<weapon name="TRC_LASER_AMP4"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+	</choice>
+</event>
+<event name="COMBAT_CHECK_LASER_AMP3">
+	<text>What power do you want to set the weapon to?
+	Current stats; [damage: 4, cooldown: 9]</text>
+	<choice hidden="true">
+		<text>Set the weapon to 2 power. [damage: 2, cooldown: 6]</text>
+		<event>
+			<text>You start calibrating the weapon...</text>
+			<remove name="TRC_LASER_AMP3"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the weapon successfully.</text>
+					<weapon name="TRC_LASER_AMP2"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Set the weapon to 4 power. [damage: 6, cooldown: 12]</text>
+		<event>
+			<text>You start calibrating the weapon...</text>
+			<remove name="TRC_LASER_AMP3"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the weapon successfully.</text>
+					<weapon name="TRC_LASER_AMP4"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+	</choice>
+</event>
+<event name="COMBAT_CHECK_LASER_AMP4">
+	<text>What power do you want to set the weapon to?
+	Current stats; [damage: 6, cooldown: 12]</text>
+	<choice hidden="true">
+		<text>Set the weapon to 2 power. [damage: 2, cooldown: 6]</text>
+		<event>
+			<text>You start calibrating the weapon...</text>
+			<remove name="TRC_LASER_AMP4"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the weapon successfully.</text>
+					<weapon name="TRC_LASER_AMP2"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Set the weapon to 3 power. [damage: 4, cooldown: 9]</text>
+		<event>
+			<text>You start calibrating the weapon...</text>
+			<remove name="TRC_LASER_AMP4"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the weapon successfully.</text>
+					<weapon name="TRC_LASER_AMP3"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+	</choice>
+</event>
+</FTL>

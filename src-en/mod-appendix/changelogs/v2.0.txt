@@ -1,0 +1,72 @@
+\\\\\\\\\\\\\\\\
+ FEATURES:
+\\\\\\\\\\\\\\\\
+
+Added a mysterious new encounter in sector 5. Maybe you can get some special loot if you play nice...
+
+Added 18 new player ships.
+
+Added the Amp Laser.
+
+Added the Compact Laser.
+
+Added the Gasoline Bomb.
+
+Added the Deployment Bomb.
+
+Added the Assembly Cannon.
+
+Added the Systemshock.
+
+Added the Fissure Beam.
+
+Added the Virulent Dish.
+
+Added the Shrapnel Missile Mk 1 and 2.
+
+Added the Shrapnel Bomb.
+
+Added a new class of weapons, Magnifiers.
+
+Added the Suppressor Drone Mk 1 and 2.
+
+Added the Theseus Missile Drone.
+
+Added the Voltage Drone.
+
+Added the Overshield Drone.
+
+\\\\\\\\\\\\\\\\
+CHANGES:
+\\\\\\\\\\\\\\\\
+
+Made minor improvements to the Particle Collider Mk 1 and 2 sprites.
+
+Improved the Collector's Kestrel Cruiser sprite.
+
+\\\\\\\\\\\\\\\\
+BALANCE:
+\\\\\\\\\\\\\\\\
+
+Lessened the number of enemies with Scattershot drone.
+
+Flare gun:
+-Removed accuracy, radius 30 -> 60
+-Cooldown: 7 -> 10
+-Stun duration: 12 -> 8
+
+Baal projectiles: 4 -> 3
+
+Trifecta cooldown: 15s -> 14s
+
+Spider bomb power cost: 2 -> 1
+
+Hazard Sentry accuracy: 100 -> 30 (consistant with 5.4 sentry accuracy changes)
+
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed Engineer Cruiser cloak.
+
+Fixed Extinguisher fading on death instead of exploding like other drones.

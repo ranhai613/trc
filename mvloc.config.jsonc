@@ -1,0 +1,114 @@
+{
+    "filePatterns": [
+        // Files to translate (glob pattern)
+
+        "data/autoBlueprints.xml.append",
+        "data/blueprints.xml.append",
+        "data/events.xml.append",
+        "data/events_storage.xml.append",
+        "data/hyperspace.xml.append",
+        "data/text_blueprints.xml.append",
+        "data/text_events.xml.append",
+        "data/text_misc.xml.append",
+    ],
+    "stringSelectionXPath": [
+        // XML text extraction rules (XPath)
+
+        // vanilla achievements
+        "//achievement/desc",
+
+        // blueprints
+        "//crewBlueprint/title",
+        "//crewBlueprint/short",
+        "//crewBlueprint/desc",
+        "//crewBlueprint/powerList/power",
+        "//droneBlueprint/title",
+        "//droneBlueprint/short",
+        "//droneBlueprint/desc",
+        "//systemBlueprint/title",
+        "//systemBlueprint/desc",
+        "//itemBlueprint/title",
+        "//itemBlueprint/desc",
+        "//augBlueprint/title",
+        "//augBlueprint/desc",
+        "//weaponBlueprint/title",
+        "//weaponBlueprint/desc",
+        "//weaponBlueprint/short",
+        "//weaponBlueprint/descriptionOverride",
+        "//shipBlueprint/class",
+        "//shipBlueprint/desc",
+        "//shipBlueprint/name",
+
+        // events
+        "//*[not(starts-with(@name,'TEXT_CREW_TALK_'))]/text",
+        "//triggeredEventBox/tooltip",
+        "//unvisitedTooltip",
+        "//visitedTooltip",
+        "//undiscoveredTooltip",
+        "//crewMember",
+        "//win/@text",
+        "//lose/@text",
+        "//eventButton/tooltip",
+        "//eventButton/inactiveTooltip",
+        "//backgroundObject/tooltip",
+
+        // hyperspace
+        "//shipIcon/tooltip",
+        "//powerEffect/buttonText",
+        "//powerEffect/tooltip",
+        "//customStore/category/customTitle",
+        "//customShip/crew/*/@name",
+        "//victories//name",
+        "//victories//description",
+        "//victories//secretName",
+        "//victories//secretDescription",
+        "//achievements/page/section/@text",
+        "//achievement/name", // Note: this element is shared between Hyperspace AND vanilla achievements
+        "//achievement/description",
+        "//achievement/header",
+        "//achievement/secretName",
+        "//achievement/secretDescription",
+        "//drones/drone/tooltipName",
+
+        // sector
+        "//sectorDescription/nameList/name",
+
+        // metadata
+        "/metadata/title",
+        "/metadata/description",
+
+        // tutorial
+        "//step/default",
+
+        // text
+        "//text"
+    ],
+
+    "languageSpecifics": {
+        "ko": {
+            "copySourceTemplate": [
+                // Aka wont-translate.
+                // Specify which entries are 1:1-copied from English by default when syncing the English changes.
+
+                "//crewBlueprint/short",
+                "//droneBlueprint/short",
+                "//weaponBlueprint/short",
+                "//crewMember",
+                "//customShip/crew/*/@name",
+            ]
+        },
+        "zh_Hans": {
+            // Apply the translation flagged as fuzzy.
+            "applyUseFuzzy": true
+        }
+    },
+
+    "packaging": {
+        "fullOriginal": [
+            "https://drive.google.com/uc?id=1EDY0tX4N-w-bmJ5Qf65GAZ9h5iRiR6ny&confirm=t",
+            "https://drive.google.com/uc?id=17XDwphfmFIWxHy5ReCVR64Lo5XTb1GIL&confirm=t"
+        ],
+        "prefix": "The-Renegade-Collection",
+        "version": "2.0"
+    }
+}

@@ -1,0 +1,148 @@
+<FTL>
+<mod:findLike type="sectorDescription">
+	<mod-append:priorityEvent name="TRC_BOUNTIES_START" min="1" max="1" priority="1" req="COLLECTOR_SPAWN_CHECK" lvl="1"/>
+</mod:findLike>
+
+<mod:findName type="sectorDescription" name="STANDARD_SPACE">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="TRC_MISSILES_INSTANT" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_FROST" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_SHRAPNEL" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_SHRAPNEL_2" rarity="0" />
+		<mod-append:blueprint name="TRC_SHOTGUN_TRIFECTA" rarity="0" />
+		<mod-append:blueprint name="TRC_SHOTGUN_FROST" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_MUTANT" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_GASOLINE" rarity="0" />
+		<mod-append:blueprint name="TRC_ULTRABURN" rarity="0" />
+		<mod-append:blueprint name="TRC_SYSTEMSHOCK" rarity="0" />
+		<mod-append:blueprint name="TRC_COMBAT_MISSILE" rarity="0" />
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="FINAL">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="TRC_FLARE_LAUNCHER" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_DRONE" rarity="0" />
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="SECTOR_ASTEROID_GENERIC">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="TRC_SCATTERSHOT" rarity="3" />
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="SECTOR_SPIDER">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="TRC_BOMB_SPIDER" rarity="3" />
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="SECRET_ESTATE">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="TRC_SENTRY_HAZARD" rarity="3" />
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="SECRET_ANCIENT">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="TRC_LASER_CHARGEGUN_HEAVY" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_LIGHT_BURST" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_COMPACT" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_AMP2" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_PARTICLE_BIO" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_PARTICLE_BIO_2" rarity="0" />
+		<mod-append:blueprint name="TRC_BEAM_HULL_CHAIN" rarity="0" />
+		<mod-append:blueprint name="TRC_BEAM_BIO_2" rarity="0" />
+		<mod-append:blueprint name="TRC_ION_BREACH" rarity="0" />
+		<mod-append:blueprint name="TRC_ION_CHAINGUN_2" rarity="0" />
+		<mod-append:blueprint name="TRC_ENERGY_PIERCE_1" rarity="0" />
+		<mod-append:blueprint name="TRC_ENERGY_FIRE" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_PART" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_SPIDER" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_MUTANT" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_GASOLINE" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_SHRAPNEL" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_DRONE" rarity="0" />
+		<mod-append:blueprint name="TRC_FOCUS_FIRE" rarity="0" />
+		<mod-append:blueprint name="TRC_FOCUS_CONSERVATIVE" rarity="0" />
+		<mod-append:blueprint name="TRC_BEAM_TILE" rarity="0" />
+		<mod-append:blueprint name="TRC_BEAM_ADAPT_CONSERVATIVE" rarity="0" />
+		<mod-append:blueprint name="TRC_MAGNIFIER_1" rarity="0" />
+		<mod-append:blueprint name="TRC_MAGNIFIER_2" rarity="0" />
+		<mod-append:blueprint name="TRC_MAGNIFIER_PIERCE" rarity="0" />
+		<mod-append:blueprint name="TRC_MAGNIFIER_ION" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_INSTANT" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_HEAL" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_FROST" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_SHRAPNEL" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_SHRAPNEL_2" rarity="0" />
+		<mod-append:blueprint name="TRC_SHOTGUN_TRIFECTA" rarity="0" />
+		<mod-append:blueprint name="TRC_SHOTGUN_FROST" rarity="0" />
+		<mod-append:blueprint name="TRC_FLARE_LAUNCHER" rarity="0" />
+		<mod-append:blueprint name="TRC_ULTRABURN" rarity="0" />
+		<mod-append:blueprint name="TRC_SYSTEMSHOCK" rarity="0" />
+		<mod-append:blueprint name="TRC_DRONE_GUN" rarity="0" />
+		<mod-append:blueprint name="TRC_VIRULENT" rarity="0" />
+		<mod-append:blueprint name="TRC_SCATTERSHOT" rarity="0" />
+		<mod-append:blueprint name="TRC_THUNDER_1_BREACH" rarity="0" />
+		<mod-append:blueprint name="TRC_DRONE_POP" rarity="0" />
+		<mod-append:blueprint name="TRC_DRONE_POP_2" rarity="0" />
+		<mod-append:blueprint name="TRC_COMBAT_MISSILE" rarity="0" />
+		<mod-append:blueprint name="TRC_EXTINGUISHER" rarity="0" />
+		<mod-append:blueprint name="TRC_VOLTAGE" rarity="0" />
+		<mod-append:blueprint name="TRC_OVERSHIELD" rarity="0" />
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="SECRET_ROYAL">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="TRC_LASER_CHARGEGUN_HEAVY" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_LIGHT_BURST" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_COMPACT" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_AMP2" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_PARTICLE_BIO" rarity="0" />
+		<mod-append:blueprint name="TRC_LASER_PARTICLE_BIO_2" rarity="0" />
+		<mod-append:blueprint name="TRC_BEAM_HULL_CHAIN" rarity="0" />
+		<mod-append:blueprint name="TRC_BEAM_BIO_2" rarity="0" />
+		<mod-append:blueprint name="TRC_ION_BREACH" rarity="0" />
+		<mod-append:blueprint name="TRC_ION_CHAINGUN_2" rarity="0" />
+		<mod-append:blueprint name="TRC_ENERGY_PIERCE_1" rarity="0" />
+		<mod-append:blueprint name="TRC_ENERGY_FIRE" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_PART" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_SPIDER" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_MUTANT" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_GASOLINE" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_SHRAPNEL" rarity="0" />
+		<mod-append:blueprint name="TRC_BOMB_DRONE" rarity="0" />
+		<mod-append:blueprint name="TRC_FOCUS_FIRE" rarity="0" />
+		<mod-append:blueprint name="TRC_FOCUS_CONSERVATIVE" rarity="0" />
+		<mod-append:blueprint name="TRC_BEAM_TILE" rarity="0" />
+		<mod-append:blueprint name="TRC_BEAM_ADAPT_CONSERVATIVE" rarity="0" />
+		<mod-append:blueprint name="TRC_MAGNIFIER_1" rarity="0" />
+		<mod-append:blueprint name="TRC_MAGNIFIER_2" rarity="0" />
+		<mod-append:blueprint name="TRC_MAGNIFIER_PIERCE" rarity="0" />
+		<mod-append:blueprint name="TRC_MAGNIFIER_ION" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_INSTANT" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_HEAL" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_FROST" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_SHRAPNEL" rarity="0" />
+		<mod-append:blueprint name="TRC_MISSILES_SHRAPNEL_2" rarity="0" />
+		<mod-append:blueprint name="TRC_SHOTGUN_TRIFECTA" rarity="0" />
+		<mod-append:blueprint name="TRC_SHOTGUN_FROST" rarity="0" />
+		<mod-append:blueprint name="TRC_FLARE_LAUNCHER" rarity="0" />
+		<mod-append:blueprint name="TRC_ULTRABURN" rarity="0" />
+		<mod-append:blueprint name="TRC_SYSTEMSHOCK" rarity="0" />
+		<mod-append:blueprint name="TRC_DRONE_GUN" rarity="0" />
+		<mod-append:blueprint name="TRC_VIRULENT" rarity="0" />
+		<mod-append:blueprint name="TRC_SCATTERSHOT" rarity="0" />
+		<mod-append:blueprint name="TRC_THUNDER_1_BREACH" rarity="0" />
+		<mod-append:blueprint name="TRC_DRONE_POP" rarity="0" />
+		<mod-append:blueprint name="TRC_DRONE_POP_2" rarity="0" />
+		<mod-append:blueprint name="TRC_COMBAT_MISSILE" rarity="0" />
+		<mod-append:blueprint name="TRC_EXTINGUISHER" rarity="0" />
+		<mod-append:blueprint name="TRC_VOLTAGE" rarity="0" />
+		<mod-append:blueprint name="TRC_OVERSHIELD" rarity="0" />
+	</mod:findLike>
+</mod:findName>
+</FTL>

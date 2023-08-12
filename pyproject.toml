@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "trc-translation"
+version = "0.1.0"
+description = ""
+authors = ["nedsociety <nedsociety@gmail.com>"]
+readme = "README.md"
+packages = [{include = "trc_translation"}]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+mvlocscript = {git = "https://github.com/ftl-mv-translation/mvloc.git"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

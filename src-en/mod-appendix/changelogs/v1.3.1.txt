@@ -1,0 +1,9 @@
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed Baal having fast projectiles and not granting fleet delay options.
+
+Fixed Thundershock Drone not allowing toggling.
+
+Fixed Ultraburn firing delay.

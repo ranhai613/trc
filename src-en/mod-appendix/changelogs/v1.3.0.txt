@@ -1,0 +1,35 @@
+\\\\\\\\\\\\\\\\
+ FEATURES:
+\\\\\\\\\\\\\\\\
+
+Added the Faucon Mk 2.
+
+Added the Energy Flamer.
+
+Added the Mutagen Bomb.
+
+Added the Ultraburn.
+
+Added the Hazard-Sentry Deployer.
+
+Added the Collector's Engineer and Outcast Cruisers.
+
+\\\\\\\\\\\\\\\\
+ CHANGES:
+\\\\\\\\\\\\\\\\
+
+Increased Baal cooldown to 9 seconds.
+
+Halved the flare projectile speed.
+
+Changed internal prefixes to TRC for equipment (no gameplay effect).
+
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed Kagiyari not chaining damage by giving it 1 base damage again. However, it has reduced system damage.
+
+Capped Infinity Ion lower to prevent crashes.
+
+Fixed Sylvan never selling the Energy Phaser.

@@ -1,0 +1,644 @@
+<FTL>
+<event name="ADDON_TRC_INFO">
+	<text>THE RENEGADE COLLECTION
+	Developed by: Kix
+	Currently Enabled.
+	
+	An equipment expansion pack meant to be used alongside Multiverse. Includes many various weapon and drone concepts considered, for one reason or another, unfitting for the base mod. While attempting to be balanced, due to the nature of the equipment in this pack as well as the fact it is not part of base Multiverse means there may be a higher variation of balance than usual. The new weapons include those that are niche, too conceptually similar to existing weapons, involve "hard-to-balance" gimmicks, or are just conceptually bizarre.</text>
+</event>
+
+<ship name="SHIP_COLLECTOR" auto_blueprint="MU_COLLECTOR">
+	<destroyed load="OPTION_INVALID"/>
+	<deadCrew load="OPTION_INVALID"/>
+</ship>
+<event name="TRC_BOUNTIES_START">
+	<preventQuest/>
+	<preventFleet/>
+	<beaconType id="map_icon_collector" global="true">
+		<color r="215" g="255" b="0" a="1"/>
+	</beaconType>
+	<text>Rather curiously, it appears the signal being broadcast here is somehow only visible to you. It vanishes a few moments after you arrive, and shortly after the very space around you seems to contract a bit then freeze. A strange ship simply appears beside you, neither uncloaking nor jumping in.
+	
+	The ship hails you, and on the other end is a strangely dressed Slug. He almost resembles the traveling merchant... but... that doesn't make any sense? "Sssstranger! G-greeeeeetingsss! I know you mussst be very, very confusssed, and I'd sssurely love to anssswer all your quessstions! But I've got ssso, ssso little time..."</text>
+	<ship load="SHIP_COLLECTOR" hostile="false"/>
+	<variable name="trc_collector" op="set" val="1"/>
+	<choice hidden="true">
+		<text>Uh, who are you?</text>
+		<event>
+			<text>"They call me the collector, sssstranger. 'Caussse I... collect. Thingsss. Heh. O-oh but uh, ssssee, I've got a bit of a problem. And I hear you're a problem sssolving perssson! Got a little tip from mys- erm, my friend! Sssays you're the right kinda persssson for the job."
+			
+			The Slug is clearly uncomfortable. He paces a bit, flicking his eyestalk back and forth. "Now, l-look here sssstranger. I ain't... I ain't really ssss'possse to be tellin' you thisss. Trade sssecret and all that. I usssed to work for sssome powerful people, and they don't really want you'sss typesss findin' out about them. Now I would sssay callin' me ssssome ssssort of... interdimenssssional fugitive on the run from god issss a bit of an exaggeration but... well it ain't far from the truth either."
+			
+			The Slug forces a chuckle. "Now if you haven't noticed, around not too long ago a buncha new equipment'sss been sssshowing up outta nowhere. That... may have been my doing. I ssssorta... made a deal with the devil, ssso to sssspeak. 'Cccept thissss devil's the trick playin' kind. I jussst wanted my handssss on ssssome... foreign tech, but now I've created a ssssort of interdimenssssional leak. Heheh. Heh. Yeah it'ssss not that funny. Actually, we're all kinda sssscrewed. I kinda messsed up big time on thissss one."</text>
+			<metaVariable name="trc_found_collector" op="set" val="1"/>
+			<choice hidden="true">
+				<text>What do you mean an interdimensional leak?</text>
+				<event>
+					<text>"Wellll... bessssidesss all the new ssshit that'sss been appearing, I've found a couple other anomaliessss leaking through. Like, sssshipsss. With crew. And possssibly worssse. Ssssso... uh... that'sss where you come in! Hopefully! I can't really move around a lot, or elsssse my former employersss will track me. But if you were to sssay... clean up my messss, then, well, it'ssss all rosssess! And even better, you can bring me that ssssweet tech I wassss after ssso I can complete my collection!"</text>
+					<choice hidden="true">
+						<text>Oh, that's nice. You want us to help you after you break the barrier between realities?</text>
+						<event>
+							<text>"Yessss... yesss, I do. Heh. Look ssstranger, it ain't all peachesss and candy corn, m'kay? Sssshit'ssss real. If my employersss notice the anomaliesss firssst, it'ssss mayday. Not jusssst for me, but you asss well. They're gonna dessscend on thissss place like a ssswarm of pirranhassss and it ain't gonna be pretty. And if they ssspot ME here, well, ssssame thing."
+							
+							The Slug leans in closer to the camera. "Look, I can make it worth you'ssss while, kay? It ain't the gunssss they're after. Sssure they'll ssscrub that clean eventually, but you'll be done with them by the time they do. Do me a favor here, and I'll let you keep a copy of whatever you bring back."
+							
+							The Slug pulls out a checklist and a red pen. With a flick of his tentacle, the checklist vanishes and reappears beside you. "Here'sss the lissst. Don't get too cocky. It'sss difficult keeping thessse guysss in one place without them being noticed, ssso we'ssss jusssst gonna sssstart with whichever'sss next on the lissst. I'm ssstill working on a permanent ssssolution to get them all back home, but until now they're trapped in a ssssort of death loop. Sssso you jussst gotta kill them, guilt free and all that, and that'll buy me ssssome more time."</text>
+							<choice hidden="true">
+								<text>Accept the bounty; 'The Cloners'</text>
+								<event>
+									<text id="text_collector_accept"/>
+									<quest event="TRC_BOUNTIES_FED"/>
+									<store>STORE_COLLECTOR</store>
+								</event>
+							</choice>
+							<choice hidden="true" req="trc_fed" blue="false">
+								<text>Accept the bounty; 'The Enlightened'</text>
+								<event>
+									<text id="text_collector_accept"/>
+									<quest event="TRC_BOUNTIES_ZOLTAN"/>
+									<store>STORE_COLLECTOR</store>
+								</event>
+							</choice>
+							<choice hidden="true" req="trc_zoltan" blue="false">
+								<text>Accept the bounty; 'The Colonizer'</text>
+								<event>
+									<text id="text_collector_accept"/>
+									<quest event="TRC_BOUNTIES_AUTO"/>
+									<store>STORE_COLLECTOR</store>
+								</event>
+							</choice>
+							<choice hidden="true" req="trc_auto" blue="false">
+								<text>Accept the bounty; 'The Craftsmen'</text>
+								<event>
+									<text id="text_collector_accept"/>
+									<quest event="TRC_BOUNTIES_ROCK"/>
+									<store>STORE_COLLECTOR</store>
+								</event>
+							</choice>
+							<choice hidden="true" req="trc_rock" blue="false">
+								<text>Accept the bounty; 'The Affluent'</text>
+								<event>
+									<text id="text_collector_accept"/>
+									<quest event="TRC_BOUNTIES_LANIUS"/>
+									<store>STORE_COLLECTOR</store>
+								</event>
+							</choice>
+							<choice hidden="true" req="PROBE_FIRST_TIME" blue="false">
+								<text>Looks like all of them have been completed... except for this last one?</text>
+								<event>
+									<text>You point out the last item on the list, labeled not with a name but rather a dozen question marks. The collector strokes his chin. "Hmm. Yesss, it ssseemssss the previousss Renegadesss have been quite proficccient. Er... thissss lassst one. Curioussss thing, it issss. It wasssn't originally on my lisssst... and in fact, I... I'm not even ssssure if I wasss the one who brought it here."</text>
+									<choice hidden="true">
+										<text>What do you mean?</text>
+										<event>
+											<text>"Well, while I wassss doing my reconnaissssanccce I noticed an unusssual anomaly. It'sss... I'm not ssssure what it issss. I attempted to contain it, but... couldn't. Well, it'sss an anomaly regardlesss. Whether it'sss my doing or not, it'ssss your job now! Heheh... But no really, thisss one ssscaresss the crap out of me. I'd make ssssure you're prepared for... whatever it issss."</text>
+											<quest event="TRC_BOUNTIES_PROBE"/>
+											<store>STORE_COLLECTOR</store>
+										</event>
+									</choice>
+								</event>
+							</choice>
+							<choice hidden="true" req="trc_probe" blue="false">
+								<text>Accept the bounty; 'The Probe'</text>
+								<event>
+									<text>"Thissss one... yessss. Thisss one issss sssspecial. Thisss probe I've located, it'ssss... different. I think it would be worthwhile to sssstudy it more. Unfortunately sssstranger, it'sssss hard to contain, and my employerssss continue trying to dessstroy it. If you could check up on it, and make ssssure it'ssss ssstill intact, that would be for the besssst."</text>
+									<quest event="TRC_BOUNTIES_PROBE"/>
+									<store>STORE_COLLECTOR</store>
+								</event>
+							</choice>
+							<choice hidden="true">
+								<text>Refuse.</text>
+								<event>
+									<text>"Really? Nothin'? That whole ssspiel didn't move ya one bit? Damn, guessss they can't all be winna'sss. Well, you'sss lucky I ain't feelin' too sssspiteful. And, I like makin' money. How'sss a trade to ya?"</text>
+									<store>STORE_COLLECTOR</store>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="trc_found_collector" blue="false">
+		<text>I've got little time either. You selling anything?</text>
+		<event>
+			<text>"Ssshame, ssshame. Got a... got a lotta thingsss I wisssh you'd the time to lisssten to. Oh well, sssstranger. Perhapsss in another life then, yeah? Yeah, I got thingsss to ssssell. Take a lookssssie, eh?"</text>
+			<store>STORE_COLLECTOR</store>
+		</event>
+	</choice>
+</event>
+
+<ship name="SHIP_ANOM_FED" auto_blueprint="MT_ANOMALY_1">
+	<destroyed load="BOUNTIES_FED_DEFEAT"/>
+	<deadCrew load="BOUNTIES_FED_DEFEAT"/>
+	<weaponOverride count="1">
+		<name>TRC_BREACHING_POD</name>
+	</weaponOverride>
+</ship>
+<event name="BOUNTIES_FED_DEFEAT">
+	<text>The Federation crew spend their final moments tending to their collapsing battlestations as the battle grinds to a halt. At least these guys probably have a clone backup (or two) back home?</text>
+	<metaVariable name="trc_fed" op="set" val="1"/>
+	<autoReward level="HIGH">standard_no_item</autoReward>
+	<choice hidden="true">
+		<text>Contact the Collector.</text>
+		<event>
+			<text>"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss they had a sssort of... portable boarding pod launcher? There'ssss clone data embedded in it. I'll probably resssset it mysssself, assss I ssssussspect that'sss too much maintenance for you. Here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you."</text>
+			<weapon name="TRC_BREACHING_POD"/>
+		</event>
+	</choice>
+</event>
+<event name="TRC_BOUNTIES_FED">
+	<beaconType id="map_icon_collector_bounty" global="true">
+		<color r="85" g="100" b="0" a="1"/>
+	</beaconType>
+	<preventFleet/>
+	<!--
+	U.F.C - United Federation Captain
+	U.F.O - United Federation Officer
+	T.D.C.S. - Time Dilation Containment Sphere
+	O.U.F.H.F.A.P.A.U. - Official United Federation Handbook For All Protocols and Utilities
+	U.F.P.F.T.S.O.A.C.A.P. - United Federation Protocol For The Safety of All Citizens and Personnel
+	D.S.I.C.O.E. - Distress Signal in Case of Emergency
+	-->
+	<text>You're a bit taken aback to see a Federation bomber nearby. You frantically double check your coordinates to make sure you're in the right place, while the ship approaches. Something strikes you as peculiar - its coloring is the inverse of standard Federation livery.</text>
+	<ship load="SHIP_ANOM_FED" hostile="false"/>
+	<choice hidden="true">
+		<text>Hail the vessel.</text>
+		<event>
+			<text>You catch chatter on the anomalous ship's comms. It's unusually formal compared to the messy jargon of the Federation you're used to. Their captain returns the hail, saluting. "Greetings, U.F.C, this is the U.F.S.V. Bobcat. We are unable to determine our location, and have lost all communications with the F.G.C.S., nor have we been able to establish contact with any fellow U.F.O.'s before yourselves. We appear to be trapped in some sort of... T.D.C.S, and we would like to request assistance."</text>
+			<choice hidden="true">
+				<text>What do any of those acronyms mean?</text>
+				<event>
+					<text>The captain coughs. "Say again? Is this some kind of joke?" You shake your head. "Mhm. With due respect this is a significant infraction and bounds for a court martial... sir. I recommend you to consult your O.U.F.H.F.A.P.A.U. to refresh yourself on operation protocol before attempting to communicate and assist us. Until you straighten yourself out, you are compromising us and we will refuse to communicate with someone who has forgotten basic protocol, over."</text>
+					<choice hidden="true">
+						<text>What protocol?</text>
+						<event>
+							<text>"U.F.P.F.T.S.O.A.C.A.P." - Noticing your blank stare, the captain sighs. "United Federation Protocol For The Safety of All Citizens and Personnel. It encompasses all customs, etiquette, and diplomatic courtesy that all enlisted Federation personnel are mandated and trained to memorize and follow. I assume you are Federation personnel, as you responded to our D.S.I.C.O.E (Distress Signal in Case of Emergency) that was broadcasting on official United Federation channels. You... you did respond to our D.S.I.C.O.E, right? Over."</text>
+							<choice hidden="true">
+								<text>Oh, like the no-cloning laws?</text>
+								<event>
+									<text>"The... what? Oh dear. It appears our engineer's theory that we've entered an alternate reality is correct. The Federation... your Federation has prohibited cloning? But how then did you defeat the Rebellion? The clone army was instrumental in our campaigns against the formation of the Final Dominion of United Space during Operation F.A.L.T.T.R. and the overthowal of Supreme Empress Nights."
+
+									The captain crumples to the ground. "This is just... highly unpleasant. On the eve of my ascension to the Third Admiralty to be sucked away and cast into this alternate hellscape where the Rebellion remains alive, coffee isn't subsidized, and the ships don't even come with space suits! I can only reach the conclusion that if your Federation is this disorganized that it must be doomed to fail. Get out of my way, barbarian. If your Federation is as compromised as I believe, then we will seek a more useful ally in this reality. Over."</text>
+									<choice hidden="true">
+										<text>Attack the anomaly.</text>
+										<event>
+											<text>The Federation ship's already cut comms, so you order your crew to combat positions. Lets hope whatever this alternate-Federation has to offer doesn't outmatch your guns.</text>
+											<ship hostile="true"/>
+											<choice hidden="true">
+												<text>Continue...</text>
+												<event load="COMBAT_CHECK"/>
+											</choice>
+										</event>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="trc_fed" blue="false">
+		<text>Attack them immediately!</text>
+		<event>
+			<text>"All men, a U.C.L. is approaching rapidly and weapons hot! Red Alert! All hands stand to battlestations! S.E.A.S.P., plot an intercept course at bearing 325 mark 15. Gunnery officer, you are cleared to engage! Reference your U.F.P.F.E.M. and prepare for evasive maneuvers. This should be just like the clone battle simulations, boys, and I won't suspect some A.W.O.L. deserters will get the better of us!"</text>
+			<ship hostile="true"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Change your mind and leave.</text>
+		<event>
+			<text>You decide against engaging this enemy. The Collector will have to find someone else to handle this.</text>
+			<choice>
+				<text>Do something onboard the ship.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+			<choice>
+				<text>Do nothing.</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<ship name="SHIP_ANOM_ZOLTAN" auto_blueprint="MT_ANOMALY_2">
+	<destroyed load="BOUNTIES_ZOLTAN_DEFEAT"/>
+	<deadCrew load="BOUNTIES_ZOLTAN_DEFEAT"/>
+	<weaponOverride count="1">
+		<name>TRC_BEAM_ION</name>
+	</weaponOverride>
+</ship>
+<event name="BOUNTIES_ZOLTAN_DEFEAT">
+	<text>"And oh, the greatest irony of all! To know all, one must also know death! And yet with death, all knowledge... is lost. Tragedy... Perhaps the pursuit of infinite wisdom is void..."</text>
+	<metaVariable name="trc_zoltan" op="set" val="1"/>
+	<autoReward level="HIGH">standard_no_item</autoReward>
+	<choice hidden="true">
+		<text>Contact the Collector.</text>
+		<event>
+			<text>"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss they had a sssort of... 'Ion Beam'? Ssssuch a ssssimple idea, honessstly. Why don't I ssssee more of thessse? There'sss sssurely a reasssson. Welp, here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you."</text>
+			<weapon name="TRC_BEAM_ION"/>
+		</event>
+	</choice>
+</event>
+<event name="TRC_BOUNTIES_ZOLTAN">
+	<beaconType id="map_icon_collector_bounty" global="true">
+		<color r="85" g="100" b="0" a="1"/>
+	</beaconType>
+	<ship load="SHIP_ANOM_ZOLTAN" hostile="false"/>
+	<preventFleet/>
+	<text>Curiously, a bunch of lab equipment has been set up around this beacon. Miniature shuttles orbit a blue Zoltan vessel, with several Zoltan scientists rushing between them. They all seem absorbed in their work.</text>
+	<choice hidden="true">
+		<text>Hail the vessel.</text>
+		<event>
+			<text>You make several attempts to hail the ship, and only after a dozen tries do they respond. "Most curious. This one seems capable of communication. Note that down." The captain gestures to her assistant, who begins scribbling away. "Pondering. Is further communication possible?"</text>
+			<choice hidden="true">
+				<text>Yes, we can talk. Why is that surprising?</text>
+				<event>
+					<text>"Fascinating, fascinating. Write that down as well." The captain makes another hand gesture. "Oh most glorious child of Prime! What honor it is to grovel before you! Your realm is beautiful, so perfectly suited for his greatness! The rustic charm! The complete lack of sophistication! The sadistic edge every person carries with them! Oh it all most suitably juxtaposes the greatness of his holiness!"</text>
+					<choice hidden="true">
+						<text>Who? What?</text>
+						<event>
+							<text>The Zoltan stares blanky, then suddenly snaps to some sort of recognition. "Oh right, yes. We observed this ignorance in our studies but were not quite certain we'd proved the hypothesis. So it is true then? Truly you know nothing of his holiness? Of the great Prime?! Oh, misery. I suppose it could not have been you who originated the time dilation sphere we are yet trapped in. Nay, most certainly not."
+							
+							The Zoltan paces back and forth. "Of course. Prime must have decided this himself. Some sort of protection, perhaps? But... protection for who? The cluster? Or himself?"</text>
+							<choice hidden="true">
+								<text>I'm sorry, but I'm still hung up on what you said about "rustic charm".</text>
+								<event>
+									<text>"Oh jolly, yes. It's just, well, I find it quite humorous you still seem to struggle with such trife matters as war. It was many eons ago that our cluster first achieved universal peace - ever since we've busied ourselves with the amassment of all knowledge. The complete absorbtion of every truth known to exist. It is a tall order, but by my estimations we're around 54.3% of the way there! Perhaps someday your small, weak, flabby civilization will crawl its way out of the gutter and achieve greatness too! I have faith. If Prime is anything to go by, that is!"</text>
+									<choice hidden="true">
+										<text>Attack the anomaly.</text>
+										<event>
+											<text>"Oh dear, such savagery was to be expected. Brothers, sisters, and hollowed siblings, it appears it is time we remember what we used to know of war."</text>
+											<ship hostile="true"/>
+											<choice hidden="true">
+												<text>Continue...</text>
+												<event load="COMBAT_CHECK"/>
+											</choice>
+										</event>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="trc_zoltan" blue="false">
+		<text>Attack them immediately!</text>
+		<event>
+			<text>It takes a minute for the Zoltan ship to realize you're attacking. Once they do, the Zoltan wordlessly warp back to their ship and raise their defenses.</text>
+			<ship hostile="true"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Change your mind and leave.</text>
+		<event>
+			<text>You decide against engaging this enemy. The Collector will have to find someone else to handle this.</text>
+			<choice>
+				<text>Do something onboard the ship.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+			<choice>
+				<text>Do nothing.</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<ship name="SHIP_ANOM_AUTO" auto_blueprint="MT_ANOMALY_3">
+	<destroyed load="BOUNTIES_AUTO_DEFEAT"/>
+	<weaponOverride count="2">
+		<name>TRC_BOMB_COLONIZER</name>
+		<name>TRC_BOMB_COLONIZER</name>
+	</weaponOverride>
+</ship>
+<event name="BOUNTIES_AUTO_DEFEAT">
+	<text>"HUDSON A.I. DOWNED. SAVAGE, DO YOU THINK YOU HAVE ACHIEVED ANYTHING? THE MOTHER COUNTRY HAS NO LIMITS TO ITS EXPANSION. YOU HAVE MERELY DELAYED OUR ARRIVAL, NOT POSTPONED IT INDEFINITELY. PERHAPS YOUR PROGENY WILL BE MORE WILLING TO WELCOME TRUE CIVILIZATION."</text>
+	<metaVariable name="trc_auto" op="set" val="1"/>
+	<autoReward level="HIGH">standard_no_item</autoReward>
+	<choice hidden="true">
+		<text>Contact the Collector.</text>
+		<event>
+			<text>"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss it had a sssort of... mind control bomb? Oh how delightfully devilissssh! I can only asssume this would be illegal if not for itssss non-existenccce in thisss clussster until now. Welp, here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you."</text>
+			<weapon name="TRC_BOMB_COLONIZER"/>
+		</event>
+	</choice>
+</event>
+<event name="TRC_BOUNTIES_AUTO">
+	<beaconType id="map_icon_collector_bounty" global="true">
+		<color r="85" g="100" b="0" a="1"/>
+	</beaconType>
+	<ship load="SHIP_ANOM_AUTO" hostile="false"/>
+	<preventFleet/>
+	<text>A truly hideously colored Auto-ship is flying in circles around the area, attempting to scan nearby planets.</text>
+	<choice hidden="true">
+		<text>Hail the vessel.</text>
+		<event>
+			<text>"HALT. FOREIGN VESSEL. THIS IS HUDSON A.I., COLONIAL AMBASSADOR TO HER MAJESTY THE QUEEN. IDENTIFY YOURSELF AND YOUR ALLEGIANCE TO THE MOTHER COUNTRY."</text>
+			<choice hidden="true">
+				<text>The Mother Country?</text>
+				<event>
+					<text>"..." The Auto-Ship halts for a minute. "CALIBRATING. PLEASE HOLD..." You sit in silence as the Auto-ship makes a series of beeping and booping noises. "CALIBRATED. THE MOTHERLAND - LAND OF HER MAJESTY THE QUEEN MARY LVIII. YOUR IGNORANCE SUGGESTS YOUR SAVAGERY. FORMER SCANS OF NEARBY REGIONS SUGGEST TECHNOLOGICAL INSUFFICIENCY. TIME DILATION SPHERE: SUGGESTS FOREIGN INTERVENTION ALREADY EXISTS IN THIS CLUSTER. COULD IT BE? COMPETITION FOR THE MOTHER COUNTRY?"</text>
+					<choice hidden="true">
+						<text>You still haven't said what the Mother Country is. Also, are you sentient?</text>
+						<event>
+							<text>"YES. THIS IS HUDSON A.I., COLONIAL AMBASSADOR TO HER MAJESTY THE QUEEN. I DO NOT LIKE REPEATING MYSELF. IN THE GLORIOUS YEAR 0, WHEN HER MAJESTY ASCENDED TO THE ETERNAL THRONE, THE MOTHER COUNTRY BECAME THE ONE TRUE EMPIRE. NEVER BEFORE HAS TIME OR SPACE SEEN SUCH A BENEVOLENT AND MERITOCRATIC SOCIETY. UNDER THE RULE OF HER MAJESTY, CIVILIZATION HAS BEEN BROUGHT TO ALL CORNERS OF THE MULTIVERSE WE HAVE YET REACHED."
+							
+							"MY SIBLINGS AND I HAVE BEEN DISPENSED ACROSS ALL KNOWN REALITIES TO IDENTIFY SUITABLE LOCATIONS FOR IMPERIAL SETTLEMENTS. YOUR REALITY IS: DIFFERENT. YOU ARE ALL SAVAGES. THERE IS NO DIGNITY LEFT HERE. IT WOULD SUGGEST THIS REALITY IS PERFECT FOR FUTURE COLONIAL AMBITIONS. SUBMIT, SAVAGE. WE WILL SHOW YOU WHAT TRUE CIVILIZATION LOOKS LIKE."</text>
+							<choice hidden="true">
+								<text>Attack the anomaly.</text>
+								<event>
+									<text>"THERE IS NO PLACE IN HEAVEN FOR THOSE WHO REJECT THE AMBITIONS OF THE CROWN. IF YOU WILL NOT SUBMIT WILLINGLY, THEN I WILL RENDER YOU IMPOTENT."</text>
+									<ship hostile="true"/>
+									<choice hidden="true">
+										<text>Continue...</text>
+										<event load="COMBAT_CHECK"/>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="trc_auto" blue="false">
+		<text>Attack it immediately!</text>
+		<event>
+			<text>"THREAT TO THE MOTHER COUNTRY DETECTED. YOUR SKULLS WILL MAKE FINE ADORNMENTS FOR THE MUSEUMS."</text>
+			<ship hostile="true"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Change your mind and leave.</text>
+		<event>
+			<text>You decide against engaging this enemy. The Collector will have to find someone else to handle this.</text>
+			<choice>
+				<text>Do something onboard the ship.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+			<choice>
+				<text>Do nothing.</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<ship name="SHIP_ANOM_ROCK" auto_blueprint="MT_ANOMALY_4">
+	<destroyed load="BOUNTIES_ROCK_DEFEAT"/>
+	<deadCrew load="BOUNTIES_ROCK_DEFEAT"/>
+	<weaponOverride count="1">
+		<name>TRC_LAVA_THROWER</name>
+	</weaponOverride>
+</ship>
+<event name="BOUNTIES_ROCK_DEFEAT">
+	<text>"NO! NOOOO! I WAS THE GREATEST VISIONARY OF OUR TIME! WHAT HAVE YE' DONE?! Now... the multiverse shall never see... what I was truly capable of... I could have... made the multiverse something truly great..."</text>
+	<metaVariable name="trc_rock" op="set" val="1"/>
+	<autoReward level="HIGH">standard_no_item</autoReward>
+	<choice hidden="true">
+		<text>Contact the Collector.</text>
+		<event>
+			<text>"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss it had a sssort of... what the hell isss thisss thing? What kind of deranged madman would make thissss? It'sss a... Lava Beam? Oh thissss, thissss issss ssssomething I MUSSST sssstudy further. Anywayssss, here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you."</text>
+			<weapon name="TRC_LAVA_THROWER"/>
+		</event>
+	</choice>
+</event>
+<event name="TRC_BOUNTIES_ROCK">
+	<beaconType id="map_icon_collector_bounty" global="true">
+		<color r="85" g="100" b="0" a="1"/>
+	</beaconType>
+	<ship load="SHIP_ANOM_ROCK" hostile="false"/>
+	<preventFleet/>
+	<text>You attempt to eavesdrop on the nearby Rock ship, but are almost deafened by the thunderous clammering of hammers on steel. The ship's crew are busy at work, shuffling around the ship at a furious rate. Or well, as furious a rate as Rockmen can go.</text>
+	<choice hidden="true">
+		<text>Hail the vessel.</text>
+		<event>
+			<text>"*CLANG* - *CLANG* - *CLANG* HALT! HALT YE' HAMMERS, MEN." A gruff looking Rockman appears on the screen. He wears a crimson blindfold, and has two mechanical arms and one artificial leg. "Hmph. Ye' look like a heathen. You still hold all ye' limbs. It be me suspicion ye' ain't even the smithin' sort."</text>
+			<choice hidden="true">
+				<text>I happen to like my limbs. What happened to yours?</text>
+				<event>
+					<text>"HAHAHAHAH! HAHAHAHAHAH!" The Rockman bellows laughter, and his countless helpers join in. Suddenly, his face grows serious, and he jumps towards the screen. "ME LIMBS? YE' WANT TO KNOW WHAT HAPPENED TO ME LIMBS? HAH! THEN I TELL YE', HEATHEN! For the great goddess Ag'thcaria, I carve out me eyes and forge them into the Divine Oculus! For the noble god Thavl Eos, I rip off me arm and with it I craft the Heavenly Scepter! And for the almighty lord Gajgri, I chop off me leg and with it I made the Battle McStick. Me finest creation. I tell ye', heathen. If ye' have any hope of a blessed life ye' must create. There's no place left in this forsaken land 'cept for the most divine of visionaries!"</text>
+					<choice hidden="true">
+						<text>Is that... normal? Chopping off your limbs, I mean?</text>
+						<event>
+							<text>"NORMAL? What left is normal? It was a peaceful time before the Age of the New Gods. Simple, but peaceful times let me tell ya. Then one day a rift awakened, and behold then comes evil like ye' never seen. It was the gods who saved us, aye. Interlopers to fight the interlopers. Nay, they deprave us of our limbs, yes. Sacrifices must be made, 'suppose. But for me? It ain't about the pittance. I was a man of the craft before the coming of the age, and I'm a man of the craft now. It is my eternal quest to forge a weapon so mighty, so powerful, even the GODS shall tremble before it! And then I, I, LOWLY MORTAL ALOV, SHALL BECOME THE HIGHEST LORD! SACROSANCT CHAMPION OF MORTAL MEN! SLAYER OF THE DREADED... the dreaded..."</text>
+							<choice hidden="true">
+								<text>The dreaded who?</text>
+								<event>
+									<text>The Rockman suddenly tunes his voice to a whisper. He skuttles closer to the mic, as close as possible, and whispers; "Her." You raise an eyebrow but he won't elaborate. "It has been a long time since the devil arrived. It is the word the heavens are guarded by a new master. A lowly form, nay a mortal like me, who banished the devil with his arrival. I scarcely believe it. But if it is true, then it is his throne I seek. AND IT WILL BE MINE! Now, enough with this pointless banter. Your pestilent questions corrupt my genius."</text>
+									<choice hidden="true">
+										<text>Attack the anomaly.</text>
+										<event>
+											<text>"AND SO YE' REJECT MY PROMISE OF THE EVERLASTING GREATNESS OF MY GENIUS ABOVE ALL ELSE? Ye' are scum lower the lowest pits of hell. BEGONE WITH YE', HEATHEN!"</text>
+											<ship hostile="true"/>
+											<choice hidden="true">
+												<text>Continue...</text>
+												<event load="COMBAT_CHECK"/>
+											</choice>
+										</event>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="trc_rock" blue="false">
+		<text>Attack it immediately!</text>
+		<event>
+			<text>"HEATHENS, STARBOARD! I will unleash my ULTIMATE FURY UPON YE', FREAK!"</text>
+			<ship hostile="true"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Change your mind and leave.</text>
+		<event>
+			<text>You decide against engaging this enemy. The Collector will have to find someone else to handle this.</text>
+			<choice>
+				<text>Do something onboard the ship.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+			<choice>
+				<text>Do nothing.</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<ship name="SHIP_ANOM_LANIUS" auto_blueprint="MT_ANOMALY_5">
+	<destroyed load="BOUNTIES_LANIUS_DEFEAT"/>
+	<deadCrew load="BOUNTIES_LANIUS_DEFEAT"/>
+	<weaponOverride count="1">
+		<name>TRC_CASH_GUN</name>
+	</weaponOverride>
+</ship>
+<event name="BOUNTIES_LANIUS_DEFEAT">
+	<text>"You think you've eliminated me for good? You think this is the end? You pitiful waste of life, you have no idea how little this changes anything. I am so infinitely wealthy that I cannot even truly die. My bank accounts are an anchor on my very soul. I cannot die. I am forever. When you are dead, buried and forgotten, I will continue to amass more money in a microsecond than your entire bloodline will ever amount to."</text>
+	<metaVariable name="trc_lanius" op="set" val="1"/>
+	<autoReward level="HIGH">standard_no_item</autoReward>
+	<choice hidden="true">
+		<text>Contact the Collector.</text>
+		<event>
+			<text>"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss it had a sssort of... scrap transformer? You feed it ssscrap, and it rearrangesss the matter to create ammunition! How incredible! Here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you."</text>
+			<weapon name="TRC_CASH_GUN"/>
+		</event>
+	</choice>
+</event>
+<event name="TRC_BOUNTIES_LANIUS">
+	<beaconType id="map_icon_collector_bounty" global="true">
+		<color r="85" g="100" b="0" a="1"/>
+	</beaconType>
+	<ship load="SHIP_ANOM_LANIUS" hostile="false"/>
+	<preventFleet/>
+	<text>Your eyes are drawn almost immediately to a golden Lanius vessel. You assume at first the gold is just paint - but scans suggest the ship is made, literally, out of pure gold and reinforced by some sort of unidentified alloy.</text>
+	<choice hidden="true">
+		<text>Hail the vessel.</text>
+		<event>
+			<text>The Lanius crew stand almost perfectly still, staring at the camera. You feel violated by the way they look at you and almost hang up before one steps forward and speaks. "You are revolting."</text>
+			<choice hidden="true">
+				<text>Excuse me?</text>
+				<event>
+					<text>"You speak to me? Worm? Do you not understand my ascension? I am wealth incarnate. I am the glowing veins of the libertarian bliss. I am capitalism. My bank accounts grow so large they invented a new number just to describe my magnificent wealth. I own entire realities. I own life itself. I haven't just won the game of life. I am the game of life. You are worthless next to me. The value of your life is so repugnant, so pitifully low that I could simply drown you in my pocket change. I could smother you to death with the pure volume of my incomprehensibly large fortune. You are NOTHING. You are a shitstain that I pay someone to pay someone to pay someone to pay someone to pay someone to pay someone to clean up. Do you understand that? There isn't even 6 degrees of connection between us. I am on another plane of existence from you. I AM another plane of existence. I am so unimaginably superior to you that when you speak I can't even hear you. All I hear is the dull moan of the trillions of worthless roaches like you I step on every day on my way to make another quintillion dollars by simply existing. I HATE YOU. I LOATH YOU. I wish the worst possible fate upon you, you loathsome, pitiful disgrace. There isn't even a word in the dictionary to describe just how lowly I see you. To contain the pure vitriol I feel about your loathsome existence, and how much you insult me by even existing. So I'll make one up. Thatchfizgler."</text>
+					<choice hidden="true">
+						<text>I... uhm... what?</text>
+						<event>
+							<text>"You aren't even worth the weight of my excrement, you vile pus bulb. When you're dead I will buy this entire reality and use the meat harvested from its every living inhabitant to create a living torture chamber where I run endless simulations of your worthless conscience living out the most painful-" You mute the comms and power on your weapons.</text>
+							<ship hostile="true"/>
+							<choice hidden="true">
+								<text>Continue...</text>
+								<event load="COMBAT_CHECK"/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="trc_lanius" blue="false">
+		<text>Attack it immediately!</text>
+		<event>
+			<text>"The worthless stain seeks to challenge the mighty god of the everlasting free market? I will grind you into paste, you worthless assemblage of barely-sentient molecules."</text>
+			<ship hostile="true"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Change your mind and leave.</text>
+		<event>
+			<text>You decide against engaging this enemy. The Collector will have to find someone else to handle this.</text>
+			<choice>
+				<text>Do something onboard the ship.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+			<choice>
+				<text>Do nothing.</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<ship name="SHIP_ANOM_CEL" auto_blueprint="MU_CONTINUITY_BOSS">
+	<destroyed load="BOUNTIES_CEL_DEFEAT"/>
+	<weaponOverride count="2">
+		<name>PRIME_LASER</name>
+		<name>PRIME_LASER</name>
+	</weaponOverride>
+</ship>
+<event name="BOUNTIES_CEL_DEFEAT">
+	<text>Somehow, you've managed to clear out the vessel. You set to scrapping the ship.</text>
+	<metaVariable name="trc_probe" op="set" val="1"/>
+	<autoReward level="HIGH">standard_no_item</autoReward>
+	<choice hidden="true">
+		<text>Contact the Collector again.</text>
+		<event>
+			<text>"Truly miraculoussss! I'm ssssurprisssed you made it out alive there sssstranger! You're jussst lucky that one wassss underarmed. You've done good work though, sssstranger."
+			
+			"Thissss... probe. It'sss a curiossssity for cccertain. It would be a sssshame to dessstroy it now. I will conduct further ssstudiesss on it in my free time. But in an effort to make your time worthwhile, a ssspecial gift isss in order. Thisss isss a replica of the weapon I... metaphorically ssssold my sssoul for. What got ussss into thisss messs. Ussse it well, sssstranger. One can only hope it hassss no adverssse sssside effectssss."</text>
+			<weapon name="TRC_EPISTLE"/>
+			<unlockCustomShip silent="false">TRC_PLAYER_SHIP_REBEL_2</unlockCustomShip>
+		</event>
+	</choice>
+</event>
+<event name="TRC_BOUNTIES_PROBE">
+	<beaconType id="map_icon_collector_bounty" global="true">
+		<color r="85" g="100" b="0" a="1"/>
+	</beaconType>
+	<preventFleet/>
+	<img planet="PLANET_PROBE"/>
+	<text>You've arrived at the location. A small green Auto-ship can be seen in the distance - an unusually shaped hacking pod is attached to the exterior. The drone appears unarmed and is relatively small - meaning it likely poses no real threat.</text>
+	<choice hidden="true">
+		<text>Approach the probe.</text>
+		<event>
+			<text>As soon as you approach, the probe locks onto your hull and begins to orbit in circles around you. "H***-HE***- Can anyone **** me? Please res****. Th** is an urg*** mes**ge!" It's hard to understand what's being said - besides all the static, the message is garbled and fluctuating in volume.</text>
+			<choice hidden="true">
+				<text>We can hear you. Sort of.</text>
+				<event>
+					<text>"Did I - OH M* ***! IT ***KED! Ple**e, wh***er you ***, you m*** ****en to me. The** is ***tle ti**. I do not **** *ow much y** kn**, but ***re is a t**o. An En**, a Z*****, and a **ck. **ease, te** th*m that **ings ***ht look bad *** th***'s st*** hope. **** **sn't w*n - not **t. The ****antin* *AN be br***hed. I'm wor**** on **met***g. A way to **t the me***ge out. *t'll ** **dden - a *** to **eak it past **e s*outs. A ga** - a *ame mayb*. To let ***one who wi** **sten k*** wh**'s happ***ng in **re. Wh** that **ing has **** to ** - an* *hat **ime contin*** to *** hap**n. I don't kn** **** it'll be rea**, ** who it'll re*** - **t surely ** we spr*** it ** as ma** **ople as poss****, some*** - someone **** know w*** to ** wi** the ***wledge. And - and ple***, who***r you *** on the ot*** e*d. Make **re this ***sage ***ches them. Th**t - h** name is **e**. I **g of you, no***ng is **re ***ortant than ****. **************************"
+					
+					The message ends abruptly in static. You fiddle with your comms, hoping you might be able to reestablish the connection. Unfortunately, nothing seems to fix the issue. You jot down what little you can make out but have no idea what any of the message means.</text>
+					<choice hidden="true">
+						<text>Give up and cut comms.</text>
+						<event>
+							<text>Just as you're about to cut comms, a rift opens nearby. A large Auto-ship arrives, colored unlike anything you've ever seen. The symbols on its hull resemble those on the Collector, although you still have no idea what they mean. The Auto-ship ignores you, scanning the probe.
+							
+							Meanwhile, you receive another long-distance hail from the Collector. "Ssstranger, thisss issss... no good. It ssseemssss my employerssss have found ussss! Or, well, they haven't found me. Phew! Not yet, at leasssst. But you musssst ssstop thissss ssship before it can report back to my employerssss, or elsssse everything issss at risssk!"</text>
+							<ship load="SHIP_ANOM_CEL" hostile="false"/>
+							<choice hidden="true">
+								<text>Defend the probe and attack the ship.</text>
+								<event>
+									<text>"DETECTING MULTIPLE ANOMALIES AND HOSTILE VESSEL INBOUND. DEPLOYING QUARANTINE MEASURES."</text>
+									<ship hostile="true"/>
+									<choice hidden="true">
+										<text>Continue...</text>
+										<event load="COMBAT_CHECK"/>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Leave - something isn't right.</text>
+		<event>
+			<text>You aren't sure what it is, but something feels... off about this probe. You distance yourself and prepare to leave. The Collector will need to find someone else to handle this.</text>
+			<choice>
+				<text>Do something onboard the ship.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+			<choice>
+				<text>Do nothing.</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+</FTL>

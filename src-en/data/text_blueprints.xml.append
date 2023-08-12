@@ -1,0 +1,32 @@
+<FTL>
+	<text name="ship_TRC_PLAYER_SHIP_KESTREL_unlock">Win the game with any version of the Kestrel Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_ENGINEER_unlock">Win the game with any version of the Engineer Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_ANGEL_unlock">Win the game with any version of the Angelic Deathbringer.</text>
+	<text name="ship_TRC_PLAYER_SHIP_ENGI_unlock">Win the game with any version of the Engi Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_OUTCAST_unlock">Win the game with any version of the Outcast Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_ORCHID_unlock">Win the game with any version of the Gathering Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_STEALTH_unlock">Win the game with any version of the Stealth Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_FED_unlock">Win the game with any version of the Federation Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_MANTIS_unlock">Win the game with any version of the Hive Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_MONK_unlock">Win the game with any version of the Monk Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_PEACE_unlock">Win the game with any version of the Peacekeeping Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_SLUG_unlock">Win the game with any version of the Kleptocracy Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_LOSTSUN_unlock">Win the game with any version of the Lost Sun Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_ROCK_unlock">Win the game with any version of the Theocracy Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_LEECH_unlock">Win the game with any version of the Eargen Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_SCIENTIST_unlock">Win the game with any version of the Scientist Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_AUTO_unlock">Win the game with any version of the Auto-Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_DYNASTY_unlock">Win the game with any version of the Dynasty Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_BROOD_unlock">Win the game with any version of the Brood Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_SEPARATIST_unlock">Win the game with any version of the Separatist Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_TUCO_unlock">Win the game with any version of Tuco's Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_LANIUS_unlock">Win the game with any version of the Lanius Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_MVREBEL_unlock">Win the game with any version of the MV Rebel Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_SUZERAIN_unlock">Win the game with any version of the Suzerain Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_PLEASURE_unlock">Win the game with any version of the Pleasure Barge.</text>
+	<text name="ship_TRC_PLAYER_SHIP_AUGMENTED_unlock">Win the game with any version of the Augmented Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_HACKER_unlock">Win the game with any version of the Hacker Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_REBEL_unlock">Win the game with any version of the Rebel Cruiser.</text>
+	<text name="ship_TRC_PLAYER_SHIP_SYLVAN_unlock">Complete all of the Collector's Bounties to unlock this vessel.</text>
+	<text name="ship_TRC_PLAYER_SHIP_STUPIDGHOST_unlock">Achieve any victory with all other Collector ships.</text>
+</FTL>

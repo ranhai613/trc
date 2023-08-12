@@ -1,0 +1,1337 @@
+<FTL>
+<!-- 
+********************************************************************************************************************************************************************************************************************************************
+********************************************************************************************************************************************************************************************************************************************                                               
+
+												   BIG LISTS
+
+********************************************************************************************************************************************************************************************************************************************												 
+********************************************************************************************************************************************************************************************************************************************
+-->
+<blueprintList name="COLLECTORS_WEAPONS">
+	<name>TRC_LASER_CHARGEGUN_HEAVY</name>
+	<name>TRC_LASER_AMP2</name>
+	<name>TRC_LASER_COMPACT</name>
+	<name>TRC_LASER_LIGHT_BURST</name>
+	<name>TRC_LASER_PARTICLE_BIO</name>
+	<name>TRC_LASER_PARTICLE_BIO_2</name>
+	<name>TRC_BEAM_HULL_CHAIN</name>
+	<name>TRC_BEAM_BIO_2</name>
+	<name>TRC_ION_BREACH</name>
+	<name>TRC_ION_CHAINGUN_2</name>
+	<name>TRC_ENERGY_PIERCE_1</name>
+	<name>TRC_ENERGY_FIRE</name>
+	<name>TRC_BOMB_PART</name>
+	<name>TRC_BOMB_SPIDER</name>
+	<name>TRC_BOMB_MUTANT</name>
+	<name>TRC_BOMB_GASOLINE</name>
+	<name>TRC_BOMB_SHRAPNEL</name>
+	<name>TRC_BOMB_DRONE</name>
+	<name>TRC_FOCUS_FIRE</name>
+	<name>TRC_FOCUS_CONSERVATIVE</name>
+	<name>TRC_BEAM_TILE</name>
+	<name>TRC_BEAM_ADAPT_CONSERVATIVE</name>
+	<name>TRC_MISSILES_INSTANT</name>
+	<name>TRC_MISSILES_HEAL</name>
+	<name>TRC_MISSILES_FROST</name>
+	<name>TRC_MISSILES_SHRAPNEL</name>
+	<name>TRC_MISSILES_SHRAPNEL_2</name>
+	<name>TRC_MAGNIFIER_1</name>
+	<name>TRC_MAGNIFIER_2</name>
+	<name>TRC_MAGNIFIER_PIERCE</name>
+	<name>TRC_MAGNIFIER_ION</name>
+	<name>TRC_SHOTGUN_TRIFECTA</name>
+	<name>TRC_SHOTGUN_FROST</name>
+	<name>TRC_FLARE_LAUNCHER</name>
+	<name>TRC_DRONE_GUN</name>
+	<name>TRC_ULTRABURN</name>
+	<name>TRC_SYSTEMSHOCK</name>
+	<name>TRC_VIRULENT</name>
+	<name>TRC_MINELAUNCHER_ION</name>
+	<name>TRC_SENTRY_HAZARD</name>
+</blueprintList>
+<blueprintList name="COLLECTORS_DRONES">
+	<name>TRC_SCATTERSHOT</name>
+	<name>TRC_THUNDER_1_BREACH</name>
+	<name>TRC_EXTINGUISHER</name>
+	<name>TRC_DRONE_POP</name>
+	<name>TRC_DRONE_POP_2</name>
+	<name>TRC_COMBAT_MISSILE</name>
+</blueprintList>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ALL">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_COMPACT</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP2</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP3</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP4</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2_PLAYER</mod-append:name>
+	<mod-append:name>TRC_ION_BREACH</mod-append:name>
+	<mod-append:name>TRC_ION_BREACH_PLAYER</mod-append:name>
+	<mod-append:name>TRC_ION_CHAINGUN_2</mod-append:name>
+	<mod-append:name>TRC_ENERGY_PIERCE_1</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+	<mod-append:name>TRC_BOMB_PART</mod-append:name>
+	<mod-append:name>TRC_BOMB_PART_PLAYER</mod-append:name>
+	<mod-append:name>TRC_BOMB_SPIDER</mod-append:name>
+	<mod-append:name>TRC_BOMB_MUTANT</mod-append:name>
+	<mod-append:name>TRC_BOMB_GASOLINE</mod-append:name>
+	<mod-append:name>TRC_BOMB_SHRAPNEL</mod-append:name>
+	<mod-append:name>TRC_BOMB_DRONE</mod-append:name>
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+	<mod-append:name>TRC_FOCUS_CONSERVATIVE</mod-append:name>
+	<mod-append:name>TRC_BEAM_TILE</mod-append:name>
+	<mod-append:name>TRC_BEAM_ADAPT_CONSERVATIVE</mod-append:name>
+	<mod-append:name>TRC_MISSILES_INSTANT</mod-append:name>
+	<mod-append:name>TRC_MISSILES_HEAL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL_2</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_1</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_2</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_PIERCE</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_ION</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_FROST</mod-append:name>
+	<mod-append:name>TRC_FLARE_LAUNCHER</mod-append:name>
+	<mod-append:name>TRC_DRONE_GUN</mod-append:name>
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+	<mod-append:name>TRC_SYSTEMSHOCK</mod-append:name>
+	<mod-append:name>TRC_VIRULENT</mod-append:name>
+	<mod-append:name>TRC_MINELAUNCHER_ION</mod-append:name>
+	<mod-append:name>TRC_SENTRY_HAZARD</mod-append:name>
+	<mod-append:name>TRC_BEAM_ION</mod-append:name>
+	<mod-append:name>TRC_LAVA_THROWER</mod-append:name>
+	<mod-append:name>TRC_CASH_GUN</mod-append:name>
+	<mod-append:name>TRC_BOMB_COLONIZER</mod-append:name>
+	<mod-append:name>TRC_BREACHING_POD</mod-append:name>
+	<mod-append:name>TRC_EPISTLE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ALL_CRAPBUCKET">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP2</mod-append:name>
+	<mod-append:name>TRC_LASER_COMPACT</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2_PLAYER</mod-append:name>
+	<mod-append:name>TRC_ION_BREACH</mod-append:name>
+	<mod-append:name>TRC_ION_BREACH_PLAYER</mod-append:name>
+	<mod-append:name>TRC_ION_CHAINGUN_2</mod-append:name>
+	<mod-append:name>TRC_ENERGY_PIERCE_1</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+	<mod-append:name>TRC_BOMB_PART</mod-append:name>
+	<mod-append:name>TRC_BOMB_PART_PLAYER</mod-append:name>
+	<mod-append:name>TRC_BOMB_SPIDER</mod-append:name>
+	<mod-append:name>TRC_BOMB_MUTANT</mod-append:name>
+	<mod-append:name>TRC_BOMB_GASOLINE</mod-append:name>
+	<mod-append:name>TRC_BOMB_SHRAPNEL</mod-append:name>
+	<mod-append:name>TRC_BOMB_DRONE</mod-append:name>
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+	<mod-append:name>TRC_FOCUS_CONSERVATIVE</mod-append:name>
+	<mod-append:name>TRC_BEAM_TILE</mod-append:name>
+	<mod-append:name>TRC_BEAM_ADAPT_CONSERVATIVE</mod-append:name>
+	<mod-append:name>TRC_MISSILES_INSTANT</mod-append:name>
+	<mod-append:name>TRC_MISSILES_HEAL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL_2</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_1</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_2</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_PIERCE</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_ION</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_FROST</mod-append:name>
+	<mod-append:name>TRC_FLARE_LAUNCHER</mod-append:name>
+	<mod-append:name>TRC_DRONE_GUN</mod-append:name>
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+	<mod-append:name>TRC_SYSTEMSHOCK</mod-append:name>
+	<mod-append:name>TRC_VIRULENT</mod-append:name>
+	<mod-append:name>TRC_MINELAUNCHER_ION</mod-append:name>
+	<mod-append:name>TRC_SENTRY_HAZARD</mod-append:name>
+	<mod-append:name>TRC_BEAM_ION</mod-append:name>
+	<mod-append:name>TRC_LAVA_THROWER</mod-append:name>
+	<mod-append:name>TRC_CASH_GUN</mod-append:name>
+	<mod-append:name>TRC_BOMB_COLONIZER</mod-append:name>
+	<mod-append:name>TRC_BREACHING_POD</mod-append:name>
+	<mod-append:name>TRC_EPISTLE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_CREW_SPIDER">
+	<mod-append:name>spider_hatch_temp</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="LIST_CREW_HUMAN">
+	<mod-append:name>clone_soldier</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_DRONES_ALL">
+	<mod-append:name>TRC_SCATTERSHOT</mod-append:name>
+	<mod-append:name>TRC_THUNDER_1_BREACH</mod-append:name>
+	<mod-append:name>TRC_THUNDER_1_ION</mod-append:name>
+	<mod-append:name>TRC_DRONE_POP</mod-append:name>
+	<mod-append:name>TRC_DRONE_POP_2</mod-append:name>
+	<mod-append:name>TRC_COMBAT_MISSILE</mod-append:name>
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+	<mod-append:name>TRC_VOLTAGE</mod-append:name>
+	<mod-append:name>TRC_OVERSHIELD</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="LIST_DRONES_ALL_CRAPBUCKET">
+	<mod-append:name>TRC_SCATTERSHOT</mod-append:name>
+	<mod-append:name>TRC_THUNDER_1_BREACH</mod-append:name>
+	<mod-append:name>TRC_DRONE_POP</mod-append:name>
+	<mod-append:name>TRC_DRONE_POP_2</mod-append:name>
+	<mod-append:name>TRC_COMBAT_MISSILE</mod-append:name>
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+	<mod-append:name>TRC_VOLTAGE</mod-append:name>
+	<mod-append:name>TRC_OVERSHIELD</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_CHECK_TOGGLES_AND_AMPS">
+	<mod-append:name>TRC_THUNDER_1_BREACH</mod-append:name>
+	<mod-append:name>TRC_THUNDER_1_ION</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP2</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP3</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP4</mod-append:name>
+</mod:findName>
+
+<blueprintList name="LIST_WEAPONS_ALL_CRAPBUCKET_EE">
+	<name>TRC_LASER_CHARGEGUN_HEAVY</name>
+	<name>TRC_LASER_AMP2</name>
+	<name>TRC_LASER_COMPACT</name>
+	<name>TRC_LASER_LIGHT_BURST</name>
+	<name>TRC_LASER_PARTICLE_BIO</name>
+	<name>TRC_LASER_PARTICLE_BIO_2</name>
+	<name>TRC_BEAM_HULL_CHAIN</name>
+	<name>TRC_BEAM_BIO_2</name>
+	<name>TRC_BEAM_BIO_2_PLAYER</name>
+	<name>TRC_ION_BREACH</name>
+	<name>TRC_ION_BREACH_PLAYER</name>
+	<name>TRC_ION_CHAINGUN_2</name>
+	<name>TRC_ENERGY_PIERCE_1</name>
+	<name>TRC_ENERGY_FIRE</name>
+	<name>TRC_BOMB_PART</name>
+	<name>TRC_BOMB_PART_PLAYER</name>
+	<name>TRC_BOMB_SPIDER</name>
+	<name>TRC_BOMB_MUTANT</name>
+	<name>TRC_BOMB_GASOLINE</name>
+	<name>TRC_BOMB_SHRAPNEL</name>
+	<name>TRC_BOMB_DRONE</name>
+	<name>TRC_FOCUS_FIRE</name>
+	<name>TRC_FOCUS_CONSERVATIVE</name>
+	<name>TRC_BEAM_TILE</name>
+	<name>TRC_BEAM_ADAPT_CONSERVATIVE</name>
+	<name>TRC_MISSILES_INSTANT</name>
+	<name>TRC_MISSILES_HEAL</name>
+	<name>TRC_MISSILES_FROST</name>
+	<name>TRC_MISSILES_SHRAPNEL</name>
+	<name>TRC_MISSILES_SHRAPNEL_2</name>
+	<name>TRC_MAGNIFIER_1</name>
+	<name>TRC_MAGNIFIER_2</name>
+	<name>TRC_MAGNIFIER_PIERCE</name>
+	<name>TRC_MAGNIFIER_ION</name>
+	<name>TRC_SHOTGUN_TRIFECTA</name>
+	<name>TRC_SHOTGUN_FROST</name>
+	<name>TRC_FLARE_LAUNCHER</name>
+	<name>TRC_DRONE_GUN</name>
+	<name>TRC_ULTRABURN</name>
+	<name>TRC_SYSTEMSHOCK</name>
+	<name>TRC_VIRULENT</name>
+	<name>TRC_MINELAUNCHER_ION</name>
+	<name>TRC_SENTRY_HAZARD</name>
+	<name>TRC_BEAM_ION</name>
+	<name>TRC_LAVA_THROWER</name>
+	<name>TRC_CASH_GUN</name>
+	<name>TRC_BOMB_COLONIZER</name>
+	<name>TRC_BREACHING_POD</name>
+	<name>TRC_EPISTLE</name>
+</blueprintList>
+<blueprintList name="LIST_DRONES_ALL_CRAPBUCKET_EE">
+	<name>TRC_SCATTERSHOT</name>
+	<name>TRC_THUNDER_1_BREACH</name>
+	<name>TRC_DRONE_POP</name>
+	<name>TRC_DRONE_POP_2</name>
+	<name>TRC_COMBAT_MISSILE</name>
+	<name>TRC_EXTINGUISHER</name>
+	<name>TRC_VOLTAGE</name>
+	<name>TRC_OVERSHIELD</name>
+</blueprintList>
+
+<!-- 
+********************************************************************************************************************************************************************************************************************************************
+********************************************************************************************************************************************************************************************************************************************                                               
+
+												   BLUE LISTS
+
+********************************************************************************************************************************************************************************************************************************************												 
+********************************************************************************************************************************************************************************************************************************************
+-->
+<mod:findName type="blueprintList" name="BLUELIST_WEAPONS_HEAVY">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP2</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP3</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP4</mod-append:name>
+	<mod-append:name>TRC_MISSILES_INSTANT</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL_2</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_ION">
+	<mod-append:name>TRC_ION_BREACH</mod-append:name>
+	<mod-append:name>TRC_ION_BREACH_PLAYER</mod-append:name>
+	<mod-append:name>TRC_ION_CHAINGUN_2</mod-append:name>
+	<mod-append:name>TRC_MINELAUNCHER_ION</mod-append:name>
+	<mod-append:name>TRC_SYSTEMSHOCK</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_ENERGY">
+	<mod-append:name>TRC_ENERGY_PIERCE_1</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_MISSILES_ALL">
+	<mod-append:name>TRC_MISSILES_INSTANT</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL_2</mod-append:name>
+	<mod-append:name>TRC_MISSILES_HEAL</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="BLUELIST_MISSILES_DAMAGE">
+	<mod-append:name>TRC_MISSILES_INSTANT</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL_2</mod-append:name>
+	<mod-append:name>TRC_MISSILES_HEAL</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_BOMBS">
+	<mod-append:name>TRC_BOMB_SHRAPNEL</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_ANTIBIO">
+	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2_PLAYER</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="BLUELIST_ANTIBIO_NODAMAGE">
+	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2_PLAYER</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_PARTICLE">
+	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BOMB_PART</mod-append:name>
+	<mod-append:name>TRC_BOMB_PART_PLAYER</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_BEAMS_ALL">
+	<mod-append:name>TRC_BEAM_ADAPT_CONSERVATIVE</mod-append:name>
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2_PLAYER</mod-append:name>
+	<mod-append:name>TRC_BEAM_TILE</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="BLUELIST_BEAMS_DAMAGE">
+	<mod-append:name>TRC_BEAM_ADAPT_CONSERVATIVE</mod-append:name>
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_FOCUS_ALL">
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+	<mod-append:name>TRC_FOCUS_CONSERVATIVE</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="BLUELIST_FOCUS_DAMAGE">
+	<mod-append:name>TRC_FOCUS_CONSERVATIVE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_SUPPORT">
+	<mod-append:name>TRC_MISSILES_HEAL</mod-append:name>
+	<mod-append:name>TRC_BOMB_MUTANT</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_FIRE_ALL">
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="BLUELIST_FIRE_NONBALLISTIC">
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="BLUELIST_WEAPONS_FIRE_NODAMAGE">
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_MINELAUNCHERS_ALL">
+	<mod-append:name>TRC_MINELAUNCHER_ION</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_DRONES_DEFENSE">
+	<mod-append:name>TRC_SCATTERSHOT</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_DRONES_REPAIR_ALL">
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+	<mod-append:name>TRC_BOMB_DRONE</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="BLUELIST_DRONES_REPAIR_CREW">
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+	<mod-append:name>TRC_BOMB_DRONE</mod-append:name>
+</mod:findName>
+
+<!-- 
+********************************************************************************************************************************************************************************************************************************************
+********************************************************************************************************************************************************************************************************************************************                                               
+
+												  GIFT LISTS
+
+********************************************************************************************************************************************************************************************************************************************												 
+********************************************************************************************************************************************************************************************************************************************
+-->
+<mod:findName type="blueprintList" name="GIFTLIST_ENGI">
+	<mod-append:name>TRC_BOMB_DRONE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_MANTIS">
+	<mod-append:name>TRC_BOMB_SHRAPNEL</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_DYNASTY">
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_BEAM_TILE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_FLAK">
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_FROST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_LOSTSUN">
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+	<mod-append:name>TRC_BOMB_GASOLINE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_ROCK">
+	<mod-append:name>TRC_MISSILES_SHRAPNEL</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_LANIUS">
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_MINELAUNCHERS_TRAPPER">
+	<mod-append:name>TRC_MINELAUNCHER_ION</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_ANTIBIO">
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_SLUG">
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_COALITION">
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_ENERGY">
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="GIFTLIST_DUSK">
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+</mod:findName>
+
+<!-- 
+********************************************************************************************************************************************************************************************************************************************
+********************************************************************************************************************************************************************************************************************************************                                               
+
+												   SYLVAN AND STORE LISTS
+
+********************************************************************************************************************************************************************************************************************************************												 
+********************************************************************************************************************************************************************************************************************************************
+-->
+<mod:findName type="blueprintList" name="SHOP_ITEM_WEAPONS_LASERS">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP2</mod-append:name>
+	<mod-append:name>TRC_LASER_COMPACT</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_SLUG_ITEM_WEAPONS_BIO">
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_LASERS_BURST_AND_LIGHT">
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_WEAPONS_ION">
+	<mod-append:name>TRC_ION_BREACH</mod-append:name>
+	<mod-append:name>TRC_ION_CHAINGUN_2</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_ION</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_ENERGY_ATTRIBUTE">
+	<mod-append:name>TRC_ENERGY_PIERCE_1</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_CHARGE">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_1</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_2</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_PIERCE</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_ION</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_LASERS_HEAVY">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_AMP2</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name> <!--lol-->
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_LASERS_HEAVY_AND_HULL">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_LASERS_SPECIAL">
+	<mod-append:name>TRC_LASER_COMPACT</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_LASERS_CHAIN_AND_CHARGE">
+	<mod-append:name>TRC_LASER_AMP2</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_LASERS_PIERCE_AND_LIGHT">
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_HULL">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_HULL_ALL">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_CHAIN">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_LOCKDOWN">
+	<mod-append:name>TRC_SHOTGUN_FROST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_FIRE">
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+	<mod-append:name>TRC_BOMB_GASOLINE</mod-append:name>
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_BEAM_STANDARD">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_BEAM_UTILITY">
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+	<mod-append:name>TRC_BEAM_TILE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_FOCUS_SPECIAL">
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_BREACH">
+	<mod-append:name>TRC_ION_BREACH</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_ION_SPECIAL">
+	<mod-append:name>TRC_ION_BREACH</mod-append:name>
+	<mod-append:name>TRC_SYSTEMSHOCK</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_ION_ATTRIBUTE">
+	<mod-append:name>TRC_ION_CHAINGUN_2</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_BOMB">
+	<mod-append:name>TRC_BOMB_PART</mod-append:name>
+	<mod-append:name>TRC_BOMB_SHRAPNEL</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_BOMB_SPECIAL">
+	<mod-append:name>TRC_BOMB_SPIDER</mod-append:name>
+	<mod-append:name>TRC_BOMB_MUTANT</mod-append:name>
+	<mod-append:name>TRC_BOMB_GASOLINE</mod-append:name>
+	<mod-append:name>TRC_BOMB_DRONE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_MISSILES_SPECIAL">
+	<mod-append:name>TRC_MISSILES_INSTANT</mod-append:name>
+	<mod-append:name>TRC_MISSILES_HEAL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL_2</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_UTILITY">
+	<mod-append:name>TRC_BOMB_SPIDER</mod-append:name>
+	<mod-append:name>TRC_BOMB_MUTANT</mod-append:name>
+	<mod-append:name>TRC_BOMB_GASOLINE</mod-append:name>
+	<mod-append:name>TRC_FLARE_LAUNCHER</mod-append:name>
+	<mod-append:name>TRC_MISSILES_HEAL</mod-append:name>
+	<mod-append:name>TRC_DRONE_GUN</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_FLAK">
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_FROST</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_FLAK_ELEMENTAL">
+	<mod-append:name>TRC_SHOTGUN_FROST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_BIO">
+	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+	<mod-append:name>TRC_VIRULENT</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_BEAM_BIO">
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_MINELAUNCHER">
+	<mod-append:name>TRC_MINELAUNCHER_ION</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_SYSTEM">
+	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+	<mod-append:name>TRC_BOMB_PART</mod-append:name>
+	<mod-append:name>TRC_BOMB_SHRAPNEL</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_DRONES_CREW">
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+	<mod-append:name>TRC_VOLTAGE</mod-append:name>
+	<mod-append:name>TRC_OVERSHIELD</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="SHOP_ITEM_SYLVAN_UNIQUE">
+	<mod-append:name>TRC_BEAM_ION</mod-append:name>
+	<mod-append:name>TRC_LAVA_THROWER</mod-append:name>
+	<mod-append:name>TRC_BREACHING_POD</mod-append:name>
+	<mod-append:name>TRC_CASH_GUN</mod-append:name>
+	<mod-append:name>TRC_BOMB_COLONIZER</mod-append:name>
+</mod:findName>
+
+<!-- 
+********************************************************************************************************************************************************************************************************************************************
+********************************************************************************************************************************************************************************************************************************************                                               
+
+												   ENEMY LISTS
+
+********************************************************************************************************************************************************************************************************************************************												 
+********************************************************************************************************************************************************************************************************************************************
+-->
+<mod:findName type="blueprintList" name="LIST_DRONES_ENEMY_STANDARD">
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+	<mod-append:name>TRC_DRONE_POP</mod-append:name>
+</mod:findName>
+
+<!--<mod:findName type="blueprintList" name="LIST_DRONES_ENEMY_DEFENSE">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+</mod:findName>-->
+
+<mod:findName type="blueprintList" name="LIST_DRONES_ENEMY_CREW">
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_CIVILIAN">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_MILITIA">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_MILITIA_ELITE">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_FED">
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="LIST_DRONES_FED">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ENGI">
+	<mod-append:name>TRC_ION_BREACH</mod-append:name>
+	<mod-append:name>TRC_DRONE_GUN</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_DRONES_SEPARATIST">
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+	<mod-append:name>TRC_DRONE_GUN</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ZOLTAN">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_BEAM_TILE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_DUSKBRINGER">
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_ION_BREACH</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ORCHID">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ORCHID_ELITE">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_VAMPWEED">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+<!--<mod:findName type="blueprintList" name="LIST_DRONES_VAMPWEED">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+</mod:findName>-->
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_FREEMANTIS">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_LOSTSUN">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="LIST_DRONES_LOSTSUN">
+	<!--<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>-->
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_SSLG">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_GHOST">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_DYNASTY">
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_BEAM_TILE</mod-append:name>
+</mod:findName>
+<!--<mod:findName type="blueprintList" name="LIST_DRONES_DYNASTY">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+</mod:findName>-->
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_LEECH">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_REVOLUTIONARY">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_LEECH_ELITE">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_LANIUS">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_REBEL">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_REBEL_SELITE">
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ENGINEER">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_AUTO">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+	<mod-append:name>TRC_DRONE_GUN</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="LIST_DRONES_AUTO">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ESTATE">
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_SENTRY_HAZARD</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_COALITION">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ROCK">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_ENERGY_FIRE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_SHELL">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_BEAM_TILE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_MORPH">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_MANTIS">
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_SUZERAIN">
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_OUTCAST">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="LIST_DRONES_OUTCAST">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ROCK_SELITE">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_SIREN">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_FROST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_CULTIST">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_FROST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="LIST_DRONES_CULTIST">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_HACKER">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_BROOD">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_BOMB_SPIDER_ENEMY</mod-append:name>
+	<mod-append:name>TRC_ULTRABURN</mod-append:name>
+</mod:findName>
+<!--<mod:findName type="blueprintList" name="LIST_DRONES_BROOD">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+</mod:findName>-->
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_HEPHAESTUS">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_BEAM_MASTER">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="MV_WEAPONS_ALL">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_SHIELDBREAKER">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_FIRE">
+	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_LASER">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_LASER_HEAVY">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_LASER_HEAVY_AND_HULL">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_LASER_ATTRIBUTE">
+	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_BEAMS">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_BEAMS_ONLY">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_BEAMS_DAMAGE">
+	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_MISSILES">
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_BALLISTICS">
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_BALLISTICS_DAMAGE">
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_LAUNCHERS">
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_WEAPONS_FLAK">
+	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="MV_DRONES_ALL">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_DRONES_COMBAT_AND_DEFENSE">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+	<mod-append:name>TRC_DRONE_POP</mod-append:name>
+	<mod-append:name>TRC_DRONE_POP_2</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_DRONES_DEFENSE">
+	<mod-append:name>TRC_SCATTERSHOT_ENEMY</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="MV_DRONES_CREW">
+	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
+</mod:findName>
+
+<shipBlueprint name="MU_COLLECTOR" layout="mtrc_collector" img="mtrc_collector">
+	<class>The Collector</class>
+	<systemList>
+		<doors power="3" max="3" room="10" start="true" />
+		<drones power="12" max="12" room="3" start="true" />
+		<engines power="8" max="8" room="12" start="true" />
+		<hacking power="3" max="3" room="8" start="true" />
+		<medbay power="4" max="4" room="11" start="true" />
+		<mind power="3" max="3" room="1" start="true" />
+		<oxygen power="2" max="2" room="9" start="true" />
+		<pilot power="3" max="3" room="0" start="true" />
+		<shields power="16" max="16" room="5" start="true" />
+		<teleporter power="4" max="4" room="7" start="true" />
+		<weapons power="12" max="12" room="6" start="true" />
+	</systemList>
+	<weaponSlots>6</weaponSlots>
+	<droneSlots>4</droneSlots>
+	<weaponList missiles="20" count="6">
+		<weapon name="TRC_EPISTLE" />
+		<weapon name="COLLECTORS_WEAPONS" />
+		<weapon name="COLLECTORS_WEAPONS" />
+		<weapon name="COLLECTORS_WEAPONS" />
+		<weapon name="COLLECTORS_WEAPONS" />
+		<weapon name="COLLECTORS_WEAPONS" />
+	</weaponList>
+	<droneList drones="20" count="4">
+		<drone name="COLLECTORS_DRONES" />
+		<drone name="COLLECTORS_DRONES" />
+		<drone name="COLLECTORS_DRONES" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="99" />
+	<crewCount amount="1" max="1" class="slug_ranger" />
+	<boardingAI>sabotage</boardingAI>
+	<aug name="SYLVAN_GEL" />
+	<aug name="SYLVAN_SHIELD" />
+	<aug name="NO_GHOST" />
+</shipBlueprint>
+
+<blueprintList name="LIST_WEAPONS_CELBOSS">
+	<name>LASER_BURST_3</name>
+	<name>LASER_BURST_5</name>
+	<name>LASER_BURST_8</name>
+	<name>LASER_HEAVY_2</name>
+	<name>LASER_HEAVY_3</name>
+	<name>TRC_LASER_CHARGEGUN_HEAVY</name>
+	<name>LASER_HULL_2</name>
+	<name>LASER_HULL_3</name>
+	<name>LASER_HULL_CHAINGUN</name>
+	
+	<name>BEAM_2</name>
+	<name>BEAM_3</name>
+	<name>BEAM_LONG</name>
+	<name>BEAM_LONG_2</name>
+	<name>BEAM_HULL</name>
+	<name>BEAM_HULL_2</name>
+	<name>TRC_BEAM_HULL_CHAIN</name>
+	<name>BEAM_PARTICLE</name>
+	
+	<name>BOMB_1_ENEMY</name>
+	<name>BOMB_BREACH_1_ENEMY</name>
+	<name>BOMB_ION_ENEMY</name>
+	<name>BOMB_STUN_ENEMY</name>
+</blueprintList>
+<blueprintList name="LIST_DRONES_CELBOSS">
+	<name>COMBAT_1_LASER</name>
+	<name>COMBAT_1_BEAM</name>
+	<name>HELLRAISER_HULL</name>
+	<name>HELLRAISER_FIRE</name>
+	<name>AMPHI_COMBAT</name>
+	<name>AMPHI_DEFENSE</name>
+	<name>GUARDIAN_1_MISSILE</name>
+	<name>GUARDIAN_1_DRONE</name>
+	<name>ENERGY_1_AMP2_ENEMY</name>
+	<name>ENERGY_1_AMP3_ENEMY</name>
+	<name>ION_1_AMP2_ENEMY</name>
+	<name>ION_1_AMP3_ENEMY</name>
+</blueprintList>
+<shipBlueprint name="MU_CONTINUITY_BOSS" layout="mtrc_continuity_boss" img="mtrc_continuity_boss">
+	<class>Quarantine Enforcer</class>
+	<systemList>
+		<cloaking power="1" max="2" room="2" start="false" />
+		<drones power="4" max="7" room="5" start="true" />
+		<engines power="2" max="2" room="1" start="true" />
+		<hacking power="1" max="2" room="3" start="false" />
+		<pilot power="1" max="1" room="0" start="true" />
+		<shields power="6" max="10" room="4" start="true" />
+		<temporal power="1" max="3" room="23" start="true" />
+		<weapons power="6" max="10" room="14" start="true" />
+		<doors power="1" max="3" room="10" start="true" />
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="8" count="4" load="LIST_WEAPONS_CELBOSS" />
+	<droneList drones="5" count="3" load="LIST_DRONES_CELBOSS" />
+	<health amount="12" />
+	<maxPower amount="21" />
+	<boardingAI>sabotage</boardingAI>
+	<aug name="NO_GHOST" />
+	<aug name="SYLVAN_SHIELD_CONTINUITY_PROBE" />
+	<aug name="UPG_TECH_SEALANT" />
+</shipBlueprint>
+
+<!-- 
+********************************************************************************************************************************************************************************************************************************************
+********************************************************************************************************************************************************************************************************************************************                                               
+
+												   MV TRAVELERS
+
+********************************************************************************************************************************************************************************************************************************************												 
+********************************************************************************************************************************************************************************************************************************************
+-->
+<blueprintList name="MV_WEAPONS_ANOM1">
+	<name>LASER_HEAVY_1</name>
+	<name>LASER_HEAVY_2</name>
+	<name>LASER_HEAVY_3</name>
+	<name>LASER_BURST_2</name>
+	<name>LASER_BURST_3</name>
+	<name>LASER_BURST_5</name>
+	<name>LASER_BURST_8</name>
+	<name>LASER_CHAINGUN_ENEMY</name>
+	<name>LASER_CHARGEGUN_ENEMY</name>
+	<name>LASER_CHARGEGUN_2</name>
+	<name>LASER_CHARGEGUN_3</name>
+	<name>TRC_LASER_CHARGEGUN_HEAVY</name>
+	<name>LASER_LIGHT</name>
+	<name>LASER_LIGHT_2</name>
+	<name>LASER_FROST_1</name>
+	<name>LASER_FROST_2</name>
+	<name>LASER_HULL_1_ENEMY</name>
+	<name>LASER_HULL_2</name>
+	<name>LASER_HULL_3</name>
+	<name>LASER_HULL_CHAINGUN</name>
+	
+	<name>MISSILES_2_ENEMY</name>
+	<name>MISSILES_3_ENEMY</name>
+	<name>TRC_MISSILES_FROST_ENEMY</name>
+	<name>MISSILES_PARTICLE</name>
+	
+	<name>BEAM_2</name>
+	<name>BEAM_HULL</name>
+	<name>BEAM_LONG</name>
+	<name>TRC_BEAM_HULL_CHAIN</name>
+	<name>BEAM_SCYTHE</name>
+	
+	<name>ENERGY_1</name>
+	<name>ENERGY_2</name>
+	<name>ENERGY_3</name>
+	<name>ENERGY_CHAINGUN</name>
+	<name>ENERGY_CHARGEGUN</name>
+</blueprintList>
+<shipBlueprint name="MT_ANOMALY_1" layout="mtrc_1" img="mtrc_1">
+	<class>United Federation Bobcat-Class Long Distance Patrol Bomber</class>
+	<systemList>
+		<clonebay power="2" max="3" room="4" start="true" />
+		<doors power="1" max="3" room="10" start="false" />
+		<engines power="1" max="2" room="1" start="true" />
+		<oxygen power="1" max="3" room="2" start="true" />
+		<pilot power="1" max="2" room="0" start="true" />
+		<shields power="4" max="8" room="8" start="true" />
+		<mind power="2" max="3" room="3" start="false" />
+		<weapons power="3" max="7" room="5" start="true" />
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>0</droneSlots>
+	<weaponList missiles="10" count="4" load="MV_WEAPONS_ANOM1" />
+	<droneList drones="0" count="0" />
+	<health amount="11" />
+	<maxPower amount="13" />
+	<crewCount amount="3" max="7" class="clone_soldier_slot" />
+	<boardingAI>sabotage</boardingAI>
+	<aug name="UPG_TECH_RESPIRATOR" />
+</shipBlueprint>
+
+<blueprintList name="MV_WEAPONS_ANOM2">
+	<name>BEAM_1</name>
+	<name>BEAM_2</name>
+	<name>BEAM_HULL</name>
+	<name>TRC_BEAM_HULL_CHAIN</name>
+	<name>BEAM_LONG</name>
+	<name>BEAM_SCYTHE</name>
+	<name>BEAM_CHAIN</name>
+	<name>FOCUS_1</name>
+	<name>FOCUS_2</name>
+	<name>FOCUS_3</name>
+	<name>TRC_FOCUS_FIRE</name>
+	
+	<name>ION_2</name>
+	<name>ION_3</name>
+	<name>ION_HEAVY</name>
+	<name>ION_TRI</name>
+	<name>ION_CHARGEGUN</name>
+	<name>ION_CHARGEGUN_2</name>
+	<name>TRC_ION_BREACH</name>
+	<name>ION_CHAINGUN</name>
+	<name>TRC_ION_CHAINGUN_2</name>
+	<name>BOMB_ION_ENEMY</name>
+	<name>BOMB_STUN_ENEMY</name>
+</blueprintList>
+<blueprintList name="MV_CREW_ANOM2">
+	<name>zoltan_devotee</name>
+	<name>zoltan_monk</name>
+	<name>zoltan</name>
+</blueprintList>
+<shipBlueprint name="MT_ANOMALY_2" layout="mtrc_2" img="mtrc_2">
+	<class>Immutable Watcher</class>
+	<systemList>
+		<temporal power="2" max="3" room="9" start="true"/>
+		<clonebay power="2" max="3" room="3" start="true" />
+		<engines power="1" max="2" room="5" start="true" />
+		<hacking power="2" max="3" room="7" start="false" />
+		<mind power="1" max="3" room="6" start="false" />
+		<oxygen power="1" max="3" room="10" start="true" />
+		<pilot power="1" max="2" room="1" start="true" />
+		<shields power="4" max="9" room="0" start="true" />
+		<teleporter power="1" max="3" room="8" start="true" />
+		<weapons power="3" max="8" room="2" start="true" />
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>0</droneSlots>
+	<weaponList missiles="6" count="4" load="MV_WEAPONS_ANOM2" />
+	<droneList drones="3" count="0" />
+	<health amount="12" />
+	<maxPower amount="17" />
+	<crewCount amount="3" max="6" class="MV_CREW_ANOM2" />
+	<boardingAI>sabotage</boardingAI>
+	<aug name="ENERGY_SHIELD" />
+</shipBlueprint>
+
+<blueprintList name="MV_WEAPONS_ANOM3">
+	<name>LASER_BURST_2_ENEMY</name>
+	<name>LASER_BURST_3</name>
+	<name>LASER_BURST_5</name>
+	<name>LASER_FIRE</name>
+	<name>LASER_FROST_1</name>
+	<name>LASER_FROST_2</name>
+	<name>LASER_STUN_ENEMY</name>
+	
+	<name>MISSILES_1_ENEMY</name>
+	<name>MISSILES_2_ENEMY</name>
+	<name>MISSILES_BURST_ENEMY</name>
+	<name>TRC_MISSILES_FROST_ENEMY</name>
+	
+	<name>BOMB_1_ENEMY</name>
+	<name>BOMB_BREACH_1_ENEMY</name>
+	<name>BOMB_FIRE_ENEMY</name>
+	<name>TRC_BOMB_SPIDER</name>
+	
+	<name>FOCUS_1</name>
+	<name>FOCUS_2</name>
+	<name>FOCUS_CHAIN_ENEMY</name>
+</blueprintList>
+<blueprintList name="MV_DRONES_ANOM3">
+	<name>COMBAT_1_LASER</name>
+	<name>COMBAT_1_BEAM</name>
+	<name>HELLRAISER_HULL</name>
+	<name>HELLRAISER_FIRE</name>
+	<name>HELLRAISER_FIRE</name>
+	
+	<name>DRONE_SHIELD</name>
+	<name>DEFENSE_1_ENEMY</name>
+</blueprintList>
+<shipBlueprint name="MT_ANOMALY_3" layout="mtrc_3" img="mtrc_3">
+	<class>Colony Scout</class>
+	<systemList>
+		<cloaking power="1" max="3" room="9" start="true" />
+		<doors power="1" max="3" room="11" start="false" />
+		<drones power="2" max="6" room="4" start="true" />
+		<engines power="1" max="2" room="3" start="true" />
+		<mind power="2" max="3" room="6" start="true" />
+		<pilot power="2" max="3" room="0" start="true" />
+		<shields power="4" max="10" room="8" start="true" />
+		<weapons power="3" max="8" room="10" start="true" />
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="13" count="4" load="MV_WEAPONS_ANOM3" />
+	<droneList drones="7" count="2" load="MV_DRONES_ANOM3" />
+	<health amount="12" />
+	<maxPower amount="15" />
+	<boardingAI>sabotage</boardingAI>
+	<aug name="NO_GHOST" />
+</shipBlueprint>
+
+<blueprintList name="MV_WEAPONS_ANOM4">
+	<name>BOMB_FIRE_ENEMY</name>
+	<name>BEAM_FIRE_PIERCE</name>
+	<name>BEAM_FIRE</name>
+	<name>TRC_ENERGY_FIRE</name>
+	<name>ION_FIRE</name>
+	
+	<name>LASER_HULL_1_ENEMY</name>
+	<name>LASER_HULL_2</name>
+	<name>LASER_HULL_3</name>
+	<name>LASER_HULL_CHAINGUN</name>
+</blueprintList>
+<blueprintList name="MV_CREW_ANOM4">
+	<name>rock</name>
+	<name>rock_outcast</name>
+	<name>rock_commando</name>
+</blueprintList>
+<shipBlueprint name="MT_ANOMALY_4" layout="mtrc_4" img="mtrc_4">
+	<class>Deranged Visionary</class>
+	<systemList>
+		<doors power="2" max="3" room="8" start="false" />
+		<engines power="1" max="1" room="6" start="true" />
+		<medbay power="1" max="3" room="5" start="true" />
+		<oxygen power="2" max="3" room="11" start="true" />
+		<pilot power="1" max="2" room="0" start="true" />
+		<shields power="4" max="11" room="7" start="true" />
+		<teleporter power="1" max="3" room="4" start="false" />
+		<weapons power="5" max="12" room="1" start="true" />
+	</systemList>
+	<weaponSlots>6</weaponSlots>
+	<droneSlots>0</droneSlots>
+	<weaponList missiles="8" count="6" load="MV_WEAPONS_ANOM4" />
+	<droneList drones="0" count="0" />
+	<health amount="15" />
+	<maxPower amount="14" />
+	<crewCount amount="3" max="9" class="MV_CREW_ANOM4" />
+	<boardingAI>sabotage</boardingAI>
+	<aug name="ROCK_ARMOR" />
+</shipBlueprint>
+
+<blueprintList name="MV_WEAPONS_ANOM5">
+	<name>SHOTGUN_1</name>
+	<name>SHOTGUN_2</name>
+	<name>SHOTGUN_3</name>
+	<name>SHOTGUN_4</name>
+	<name>SHOTGUN_CHAIN</name>
+	<name>SHOTGUN_CHARGE</name>
+	<name>SHOTGUN_ION</name>
+	<name>SHOTGUN_FIRE</name>
+	
+	<name>BEAM_2</name>
+	<name>BEAM_HULL</name>
+	<name>TRC_BEAM_HULL_CHAIN</name>
+	
+	<name>MISSILES_2_ENEMY</name>
+	<name>MISSILES_3_ENEMY</name>
+</blueprintList>
+<blueprintList name="MV_CREW_ANOM5">
+	<name>lanius_augmented</name>
+	<name>lanius_augmented</name>
+	<name>lanius</name>
+	<name>lanius_welder</name>
+	<name>phantom</name>
+	<name>phantom_mare</name>
+</blueprintList>
+<shipBlueprint name="MT_ANOMALY_5" layout="mtrc_5" img="mtrc_5">
+	<class>Wealth Incarnate</class>
+	<systemList>
+		<clonebay power="1" max="3" room="5" start="false" />
+		<engines power="1" max="1" room="1" start="true" />
+		<hacking power="2" max="3" room="8" start="false" />
+		<mind power="2" max="3" room="4" start="true" />
+		<pilot power="1" max="1" room="0" start="true" />
+		<shields power="6" max="12" room="3" start="true" />
+		<weapons power="4" max="10" room="2" start="true" />
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>0</droneSlots>
+	<weaponList missiles="8" count="4" load="MV_WEAPONS_ANOM5" />
+	<droneList drones="4" count="0" />
+	<health amount="18" />
+	<maxPower amount="11" />
+	<crewCount amount="5" max="10" class="MV_CREW_ANOM5" />
+	<boardingAI>sabotage</boardingAI>
+</shipBlueprint>
+</FTL>

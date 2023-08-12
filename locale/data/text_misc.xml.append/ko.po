@@ -1,0 +1,66 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:2
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
+msgstr "팁: 생성된 선원은 선원 슬롯을 차지하지 않지만, 일정시간 후 사라지며 복제되지 않습니다."
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
+msgstr "팁: 조립된 드론은 제한 시간이 끝나기 전까지 일시적으로 당신을 도와줍니다."
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
+msgstr "팁: 이 무기에 맞은 적은 정신지배 당합니다. 이 효과는 정신지배 관련 업그레이드의 영향을 받지 않습니다."
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
+msgstr "팁: 디코이는 물리적인 피해를 가하지 않지만, 방어 드론을 교란하고 적의 시야를 가립니다."
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
+msgstr "팁: 증폭기는 충전량에 따라 발사체 수가 아닌 능력치가 상승합니다."
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
+msgstr "팁: 산탄 무기는 인접한 모든 선실에 특정 유형의 피해를 입힙니다. 대각선으로 연결된 방에는 영향을 미치지 않습니다."
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
+msgstr "팁: 파열 빔은 선실이 아닌 타일 단위로 시스템 피해를 입힙니다. 즉, 큰 선실일수록 이 빔에 더 취약하다는 뜻이죠!"
+
+#: src-en/data/text_misc.xml.append:16
+msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
+msgstr "팁: 억제기는 물리적인 피해는 주지 않지만 방어막을 제거하는데 탁월합니다. 에너지 방어막에도 피해를 줄 수 있습니다."
+
+#: src-en/data/text_misc.xml.append:18
+msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
+msgstr ""
+"팁: 소형 무기는 시스템의 누수 전력을 이용하므로, 추가적인 전력을 소비하지 않습니다. 하지만 보존 무기와는 다르게 누수 전력이 공급되고"
+" 있을 때만 충전됩니다."
+
+#: src-en/data/text_misc.xml.append:20
+msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
+msgstr ""
+"팁: 미사일 드론은 배치 시 많은 미사일을 소모하지만, 발사할 때는 미사일을 소모하지 않습니다.\n"
+"\n"
+"팁: 전투 드론은 전투마다 한 개의 드론 부품을 소모하여 배치할 수 있으며 전력을 공급하면 적 함선을 공격합니다."
+
+#: src-en/data/text_misc.xml.append:24
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
+msgstr ""
+"배회자의 수집품\n"
+"적용됨.\n"
+"클릭해서 추가 정보 확인."
+
+#: src-en/data/text_misc.xml.append:29
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:30
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
+msgstr "목표물"

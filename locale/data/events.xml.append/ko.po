@@ -1,0 +1,870 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events.xml.append:3
+msgid "data/events.xml.append$//event[@name=\"ADDON_TRC_INFO\"]/text"
+msgstr ""
+"배회자의 수집품\n"
+"\t개발자: Kix\n"
+"\t적용됨.\n"
+"\t\n"
+"\t멀티버스용 장비 확장팩입니다. 컨셉은 존재하나 여러가지 이유로 본편에서 제외된 다양한 무기와 드론이 추가됩니다. 이러한 특성상 이 확장팩의 장비들은 본편의 장비들에 비해 밸런스가 다소 안맞을 수 있습니다. 추가 장비들은 특정 상황에 너무 의존적이거나, 기존의 장비와 너무 유사하거나, 밸런스를 잡기 어렵거나, 또는 단순히 컨셉이 기괴한 것을 포함합니다."
+
+#: src-en/data/events.xml.append:20
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/text"
+msgstr ""
+"신기하게도 이곳에서 송출되는 신호는 당신에게만 보이는 것 같습니다. 신호는 당신이 도착하고 얼마 안 가 사라졌고, 곧이어 주변 공간이 약간 수축했다가 얼어붙는 것처럼 보였습니다. 잠시 후 이상한 함선이 당신 옆에 갑자기 나타났습니다. 은폐를 풀거나 도약해 온 것이 아닙니다.\n"
+"\t\n"
+"\t그 함선은 교신을 보내왔고, 반대편에서 이상한 복장의 슬러그가 나타났습니다. 방랑하는 행상인과 아주 닮았는데... 하지만... 말이 안 되지 않나? \"낯썬이! 반가워요! 분명 많이 혼란쓰러우씨게쬬! 당짱이라도 당씬의 모든 찔문에 답해드리고 앂네요! 하찌만 씨간이 너무나도 모짜라니...\""
+
+#: src-en/data/events.xml.append:26
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/text"
+msgstr "어, 누구십니까?"
+
+#: src-en/data/events.xml.append:28
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/text"
+msgstr ""
+"\"쩌는 쑤찝가라고 불립니다, 낯썬이. 왜냐하면 쩌는... 쑤찝하기 때문이쬬. 물건을요. 헤헤. 오-오, 하찌만 문쩨가 약간 쌩겨써요. 그리고 듣기로는 당씬이 해결싸라더군요! 쑤쌍쩍- 음... 쩨 친구가 말해쭌 거예요! 당씬이 딱 쩍임짜래요.\"\n"
+"\t\t\t\n"
+"\t\t\t슬러그는 명백히 불편해 보입니다. 그는 눈을 앞뒤로 튕기며 잠시 서성입니다. \"짜, 여기를 보쎄요 낯썬이. 싸씰... 싸씰 이건 당씬에게 말해썬 안 되는 거예요. 영업비밀 같은 거예요. 강력한 싸람 몇몇과 일한 쩍이 있는데, 그들은 당씬 같은 싸람들이 짜씬들에 대해 알아내는 거쓸 원하찌 않거든요. 이쩨 쩨 쩡체를 밝히짜면, 쩌는 씬으로부터 도망치고 있는 초차원 탈쭈짜... 는 쪼금 과짱이찌만... 음, 씰쩨로도 대충 그런 쫀째예요.\n"
+"\t\t\t\n"
+"\t\t\t슬러그가 웃음을 짓습니다. \"눈치채찌 못하쎠쓸까 봐 말하면, 얼만가부터 갑짜기 쌔로운 짱비가 뭉텅이로 나타나고 이써요. 어쩌면... 쩨가 범인일찌도 몰라요. 일쫑의... 악마와의 거래 같은 걸 했거든요. '이 악마가 짱난치는 거쓸 받아들인다' 같은 거래를요. 쩌는 단찌... 외래 무기를 쏜에 넣고 앂어쓸 뿐이었찌만, 쩡씬 차려보니 일쫑의 초차원 유출을 일으켜 버려써요. 헤헤헤. 헤헤. 네, 별로 웃긴 쌍황은 아니쬬. 싸씰, 우리 모두 완쩐히 망해써요. 이번 건은 쩨가 크게 망친 거쬬.\""
+
+#: src-en/data/events.xml.append:35
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/text"
+msgstr "초차원 유출이 뭐죠?"
+
+#: src-en/data/events.xml.append:37
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"\"그게... 쌔로 나타난 온갖 짱비들 외에도, 몇 가찌 이쌍현쌍이 쌔어 나오는 걸 발견해써요. 함썬 같은 거요. 썬원이 있는 함썬. "
+"그리고 아마 더 나쁜 것도 이쓸 거고요. 그러니... 어... 여기써 당씬이 등짱하는 거랍니다! 쩨발 그래 쭈쎄요! 쩌는 많이 움찍일 "
+"쑤가 없거든요. 그랬다간 쩨 예쩐 고용쭈들이 쩌를 추쩍할 테니까요. 하찌만 만약 당씬이... 쩨가 싼 똥을 치워쭈씨겠다고 하면, 모든 게"
+" 해결되는 거쬬! 게다가, 당씬은 쩨가 컬렉쎤을 완썽할 쑤 있도록 쩨가 찾던 외래 짱비들을 쩨게 가쪄다쭐 쑤도 이써요!\""
+
+#: src-en/data/events.xml.append:39
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/text"
+msgstr "오 그거 좋네요. 현실과 현실 사이의 장벽을 허물어 놓고는 우리한테 해결해 달라는 거죠?"
+
+#: src-en/data/events.xml.append:41
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"\"네... 마짜요, 쩡확하네요. 헤헤. 이봐요 낯썬이, 쎄쌍이 항쌍 원하는 대로 돌아가는 건 아니랍니다. 때로는 나쁜 일도 있는 거쬬. 만약 쩨 고용쭈들이 먼쩌 이쌍현쌍을 알아채면, 우리는 다 끝짱나는 거예요. 쩌뿐만 아니라 당씬들도요. 그들은 피라냐 떼처럼 여기로 몰려올 거고, 분명 쫗게 끝나찌는 않게쬬. 그리고 그들이 이고쎄 있는 쩌를 발견한다면... 뭐, 역씨 쫗게 끝나찌는 않게쬬.\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t슬러그가 카메라에 가까이 다가옵니다.  \"이봐요, 당씬의 쑤고에는 충분한 보쌍을 드릴 거예요. 아씨겠나요? 그들의 표적은 외래 무기가 아니에요. 물론 쫑국에는 모든 거씨 깨끄씨 쩡리당하게찌만, 그 시쩜이면 당씬도 이미 처리돼 있게쬬. 현씨쩜에서 쩨 부탁을 들어 쭈씨면, 당씬이 가쪄온 거쓴 무어씨든 하나 더 복쩨해써 당씬도 챙길 쑤 있게 해드릴게요.\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t슬러그가 체크리스트와 빨간 펜을 꺼냈습니다. 그가 촉수를 까딱이니 체크리스트는 갑자기 사라졌다가 당신 옆에서 다시 나타납니다. \"여기 리쓰트가 이써요. 너무 거만해찌찌는 마쎄요. 그들의 눈에 띄찌 않고 이쌍현쌍을 모두 처리하는 건 어렵거든요. 그러니 차례차례 하나씩 씨짝하짜구요. 쩌는 여쩐히 이쌍현쌍을 모두 찝으로 돌려보낼 영구쩍인 해결책을 찾고 있고, 현쨰 그것들을 일쫑의 '쭉음의 루프'에 갇혀 이써요. 그러니 쬐책감 느끼찌 말고 그것들을 쭉여쭈쎄요. 그리하여 쩨게 씨간을 더 벌어쭈쎄요.\""
+
+#: src-en/data/events.xml.append:47
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
+msgstr "목표를 정한다: '복제자'"
+
+#: src-en/data/events.xml.append:55
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_fed\"]/text"
+msgstr "목표를 정한다: '깨우친 자'"
+
+#: src-en/data/events.xml.append:63
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_zoltan\"]/text"
+msgstr "목표를 정한다: '식민주의자'"
+
+#: src-en/data/events.xml.append:71
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_auto\"]/text"
+msgstr "목표를 정한다: '장인'"
+
+#: src-en/data/events.xml.append:79
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_rock\"]/text"
+msgstr "목표를 정한다: '부자'"
+
+#: src-en/data/events.xml.append:87
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/text"
+msgstr "모든 목표가 처리된 것 같습니다... 마지막 남은 이것 하나만 빼고 말이죠?"
+
+#: src-en/data/events.xml.append:89
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/event/text"
+msgstr ""
+"당신은 이름이 아니라 열두 개의 물음표로 표기된 마지막 목표를 가리킵니다. 수집가가 턱을 굅니다. \"흐음. 그래요, 이전 배회자들이 꽤"
+" 능숙했던 모양이네요. 어... 이제 마지막 항목이에요. 정말 신기한 항목이죠. 이건 원래 제 리스트에 있지 않았어요... 그리고 사실 "
+"저는... 이걸 제가 추가한 게 맞는지조차 확신할 수 없어요.\""
+
+#: src-en/data/events.xml.append:91
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/event/choice/text"
+msgstr "그게 무슨 소립니까?"
+
+#: src-en/data/events.xml.append:93
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/event/choice/event/text"
+msgstr ""
+"\"그게, 정찰을 하는 동안 특이한 이상현상을 발견했거든요. 뭔지는... 잘 모르겠지만요. 저는 그것을 억제하려고 시도했지만... 할 수"
+" 없었어요. 뭐, 그것도 어쨌든 이상현상이에요. 제가 추가했든 아니든, 이제는 당신이 처리할 일이라는 뜻이죠! 헤헤헤... 하지만 이건 "
+"정말로 저를 깜짝 놀라게 했어요. 이게 뭐든 간에 준비 단단히 하세요...\""
+
+#: src-en/data/events.xml.append:101
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_probe\"]/text"
+msgstr "목표를 정한다: '탐사정'"
+
+#: src-en/data/events.xml.append:103
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_probe\"]/event/text"
+msgstr ""
+"\"이번건... 그렇군요. 이 목표는 특별해요. 쩨가 차쯘 이 탐싸쩡은... 달라요. 더 연구할 가치가 이써 보여요. 불행하게도, 이 "
+"목표는 억쩨하기도 어려운 데다 쩨 고용쭈들이 계쏙 파괴하려 하고 이쬬. 그러니 이 탐싸쩡에 대해썬 아찍 멀쩡한찌만 확인해 쭈면 충분할 "
+"거예요.\""
+
+#: src-en/data/events.xml.append:109
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[8]/text"
+msgstr "거절한다."
+
+#: src-en/data/events.xml.append:111
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[8]/event/text"
+msgstr ""
+"\"찐씸인가요? 아무것도 안 하겠다고요? 쩨 쌍쑬을 듣고도 쩐혀 감흥이 없나요? 쩬짱, 모두 다 씅짜가 될 쑨 없나 보군. 뭐, 다행히도"
+" 쩨가 막 앙씸을 품는 싸람은 아니에요. 그리고, 쩌는 돈 만찌는 걸 쫗아하쬬. 거래하씰래요?\""
+
+#: src-en/data/events.xml.append:122
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[@req=\"trc_found_collector\"]/text"
+msgstr "저도 시간이 별로 없습니다. 혹시 뭐 파시는 건 없나요?"
+
+#: src-en/data/events.xml.append:124
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[@req=\"trc_found_collector\"]/event/text"
+msgstr ""
+"\"안타깝네요. 들어쭈쎠쓰면 하는 이야기가... 아쭈 많았는데. 뭐 그럼 그 이야기는 다른 쌩에써 하짜고요. 그나쩌나 쩨게 팔 물건이 "
+"있는데, 한번 보씨게써요?\""
+
+#: src-en/data/events.xml.append:138
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/text"
+msgstr ""
+"전투는 끝났고 폭격기의 선원들은 무너지는 전투 시설을 돌아보며 생을 마감했습니다. 그래도 이 자들은 집에 대체용 클론이 하나(어쩌면 두 "
+"개) 정도씩 있지 않을까요?"
+
+#: src-en/data/events.xml.append:142
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/choice/text"
+msgstr "수집가에게 연락한다."
+
+#: src-en/data/events.xml.append:144
+msgid ""
+"data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/choice/event/text"
+msgstr ""
+"\"낯썬이! 낯썬이! 아쭈 훌륭한 일처리여써요... 쩌도 볼 쑤 있다면 쫗아쓸 텐데요! 짜 그럼, 무기를 확인합씨다. 이들은 일쫑의..."
+" 휴대용 강씁 포드 발싸기를 가찌고 있던 것 같네요? 클론 데이터도 내짱돼 있고요. 당씬에 쓰기엔 너무 번거로울 것 같으니 쩨가 데이터를"
+" 리쎗해 드려야게써요. 여기 복쩨품 나왔어요, 낯썬이! 거래 쯜거워써요.\""
+
+#: src-en/data/events.xml.append:162
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/text"
+msgstr ""
+"당신은 근처에 연방 폭격기가 있는 것을 보고 깜짝 놀랐습니다. 당신은 올바른 곳에 온 것이 맞는지 확인하기 위해 미친 듯이 좌표를 "
+"재확인했고, 고사이 그 함선이 당신에게 다가왔습니다. 뭔가 이상한 게 눈에 잡힙니다. 그들의 제복은 일반적인 연방의 군복과는 정반대의 "
+"색을 띠고 있습니다."
+
+#: src-en/data/events.xml.append:165
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/text"
+msgstr "교신을 보낸다."
+
+#: src-en/data/events.xml.append:167
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/text"
+msgstr ""
+"통신기에서 선원들 간의 대화가 들려옵니다. 당신이 익숙한 연방의 지저분한 은어는 전혀 없고 이례적으로 형식적입니다. 그들의 선장이 교신에"
+" 응답하며 경례합니다. \"안녕하십니까, U.F.C 여러분. 여기는 U.F.S.V 살쾡이입니다. 우리는 현재 위치를 파악할 수 없으며, "
+"F.G.C.S와의 모든 교신이 끊겼고, 당신을 제외한 U.F.O. 대원들과도 연락할 수 없었습니다. 일종의 T.D.C.S에 갇혀있는 "
+"것으로 추정되니 도움을 요청합니다.\""
+
+#: src-en/data/events.xml.append:169
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/text"
+msgstr "그 약어들은 대체 뭐죠?"
+
+#: src-en/data/events.xml.append:171
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"선장이 헛기침합니다. \"뭐라고요? 농담하시는 겁니까?\" 당신은 머리를 젓습니다. \"음. 죄송하지만, 이것은 중대한 위반 사항이며 "
+"군사 법원에 회부될 수도 있는 내용입니다. 저희에게 연락하고 도움을 주기 전에 우선 당신의 O.U.F.H.F.P.A.U.를 확인하고 작전"
+" 의정서를 숙지할 것을 권합니다. 현재로서 당신은 우리를 난처하게 하고 있는 것이며 우리는 기본적인 의정서를 잊어버린 사람과는 통신을 "
+"거부할 것입니다. 이상.\""
+
+#: src-en/data/events.xml.append:173
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/text"
+msgstr "무슨 의정서 말이죠?"
+
+#: src-en/data/events.xml.append:175
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"\"U.F.P.F.T.S.O.A.C.A.P.\" - 당신의 멍한 시선을 알아챈 선장이 한숨을 쉬며 말합니다. \"모든 시만과 대원의 "
+"안전을 위한 통일 연방 의정서 (United Federation Protocol For The Safety of All Citizens "
+"and Personnel). 모든 연방 대원이 의무적으로 기억하고 따르도록 훈련받는 관습, 예절, 외교적 의례를 포함하는 의정서입니다. "
+"저는 당신이 공식 통일 연방 채널로 송출되던 D.S.I.C.O.E(비상시 조난 신호)에 응답했기에 당신을 연방 대원이라고 생각했습니다. "
+"당신은... 우리의 D.S.I.C.O.E.에 응답한 것이 맞습니까? 이상.\""
+
+#: src-en/data/events.xml.append:177
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "아, 복제인간 금지법 같은 것 말인가요?"
+
+#: src-en/data/events.xml.append:179
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"\"뭐...라고요? 맙소사. 우리가 다른 현실로 진입한 것 같다던 기술병의 이론이 맞나 보군요. 연방은... 당신네 연방은 복제인간을 금지했습니까? 하지만 그래선 어떻게 반군을 물리친 거죠? 클론 군대는 F.A.L.T.T.R. 작전 기간 중 우주 연합 마지막 자치령 군세와의 전투와 최고위 여왕 나이트를 전복시키는 작전에서 중요한 역할을 했습니다.\"\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t선장은 바닥에 주저앉았습니다. \"이건 좀... 많이 불쾌합니다. 제3제독으로의 승급을 하루 앞두고 반군이 잔당이 살아있는 이 지옥 같은 현실로 내던졌더니, 커피도 지원되지 않고, 함내에 우주복조차 지원되지 않는다니! 이렇게 엉망이어서야 당신네 연방은 실패할 것이라는 결론에 도달할 수밖에 없습니다. 야만인은 비키십시오. 당신네 연방이 제 상각처럼 제 구실 못 하는 집단이라면, 우리는 이 현실에서 더 유능한 다른 아군을 찾을 것입니다. 이상.\""
+
+#: src-en/data/events.xml.append:183
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "이상현상을 공격한다."
+
+#: src-en/data/events.xml.append:185
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"연방 폭격기는 이미 통신을 차단했으므로 당신은 선원들에게 전투 위치로 이동하라고 명령합니다. 이 다른 우주의 폭격기가 무엇을 선보이든 "
+"당신의 적수는 되지 않기를 바랍시다."
+
+#: src-en/data/events.xml.append:188
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:202
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[@req=\"trc_fed\"]/text"
+msgstr "바로 공격한다!"
+
+#: src-en/data/events.xml.append:204
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[@req=\"trc_fed\"]/event/text"
+msgstr ""
+"\"제군들, U.C.L.이 빠르게 접근 중이며 장전을 마쳤다! 적색경보! 전군 전투 배치로! S.E.A.S.P., 베어링 324 마크 "
+"15에 요격 경로를 설정하라. 사수, 교전 허가! U.F.F.E.M.을 참조하여 회피 작전 준비. 클론 전투 시뮬레이션 때와 똑같이 하면"
+" 된다. A.W.O.L. 탈영병들이 우리를 이길 리 없다!\""
+
+#: src-en/data/events.xml.append:207
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[@req=\"trc_fed\"]/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:213
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/text"
+msgstr "마음을 바꿔 떠난다."
+
+#: src-en/data/events.xml.append:215
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/text"
+msgstr "당신은 이 적과 교전하지 않기로 했습니다. 수집가는 이 이상현상을 해결할 다른 사람을 찾아야 할 것입니다."
+
+#: src-en/data/events.xml.append:217
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/choice[1]/text"
+msgstr "함선에서 무언가를 한다."
+
+#: src-en/data/events.xml.append:221
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/choice[2]/text"
+msgstr "아무것도 하지 않는다."
+
+#: src-en/data/events.xml.append:236
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/text"
+msgstr ""
+"\"그리고 어, 가장 거대한 아이러니로다! 모든 것을 알기 위해선 죽음도 알아야 할지니! 하지만 죽음과 함께... 모든 지식은 사라진다."
+" 이 무슨 비극인가... 어쩌면 무한한 지혜의 추구는 헛된 것일지도...\""
+
+#: src-en/data/events.xml.append:240
+msgid ""
+"data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/choice/text"
+msgstr "수집가에게 연락한다."
+
+#: src-en/data/events.xml.append:242
+msgid ""
+"data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/choice/event/text"
+msgstr ""
+"\"낯썬이! 낯썬이! 아쭈 훌륭한 일처리여써요... 쩌도 볼 쑤 있다면 쫗아쓸 텐데요! 짜 그럼, 무기를 확인합씨다. 이들은 일쫑의..."
+" '이온 빔'을 가찌고 있던 것 같네요? 쩡말 단쑨한 발쌍이네요. 어째써 쩌는 다른 이온 빔을 본 쩍이 업쓸까요? 분명 이유가 이쓸 "
+"텐데. 어쨌든, 여기 복쩨품 나왔어요 낯썬이! 거래 쯜거워써요.\""
+
+#: src-en/data/events.xml.append:253
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/text"
+msgstr ""
+"희한하게도 송신소 주위에 여러 가지 실험 장비가 설치돼 있습니다. 소형 셔틀이 파란색 졸탄 선박 주위를 돌고 있고, 그 사이로 졸탄 "
+"과학자들이 서둘러 지나갑니다. 모두 연구에 몰두하는 모습입니다."
+
+#: src-en/data/events.xml.append:255
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/text"
+msgstr "교신을 보낸다."
+
+#: src-en/data/events.xml.append:257
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/text"
+msgstr ""
+"당신은 교신을 여러 번 보냈고, 십여 번을 시도한 후에야 답을 받을 수 있었습니다. \"아주 흥미롭군. 이것은 의사소통이 가능해 보여. "
+"메모해 두게.\" 선장이 손짓하자 조수가 뭔가를 끄적입니다. \"생각해 보자. 추가적인 소통이 가능한가?\""
+
+#: src-en/data/events.xml.append:259
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/text"
+msgstr "예, 우리는 말할 수 있습니다. 어째서 놀라시는 겁니까?"
+
+#: src-en/data/events.xml.append:261
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"\"재미있어. 정말 재미있어. 방금 것도 적어두게.\" 선장이 또 한번 손짓합니다. \"오, 가장 영광스러운 프라임의 아이여! 당신 앞에"
+" 무릎 꿇게 되어 영광입니다! 당신의 영역은 아름답고, 그분의 위대함에 완벽하게 걸맞습니다! 소박한 매력! 세련됨의 결여! 모든 이가 "
+"쥐고 있는 가학적인 칼날! 오, 이 모든 것이 그분의 거룩함과 가장 적절하게 병치됩니다!"
+
+#: src-en/data/events.xml.append:263
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:265
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"졸탄은 멍하니 쳐다보다가 갑자기 무언가를 알아차린 듯 눈을 반짝입니다. \"아, 그렇지 참. 연구 중에 이러한 무지를 목격했으나 가설을 입증했다고 확신하지 못했습니다. 그렇다면 사실인 겁니까? 정말 당신은 그분의 거룩함에 대해 아무것도 모르는 겁니까? 위대한 프라임 님을 모른다고요?! 아, 비참하여라. 우리가 아직 갇혀 있는 시간 팽창 영역을 만든 건 당신이 아닐 수도 있겠네요. 아니, 확실히 아니지.\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t졸탄이 앞뒤로 서성입니다. \"사실 당연한 거죠. 프라임께서 직접 결정하신 게 분명합니다. 아마도... 일종의 보호 조치일까요? 하지만... 대상이 누구지? 우주군? 아니면 그 자신?\""
+
+#: src-en/data/events.xml.append:269
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "죄송하지만, 전 아직도 '소박한 매력'이라고 말하셨던 부분에서 넘어오지 못했습니다."
+
+#: src-en/data/events.xml.append:271
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"\"아 즐겁도다. 저는 단지, 그게... 당신이 아직도 전쟁과 같은 사소한 문제와 싸우고 있다는 것이 제법 재밌습니다. 우리 우주군은 "
+"아주 오래전에 평화를 이룩했습니다. 우리가 모든 지식의 축적에 몰두하기 시작한 후로 말입니다. 존재가 확인된 모든 진실을 완전히 "
+"흡수하려는 것. 어려운 일이지만, 제가 추산한 바로 우리의 진척도는 약 54.3%나 됩니다! 언젠가는 당신의 작고, 약하고, 무른 문명도"
+" 시궁창에서 기어 나와 위대함을 성취할 수 있을지 모릅니다! 저는 믿습니다. 프라임께서 허튼 일을 하실 리가 없죠!"
+
+#: src-en/data/events.xml.append:273
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "이상현상을 공격한다."
+
+#: src-en/data/events.xml.append:275
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"오 이런, 그런 야만적인 행동을 취하실 거라 예상했습니다. 형제자매 여러분, 그리고 텅 빈 가족들까지, 우리가 전쟁에 대해 알고 있던 "
+"것을 돌이켜야 할 때가 온 것 같습니다.\""
+
+#: src-en/data/events.xml.append:278
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:292
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[@req=\"trc_zoltan\"]/text"
+msgstr "즉시 공격한다!"
+
+#: src-en/data/events.xml.append:294
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[@req=\"trc_zoltan\"]/event/text"
+msgstr ""
+"졸탄 함선이 당신의 공격을 포착하는 데는 1분이 걸렸습니다. 밖에 나와 있던 졸탄 과학자들은 말없이 워프하여 함선으로 돌아가 방어를 "
+"준비합니다."
+
+#: src-en/data/events.xml.append:297
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[@req=\"trc_zoltan\"]/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:303
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/text"
+msgstr "마음을 바꿔 떠난다."
+
+#: src-en/data/events.xml.append:305
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/text"
+msgstr "당신은 이 적과 교전하지 않기로 했습니다. 수집가는 이 이상현상을 해결할 다른 사람을 찾아야 할 것입니다."
+
+#: src-en/data/events.xml.append:307
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/choice[1]/text"
+msgstr "함선에서 무언가를 한다."
+
+#: src-en/data/events.xml.append:311
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/choice[2]/text"
+msgstr "아무것도 하지 않는다."
+
+#: src-en/data/events.xml.append:326
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/text"
+msgstr ""
+"\"허드슨 A.I. 다운. 야만인, 네가 무언가를 이뤘다고 생각하나? 모국의 확장에는 한계가 없다. 너는 그저 우리의 도착을 지연시켰을 "
+"뿐, 무기한 연기시킨 것이 아니다. 아마도 너의 자손은 진정한 문명을 더 순순히 받아들일 것이다.\""
+
+#: src-en/data/events.xml.append:330
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/choice/text"
+msgstr "수집가에게 연락한다."
+
+#: src-en/data/events.xml.append:332
+msgid ""
+"data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/choice/event/text"
+msgstr ""
+"\"낯썬이! 낯썬이! 아쭈 훌륭한 일처리여써요... 쩌도 볼 쑤 있다면 쫗아쓸 텐데요! 짜 그럼, 무기를 확인합씨다. 이들은 일쫑의..."
+" 쩡씬찌배 폭탄을 가찌고 있던 것 같네요? 쩡말 째미있게 싸악한 무기네요! 이런 게 이 우쭈에 이썼다면 바로 불법 딱찌를 받았게쬬. "
+"어쨌든, 여기 복쩨품 나왔어요 낯썬이! 거래 쯜거워써요.\""
+
+#: src-en/data/events.xml.append:343
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/text"
+msgstr "정말로 흉측한 색상의 무인기가 주변 일대를 순회하며 인근 행성들을 스캔하려 하고 있습니다."
+
+#: src-en/data/events.xml.append:345
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/text"
+msgstr "교신을 보낸다."
+
+#: src-en/data/events.xml.append:347
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/text"
+msgstr "\"멈춰라. 외래 선박. 본 함은 허드슨 A.I., 여왕 폐하의 식민지 대사. 자신의 신원과 모국에 대한 충성심을 밝혀라.\""
+
+#: src-en/data/events.xml.append:349
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/text"
+msgstr "모국?"
+
+#: src-en/data/events.xml.append:351
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"\"...\" 무인기가 잠시 제자리에 멈췄습니다. \"측정 중. 기다려 주십시오...\" 무인기가 삐- 소리와 위잉- 소리를 연발하는 "
+"동안 당신은 조용히 앉아 있었습니다. \"측정 완료. 모국 - 여왕 메리 14세의 땅. 귀하의 무지는 야만성을 암시. 앞서 이루어진 인근"
+" 지역 스캔은 기술적 부족을 암시. 시간 팽창 영역: 이 우주군에는 이미 외세의 개입이 존재함을 암시. 이게 어떻게 가능한가? 모국에 "
+"맞설만한 경쟁자?\""
+
+#: src-en/data/events.xml.append:353
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/text"
+msgstr "너 아직도 모국이 뭔지 말하지 않았어. 그리고, 너 자아가 있니?"
+
+#: src-en/data/events.xml.append:355
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"\"그렇다. 본 함은 허드슨 A.I, 여왕 폐하의 식민지 대사. 나는 반복을 좋아하지 않는다. 여왕 폐하가 영원의 왕좌에 오른 영광스러운 0년, 모국은 유일의 진정한 제국이 되었다. 그 어떠한 시간대나 공간에서도 그토록 자비롭고 능력주의적인 사회는 확인된 적 없다. 폐하의 통치하에 문명은 우리가 아직 도달하지 못한 멀티버스의 구석구석까지 이르렀다.\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\"본 함의 친척들과 본 함은 제국의 식민지로 적합한 장소를 식별하기 위해 확인된 모든 현실에 흩어져 배치되었다. 귀하의 현실: 다름. 이곳의 인간은 모두 야만인. 이곳에 존엄성은 남아있지 않음. 이 현실이 식민지 야망에 완벽히 적합함을 암시. 복종하라, 야만인이여. 진정한 문명의 면모를 보여주마.\""
+
+#: src-en/data/events.xml.append:359
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "이상현상을 공격한다."
+
+#: src-en/data/events.xml.append:361
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr "\"낙원에 국왕의 야망을 거부하는 자를 위한 자리는 없다. 순순히 복종하지 않는다면, 내가 모두 무력하게 만들어 주겠다.\""
+
+#: src-en/data/events.xml.append:364
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:376
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[@req=\"trc_auto\"]/text"
+msgstr "즉시 공격한다!"
+
+#: src-en/data/events.xml.append:378
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[@req=\"trc_auto\"]/event/text"
+msgstr "\"모국에 대한 위협 감지. 너의 두개골은 멋진 장식품으로서 박물관에 걸릴 것이다.\""
+
+#: src-en/data/events.xml.append:381
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[@req=\"trc_auto\"]/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:387
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/text"
+msgstr "마음을 바꿔 떠난다."
+
+#: src-en/data/events.xml.append:389
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/text"
+msgstr "당신은 이 적과 교전하지 않기로 했습니다. 수집가는 이 이상현상을 해결할 다른 사람을 찾아야 할 것입니다."
+
+#: src-en/data/events.xml.append:391
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/choice[1]/text"
+msgstr "함선에서 무언가를 한다."
+
+#: src-en/data/events.xml.append:395
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/choice[2]/text"
+msgstr "아무것도 하지 않는다."
+
+#: src-en/data/events.xml.append:410
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/text"
+msgstr ""
+"\"안 돼! 안 돼! 난 우리 시대 최고의 선각자였어! 지금 무슨 짓을 저지른 건지 아나?! 이제... 멀티버스는 결코 보지 못할 "
+"것이다... 나의 진정한 능력을... 멀티버스를... 진정으로 위대한 무언가로 만들 수 있었는데...\""
+
+#: src-en/data/events.xml.append:414
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/choice/text"
+msgstr "수집가에게 연락한다."
+
+#: src-en/data/events.xml.append:416
+msgid ""
+"data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/choice/event/text"
+msgstr ""
+"\"낯썬이! 낯썬이! 아쭈 훌륭한 일처리여써요... 쩌도 볼 쑤 있다면 쫗아쓸 텐데요! 짜 그럼, 무기를 확인합씨다. 이들은 일종의..."
+" 어? 대체 이게 뭐죠? 어떤 정신 나간 사람이 이런 걸 만들었을까요? 일종의... 용암 빔인가? 이건 반드시 더 연구해 봐야겠네요! "
+"어쨌든, 여기 복쩨품 나왔어요 낯썬이! 거래 쯜거워써요.\""
+
+#: src-en/data/events.xml.append:427
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/text"
+msgstr ""
+"당신은 근처에 있는 락맨 함선을 도청하려고 했지만, 철을 망치로 내려치는 우레 같은 소리에 귀가 먹먹해졌습니다. 락맨 선원들은 일하느라 "
+"바빠 맹렬한 속도로 함내를 돌아다니고 있습니다. 아, 물론 락맨의 낼 수 있는 최고의 속도로 말입니다."
+
+#: src-en/data/events.xml.append:429
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/text"
+msgstr "교신을 보낸다."
+
+#: src-en/data/events.xml.append:431
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/text"
+msgstr ""
+"\"*챙* *챙* *챙* 그만! 모두 망치질을 멈추시오.\" 화면에 우락부락한 락맨이 나타났습니다. 진홍색 안대와 두 개의 기계 팔, "
+"하나의 인공 다리를 차고 있습니다. \"흠. 이교도처럼 보이는군. 아직도 팔다리를 전부 달고 있다니. 대장장이도 아닌 것 같고 "
+"수상쩍은데.\""
+
+#: src-en/data/events.xml.append:433
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/text"
+msgstr "저는 팔다리가 마음에 듭니다. 당신의 것은 어떻게 된 겁니까?"
+
+#: src-en/data/events.xml.append:435
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"\"하하하하! 하하하하!\" 락맨은 큰 소리로 웃음을 터뜨렸고, 그의 수많은 조수들도 따라 웃었습니다. 갑자기 그가 진지한 얼굴을 지으며"
+" 화면으로 다가옵니다. \"내 팔다리? 내 팔다리가 어떻게 되었는지 알고 싶나? 하하! 그렇다면 말해주지 이교도여! 나는 위대한 여신 "
+"아그카리아를 위해, 눈을 저며내 신성한 오큘러스를 만들었다! 나는 고귀한 신 타블 에오스를 위해, 팔을 찢어내 거룩한 셉터를 만들었다! "
+"나는 전능한 군주 가즈그리를 위해, 다리를 잘라내 전투 봉을 만들었다! 내 최고의 걸작들이지. 듣거라 이교도여. 축복받은 삶에 대한 "
+"희망이 있다면 그대는 만들어야 한다. 이 버려진 땅에는 최고로 신성한 선각자들 말고는 남을 자리가 없다!\""
+
+#: src-en/data/events.xml.append:437
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/text"
+msgstr "팔다리를 자르는 게... 정상적인 일인가요?"
+
+#: src-en/data/events.xml.append:439
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"\"정상이냐고? 정상인 게 남아있긴 한가? 새로운 신들의 시대가 오기 전에는 평화롭던 때가 있었지. 단순하지만 평화로운 시대였어. 그러던"
+" 어느 날 균열이 깨어났고, 한 번도 본 적 없는 악이 나타났소. 우리를 구한 것은 신들이었소. 침입자들과 싸우기 위한 침입자들. 허나,"
+" 그들은 우리의 사지를 손상시켰소. 보통은 희생이 따르는 것이라 생각하겠지. 하지만 나는 어떨까? 내 사지는 공헌의 뜻이 아니었소. 나는"
+" 새로운 시대가 오기 전에 장인이었고, 지금도 역시 장인이오. 더 강하고, 더 훌륭한, 신조차 두려움에 떨만한 무기를 만드는 것이 나의 "
+"영원한 사명이오! 그러고 나면 나는, 나는, 천한 불멸자 알로브는, 가장 위대한 신이 되리라! 필멸자의 몸으로 이겨낸 성스러운 챔피언이 "
+"되리라! 두려운 것들을... 그것들을...\""
+
+#: src-en/data/events.xml.append:441
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "두려운 뭐요?"
+
+#: src-en/data/events.xml.append:443
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"락맨은 갑자기 마이크에 최대한 가까이 다가와서 속삭이는 투로 작게 말했습니다. \"그녀.\" 당신은 눈썹을 치켜떴지만, 그는 자세히 "
+"설명하지 않습니다. \"악마가 도착한 지도 긴 시간이 흘렀소. 천체는 새로운 주인이 지키고 있지. 미천한 존재가, 나 같은 필멸자가 "
+"악마를 쫓아냈다고 하더군. 믿을 수가 없는 일이야. 하지만 그게 사실이라면, 내가 찾는 건 바로 그 존재의 왕좌요. 그리고 그 왕좌는 내"
+" 것이 될 것이오! 이제 무의미한 농담은 그만하지. 그대의 역겨운 질문은 내 천재성을 더럽히니.\""
+
+#: src-en/data/events.xml.append:445
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "이상현상을 공격한다."
+
+#: src-en/data/events.xml.append:447
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"\"결국 그대는 나의 무엇보다 뛰어난 천재성의 영원한 위대함에 대한 약속을 거부하는 것이오? 그대는 지옥의 밑바닥에서도 밑바닥에 깔릴 "
+"쓰레기요. 당장 꺼지시오, 이교도여!"
+
+#: src-en/data/events.xml.append:450
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:464
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/text"
+msgstr "즉시 공격한다!"
+
+#: src-en/data/events.xml.append:466
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/event/text"
+msgstr "\"이교도다! 우현으로! 내 궁극의 분노를 터뜨려 주마 이 괴물들아!\""
+
+#: src-en/data/events.xml.append:469
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:475
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/text"
+msgstr "마음을 바꿔 떠난다."
+
+#: src-en/data/events.xml.append:477
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/text"
+msgstr "당신은 이 적과 교전하지 않기로 했습니다. 수집가는 이 이상현상을 해결할 다른 사람을 찾아야 할 것입니다."
+
+#: src-en/data/events.xml.append:479
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/choice[1]/text"
+msgstr "함선에서 무언가를 한다."
+
+#: src-en/data/events.xml.append:483
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/choice[2]/text"
+msgstr "아무것도 하지 않는다."
+
+#: src-en/data/events.xml.append:498
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/text"
+msgstr ""
+"\"나를 영원히 제거했다고 생각하나? 이게 끝이라고 생각하나? 비참한 생명의 낭비여, 너는 이것이 아무런 변화도 주지 못함을 이해하지 "
+"못한다. 나는 너무 부유해서 진정으로 죽지도 못한다. 나의 은행 계좌가 내 영혼 자체에 닻을 박았다. 나는 죽지 않는다. 나는 영원하다."
+" 네가 죽었을 때, 땅에 묻혀 잊히고 나서도, 나는 너의 혈족 전체가 평생 모을 돈보다도 더 많은 돈을 1마이크로초마다 축적할 것이다."
+
+#: src-en/data/events.xml.append:502
+msgid ""
+"data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/choice/text"
+msgstr "수집가에게 연락한다."
+
+#: src-en/data/events.xml.append:504
+msgid ""
+"data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/choice/event/text"
+msgstr ""
+"\"낯썬이! 낯썬이! 아쭈 훌륭한 일처리여써요... 쩌도 볼 쑤 있다면 쫗아쓸 텐데요! 짜 그럼, 무기를 확인합씨다. 이들은 일쫑의..."
+" 쓰크랩 변환기를 가찌고 있던 것 같네요? 쓰크랩을 투입하면, 썽분을 째배열해 탄약을 만드네요! 쩡말 놀라워요! 여기 복쩨품 나왔어요, "
+"낯썬이! 거래 쯜거워써요.\""
+
+#: src-en/data/events.xml.append:515
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/text"
+msgstr ""
+"딩신의 시선은 거의 즉시 황금빛 라니우스 선박에 고정됐습니다. 처음에는 그 금빛이 그냥 도색일 거라 생각했지만, 스캔 결과에 따르면 그 "
+"선박은 말 그대로 순금으로 만들어졌고 정체불명의 합금으로 보강되었다고 합니다."
+
+#: src-en/data/events.xml.append:517
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/text"
+msgstr "교신을 보낸다."
+
+#: src-en/data/events.xml.append:519
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/text"
+msgstr ""
+"라니우스 선원이 거의 완벽한 부동자세로 카메라를 바라봅니다. 당신이 그의 시선에 모욕감을 느끼고 한 발짝 앞으로 나아가려 할 때 "
+"라니우스가 입을 열었습니다. \"너는 혐오스럽다.\""
+
+#: src-en/data/events.xml.append:521
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/text"
+msgstr "예?"
+
+#: src-en/data/events.xml.append:523
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"\"나한테 말 건다? 벌레가? 나의 우월함을 이해하지 못하나? 나는 부의 화신이다. 나는 자유주의적 행복의 빛나는 혈맥이다. 나는 "
+"자본주의다. 나의 은행 계좌가 너무 커져서 오직 나의 웅장한 부를 묘사하기 위해 새 숫자가 발명됐다. 나는 온전한 현실 한 개를 "
+"소유했다. 나는 삶 자체를 소유했다. 나는 인생이라는 게임을 이긴 게 아니다. 내가 인생이라는 게임 그 자체다. 너는 내 옆에서 가치가 "
+"없다. 네 삶의 가치는 너무 혐오스럽고, 너무 불쌍할 정도로 미천해서 내 주머니의 거스름돈으로 익사시킬 수도 있다. 이해할 수 없을 "
+"정도로 큰 재물의 순수한 양으로 너는 질식시켜 죽일 수 있다. 너는 아무것도 아니다. 너는 내 고용인의 고용인의 고용인의 고용인의 "
+"고용인의 청소부에 불과한 더러운 얼룩이다. 이해하나? 우리 둘 사이의 실제 거리는 6단계 이상이다. 나는 너와 다른 차원에 존재한다. "
+"나는 너보다 상상할 수 없을 정도로 우월해서 네가 말해도 나는 들을 수조차 없다. 단지 존재함으로써 또 다른 5조 달러를 벌기 위해 길을"
+" 가다 짓밟는 수조 마리의 쓸모없는 바퀴벌레가 내는 둔한 신음소리만 들릴 뿐이다. 네가 싫다. 네가 질색이다. 너에게 최악의 운명이 "
+"닥치기를 빈다. 메스껍고 비루한 천민. 사전을 뒤져도 내가 널 얼마나 하찮게 보는지 설명할 단어조차 없다. 혐오스러운 너의 존재와 그저 "
+"존재함으로써 네가 내게 주는 모욕감에 내가 느끼는 순수한 불쾌함을 담아낼 단어가 없다. So I'll make one up. "
+"Thatchfizgler.\""
+
+#: src-en/data/events.xml.append:525
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/text"
+msgstr "제가... 어... 뭐라고요?"
+
+#: src-en/data/events.xml.append:527
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"\"너는 내 배설물의 무게만큼도 가치가 없다. 열등한 고름 덩어리야. 네가 죽으면 이 현실을 통째로 사서 살아있는 모든 원주민에게서 "
+"채취한 고기로 살아있는 고문실을 만들어 네 쓸모없는 양심이 가장 고통스럽게 살아가는 시뮬레이션을 끝없이 실행할- \" 당신은 통신을 끊고"
+" 무기를 가동합니다."
+
+#: src-en/data/events.xml.append:530
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:540
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/text"
+msgstr "즉시 공격한다!"
+
+#: src-en/data/events.xml.append:542
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/event/text"
+msgstr ""
+"\"쓸모없는 얼룩이 영원한 자유 시장의 강대한 신에게 도전하려고 하나? 내가 너를 반죽으로 만들어 주지. 겨우 지각만 있는 분자들의 "
+"쓸모없는 집합체여.\""
+
+#: src-en/data/events.xml.append:545
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:551
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/text"
+msgstr "마음을 바꿔 떠난다."
+
+#: src-en/data/events.xml.append:553
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/text"
+msgstr "당신은 이 적과 교전하지 않기로 했습니다. 수집가는 이 이상현상을 해결할 다른 사람을 찾아야 할 것입니다."
+
+#: src-en/data/events.xml.append:555
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/choice[1]/text"
+msgstr "함선에서 무언가를 한다."
+
+#: src-en/data/events.xml.append:559
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/choice[2]/text"
+msgstr "아무것도 하지 않는다."
+
+#: src-en/data/events.xml.append:574
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/text"
+msgstr "당신은 어떻게든 무인기를 처리하고 스크랩을 수거했습니다."
+
+#: src-en/data/events.xml.append:578
+msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/text"
+msgstr "수집가에게 연락한다."
+
+#: src-en/data/events.xml.append:580
+msgid ""
+"data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/event/text"
+msgstr ""
+"\"쩡말 기쩍쩍이네요! 그걸 쌍대로 쌀아남았다는 게 놀라워요 낯썬이! 유독 무짱이 취약한 놈이 와써 다행이에요. 물론 그렇다 해도 엄청난 일을 해내쎠찌만요!\"\n"
+"\t\t\t\n"
+"\t\t\t\"이 탐싸쩡은... 확씰히 씬기한 물건이에요. 찌금 파괴하기엔 아깝단 말이쬬. 여가 씨간에 더 연구해 봐야게써요. 그리고, 당씬이 쓴 씨간을 가치 있게 만들어 드리기 위해 특별한 썬물을 쭌비해씁니다. 이거쓴 쩨가... 은유쩍으로 영혼을 팔았던 무기의 복쩨품입니다. 우리가 이 찌경에 빠찐 원인이쬬. 짤 싸용하쎄요, 낯썬이. 부짝용이 없기를 바랄게요.\""
+
+#: src-en/data/events.xml.append:594
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
+msgstr ""
+"목적지에 도착했습니다. 저 멀리 작은 녹색 무인기가 보입니다. 외부에 특이한 형태의 해킹 포드가 달려 있습니다. 비무장 상태로 보이고 "
+"상대적으로 작아 실제 위협이 될 것 같지는 않습니다."
+
+#: src-en/data/events.xml.append:596
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/text"
+msgstr "탐사정에 접근한다."
+
+#: src-en/data/events.xml.append:598
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/text"
+msgstr ""
+"당신이 접근하자 탐사정은 당신의 함선을 바라보고 원을 그리며 주위를 돌기 시작합니다. \"안** - 안******** -  거기 누구 "
+"****요? 응답해********. 비** 메시지 ****다!\" 군데군데 소리가 끊기고, 그나마 들리는 부분도 왜곡되고 음량이 "
+"제멋대로라 무슨 말을 하는지 알아듣기 어렵습니다."
+
+#: src-en/data/events.xml.append:600
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/text"
+msgstr "듣고 있습니다. 어느 정도는요."
+
+#: src-en/data/events.xml.append:602
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"\"제가 - 맙**사! 해냈****! 부탁******, 당**이 누**** 간에 제 **을 들******요. **간이 얼마 없****. 어**까지 알고 ****지 모****지**, 한 삼인**** 있****다. 엔**, 졸**, ****고 락**. 그들**게 상황이 나빠 보이**** 아직 희망** 있**** 전해******오. 아직은 ********가 이긴 **이 아닙**다. 격**를 우회** 수 있******. 메**지** **보낼 방법을 시험**** **습니다. 정**기** 제치고 유출** ** ****요. **임 - 아마도 게**일 겁****. **구든 듣게 되는 사람**** **곳에 **슨 일** 벌****고 있는지 알** **니다. 이**** 우리** **낸 일이고 - **라임** 계****서 **희를 놓**** 있****다. 언제 ****될**, 그리고 **구에게 도달** 모**지** - 최**한 많** 사****게 **뜨**면, 누****는 - 분명 누**가** 이 지식** 가지** **엇을 **야할 ** 알 ******다. 그리** - 그**** 부탁****, 지금 듣** 계** **이 누****. 이 메****를 테**트**** 전해주******. ****트 - 그의 이름은 ****트입니다. 부******니다. 이보** 더 중**한 일** 없******. **************************\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t메시지는 갑자기 끝났고 정적만이 남았습니다. 당신은 통신이 다시 연결되기를 바라며 컴퓨터를 만지작거립니다. 불행히도, 문제가 해결될 것 같지는 않습니다. 당신은 조금이라도 알아들을 수 있던 부분을 최대한 적어보지만, 그럼에도 메시지의 의미를 전혀 알 수 없습니다."
+
+#: src-en/data/events.xml.append:606
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/text"
+msgstr "포기하고 통신을 끊는다."
+
+#: src-en/data/events.xml.append:608
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"통신을 끊으려 하자 근처에서 균열이 열렸고, 지금껏 한 번도 본 적 없는 도색의 대형 무인기가 나왔습니다. 외벽에 그려진 기호는 수집가의 함선에 있던 기호와 닮았지만, 무슨 의미인지는 알 수 없습니다. 무인기는 당신을 무시하고 탐사정을 스캔하고 있습니다.\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t그러는 동안 쑤찝가한테써 짱거리 메씨찌가 와씁니다. \"낯썬이, 쌍황이... 쫗찌 않아요. 쩨 고용쭈가 우리를 차쯘 것 같아요! 아니, 아니찌, 쩔 차쯘 건 아니에요. 쩍어도 찌금은 말이쬬. 휴! 하찌만 당씬은 반드씨 이 무인기를 멈춰야 해요. 그러찌 않으면 쩨 고용쭈에게 보고가 올라가써, 모든 거씨 위험에 처할 거예요!"
+
+#: src-en/data/events.xml.append:613
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "탐사정을 지키고 무인기를 공격한다."
+
+#: src-en/data/events.xml.append:615
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr "\"다수의 이상현상 및 적대적 함선의 접근 감지. 검역 조치를 시작합니다.\""
+
+#: src-en/data/events.xml.append:618
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events.xml.append:630
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/text"
+msgstr "떠난다 - 뭔가 이상하다."
+
+#: src-en/data/events.xml.append:632
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/text"
+msgstr ""
+"이게 뭔지는 모르겠지만, 뭔가... 이상한 느낌이 듭니다. 당신은 탐사정과 거리를 두고 떠날 준비를 합니다. 수집가는 이 이상현상을 "
+"해결할 다른 사람을 찾아야 할 것입니다."
+
+#: src-en/data/events.xml.append:634
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[1]/text"
+msgstr "함선에서 무언가를 한다."
+
+#: src-en/data/events.xml.append:638
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[2]/text"
+msgstr "아무것도 하지 않는다."

@@ -1,0 +1,6 @@
+<FTL>
+<!--THESE SOUNDS ARE EXTRACTED FROM ITB-->
+<pop_shields volume="4">weapons/itb_pop.ogg</pop_shields>
+<pop_hit volume="4">weapons/itb_pop_hit.ogg</pop_hit>
+<gem_launch volume="4">weapons/cv_scrap_gun_shoot.ogg</gem_launch>
+</FTL>

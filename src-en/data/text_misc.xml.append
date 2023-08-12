@@ -1,0 +1,31 @@
+<FTL>
+<text name="tip_spawner">Tip: Spawned crew do not count towards your crew cap, but only last temporarily. They cannot be cloned either.</text>
+
+<text name="tip_spawner_drone">Tip: Fabricated drones will temporarily provide benefits before expiring.</text>
+
+<text name="tip_mind_weapon">Tip: Enemies struck by this weapon will fall under the effects of mind control if applicable. The effect will not inherit the bonuses from any upgraded Mind Control system you may own.</text>
+
+<text name="tip_decoy">Tip: Decoys will do no physical damage to the enemy ship but will distract Defense drones and blind enemy crew.</text>
+
+<text name="tip_magnifier">Tip: Magnifiers gain increased bonuses to their stats for each additional charge instead of more projectiles.</text>
+
+<text name="tip_cascade">Tip: Cascading weapons will deal certain kinds of damage to all adjacent rooms. They do not affect diagonally connected rooms.</text>
+
+<text name="tip_tile_beam">Tip: Fissure Beams deal system damage by tile rather than by room. This means larger rooms are more vulnerable to their effects!</text>
+
+<text name="tip_suppressor">Tip: Suppressors do no physical damage but are excellent at taking down shields. They can also damage Energy Shields.</text>
+
+<text name="tip_compact">Tip: Compact weapons feed off of power leaks in a system, so they don't need to use any power themselves. Unlike standard conservative weapons, they only charge while the weapon system is powered.</text>
+
+<text name="tip_missile_combat">Tip: Missile drones require a heavy sum of missiles to deploy, but do not consume missiles when they fire.
+
+Tip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered.</text>
+
+<text name="addon_hover_trc">THE RENEGADE COLLECTION
+Currently Enabled.
+Click to see more info.</text>
+
+
+<text name="map_icon_collector">???</text>
+<text name="map_icon_collector_bounty">BOUNTY</text>
+</FTL>

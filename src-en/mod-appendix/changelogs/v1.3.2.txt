@@ -1,0 +1,19 @@
+\\\\\\\\\\\\\\\\
+ BALANCE:
+\\\\\\\\\\\\\\\\
+
+Faucon 2:
+-Cooldown: 18s -> 16s
+-Price: 90 -> 65
+
+Replaced a Scorch pinpoint on Lost Sun cruiser with Firestarter Laser.
+
+Scattershot reload time: 1700 MS -> 1400 MS
+
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed Mutagen mutants broken animations.
+
+Fixed being able to use spider bomb spawns for Clone Cannon and lab upgrade installation.

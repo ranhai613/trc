@@ -1,0 +1,156 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_blueprints.xml.append:2
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_KESTREL_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 케스트렐 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:3
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ENGINEER_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 공병 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:4
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ANGEL_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 죽음의 천사 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:5
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ENGI_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 엔지 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:6
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_OUTCAST_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 망명자 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:7
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ORCHID_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 군락 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:8
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_STEALTH_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 스텔스 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:9
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_FED_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 연방 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:10
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_MANTIS_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 하이브 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:11
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_MONK_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 몽크 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:12
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_PEACE_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 평화유지군 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:13
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SLUG_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 도둑정 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:14
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_LOSTSUN_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 로스트선 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:15
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ROCK_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 신정 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:16
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_LEECH_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 이어젠 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:17
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SCIENTIST_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 과학부 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:18
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_AUTO_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 무인 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:19
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_DYNASTY_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 왕조 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:20
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_BROOD_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 브루드 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:21
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SEPARATIST_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 분리주의자 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:22
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_TUCO_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 투코 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:23
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_LANIUS_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 라니우스 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:24
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_MVREBEL_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 MV 반군 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:25
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SUZERAIN_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 영주 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:26
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_PLEASURE_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 쾌락의 바지선으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:27
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_AUGMENTED_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 증강자 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:28
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_HACKER_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 해커 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:29
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_REBEL_unlock\"]"
+msgstr "이 함선을 해금하려면 아무 버전의 반군 순양함으로 게임을 클리어 하십시오."
+
+#: src-en/data/text_blueprints.xml.append:30
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SYLVAN_unlock\"]"
+msgstr "이 함선을 해금하려면 수집가의 목표물을 모두 처리."
+
+#: src-en/data/text_blueprints.xml.append:31
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_STUPIDGHOST_unlock\"]"
+msgstr "다른 모든 수집가의 함선으로 게임을 클리어 하십시오."
