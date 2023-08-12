@@ -1,0 +1,1801 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:13
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:14
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:16
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:52
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:53
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:55
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:90
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:91
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:93
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:128
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:129
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:131
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:167
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:168
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:170
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:209
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:210
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:212
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:254
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:255
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:257
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:327
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:328
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:330
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:407
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:408
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:410
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:411
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:469
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:470
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:472
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:473
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:531
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:532
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:534
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:535
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:593
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:594
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:596
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:597
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:663
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:664
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:665
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:666
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:708
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:709
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:710
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:769
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:770
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:771
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:831
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:832
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:834
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:864
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:865
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:866
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:904
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:905
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:908
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:950
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:951
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:954
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:997
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:998
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1001
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1058
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1059
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1062
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1103
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1104
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1107
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1150
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1151
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1153
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1204
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1205
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1206
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1231
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1232
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1233
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1266
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1267
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1269
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1270
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1316
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1317
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1319
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1348
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1349
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1351
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1381
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1382
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1384
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1437
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1438
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1439
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1440
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1489
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1490
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1491
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1495
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1496
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1497
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1498
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1522
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1523
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1525
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1571
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1572
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1574
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1618
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1620
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1621
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1624
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1625
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1626
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1627
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1633
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1634
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1636
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1693
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1694
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1695
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1745
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1746
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1747
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1799
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1800
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1801
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1852
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1853
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1854
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1855
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1915
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1916
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1917
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1918
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1978
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1979
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1980
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2035
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2036
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2037
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2108
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2109
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2111
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2112
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2175
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2176
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2177
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2234
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2235
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2237
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2278
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2279
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2280
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2314
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2315
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2317
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2373
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2374
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2375
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2385
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2386
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2387
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2388
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2439
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2440
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2441
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2486
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2487
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2489
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2490
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2544
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2545
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2546
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2592
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2593
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2594
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2595
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2660
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2661
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2662
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2691
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2692
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2693
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2694
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2733
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2734
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2735
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2743
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2744
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2745
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2751
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2752
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2753
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2761
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2762
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2763
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2771
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2772
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2773
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2790
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2791
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2793
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2794
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2861
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2862
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2864
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2865
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2908
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2912
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2913
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2916
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2917
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2918
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2922
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2926
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2927
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2930
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2931
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2932
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2938
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2939
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2940
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3002
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3029
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3061
+msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3062
+msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3063
+msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3076
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3077
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3078
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3091
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_BREACH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3112
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_ION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3136
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3137
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3138
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3153
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3154
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3155
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3171
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3172
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3173
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3204
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3205
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3206
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3221
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DEFENSE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3257
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3258
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3259
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3276
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3277
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3278
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3302
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3303
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3304
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3308
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/powerList/power"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3315
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3316
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3317
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3330
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3331
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3332
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3336
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/powerList/power"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3343
+msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3344
+msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3345
+msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3358
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3359
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3360
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3364
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/powerList/power"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3371
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3372
+msgid ""
+"data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3373
+msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3394
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3395
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3413
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3414
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3416
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3487
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3488
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3490
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3560
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3561
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3563
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3636
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3637
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3639
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3714
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3715
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3717
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3789
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3790
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3792
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3866
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3867
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3869
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3943
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3944
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3946
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4016
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4017
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4019
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4094
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4095
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4097
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4168
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4169
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4171
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4243
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4244
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4246
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4318
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4319
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4321
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4394
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4395
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4397
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4469
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4470
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4472
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4543
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4544
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4546
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4617
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4618
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4620
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4694
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4695
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4697
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4768
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4769
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4771
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4841
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4842
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4844
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4915
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4916
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4918
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4993
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4994
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4996
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5066
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5067
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5069
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5142
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5143
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5145
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5219
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5220
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5222
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5295
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5296
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5298
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5370
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5371
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5373
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5445
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5446
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5448
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5519
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5520
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5522
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5591
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5592
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5594
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/desc"
+msgstr ""
