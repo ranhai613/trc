@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-08-13 12:33+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -342,12 +342,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/title"
-msgstr ""
+msgstr "Рад-луч \"Фокон\" II"
 
 #: src-en/data/blueprints.xml.append:709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/short"
-msgstr ""
+msgstr "\"Фокон\" II"
 
 #: src-en/data/blueprints.xml.append:710
 msgid ""
@@ -357,12 +357,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:769
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/title"
-msgstr ""
+msgstr "Рад-луч \"Фокон\" II†"
 
 #: src-en/data/blueprints.xml.append:770
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/short"
-msgstr ""
+msgstr "\"Фокон\" II†"
 
 #: src-en/data/blueprints.xml.append:771
 msgid ""
@@ -372,12 +372,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/title"
-msgstr ""
+msgstr "Луч \"Бердыш\""
 
 #: src-en/data/blueprints.xml.append:832
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/short"
-msgstr ""
+msgstr "\"Бердыш\""
 
 #: src-en/data/blueprints.xml.append:834
 msgid ""
@@ -387,12 +387,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/title"
-msgstr ""
+msgstr "Луч \"Каги-яри\""
 
 #: src-en/data/blueprints.xml.append:865
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/short"
-msgstr ""
+msgstr "\"Каги-яри\""
 
 #: src-en/data/blueprints.xml.append:866
 msgid ""
@@ -402,12 +402,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/title"
-msgstr ""
+msgstr "Ионный асфиксиатор"
 
 #: src-en/data/blueprints.xml.append:905
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/short"
-msgstr ""
+msgstr "Асфиксион"
 
 #: src-en/data/blueprints.xml.append:908
 msgid ""
@@ -417,12 +417,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/title"
-msgstr ""
+msgstr "Ионный асфиксиатор†"
 
 #: src-en/data/blueprints.xml.append:951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/short"
-msgstr ""
+msgstr "Асфиксион†"
 
 #: src-en/data/blueprints.xml.append:954
 msgid ""
@@ -432,12 +432,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:997
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/title"
-msgstr ""
+msgstr "Ионный бластер \"Бесконечность\""
 
 #: src-en/data/blueprints.xml.append:998
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/short"
-msgstr ""
+msgstr "\"Бесконечность\""
 
 #: src-en/data/blueprints.xml.append:1001
 msgid ""
@@ -447,12 +447,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1058
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/title"
-msgstr ""
+msgstr "Энергетический фазер"
 
 #: src-en/data/blueprints.xml.append:1059
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/short"
-msgstr ""
+msgstr "Энергофазер"
 
 #: src-en/data/blueprints.xml.append:1062
 msgid ""
@@ -462,12 +462,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1103
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/title"
-msgstr ""
+msgstr "Энергетический фазер†"
 
 #: src-en/data/blueprints.xml.append:1104
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/short"
-msgstr ""
+msgstr "Энергофазер†"
 
 #: src-en/data/blueprints.xml.append:1107
 msgid ""
@@ -477,12 +477,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1150
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/title"
-msgstr ""
+msgstr "Энергетический зажигатель"
 
 #: src-en/data/blueprints.xml.append:1151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/short"
-msgstr ""
+msgstr "Энергозажигатель"
 
 #: src-en/data/blueprints.xml.append:1153
 msgid ""
@@ -507,12 +507,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1231
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Поньярд\""
 
 #: src-en/data/blueprints.xml.append:1232
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/short"
-msgstr ""
+msgstr "\"Поньярд\""
 
 #: src-en/data/blueprints.xml.append:1233
 msgid ""
@@ -606,17 +606,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1489
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/desc"
-msgstr ""
+msgstr "Пауки-детеныши."
 
 #: src-en/data/blueprints.xml.append:1490
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/title"
-msgstr ""
+msgstr "Детеныш"
 
 #: src-en/data/blueprints.xml.append:1491
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/short"
-msgstr ""
+msgstr "Детеныш"
 
 #: src-en/data/blueprints.xml.append:1495
 msgid ""
@@ -1281,7 +1281,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3153
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/title"
-msgstr ""
+msgstr "Дрон \"Громоотвод\" [Ион]"
 
 #: src-en/data/blueprints.xml.append:3154
 msgid ""
