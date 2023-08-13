@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-08-13 09:31+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -98,6 +98,8 @@ msgstr "Компактный"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/desc"
 msgstr ""
+"Этот необычный лазер стреляет очень быстро, не потребляет энергии, однако "
+"плохо прицеливается."
 
 #: src-en/data/blueprints.xml.append:209
 msgid ""
