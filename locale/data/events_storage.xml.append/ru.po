@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 06:16+0000\n"
+"PO-Revision-Date: 2023-08-13 06:53+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_storagexmlappend/ru/>\n"
@@ -18,6 +18,8 @@ msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Использовать ионный миномет. [-15}, задерживает флот на 2 прыжка, не влияет "
+"на дурную славу]"
 
 #: src-en/data/events_storage.xml.append:6
 msgid ""
