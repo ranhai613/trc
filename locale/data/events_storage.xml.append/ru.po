@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 04:51+0000\n"
+"PO-Revision-Date: 2023-08-13 06:16+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_storagexmlappend/ru/>\n"
@@ -76,7 +76,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:56
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:58
 msgid ""
@@ -86,12 +86,12 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:61
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:69
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[2]/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:74
 msgid ""
@@ -111,7 +111,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:81
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:83
 msgid ""
@@ -121,12 +121,12 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:86
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:94
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[2]/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:107
 msgid ""
@@ -146,7 +146,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:115
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:117
 msgid ""
@@ -156,7 +156,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:120
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:128
 msgid ""
@@ -171,7 +171,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:133
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:135
 msgid ""
@@ -181,7 +181,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:138
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:146
 msgid ""
@@ -206,7 +206,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:159
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:161
 msgid ""
@@ -216,7 +216,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:164
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:172
 msgid ""
@@ -231,7 +231,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:177
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:179
 msgid ""
@@ -241,7 +241,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:182
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:190
 msgid ""
@@ -266,7 +266,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:203
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:205
 msgid ""
@@ -276,7 +276,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:208
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:216
 msgid ""
@@ -291,7 +291,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:221
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:223
 msgid ""
@@ -301,7 +301,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:226
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_storage.xml.append:234
 msgid ""
