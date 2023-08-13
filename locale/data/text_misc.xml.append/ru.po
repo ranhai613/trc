@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 04:59+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-08-13 06:16+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -16,21 +16,21 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
 msgstr ""
-"Совет: Созданные члены экипажа не учитываются в вашем лимите экипажа, а "
+"Совет: созданные члены экипажа не учитываются в вашем лимите экипажа, а "
 "существуют только временно. Их также нельзя клонировать."
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
 msgstr ""
-"Совет: Изготовленные дроны временно дают преимущества до истечения срока их "
+"Совет: изготовленные дроны временно дают преимущества до истечения срока их "
 "действия."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
 msgstr ""
-"Совет: Противники, пораженные этим оружием, попадают под действие контроля "
+"Совет: противники, пораженные этим оружием, попадают под действие контроля "
 "разума, если он применим. Эффект не наследует бонусы от любой улучшенной "
-"системы Контроля Разума, которую у вас есть."
+"системы Контроля Разума, которая у вас есть."
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
