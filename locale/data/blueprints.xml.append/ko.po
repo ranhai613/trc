@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-08-13 06:16+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/"
+"the-renegade-collection/datablueprintsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -1629,11 +1636,14 @@ msgstr "Voltage"
 #: src-en/data/blueprints.xml.append:3345
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
 msgstr ""
-"연결된 시스템에 상당한 양의 전력을 공급하는 조종 가능한 유틸리티 드론입니다. 하지만 이 드론은 서서히 체력을 잃다가 결국 폭발해 버리고 맙니다. 폭발이 다른 드론보다 불안정하니 조심해서 사용하세요!\n"
+"연결된 시스템에 상당한 양의 전력을 공급하는 조종 가능한 유틸리티 드론입니다. "
+"하지만 이 드론은 서서히 체력을 잃다가 결국 폭발해 버리고 맙니다. 폭발이 다른 "
+"드론보다 불안정하니 조심해서 사용하세요!\n"
 "    \n"
 "-75 HP, 이동 속도 2배\n"
 "-배치된 시스템에 6전력 공급\n"
-"-초당 1hp를 잃고, 폭발 시 4 시스템 피해를 가하고 10%의 확률로 화재를 일으킴\n"
+"-초당 1씩 체력을 잃으며, 폭발 시 4 시스템 피해를 가하고 10%의 확률로 화재를 "
+"일으킴\n"
 "-기절 면역, 회복 불가"
 
 #: src-en/data/blueprints.xml.append:3358
@@ -1669,7 +1679,8 @@ msgstr "Overshield"
 #: src-en/data/blueprints.xml.append:3373
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
-"시스템에서 빨아들인 전력으로 아군에게 방어막을 씌워 모든 종류의 피해를 크게 경감시켜 주는 조종가능한 유틸리티 드론입니다. \n"
+"시스템에서 빨아들인 전력으로 아군에게 방어막을 씌워 모든 종류의 피해를 크게 "
+"경감시켜 주는 조종 가능한 유틸리티 드론입니다. \n"
 "    \n"
 "-50 HP, 이동 속도 0.75배\n"
 "-같은 선실에 위치한 아군에게 방어막을 씌워 75%의 피해를 경감시킴\n"
