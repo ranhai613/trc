@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-08-13 04:51+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/"
+"the-renegade-collection/dataevents_storagexmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_storage.xml.append:4
 msgid ""
@@ -35,19 +42,19 @@ msgstr "(천둥 드론) 드론의 상태를 조정한다. [현재 모드: 이온
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(앰프 레이저) 무기의 동력을 조정한다. [현재 동력: 2]"
 
 #: src-en/data/events_storage.xml.append:32
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(앰프 레이저) 무기의 동력을 조정한다. [현재 동력: 3]"
 
 #: src-en/data/events_storage.xml.append:36
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "(앰프 레이저) 무기의 동력을 조정한다. [현재 동력: 4]"
 
 #: src-en/data/events_storage.xml.append:49
 msgid ""
