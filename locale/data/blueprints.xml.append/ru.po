@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 09:34+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-08-13 09:36+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -115,9 +115,9 @@ msgstr "Легк. импульс"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/desc"
 msgstr ""
-"Хотя он заряжается медленнее, чем стандартный легкий лазер, он выпускает "
-"серию лазерных зарядов в быстрой последовательности для того, чтобы быстро "
-"пробивать щиты."
+"Хотя он заряжается медленнее, чем стандартный Легкий лазер, он выпускает "
+"серию лазерных снарядов в ускоренном темпе, что позволяет быстро разрушать "
+"щиты."
 
 #: src-en/data/blueprints.xml.append:254
 msgid ""
