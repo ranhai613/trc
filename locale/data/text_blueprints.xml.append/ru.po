@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-08-13 06:38+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -91,52 +91,52 @@ msgstr "Пройдите игру на любой версии Иргенско�
 #: src-en/data/text_blueprints.xml.append:17
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SCIENTIST_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии научного крейсера."
 
 #: src-en/data/text_blueprints.xml.append:18
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_AUTO_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии авто-крейсера."
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_DYNASTY_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии крейсера Династии."
 
 #: src-en/data/text_blueprints.xml.append:20
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_BROOD_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии крейсера Выводка."
 
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SEPARATIST_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии крейсера Сепаратистов."
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_TUCO_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии крейсера Туко."
 
 #: src-en/data/text_blueprints.xml.append:23
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_LANIUS_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии крейсера ланиусов."
 
 #: src-en/data/text_blueprints.xml.append:24
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_MVREBEL_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии МВ-крейсера повстанцев."
 
 #: src-en/data/text_blueprints.xml.append:25
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SUZERAIN_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии крейсера Сюзеренов."
 
 #: src-en/data/text_blueprints.xml.append:26
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_PLEASURE_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любой версии баржи удовольствий."
 
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""
