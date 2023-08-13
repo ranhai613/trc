@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 06:16+0000\n"
+"PO-Revision-Date: 2023-08-13 06:36+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -121,12 +121,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:327
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/title"
-msgstr ""
+msgstr "Коллайдер частиц мод. II"
 
 #: src-en/data/blueprints.xml.append:328
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/short"
-msgstr ""
+msgstr "Коллайдер II"
 
 #: src-en/data/blueprints.xml.append:330
 msgid ""
@@ -146,7 +146,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:411
 msgid ""
