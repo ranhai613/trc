@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 06:36+0000\n"
+"PO-Revision-Date: 2023-08-13 06:53+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -21,7 +21,7 @@ msgstr "Зарядный тяжелый лазер"
 #: src-en/data/blueprints.xml.append:14
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/short"
-msgstr ""
+msgstr "Зарядн. тяжелый"
 
 #: src-en/data/blueprints.xml.append:16
 msgid ""
@@ -76,12 +76,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:167
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/title"
-msgstr ""
+msgstr "Компактный лазер"
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/short"
-msgstr ""
+msgstr "Компактный"
 
 #: src-en/data/blueprints.xml.append:170
 msgid ""
@@ -166,7 +166,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:472
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
@@ -186,7 +186,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:534
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:535
 msgid ""
@@ -206,7 +206,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:596
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:597
 msgid ""
@@ -225,7 +225,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:665
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:666
 msgid ""
@@ -425,7 +425,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:1270
 msgid ""
@@ -489,7 +489,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1439
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:1440
 msgid ""
@@ -559,7 +559,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1574
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:1618
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/desc"
@@ -666,7 +666,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1854
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:1855
 msgid ""
@@ -686,7 +686,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:1918
 msgid ""
@@ -733,7 +733,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2111
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2112
 msgid ""
@@ -783,7 +783,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2280
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2314
 msgid ""
@@ -813,7 +813,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2375
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
 #: src-en/data/blueprints.xml.append:2385
 msgid ""
@@ -827,7 +827,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2387
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2388
 msgid ""
@@ -861,7 +861,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2490
 msgid ""
@@ -893,7 +893,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2594
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2595
 msgid ""
@@ -925,7 +925,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2693
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2694
 msgid ""
@@ -942,7 +942,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2735
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2743
 msgid ""
@@ -956,7 +956,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2745
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2751
 msgid ""
@@ -971,7 +971,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2761
 msgid ""
@@ -985,7 +985,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2763
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2771
 msgid ""
@@ -1000,7 +1000,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2773
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2790
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/title"
@@ -1012,7 +1012,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2793
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2794
 msgid ""
@@ -1032,7 +1032,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2865
 msgid ""
@@ -1198,7 +1198,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3173
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:3204
 msgid ""
@@ -1249,6 +1249,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/desc"
 msgstr ""
+"ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ\n"
+"\tПерезарядка: 1700 МС"
 
 #: src-en/data/blueprints.xml.append:3302
 msgid ""
@@ -1263,7 +1265,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3304
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:3308
 msgid ""
@@ -1295,7 +1297,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3332
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
 #: src-en/data/blueprints.xml.append:3336
 msgid ""
@@ -1327,7 +1329,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3360
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
 #: src-en/data/blueprints.xml.append:3364
 msgid ""
