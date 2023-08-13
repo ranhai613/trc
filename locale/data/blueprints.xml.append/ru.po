@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 09:30+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-08-13 09:31+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -62,6 +62,9 @@ msgstr "Лазер с усилителем [3]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/desc"
 msgstr ""
+"[ТЕКУЩАЯ МОЩНОСТЬ: 3] Потенциально сильный лазер, мощность которого может "
+"быть изменена до или во время боя для изменения наносимого им урона. "
+"Увеличение мощности также увеличивает время перезарядки."
 
 #: src-en/data/blueprints.xml.append:128
 msgid ""
@@ -77,6 +80,9 @@ msgstr "Лазер с усилителем [4]"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/desc"
 msgstr ""
+"[ТЕКУЩАЯ МОЩНОСТЬ: 4] Потенциально сильный лазер, мощность которого может "
+"быть изменена до или во время боя для изменения наносимого им урона. "
+"Увеличение мощности также увеличивает время перезарядки."
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
