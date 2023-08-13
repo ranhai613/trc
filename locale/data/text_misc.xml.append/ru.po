@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 06:53+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-08-13 07:30+0000\n"
+"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -16,8 +16,8 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
 msgstr ""
-"Совет: созданные члены экипажа не учитываются в вашем лимите экипажа, а "
-"существуют только временно. Их также нельзя клонировать."
+"Совет: созданные члены экипажа не учитываются в вашем лимите экипажа, но "
+"существуют ограниченный период времени. Их также нельзя клонировать."
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
