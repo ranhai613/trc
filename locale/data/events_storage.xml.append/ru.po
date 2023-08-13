@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-08-13 07:30+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -46,19 +46,19 @@ msgstr ""
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Лазер с усилителем) Настроить режим дрона. [Текущая мощность: 2]"
 
 #: src-en/data/events_storage.xml.append:32
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Лазер с усилителем) Настроить режим дрона. [Текущая мощность: 3]"
 
 #: src-en/data/events_storage.xml.append:36
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "(Лазер с усилителем) Настроить режим дрона. [Текущая мощность: 4]"
 
 #: src-en/data/events_storage.xml.append:49
 msgid ""
@@ -68,7 +68,7 @@ msgstr "Вы уверены, что хотите изменить настрой
 #: src-en/data/events_storage.xml.append:51
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить дрон в режим ионной бомбы."
 
 #: src-en/data/events_storage.xml.append:53
 msgid ""
@@ -103,7 +103,7 @@ msgstr "Вы уверены, что хотите изменить настрой
 #: src-en/data/events_storage.xml.append:76
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить дрон в режим пробойной бомбы."
 
 #: src-en/data/events_storage.xml.append:78
 msgid ""
@@ -134,11 +134,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/text"
 msgstr ""
+"На какую силу вы хотите настроить оружие?\n"
+"\tТекущая характеристика: [урон: 2, перезарядка: 6]"
 
 #: src-en/data/events_storage.xml.append:110
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить оружие на мощность 3. [урон: 4, перезарядка: 9]"
 
 #: src-en/data/events_storage.xml.append:112
 msgid ""
@@ -163,7 +165,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:128
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить оружие на мощность 4. [урон: 6, перезарядка: 12]"
 
 #: src-en/data/events_storage.xml.append:130
 msgid ""
@@ -188,17 +190,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:146
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[3]/text"
-msgstr ""
+msgstr "Вернуться в меню переключения."
 
 #: src-en/data/events_storage.xml.append:151
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/text"
 msgstr ""
+"На какую силу вы хотите настроить оружие?\n"
+"\tТекущая характеристика: [урон: 4, перезарядка: 9]"
 
 #: src-en/data/events_storage.xml.append:154
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить оружие на мощность 2. [урон: 2, перезарядка: 6]"
 
 #: src-en/data/events_storage.xml.append:156
 msgid ""
@@ -223,7 +227,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:172
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить оружие на мощность 4. [урон: 6, перезарядка: 12]"
 
 #: src-en/data/events_storage.xml.append:174
 msgid ""
@@ -248,17 +252,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:190
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[3]/text"
-msgstr ""
+msgstr "Вернуться в меню переключения."
 
 #: src-en/data/events_storage.xml.append:195
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/text"
 msgstr ""
+"На какую силу вы хотите настроить оружие?\n"
+"\tТекущая характеристика: [урон: 6, перезарядка: 12]"
 
 #: src-en/data/events_storage.xml.append:198
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить оружие на мощность 2. [урон: 2, перезарядка: 6]"
 
 #: src-en/data/events_storage.xml.append:200
 msgid ""
@@ -283,7 +289,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:216
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить оружие на мощность 3. [урон: 4, перезарядка: 9]"
 
 #: src-en/data/events_storage.xml.append:218
 msgid ""
@@ -308,4 +314,4 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:234
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[3]/text"
-msgstr ""
+msgstr "Вернуться в меню переключения."
