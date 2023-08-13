@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 06:16+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-08-13 09:28+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -33,21 +33,52 @@ msgstr ""
 #: src-en/data/events.xml.append:20
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/text"
 msgstr ""
+"Любопытно, что сигнал, передаваемый здесь, почему-то виден только вам. Через "
+"несколько мгновений после вашего появления он исчезает, а вскоре и само "
+"пространство вокруг вас как бы сжимается, а затем замирает. Странный корабль "
+"просто появляется рядом с вами, не разворачиваясь и не прыгая внутрь.\n"
+"\t\n"
+"Корабль вызывает вас, и на другом конце оказывается странно одетый слизень. "
+"Он почти похож на странствующего торговца... но... это не имеет никакого "
+"смысла? \"Сссстранник! П-прииииииветссствую! Я знаю, что ты, должно быть, "
+"очень, очень рассстерян, и я бы, конечно, ссс удовольссствием ответил на "
+"всссе твои вопросссы! Но у меня так мало времени...\""
 
 #: src-en/data/events.xml.append:26
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/text"
-msgstr ""
+msgstr "Эм, ты кто?"
 
 #: src-en/data/events.xml.append:28
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/text"
 msgstr ""
+"\"Меня называют коллекционером, сссстранник. 'отому что я... коллекционирую. "
+"Вещщщи. Хех. О-о, но, видите ли, у меня есссть небольшшшая проблема. А я "
+"слышшшал, что вы умеете решшшать проблемы! Мне подсказал я... эээ... мой "
+"друг! Говорит, ты как раз подходишшшь для этой работы\".\n"
+"\t\t\t\n"
+"\t\t\tСлизень явно чувствует себя неуютно. Он немного ползает, двигая глаза "
+"вперед и назад. \"В общщщем, п-поссслушай, сссстранник. Я не... Я не д'лжен "
+"тебе это расссссказыват'. Торговая тайна и всссе такое. Я работал на "
+"влиятельных людей, и они не очень-то хотят, чтобы ваши типы узнал' о них. "
+"Сссейчассс я бы сссказал, что называт' меня каким-то... "
+"межпросссстрансссственным беглецом, ссскрывающщщимссся от бога, - это "
+"преувеличение, но... ну, это тоже недалеко от иссстины\".\n"
+"\t\t\t\n"
+"\t\t\tСлизень заставляет себя усмехнуться. \"Есссли вы не заметили, то не "
+"так давно из ниоткуда появиласссь куча нового оборудования. Это... возможно, "
+"моя зассслуга. Я как бы... заключил сссделку ссс дьяволом, так сссказать. "
+"'олько этот дьявол не из тех, кто играе' в фокусссы. Я просссто хотел "
+"заполучить некоторые... чужие технологии, но теперь я сссоздал сссвоего рода "
+"межпросссстрансссственную утечку. Хехе. Хе. Да, это не так уж и сссмешшшно. "
+"Вообщщще-то, мы всссе в полной заднице. Я очень сссильно облажалссся в этом "
+"деле\"."
 
 #: src-en/data/events.xml.append:35
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Что ты имеешь в виду под межпространственной утечкой?"
 
 #: src-en/data/events.xml.append:37
 msgid ""
@@ -102,7 +133,7 @@ msgstr ""
 #: src-en/data/events.xml.append:91
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/event/choice/text"
-msgstr ""
+msgstr "Что ты имеешь в виду?"
 
 #: src-en/data/events.xml.append:93
 msgid ""
@@ -122,7 +153,7 @@ msgstr ""
 #: src-en/data/events.xml.append:109
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[8]/text"
-msgstr ""
+msgstr "Отказаться."
 
 #: src-en/data/events.xml.append:111
 msgid ""
@@ -145,7 +176,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:142
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "Связаться с Коллекционером."
 
 #: src-en/data/events.xml.append:144
 msgid ""
@@ -158,7 +189,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:165
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/text"
-msgstr ""
+msgstr "Связаться с кораблем."
 
 #: src-en/data/events.xml.append:167
 msgid ""
@@ -237,12 +268,12 @@ msgstr ""
 #: src-en/data/events.xml.append:217
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-либо на корабле."
 
 #: src-en/data/events.xml.append:221
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать."
 
 #: src-en/data/events.xml.append:236
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/text"
@@ -251,7 +282,7 @@ msgstr ""
 #: src-en/data/events.xml.append:240
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "Связаться с Коллекционером."
 
 #: src-en/data/events.xml.append:242
 msgid ""
@@ -265,7 +296,7 @@ msgstr ""
 #: src-en/data/events.xml.append:255
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/text"
-msgstr ""
+msgstr "Связаться с кораблем."
 
 #: src-en/data/events.xml.append:257
 msgid ""
@@ -345,12 +376,12 @@ msgstr ""
 #: src-en/data/events.xml.append:307
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-либо на корабле."
 
 #: src-en/data/events.xml.append:311
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать."
 
 #: src-en/data/events.xml.append:326
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/text"
@@ -358,7 +389,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:330
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "Связаться с Коллекционером."
 
 #: src-en/data/events.xml.append:332
 msgid ""
@@ -371,7 +402,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:345
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/text"
-msgstr ""
+msgstr "Связаться с кораблем."
 
 #: src-en/data/events.xml.append:347
 msgid ""
@@ -440,12 +471,12 @@ msgstr ""
 #: src-en/data/events.xml.append:391
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-либо на корабле."
 
 #: src-en/data/events.xml.append:395
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать."
 
 #: src-en/data/events.xml.append:410
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/text"
@@ -453,7 +484,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:414
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "Связаться с Коллекционером."
 
 #: src-en/data/events.xml.append:416
 msgid ""
@@ -466,7 +497,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:429
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/text"
-msgstr ""
+msgstr "Связаться с кораблем."
 
 #: src-en/data/events.xml.append:431
 msgid ""
@@ -545,12 +576,12 @@ msgstr ""
 #: src-en/data/events.xml.append:479
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-либо на корабле."
 
 #: src-en/data/events.xml.append:483
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать."
 
 #: src-en/data/events.xml.append:498
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/text"
@@ -559,7 +590,7 @@ msgstr ""
 #: src-en/data/events.xml.append:502
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "Связаться с Коллекционером."
 
 #: src-en/data/events.xml.append:504
 msgid ""
@@ -573,7 +604,7 @@ msgstr ""
 #: src-en/data/events.xml.append:517
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/text"
-msgstr ""
+msgstr "Связаться с кораблем."
 
 #: src-en/data/events.xml.append:519
 msgid ""
@@ -633,12 +664,12 @@ msgstr ""
 #: src-en/data/events.xml.append:555
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-либо на корабле."
 
 #: src-en/data/events.xml.append:559
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать."
 
 #: src-en/data/events.xml.append:574
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/text"
@@ -715,9 +746,9 @@ msgstr ""
 #: src-en/data/events.xml.append:634
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-либо на корабле."
 
 #: src-en/data/events.xml.append:638
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать."
