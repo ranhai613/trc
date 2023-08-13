@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 06:53+0000\n"
+"PO-Revision-Date: 2023-08-13 07:30+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_storagexmlappend/ru/>\n"
@@ -63,7 +63,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:49
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_storage.xml.append:51
 msgid ""
@@ -73,7 +73,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:53
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы начинаете калибровку дрона..."
 
 #: src-en/data/events_storage.xml.append:56
 msgid ""
@@ -83,7 +83,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:58
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Вы успешно завершаете калибровку дрона."
 
 #: src-en/data/events_storage.xml.append:61
 msgid ""
@@ -98,7 +98,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:74
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_storage.xml.append:76
 msgid ""
@@ -108,7 +108,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:78
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы начинаете калибровку дрона..."
 
 #: src-en/data/events_storage.xml.append:81
 msgid ""
@@ -118,7 +118,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:83
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Вы успешно завершаете калибровку дрона."
 
 #: src-en/data/events_storage.xml.append:86
 msgid ""
@@ -143,7 +143,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:112
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы начинаете калибровку оружия..."
 
 #: src-en/data/events_storage.xml.append:115
 msgid ""
@@ -153,7 +153,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:117
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Вы успешно завершили калибровку оружия."
 
 #: src-en/data/events_storage.xml.append:120
 msgid ""
@@ -168,7 +168,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:130
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы начинаете калибровку оружия..."
 
 #: src-en/data/events_storage.xml.append:133
 msgid ""
@@ -178,7 +178,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:135
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "Вы успешно завершили калибровку оружия."
 
 #: src-en/data/events_storage.xml.append:138
 msgid ""
@@ -203,7 +203,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:156
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы начинаете калибровку оружия..."
 
 #: src-en/data/events_storage.xml.append:159
 msgid ""
@@ -213,7 +213,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:161
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Вы успешно завершили калибровку оружия."
 
 #: src-en/data/events_storage.xml.append:164
 msgid ""
@@ -228,7 +228,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:174
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы начинаете калибровку оружия..."
 
 #: src-en/data/events_storage.xml.append:177
 msgid ""
@@ -238,7 +238,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:179
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "Вы успешно завершили калибровку оружия."
 
 #: src-en/data/events_storage.xml.append:182
 msgid ""
@@ -263,7 +263,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:200
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы начинаете калибровку оружия..."
 
 #: src-en/data/events_storage.xml.append:203
 msgid ""
@@ -273,7 +273,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:205
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Вы успешно завершили калибровку оружия."
 
 #: src-en/data/events_storage.xml.append:208
 msgid ""
@@ -288,7 +288,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:218
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы начинаете калибровку оружия..."
 
 #: src-en/data/events_storage.xml.append:221
 msgid ""
@@ -298,7 +298,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:223
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "Вы успешно завершили калибровку оружия."
 
 #: src-en/data/events_storage.xml.append:226
 msgid ""
