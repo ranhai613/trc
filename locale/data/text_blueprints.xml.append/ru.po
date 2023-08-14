@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 06:53+0000\n"
-"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
+"PO-Revision-Date: 2023-08-15 12:05+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -21,7 +21,7 @@ msgstr "Пройдите игру на любой версии крейсера 
 #: src-en/data/text_blueprints.xml.append:3
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ENGINEER_unlock\"]"
-msgstr "Пройдите игру на любой версии крейсера Инженеров."
+msgstr "Пройдите игру на любой версии инженерного крейсера."
 
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
