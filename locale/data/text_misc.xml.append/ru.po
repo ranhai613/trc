@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 07:30+0000\n"
+"PO-Revision-Date: 2023-08-15 12:05+0000\n"
 "Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_miscxmlappend/ru/>\n"
@@ -41,6 +41,8 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
 msgstr ""
+"Совет: концентраторы получают прибавку к своим характеристикам за каждый "
+"накопленный заряд вместо увеличения количества снарядов за выстрел."
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
