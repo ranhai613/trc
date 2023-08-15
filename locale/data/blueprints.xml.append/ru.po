@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-15 16:13+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-08-16 17:05+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1729,7 +1729,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4694
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/class"
-msgstr "Коллекционерский Призрачный крейсер"
+msgstr "Коллекционерский призрачный крейсер"
 
 #: src-en/data/blueprints.xml.append:4695
 msgid ""
