@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 06:16+0000\n"
+"PO-Revision-Date: 2023-08-17 06:59+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataautoblueprintsxmlappend/ru/>\n"
@@ -27,6 +27,7 @@ msgstr ""
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_1\"]/class"
 msgstr ""
+"Дальний патрульный бомбардировщик класса \"Рысь\" Объединенной Федерации"
 
 #: src-en/data/autoBlueprints.xml.append:1173
 msgid ""
