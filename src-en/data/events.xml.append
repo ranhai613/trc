@@ -159,7 +159,7 @@
 	U.F.P.F.T.S.O.A.C.A.P. - United Federation Protocol For The Safety of All Citizens and Personnel
 	D.S.I.C.O.E. - Distress Signal in Case of Emergency
 	-->
-	<text>You're a bit taken aback to see a Federation bomber nearby. You frantically double check your coordinates to make sure you're in the right place, while the ship approaches. Something strikes you as peculiar - its coloring is the inverse of standard Federation livery.</text>
+	<text>You're a bit taken aback to see a Federation Bomber nearby. You frantically double check your coordinates to make sure you're in the right place, while the ship approaches. Something strikes you as peculiar - its coloring is the inverse of standard Federation livery.</text>
 	<ship load="SHIP_ANOM_FED" hostile="false"/>
 	<choice hidden="true">
 		<text>Hail the vessel.</text>
@@ -176,13 +176,13 @@
 							<choice hidden="true">
 								<text>Oh, like the no-cloning laws?</text>
 								<event>
-									<text>"The... what? Oh dear. It appears our engineer's theory that we've entered an alternate reality is correct. The Federation... your Federation has prohibited cloning? But how then did you defeat the Rebellion? The clone army was instrumental in our campaigns against the formation of the Final Dominion of United Space during Operation F.A.L.T.T.R. and the overthowal of Supreme Empress Nights."
+									<text>"The... what? Oh dear. It appears our engineer's theory that we've entered an alternate reality is correct. The Federation... your Federation has prohibited cloning? But how then did you defeat the Rebellion? The clone army was instrumental in our campaigns against the formation of the Final Dominion of United Space during Operation F.A.L.T.T.R. and the overthrowal of Supreme Empress Nights."
 
 									The captain crumples to the ground. "This is just... highly unpleasant. On the eve of my ascension to the Third Admiralty to be sucked away and cast into this alternate hellscape where the Rebellion remains alive, coffee isn't subsidized, and the ships don't even come with space suits! I can only reach the conclusion that if your Federation is this disorganized that it must be doomed to fail. Get out of my way, barbarian. If your Federation is as compromised as I believe, then we will seek a more useful ally in this reality. Over."</text>
 									<choice hidden="true">
 										<text>Attack the anomaly.</text>
 										<event>
-											<text>The Federation ship's already cut comms, so you order your crew to combat positions. Lets hope whatever this alternate-Federation has to offer doesn't outmatch your guns.</text>
+											<text>The Federation ship's already cut comms, so you order your crew to combat positions. Let's hope whatever this alternate-Federation has to offer doesn't outmatch your guns.</text>
 											<ship hostile="true"/>
 											<choice hidden="true">
 												<text>Continue...</text>
@@ -262,7 +262,7 @@
 					<choice hidden="true">
 						<text>Who? What?</text>
 						<event>
-							<text>The Zoltan stares blanky, then suddenly snaps to some sort of recognition. "Oh right, yes. We observed this ignorance in our studies but were not quite certain we'd proved the hypothesis. So it is true then? Truly you know nothing of his holiness? Of the great Prime?! Oh, misery. I suppose it could not have been you who originated the time dilation sphere we are yet trapped in. Nay, most certainly not."
+							<text>The Zoltan stares blankly, then suddenly snaps to some sort of recognition. "Oh right, yes. We observed this ignorance in our studies but were not quite certain we'd proved the hypothesis. So it is true then? Truly you know nothing of his holiness? Of the great Prime?! Oh, misery. I suppose it could not have been you who originated the time dilation sphere we are yet trapped in. Nay, most certainly not."
 							
 							The Zoltan paces back and forth. "Of course. Prime must have decided this himself. Some sort of protection, perhaps? But... protection for who? The cluster? Or himself?"</text>
 							<choice hidden="true">
@@ -589,6 +589,10 @@
 	<beaconType id="map_icon_collector_bounty" global="true">
 		<color r="85" g="100" b="0" a="1"/>
 	</beaconType>
+	<quest>
+		<nebulaBeacon>false</nebulaBeacon>
+		<createNebula>false</createNebula>
+	</quest>
 	<preventFleet/>
 	<img planet="PLANET_PROBE"/>
 	<text>You've arrived at the location. A small green Auto-ship can be seen in the distance - an unusually shaped hacking pod is attached to the exterior. The drone appears unarmed and is relatively small - meaning it likely poses no real threat.</text>

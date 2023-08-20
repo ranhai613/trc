@@ -5,24 +5,24 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/hyperspace.xml.append:952
+#: src-en/data/hyperspace.xml.append:953
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/buttonText"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:953
+#: src-en/data/hyperspace.xml.append:954
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1107
+#: src-en/data/hyperspace.xml.append:1109
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_EXTINGUISHER\"]/tooltipName"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1111
+#: src-en/data/hyperspace.xml.append:1113
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1115
+#: src-en/data/hyperspace.xml.append:1117
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
 msgstr ""

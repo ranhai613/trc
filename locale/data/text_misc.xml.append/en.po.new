@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:2
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
+msgstr ""
+"Tip: Spawned crew do not count towards your crew cap, but only last "
+"temporarily. They cannot be cloned either."
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
+msgstr ""
+"Tip: Fabricated drones will temporarily provide benefits before expiring."
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
+msgstr ""
+"Tip: Enemies struck by this weapon will fall under the effects of mind "
+"control if applicable. The effect will not inherit the bonuses from any "
+"upgraded Mind Control system you may own."
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
+msgstr ""
+"Tip: Decoys will do no physical damage to the enemy ship but will distract "
+"Defense drones and blind enemy crew."
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
+msgstr ""
+"Tip: Magnifiers gain increased bonuses to their stats for each additional "
+"charge instead of more projectiles."
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
+msgstr ""
+"Tip: Cascading weapons will deal certain kinds of damage to all adjacent "
+"rooms. They do not affect diagonally connected rooms."
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
+msgstr ""
+"Tip: Fissure Beams deal system damage by tile rather than by room. This "
+"means larger rooms are more vulnerable to their effects!"
+
+#: src-en/data/text_misc.xml.append:16
+msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
+msgstr ""
+"Tip: Suppressors do no physical damage but are excellent at taking down "
+"shields. They can also damage Energy Shields."
+
+#: src-en/data/text_misc.xml.append:18
+msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
+msgstr ""
+"Tip: Compact weapons feed off of power leaks in a system, so they don't need"
+" to use any power themselves. Unlike standard conservative weapons, they "
+"only charge while the weapon system is powered."
+
+#: src-en/data/text_misc.xml.append:20
+msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
+msgstr ""
+"Tip: Missile drones require a heavy sum of missiles to deploy, but do not consume missiles when they fire.\n"
+"\n"
+"Tip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered."
+
+#: src-en/data/text_misc.xml.append:24
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
+msgstr ""
+"THE RENEGADE COLLECTION\n"
+"Currently Enabled.\n"
+"Click to see more info."
+
+#: src-en/data/text_misc.xml.append:29
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
+msgstr "???"
+
+#: src-en/data/text_misc.xml.append:30
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
+msgstr "BOUNTY [!]"

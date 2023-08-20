@@ -684,71 +684,71 @@ msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:594
-msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
-msgstr ""
-
-#: src-en/data/events.xml.append:596
-msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/text"
-msgstr ""
-
 #: src-en/data/events.xml.append:598
-msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/text"
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:600
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:602
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:604
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:606
 msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:610
+msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:608
+#: src-en/data/events.xml.append:612
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:613
+#: src-en/data/events.xml.append:617
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:615
+#: src-en/data/events.xml.append:619
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:618
+#: src-en/data/events.xml.append:622
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events.xml.append:630
+#: src-en/data/events.xml.append:634
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:632
+#: src-en/data/events.xml.append:636
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:634
+#: src-en/data/events.xml.append:638
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events.xml.append:638
+#: src-en/data/events.xml.append:642
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[2]/text"
 msgstr "Ничего не делать."

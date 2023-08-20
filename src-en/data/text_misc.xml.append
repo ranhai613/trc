@@ -27,5 +27,5 @@ Click to see more info.</text>
 
 
 <text name="map_icon_collector">???</text>
-<text name="map_icon_collector_bounty">BOUNTY</text>
+<text name="map_icon_collector_bounty">BOUNTY [!]</text>
 </FTL>

@@ -415,7 +415,6 @@
 		Charge Time: 11 seconds
 		Accuracy Bonus: +10%
 
-		Shots Per Charge: 1
 		Max Charges: 3
 		Cooldown Reduction: 0/30/69%
 		
@@ -477,7 +476,6 @@
 		Charge Time: 13 seconds
 		Accuracy Bonus: +10%
 
-		Shots Per Charge: 1
 		Max Charges: 4
 		Cooldown Reduction: 0/50/125/187.5%
 		
@@ -536,10 +534,9 @@
 
 		Stats:
 		Required Power: 2
-		Charge Time: 8 seconds
+		Charge Time: 9 seconds
 		Accuracy Bonus: +10%
 
-		Shots Per Charge: 1
 		Max Charges: 4
 		Shield Piercing: 1/2/3/4
 		Cooldown Reduction: 0/50/125/187.5%
@@ -601,7 +598,6 @@
 		Charge Time: 6 seconds
 		Accuracy Bonus: +10%
 
-		Shots Per Charge: 1
 		Max Charges: 4
 		Ion Damage: 1/2/3/4
 		Cooldown Reduction: 0/10/21/32.1%
@@ -1437,7 +1433,7 @@
 	<title>Deployment Bomb</title>
 	<short>Deploy B.</short>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>Self-teleporting device that deploys a repair drone on your ship. Costs a drone part instead of a missile to fire, but the resulting drone will consume no power. Lasts 90 seconds. Can (AND SHOULD) be used to target your own ship.
+	<descriptionOverride>Self-teleporting device that deploys a repair drone on your ship. Costs a drone part instead of a missile to fire, but the resulting drone will consume no power and last 90 seconds. Can (AND SHOULD) be used to target your own ship.
 
 		Stats:
 		Requires no power
@@ -1744,7 +1740,27 @@
 	<tip>tip_frost</tip>
 	<title>'Boreas' Missiles</title>
 	<short>'Boreas'</short>
-	<desc>A heavy hitting Missile weapon that locks down rooms on contact.</desc>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<descriptionOverride>A heavy hitting Missile weapon that locks down rooms on contact.
+
+		Stats:
+		Required Power: 2
+		Charge Time: 14 seconds
+		Missile Consumption: 1
+		Accuracy Bonus: 10%
+
+		Shots Per Charge: 1
+		
+		Base Hull Damage: 3
+		Total System Damage: 3
+		Total Crew Damage: 60
+		Shield Piercing: 10
+
+		Locks down rooms on hit
+		Stun Chance: 100% (5 seconds long)
+		
+		Buy/Sell Price: 65~/32~
+	</descriptionOverride>
 	<tooltip>Fires 1 missile; does 3 damage; pierces all shields.</tooltip>
 	<damage>3</damage>
 	<persDamage>1</persDamage>
@@ -2607,7 +2623,7 @@
 		Mind Control Duration: 45 seconds
 		
 		Fire Chance 10%
-		Breach Chance: 20% (Adjusted: 18%)
+		Breach Chance: 20%
 
 		Buy/Sell Price: 125~/62~
 	</descriptionOverride>
@@ -3390,7 +3406,7 @@
 ********************************************************************************************************************************************************************************************************************************************												 
 ********************************************************************************************************************************************************************************************************************************************
 -->
-<augBlueprint name="EX_LAB_ENGI_COMBAT">
+<augBlueprint name="EX_LAB_ENGI_COMBAT"> <!--remove in 5.4-->
 	<title>[L] Combat Systems</title>
 	<desc>Engi crew gain standard combat damage and 10 health, but lose 25% of their repair speed.
 	
@@ -5053,6 +5069,7 @@
 	<droneSlots>2</droneSlots>
 	<weaponList missiles="0" count="4">
 		<weapon name="TRC_SHOTGUN_FROST" />
+		<weapon name="TRC_FLARE_LAUNCHER" />
 	</weaponList>
 	<droneList drones="6" count="2" />
 	<health amount="30" />

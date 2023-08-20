@@ -794,18 +794,18 @@ msgstr ""
 "\t\t\t\n"
 "\t\t\t\"이 탐싸쩡은... 확씰히 씬기한 물건이에요. 찌금 파괴하기엔 아깝단 말이쬬. 여가 씨간에 더 연구해 봐야게써요. 그리고, 당씬이 쓴 씨간을 가치 있게 만들어 드리기 위해 특별한 썬물을 쭌비해씁니다. 이거쓴 쩨가... 은유쩍으로 영혼을 팔았던 무기의 복쩨품입니다. 우리가 이 찌경에 빠찐 원인이쬬. 짤 싸용하쎄요, 낯썬이. 부짝용이 없기를 바랄게요.\""
 
-#: src-en/data/events.xml.append:594
+#: src-en/data/events.xml.append:598
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
 msgstr ""
 "목적지에 도착했습니다. 저 멀리 작은 녹색 무인기가 보입니다. 외부에 특이한 형태의 해킹 포드가 달려 있습니다. 비무장 상태로 보이고 "
 "상대적으로 작아 실제 위협이 될 것 같지는 않습니다."
 
-#: src-en/data/events.xml.append:596
+#: src-en/data/events.xml.append:600
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/text"
 msgstr "탐사정에 접근한다."
 
-#: src-en/data/events.xml.append:598
+#: src-en/data/events.xml.append:602
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/text"
 msgstr ""
@@ -813,12 +813,12 @@ msgstr ""
 "****요? 응답해********. 비** 메시지 ****다!\" 군데군데 소리가 끊기고, 그나마 들리는 부분도 왜곡되고 음량이 "
 "제멋대로라 무슨 말을 하는지 알아듣기 어렵습니다."
 
-#: src-en/data/events.xml.append:600
+#: src-en/data/events.xml.append:604
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/text"
 msgstr "듣고 있습니다. 어느 정도는요."
 
-#: src-en/data/events.xml.append:602
+#: src-en/data/events.xml.append:606
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/text"
 msgstr ""
@@ -826,12 +826,12 @@ msgstr ""
 "\t\t\t\t\t\n"
 "\t\t\t\t\t메시지는 갑자기 끝났고 정적만이 남았습니다. 당신은 통신이 다시 연결되기를 바라며 컴퓨터를 만지작거립니다. 불행히도, 문제가 해결될 것 같지는 않습니다. 당신은 조금이라도 알아들을 수 있던 부분을 최대한 적어보지만, 그럼에도 메시지의 의미를 전혀 알 수 없습니다."
 
-#: src-en/data/events.xml.append:606
+#: src-en/data/events.xml.append:610
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/text"
 msgstr "포기하고 통신을 끊는다."
 
-#: src-en/data/events.xml.append:608
+#: src-en/data/events.xml.append:612
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
@@ -839,39 +839,39 @@ msgstr ""
 "\t\t\t\t\t\t\t\n"
 "\t\t\t\t\t\t\t그러는 동안 쑤찝가한테써 짱거리 메씨찌가 와씁니다. \"낯썬이, 쌍황이... 쫗찌 않아요. 쩨 고용쭈가 우리를 차쯘 것 같아요! 아니, 아니찌, 쩔 차쯘 건 아니에요. 쩍어도 찌금은 말이쬬. 휴! 하찌만 당씬은 반드씨 이 무인기를 멈춰야 해요. 그러찌 않으면 쩨 고용쭈에게 보고가 올라가써, 모든 거씨 위험에 처할 거예요!"
 
-#: src-en/data/events.xml.append:613
+#: src-en/data/events.xml.append:617
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "탐사정을 지키고 무인기를 공격한다."
 
-#: src-en/data/events.xml.append:615
+#: src-en/data/events.xml.append:619
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr "\"다수의 이상현상 및 적대적 함선의 접근 감지. 검역 조치를 시작합니다.\""
 
-#: src-en/data/events.xml.append:618
+#: src-en/data/events.xml.append:622
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events.xml.append:630
+#: src-en/data/events.xml.append:634
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/text"
 msgstr "떠난다 - 뭔가 이상하다."
 
-#: src-en/data/events.xml.append:632
+#: src-en/data/events.xml.append:636
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/text"
 msgstr ""
 "이게 뭔지는 모르겠지만, 뭔가... 이상한 느낌이 듭니다. 당신은 탐사정과 거리를 두고 떠날 준비를 합니다. 수집가는 이 이상현상을 "
 "해결할 다른 사람을 찾아야 할 것입니다."
 
-#: src-en/data/events.xml.append:634
+#: src-en/data/events.xml.append:638
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[1]/text"
 msgstr "함선에서 무언가를 한다."
 
-#: src-en/data/events.xml.append:638
+#: src-en/data/events.xml.append:642
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[2]/text"
 msgstr "아무것도 하지 않는다."

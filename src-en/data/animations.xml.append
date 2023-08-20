@@ -119,6 +119,13 @@
 	<time>1.00</time>
 </anim>
 
+<animSheet name="decoy" w="24" h="24" fw="24" fh="24">projectiles/decoy.png</animSheet>
+<anim name="decoy">
+	<sheet>decoy</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>0.3</time>
+</anim>
+
 <animSheet name="systemshock_ball" w="30" h="30" fw="30" fh="30">projectiles/systemshock_ball.png</animSheet>
 <anim name="systemshock_ball">
 	<sheet>systemshock_ball</sheet>

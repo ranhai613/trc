@@ -1,0 +1,29 @@
+\\\\\\\\\\\\\\\\
+FEATURES:
+\\\\\\\\\\\\\\\\
+
+Added the addon's gear for sale in the Wallace store.
+
+\\\\\\\\\\\\\\\\
+CHANGES:
+\\\\\\\\\\\\\\\\
+
+Clone soldiers and hatchling temporary spawns no longer trigger "You'll leave crew behind" if you try to leave them on the enemy ship. (Requires HS 1.8)
+
+\\\\\\\\\\\\\\\\
+BALANCE:
+\\\\\\\\\\\\\\\\
+
+
+
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed typos.
+
+Fixed Pierce Mag cooldown not matching its description.
+
+Removed misleading "Shots per charge" stat display on Magnifier weapons.
+
+Fixed Drone Booster not upgrading spawned Repair drones if internalized.

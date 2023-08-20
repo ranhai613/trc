@@ -13,26 +13,26 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.16.4\n"
 
-#: src-en/data/hyperspace.xml.append:952
+#: src-en/data/hyperspace.xml.append:953
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/buttonText"
 msgstr "КОНТРОЛЬ"
 
-#: src-en/data/hyperspace.xml.append:953
+#: src-en/data/hyperspace.xml.append:954
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:10c  ДЛИТЕЛЬНОСТЬ:6c]\n"
 "\t\t\t\tВзять на себя контроль над пауком."
 
-#: src-en/data/hyperspace.xml.append:1107
+#: src-en/data/hyperspace.xml.append:1109
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_EXTINGUISHER\"]/tooltipName"
 msgstr "Дрон-огнетушитель"
 
-#: src-en/data/hyperspace.xml.append:1111
+#: src-en/data/hyperspace.xml.append:1113
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1115
+#: src-en/data/hyperspace.xml.append:1117
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
 msgstr ""

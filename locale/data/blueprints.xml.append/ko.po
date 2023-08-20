@@ -179,22 +179,22 @@ msgstr ""
 "\n"
 "\t\t구매/판매 가격: 55~/27~"
 
-#: src-en/data/blueprints.xml.append:469
+#: src-en/data/blueprints.xml.append:468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
 msgstr "증폭기 마크 II"
 
-#: src-en/data/blueprints.xml.append:470
+#: src-en/data/blueprints.xml.append:469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/short"
 msgstr "Mag II"
 
-#: src-en/data/blueprints.xml.append:472
+#: src-en/data/blueprints.xml.append:471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:473
+#: src-en/data/blueprints.xml.append:472
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
 msgstr ""
@@ -218,22 +218,22 @@ msgstr ""
 "\n"
 "\t\t구매/판매 가격: 70~/35~"
 
-#: src-en/data/blueprints.xml.append:531
+#: src-en/data/blueprints.xml.append:529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/title"
 msgstr "관통 증폭기"
 
-#: src-en/data/blueprints.xml.append:532
+#: src-en/data/blueprints.xml.append:530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
 msgstr "Pierce Mag"
 
-#: src-en/data/blueprints.xml.append:534
+#: src-en/data/blueprints.xml.append:532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:535
+#: src-en/data/blueprints.xml.append:533
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
@@ -257,22 +257,22 @@ msgstr ""
 "\n"
 "\t\t구매/판매 가격: 60~/30~"
 
-#: src-en/data/blueprints.xml.append:593
+#: src-en/data/blueprints.xml.append:590
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
 msgstr "이온 증폭기"
 
-#: src-en/data/blueprints.xml.append:594
+#: src-en/data/blueprints.xml.append:591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/short"
 msgstr "Ion Mag"
 
-#: src-en/data/blueprints.xml.append:596
+#: src-en/data/blueprints.xml.append:593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:597
+#: src-en/data/blueprints.xml.append:594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
 msgstr ""
@@ -294,21 +294,21 @@ msgstr ""
 "\n"
 "\t\t구매/판매 가격: 50~/25~"
 
-#: src-en/data/blueprints.xml.append:663
+#: src-en/data/blueprints.xml.append:659
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/title"
 msgstr "'방천극' 파열 빔"
 
-#: src-en/data/blueprints.xml.append:664
+#: src-en/data/blueprints.xml.append:660
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/short"
 msgstr "'Fangtian'"
 
-#: src-en/data/blueprints.xml.append:665
+#: src-en/data/blueprints.xml.append:661
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:666
+#: src-en/data/blueprints.xml.append:662
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/descriptionOverride"
 msgstr ""
@@ -329,214 +329,214 @@ msgstr ""
 "\n"
 "\t\t구매/판매 가격: 60~/30~"
 
-#: src-en/data/blueprints.xml.append:708
+#: src-en/data/blueprints.xml.append:704
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/title"
 msgstr "'팔콘' 방사성 빔 II"
 
-#: src-en/data/blueprints.xml.append:709
+#: src-en/data/blueprints.xml.append:705
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/short"
 msgstr "'Faucon' II"
 
-#: src-en/data/blueprints.xml.append:710
+#: src-en/data/blueprints.xml.append:706
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/desc"
 msgstr ""
 "이 무시무시한 방사성 빔은 적 선원에게 큰 피해를 입히고 일시적인 장애를 남깁니다. 마크 I보다 타격 범위가 더 넓고 더 큰 피해를 "
 "가하지만 방어막을 관통할 수 없습니다."
 
-#: src-en/data/blueprints.xml.append:769
+#: src-en/data/blueprints.xml.append:765
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/title"
 msgstr "'팔콘' 방사성 빔 II†"
 
-#: src-en/data/blueprints.xml.append:770
+#: src-en/data/blueprints.xml.append:766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/short"
 msgstr "'Faucon' II†"
 
-#: src-en/data/blueprints.xml.append:771
+#: src-en/data/blueprints.xml.append:767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
 msgstr ""
 "이 무시무시한 방사성 빔은 적 선원에게 큰 피해를 입히고 일시적인 장애를 남깁니다. 마크 I보다 더 길고 더 큰 피해를 입히지만 방어막을"
 " 관통할 수 없습니다."
 
-#: src-en/data/blueprints.xml.append:831
+#: src-en/data/blueprints.xml.append:827
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/title"
 msgstr "'버디슈' 빔"
 
-#: src-en/data/blueprints.xml.append:832
+#: src-en/data/blueprints.xml.append:828
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/short"
 msgstr "'Bardiche'"
 
-#: src-en/data/blueprints.xml.append:834
+#: src-en/data/blueprints.xml.append:830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
 msgstr "이 빔은 발사할 때마다 충전 시간이 짧아질 뿐만 아니라 빈 선실에 큰 피해를 입힐 수 있습니다."
 
-#: src-en/data/blueprints.xml.append:864
+#: src-en/data/blueprints.xml.append:860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/title"
 msgstr "'카기야리' 빔"
 
-#: src-en/data/blueprints.xml.append:865
+#: src-en/data/blueprints.xml.append:861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/short"
 msgstr "'Kagiyari'"
 
-#: src-en/data/blueprints.xml.append:866
+#: src-en/data/blueprints.xml.append:862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/desc"
 msgstr ""
 "속도가 느리지만 자립적으로 작동하는 적응형 빔으로, 충분한 시간이 주어지면 무한히 강해질 수 있습니다. 보존 무기는 직접 전력을 소모하진"
 " 않지만, 다른 무기에 전력이 공급되고 있어야 사용할 수 있습니다."
 
-#: src-en/data/blueprints.xml.append:904
+#: src-en/data/blueprints.xml.append:900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/title"
 msgstr "감압 이온"
 
-#: src-en/data/blueprints.xml.append:905
+#: src-en/data/blueprints.xml.append:901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/short"
 msgstr "Asphyxion"
 
-#: src-en/data/blueprints.xml.append:908
+#: src-en/data/blueprints.xml.append:904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/desc"
 msgstr "여러 목적으로 사용할 수 있지만, 특히 적을 질식시키는 데 특화된 특수 이온입니다."
 
-#: src-en/data/blueprints.xml.append:950
+#: src-en/data/blueprints.xml.append:946
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/title"
 msgstr "감압 이온†"
 
-#: src-en/data/blueprints.xml.append:951
+#: src-en/data/blueprints.xml.append:947
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/short"
 msgstr "Asphyxion†"
 
-#: src-en/data/blueprints.xml.append:954
+#: src-en/data/blueprints.xml.append:950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/desc"
 msgstr "여러 목적으로 사용할 수 있지만, 특히 적을 질식시키는 데 특화된 특수 이온입니다."
 
-#: src-en/data/blueprints.xml.append:997
+#: src-en/data/blueprints.xml.append:993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/title"
 msgstr "'무제한' 이온"
 
-#: src-en/data/blueprints.xml.append:998
+#: src-en/data/blueprints.xml.append:994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/short"
 msgstr "'Infinity'"
 
-#: src-en/data/blueprints.xml.append:1001
+#: src-en/data/blueprints.xml.append:997
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/desc"
 msgstr "이 이온은 충전이 다소 느리지만, 표준적인 적응형 이온과는 다르게 피해량이 무한히 증가합니다."
 
-#: src-en/data/blueprints.xml.append:1058
+#: src-en/data/blueprints.xml.append:1054
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/title"
 msgstr "에너지 관통자"
 
-#: src-en/data/blueprints.xml.append:1059
+#: src-en/data/blueprints.xml.append:1055
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/short"
 msgstr "Phase E."
 
-#: src-en/data/blueprints.xml.append:1062
+#: src-en/data/blueprints.xml.append:1058
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/desc"
 msgstr ""
 "에너지 무기는 시스템을 마비시키면서 선체에도 피해를 줍니다. 이 특수한 버전은 모든 방어막을 관통하며 방어막 한 겹과 피격된 시스템에 "
 "이온 피해를 줍니다."
 
-#: src-en/data/blueprints.xml.append:1103
+#: src-en/data/blueprints.xml.append:1099
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/title"
 msgstr "에너지 관통자†"
 
-#: src-en/data/blueprints.xml.append:1104
+#: src-en/data/blueprints.xml.append:1100
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/short"
 msgstr "Phase E.†"
 
-#: src-en/data/blueprints.xml.append:1107
+#: src-en/data/blueprints.xml.append:1103
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/desc"
 msgstr ""
 "에너지 무기는 시스템을 마비시키면서 선체에도 피해를 줍니다. 이 특수한 버전은 모든 방어막을 관통하며 방어막 한 겹과 피격된 시스템에 "
 "이온 피해를 줍니다."
 
-#: src-en/data/blueprints.xml.append:1150
+#: src-en/data/blueprints.xml.append:1146
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/title"
 msgstr "화염 에너지 포"
 
-#: src-en/data/blueprints.xml.append:1151
+#: src-en/data/blueprints.xml.append:1147
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/short"
 msgstr "Fire Energy"
 
-#: src-en/data/blueprints.xml.append:1153
+#: src-en/data/blueprints.xml.append:1149
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/desc"
 msgstr "에너지 무기는 시스템을 마비시키면서 선체에도 피해를 줍니다. 이 장비는 일반적인 에너지 무기보다 화재를 더 잘 일으킵니다."
 
-#: src-en/data/blueprints.xml.append:1204
+#: src-en/data/blueprints.xml.append:1200
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/title"
 msgstr "'스코치' 핀포인트"
 
-#: src-en/data/blueprints.xml.append:1205
+#: src-en/data/blueprints.xml.append:1201
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/short"
 msgstr "'Scorch'"
 
-#: src-en/data/blueprints.xml.append:1206
+#: src-en/data/blueprints.xml.append:1202
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/desc"
 msgstr "충전이 빠른 핀포인트 무기입니다. 물리적인 피해는 가할 수 없지만, 방어막을 두 겹 관통하며 화재를 일으킵니다."
 
-#: src-en/data/blueprints.xml.append:1231
+#: src-en/data/blueprints.xml.append:1227
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/title"
 msgstr "'파냐드' 핀포인트"
 
-#: src-en/data/blueprints.xml.append:1232
+#: src-en/data/blueprints.xml.append:1228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/short"
 msgstr "'Poniard'"
 
-#: src-en/data/blueprints.xml.append:1233
+#: src-en/data/blueprints.xml.append:1229
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/desc"
 msgstr ""
 "충전이 느리지만 믿음직한 핀포인트입니다. 보존 무기는 직접 전력을 소모하진 않지만, 다른 무기에 전력이 공급되고 있어야 사용할 수 "
 "있습니다."
 
-#: src-en/data/blueprints.xml.append:1266
+#: src-en/data/blueprints.xml.append:1262
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/title"
 msgstr "벌집 폭탄"
 
-#: src-en/data/blueprints.xml.append:1267
+#: src-en/data/blueprints.xml.append:1263
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/short"
 msgstr "Shrapnel B."
 
-#: src-en/data/blueprints.xml.append:1269
+#: src-en/data/blueprints.xml.append:1265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1270
+#: src-en/data/blueprints.xml.append:1266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/descriptionOverride"
 msgstr ""
@@ -556,72 +556,72 @@ msgstr ""
 "\t\t\n"
 "\t\t구매/판매 가격: 55~/27~"
 
-#: src-en/data/blueprints.xml.append:1316
+#: src-en/data/blueprints.xml.append:1312
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/title"
 msgstr "입자 폭탄"
 
-#: src-en/data/blueprints.xml.append:1317
+#: src-en/data/blueprints.xml.append:1313
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/short"
 msgstr "Part B."
 
-#: src-en/data/blueprints.xml.append:1319
+#: src-en/data/blueprints.xml.append:1315
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/desc"
 msgstr ""
 "입자 가속기를 탑재한 폭발물입니다. 스스로 순간이동하여 큰 시스템 피해와 함께 화재를 일으킵니다. 당신의 함선을 목표로 삼을 수 "
 "있습니다."
 
-#: src-en/data/blueprints.xml.append:1348
+#: src-en/data/blueprints.xml.append:1344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/title"
 msgstr "입자 폭탄†"
 
-#: src-en/data/blueprints.xml.append:1349
+#: src-en/data/blueprints.xml.append:1345
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/short"
 msgstr "Part B.†"
 
-#: src-en/data/blueprints.xml.append:1351
+#: src-en/data/blueprints.xml.append:1347
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/desc"
 msgstr ""
 "입자 가속기를 탑재한 폭발물입니다. 스스로 순간이동하여 큰 시스템 피해와 함께 화재를 일으킵니다. 당신의 함선을 목표로 삼을 수 "
 "있습니다."
 
-#: src-en/data/blueprints.xml.append:1381
+#: src-en/data/blueprints.xml.append:1377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/title"
 msgstr "가솔린 폭탄"
 
-#: src-en/data/blueprints.xml.append:1382
+#: src-en/data/blueprints.xml.append:1378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/short"
 msgstr "Gas B."
 
-#: src-en/data/blueprints.xml.append:1384
+#: src-en/data/blueprints.xml.append:1380
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/desc"
 msgstr ""
 "적중한 선실의 선원을 30초간 가솔린으로 뒤덮어 화재로부터 4배의 피해를 입게 하고 이동속도를 25% 늦춥니다. 자체적인 복제 기능이 "
 "탑재돼 있어 미사일을 소모하지 않습니다."
 
-#: src-en/data/blueprints.xml.append:1437
+#: src-en/data/blueprints.xml.append:1433
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/title"
 msgstr "배치 폭탄"
 
-#: src-en/data/blueprints.xml.append:1438
+#: src-en/data/blueprints.xml.append:1434
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/short"
 msgstr "Deploy B."
 
-#: src-en/data/blueprints.xml.append:1439
+#: src-en/data/blueprints.xml.append:1435
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1440
+#: src-en/data/blueprints.xml.append:1436
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
 msgstr ""
@@ -639,114 +639,114 @@ msgstr ""
 "\t\t\n"
 "\t\t구매/판매 가격: 45~/22~"
 
-#: src-en/data/blueprints.xml.append:1489
+#: src-en/data/blueprints.xml.append:1485
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/desc"
 msgstr "어린 거미."
 
-#: src-en/data/blueprints.xml.append:1490
+#: src-en/data/blueprints.xml.append:1486
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/title"
 msgstr "새끼 거미"
 
-#: src-en/data/blueprints.xml.append:1491
+#: src-en/data/blueprints.xml.append:1487
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/short"
 msgstr "Hatchling"
 
-#: src-en/data/blueprints.xml.append:1495
+#: src-en/data/blueprints.xml.append:1491
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[1]"
 msgstr "최대 체력 50, 화재로부터 1.2배의 피해를 받음, 수리 속도 0.1배"
 
-#: src-en/data/blueprints.xml.append:1496
+#: src-en/data/blueprints.xml.append:1492
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[2]"
 msgstr "대인 공격력 1.8배, 이동속도 2.2배"
 
-#: src-en/data/blueprints.xml.append:1497
+#: src-en/data/blueprints.xml.append:1493
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[3]"
 msgstr "회복속도 3배"
 
-#: src-en/data/blueprints.xml.append:1498
+#: src-en/data/blueprints.xml.append:1494
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[4]"
 msgstr "일시적으로만 조종할 수 있음. 시스템을 관리할 수 없음."
 
-#: src-en/data/blueprints.xml.append:1522
+#: src-en/data/blueprints.xml.append:1518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/title"
 msgstr "거미 폭탄"
 
-#: src-en/data/blueprints.xml.append:1523
+#: src-en/data/blueprints.xml.append:1519
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/short"
 msgstr "Arach B."
 
-#: src-en/data/blueprints.xml.append:1525
+#: src-en/data/blueprints.xml.append:1521
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/desc"
 msgstr "스스로 순간이동하여 2마리의 아군 새끼 거미를 배치하는 장비입니다. 당신의 함선을 목표로 삼을 수 있습니다."
 
-#: src-en/data/blueprints.xml.append:1571
+#: src-en/data/blueprints.xml.append:1567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/title"
 msgstr "거미 폭탄"
 
-#: src-en/data/blueprints.xml.append:1572
+#: src-en/data/blueprints.xml.append:1568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/short"
 msgstr "Arach B."
 
-#: src-en/data/blueprints.xml.append:1574
+#: src-en/data/blueprints.xml.append:1570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1618
+#: src-en/data/blueprints.xml.append:1614
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/desc"
 msgstr "당신이 만든 끔찍한 돌연변이 생명체입니다. 왜 이런 짓을 한 거죠?"
 
-#: src-en/data/blueprints.xml.append:1620
+#: src-en/data/blueprints.xml.append:1616
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/title"
 msgstr "돌연변이"
 
-#: src-en/data/blueprints.xml.append:1621
+#: src-en/data/blueprints.xml.append:1617
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/short"
 msgstr "Mutant"
 
-#: src-en/data/blueprints.xml.append:1624
+#: src-en/data/blueprints.xml.append:1620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[1]"
 msgstr "대인 공격력 2.3배, 이동속도 0.5배"
 
-#: src-en/data/blueprints.xml.append:1625
+#: src-en/data/blueprints.xml.append:1621
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[2]"
 msgstr "수리 및 회복 불가"
 
-#: src-en/data/blueprints.xml.append:1626
+#: src-en/data/blueprints.xml.append:1622
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[3]"
 msgstr "사망 시 폭발하여 15의 선원 피해와 1의 시스템 피해를 가함"
 
-#: src-en/data/blueprints.xml.append:1627
+#: src-en/data/blueprints.xml.append:1623
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[4]"
 msgstr "15초 후 원래의 형체로 복귀"
 
-#: src-en/data/blueprints.xml.append:1633
+#: src-en/data/blueprints.xml.append:1629
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/title"
 msgstr "변이 폭탄"
 
-#: src-en/data/blueprints.xml.append:1634
+#: src-en/data/blueprints.xml.append:1630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/short"
 msgstr "Mutant B."
 
-#: src-en/data/blueprints.xml.append:1636
+#: src-en/data/blueprints.xml.append:1632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/desc"
 msgstr ""
@@ -754,69 +754,74 @@ msgstr ""
 "\n"
 "\t돌연벼이는 2.3배의 대인 공격력을 가지고, 수리 및 회복을 할 수 없고, 사망 시 폭발하여 15의 선원 피해와 1의 시스템 피해를 가합니다."
 
-#: src-en/data/blueprints.xml.append:1693
+#: src-en/data/blueprints.xml.append:1689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/title"
 msgstr "'아폴로' 미사일"
 
-#: src-en/data/blueprints.xml.append:1694
+#: src-en/data/blueprints.xml.append:1690
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/short"
 msgstr "'Apollo'"
 
-#: src-en/data/blueprints.xml.append:1695
+#: src-en/data/blueprints.xml.append:1691
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/desc"
 msgstr ""
 "효과적이지만 상황을 크게 타는 미사일 무기로, 선원 피해가 없는 대신 피격된 아군의 체력을 초당 4씩 15초간 회복시킵니다. 이 회복 "
 "효과는 중첩 가능합니다."
 
-#: src-en/data/blueprints.xml.append:1745
+#: src-en/data/blueprints.xml.append:1741
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/title"
 msgstr "'보레아스' 미사일"
 
-#: src-en/data/blueprints.xml.append:1746
+#: src-en/data/blueprints.xml.append:1742
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/short"
 msgstr "'Boreas'"
 
-#: src-en/data/blueprints.xml.append:1747
+#: src-en/data/blueprints.xml.append:1743
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/desc"
 msgstr "피격된 선실을 봉쇄하는 고위력 미사일입니다."
 
-#: src-en/data/blueprints.xml.append:1799
+#: src-en/data/blueprints.xml.append:1744
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1815
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/title"
 msgstr "'보레아스' 미사일"
 
-#: src-en/data/blueprints.xml.append:1800
+#: src-en/data/blueprints.xml.append:1816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/short"
 msgstr "'Boreas'"
 
-#: src-en/data/blueprints.xml.append:1801
+#: src-en/data/blueprints.xml.append:1817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/desc"
 msgstr "피격된 선실을 봉쇄하는 고위력 미사일입니다."
 
-#: src-en/data/blueprints.xml.append:1852
+#: src-en/data/blueprints.xml.append:1868
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/title"
 msgstr "'테미스' 벌집 미사일"
 
-#: src-en/data/blueprints.xml.append:1853
+#: src-en/data/blueprints.xml.append:1869
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/short"
 msgstr "'Themis'"
 
-#: src-en/data/blueprints.xml.append:1854
+#: src-en/data/blueprints.xml.append:1870
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1855
+#: src-en/data/blueprints.xml.append:1871
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/descriptionOverride"
 msgstr ""
@@ -841,22 +846,22 @@ msgstr ""
 "\t\t\n"
 "\t\t구매/판매 가격: 55~/27~"
 
-#: src-en/data/blueprints.xml.append:1915
+#: src-en/data/blueprints.xml.append:1931
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/title"
 msgstr "'페르세스' 벌집 미사일"
 
-#: src-en/data/blueprints.xml.append:1916
+#: src-en/data/blueprints.xml.append:1932
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/short"
 msgstr "'Perses'"
 
-#: src-en/data/blueprints.xml.append:1917
+#: src-en/data/blueprints.xml.append:1933
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1918
+#: src-en/data/blueprints.xml.append:1934
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/descriptionOverride"
 msgstr ""
@@ -881,53 +886,53 @@ msgstr ""
 "\t\t\n"
 "\t\t구매/판매 가격: 70~/35~"
 
-#: src-en/data/blueprints.xml.append:1978
+#: src-en/data/blueprints.xml.append:1994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/title"
 msgstr "'에피메테우스' 선제 미사일"
 
-#: src-en/data/blueprints.xml.append:1979
+#: src-en/data/blueprints.xml.append:1995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/short"
 msgstr "'Epimetheus'"
 
-#: src-en/data/blueprints.xml.append:1980
+#: src-en/data/blueprints.xml.append:1996
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/desc"
 msgstr ""
 "극도로 파괴적인 미사일 한 발을 선제적으로 발사합니다. 전투당 한 번만 사용할 수 있지만, 시스템 무력화와 선체 파괴에 모두 "
 "효과적입니다. 선진 조준 시스템이 탑재돼 있어 빗나가지 않습니다."
 
-#: src-en/data/blueprints.xml.append:2035
+#: src-en/data/blueprints.xml.append:2051
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/title"
 msgstr "재해 포탑 투사기"
 
-#: src-en/data/blueprints.xml.append:2036
+#: src-en/data/blueprints.xml.append:2052
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/short"
 msgstr "Haz-Sent"
 
-#: src-en/data/blueprints.xml.append:2037
+#: src-en/data/blueprints.xml.append:2053
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/desc"
 msgstr ""
 "피격된 선실에 재해 포탑을 배치합니다. 재해 포탑은 모든 선원의 재해로부터 받는 피해와 기절 시간을 2배로 늘립니다. 포탑은 20초 동안"
 " 유지되며 선원 슬롯을 차지하지 않고 파괴되지도 않습니다."
 
-#: src-en/data/blueprints.xml.append:2108
+#: src-en/data/blueprints.xml.append:2124
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
 msgstr "죽음의 접시"
 
-#: src-en/data/blueprints.xml.append:2109
+#: src-en/data/blueprints.xml.append:2125
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/short"
 msgstr "Virulent"
 
-#: src-en/data/blueprints.xml.append:2111
+#: src-en/data/blueprints.xml.append:2127
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2112
+#: src-en/data/blueprints.xml.append:2128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/descriptionOverride"
 msgstr ""
@@ -946,17 +951,17 @@ msgstr ""
 "\t\t\n"
 "\t\t구매/판매 가격: 50~/25~"
 
-#: src-en/data/blueprints.xml.append:2175
+#: src-en/data/blueprints.xml.append:2191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/title"
 msgstr "'바알' 기뢰 사출기"
 
-#: src-en/data/blueprints.xml.append:2176
+#: src-en/data/blueprints.xml.append:2192
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/short"
 msgstr "'Baal'"
 
-#: src-en/data/blueprints.xml.append:2177
+#: src-en/data/blueprints.xml.append:2193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
 msgstr ""
@@ -964,82 +969,82 @@ msgstr ""
 "\t\n"
 "\t빈 송신소에서 15개의 탄약을 소모하여 반군의 추적을 2도약 지연시킬 수 있습니다. 악명에 영향을 주지 않습니다."
 
-#: src-en/data/blueprints.xml.append:2234
+#: src-en/data/blueprints.xml.append:2250
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/title"
 msgstr "트라이펙타"
 
-#: src-en/data/blueprints.xml.append:2235
+#: src-en/data/blueprints.xml.append:2251
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/short"
 msgstr "Trifecta"
 
-#: src-en/data/blueprints.xml.append:2237
+#: src-en/data/blueprints.xml.append:2253
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/desc"
 msgstr "느리지만 높은 피해를 주는 레이저와 함께 2발의 쓰레기를 발사하는 기괴한 혼합 무기입니다."
 
-#: src-en/data/blueprints.xml.append:2278
+#: src-en/data/blueprints.xml.append:2294
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2279
+#: src-en/data/blueprints.xml.append:2295
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/short"
 msgstr "Trifecta Laser"
 
-#: src-en/data/blueprints.xml.append:2280
+#: src-en/data/blueprints.xml.append:2296
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2314
+#: src-en/data/blueprints.xml.append:2330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/title"
 msgstr "서리 대공포"
 
-#: src-en/data/blueprints.xml.append:2315
+#: src-en/data/blueprints.xml.append:2331
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/short"
 msgstr "Frost Flak"
 
-#: src-en/data/blueprints.xml.append:2317
+#: src-en/data/blueprints.xml.append:2333
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/desc"
 msgstr ""
 "4발의 과냉각된 발사체를 쏩니다. 각 발사체는 피격된 선실을 얼음으로 코팅해 봉쇄하고 그 안에 있던 선원들을 12초간 기절시킵니다."
 
-#: src-en/data/blueprints.xml.append:2373
+#: src-en/data/blueprints.xml.append:2389
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2374
+#: src-en/data/blueprints.xml.append:2390
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/short"
 msgstr "Assembled Drone"
 
-#: src-en/data/blueprints.xml.append:2375
+#: src-en/data/blueprints.xml.append:2391
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2385
+#: src-en/data/blueprints.xml.append:2401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/title"
 msgstr "조립 대포"
 
-#: src-en/data/blueprints.xml.append:2386
+#: src-en/data/blueprints.xml.append:2402
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/short"
 msgstr "Assembly"
 
-#: src-en/data/blueprints.xml.append:2387
+#: src-en/data/blueprints.xml.append:2403
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2388
+#: src-en/data/blueprints.xml.append:2404
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/descriptionOverride"
 msgstr ""
@@ -1058,38 +1063,38 @@ msgstr ""
 "\t\t\n"
 "\t\t구매/판매 가격: 60~/30~"
 
-#: src-en/data/blueprints.xml.append:2439
+#: src-en/data/blueprints.xml.append:2455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/title"
 msgstr "'맹염'"
 
-#: src-en/data/blueprints.xml.append:2440
+#: src-en/data/blueprints.xml.append:2456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/short"
 msgstr "'Ultraburn'"
 
-#: src-en/data/blueprints.xml.append:2441
+#: src-en/data/blueprints.xml.append:2457
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/desc"
 msgstr ""
 "엄청난 열기의 집약된 광선을 발사해 선체에도 피해를 주면서, 15초 동안 피격된 선원의 화재 면역을 제거하고 화재로부터 받는 피해를 "
 "50% 증가시킵니다. 아군을 맞히지 않도록 주의하세요!"
 
-#: src-en/data/blueprints.xml.append:2486
+#: src-en/data/blueprints.xml.append:2502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/title"
 msgstr "'시스템쇼크'"
 
-#: src-en/data/blueprints.xml.append:2487
+#: src-en/data/blueprints.xml.append:2503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/short"
 msgstr "'Sysshock'"
 
-#: src-en/data/blueprints.xml.append:2489
+#: src-en/data/blueprints.xml.append:2505
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2490
+#: src-en/data/blueprints.xml.append:2506
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/descriptionOverride"
 msgstr ""
@@ -1109,34 +1114,34 @@ msgstr ""
 "\t\t\n"
 "\t\t구매/판매 가격: 55~/27~"
 
-#: src-en/data/blueprints.xml.append:2544
+#: src-en/data/blueprints.xml.append:2560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/title"
 msgstr "플레어 사출기"
 
-#: src-en/data/blueprints.xml.append:2545
+#: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/short"
 msgstr "Flare"
 
-#: src-en/data/blueprints.xml.append:2546
+#: src-en/data/blueprints.xml.append:2562
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/desc"
 msgstr "방어 드론을 교란하는 디코이를 발사합니다. 맞출 수만 있다면, 피격된 선원의 시야를 가려 잠시 기절시킬 수도 있습니다."
 
-#: src-en/data/blueprints.xml.append:2592
+#: src-en/data/blueprints.xml.append:2608
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/title"
 msgstr "광기의 서"
 
-#: src-en/data/blueprints.xml.append:2593
+#: src-en/data/blueprints.xml.append:2609
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/short"
 msgstr "Epistle"
 
-#: src-en/data/blueprints.xml.append:2594
+#: src-en/data/blueprints.xml.append:2610
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2595
+#: src-en/data/blueprints.xml.append:2611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/descriptionOverride"
 msgstr ""
@@ -1159,36 +1164,36 @@ msgstr ""
 "\n"
 "\t\t구매/판매 가격: 125~/62~"
 
-#: src-en/data/blueprints.xml.append:2660
+#: src-en/data/blueprints.xml.append:2676
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
 msgstr "테슬라 이미터"
 
-#: src-en/data/blueprints.xml.append:2661
+#: src-en/data/blueprints.xml.append:2677
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/short"
 msgstr "Tesla"
 
-#: src-en/data/blueprints.xml.append:2662
+#: src-en/data/blueprints.xml.append:2678
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/desc"
 msgstr ""
 "당신이 한 번도 본 적 없는 선진 이온 기술을 사용하는 이상한 무기입니다. 빔처럼 여러 선실에 피해를 입힐 만큼의 이온 에너지를 생성할 "
 "수 있는 것 같습니다."
 
-#: src-en/data/blueprints.xml.append:2691
+#: src-en/data/blueprints.xml.append:2707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/title"
 msgstr "마그마 포"
 
-#: src-en/data/blueprints.xml.append:2692
+#: src-en/data/blueprints.xml.append:2708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/short"
 msgstr "Magma"
 
-#: src-en/data/blueprints.xml.append:2693
+#: src-en/data/blueprints.xml.append:2709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2694
+#: src-en/data/blueprints.xml.append:2710
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/descriptionOverride"
 msgstr ""
@@ -1205,89 +1210,89 @@ msgstr ""
 "\n"
 "\t\t구매/판매 가격: 70~/35~"
 
-#: src-en/data/blueprints.xml.append:2733
+#: src-en/data/blueprints.xml.append:2749
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2734
+#: src-en/data/blueprints.xml.append:2750
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/short"
 msgstr "Gem"
 
-#: src-en/data/blueprints.xml.append:2735
+#: src-en/data/blueprints.xml.append:2751
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2743
+#: src-en/data/blueprints.xml.append:2759
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2744
+#: src-en/data/blueprints.xml.append:2760
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/short"
 msgstr "Gem"
 
-#: src-en/data/blueprints.xml.append:2745
+#: src-en/data/blueprints.xml.append:2761
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2751
+#: src-en/data/blueprints.xml.append:2767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2752
+#: src-en/data/blueprints.xml.append:2768
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/short"
 msgstr "Gem"
 
-#: src-en/data/blueprints.xml.append:2753
+#: src-en/data/blueprints.xml.append:2769
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2761
+#: src-en/data/blueprints.xml.append:2777
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2762
+#: src-en/data/blueprints.xml.append:2778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/short"
 msgstr "Gem"
 
-#: src-en/data/blueprints.xml.append:2763
+#: src-en/data/blueprints.xml.append:2779
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2771
+#: src-en/data/blueprints.xml.append:2787
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2772
+#: src-en/data/blueprints.xml.append:2788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/short"
 msgstr "Gem"
 
-#: src-en/data/blueprints.xml.append:2773
+#: src-en/data/blueprints.xml.append:2789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2790
+#: src-en/data/blueprints.xml.append:2806
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/title"
 msgstr "돈지랄"
 
-#: src-en/data/blueprints.xml.append:2791
+#: src-en/data/blueprints.xml.append:2807
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/short"
 msgstr "Bedazzler"
 
-#: src-en/data/blueprints.xml.append:2793
+#: src-en/data/blueprints.xml.append:2809
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2794
+#: src-en/data/blueprints.xml.append:2810
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/descriptionOverride"
 msgstr ""
@@ -1309,22 +1314,22 @@ msgstr ""
 "\t\t\n"
 "\t\t구매/판매 가격: 80~/40~"
 
-#: src-en/data/blueprints.xml.append:2861
+#: src-en/data/blueprints.xml.append:2877
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/title"
 msgstr "지배자 폭탄"
 
-#: src-en/data/blueprints.xml.append:2862
+#: src-en/data/blueprints.xml.append:2878
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/short"
 msgstr "Colonizer B."
 
-#: src-en/data/blueprints.xml.append:2864
+#: src-en/data/blueprints.xml.append:2880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2865
+#: src-en/data/blueprints.xml.append:2881
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/descriptionOverride"
 msgstr ""
@@ -1343,37 +1348,37 @@ msgstr ""
 "\t\t\n"
 "\t\t구매/판매 가격: 75~/37~"
 
-#: src-en/data/blueprints.xml.append:2908
+#: src-en/data/blueprints.xml.append:2924
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
 msgstr ""
 "엘리트 휴머노이드 선원. 강습 포드 탑재된 복제실에서 탄생한 아주 유능한 병사입니다. 값싼 유전 물질로 제작된 탓에 생성 후 빠르게 부패합니다.\n"
 "\t\n"
 "\t인간의 기본 특성: 약간의 질식 저항"
 
-#: src-en/data/blueprints.xml.append:2912
+#: src-en/data/blueprints.xml.append:2928
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/title"
 msgstr "클론 병사"
 
-#: src-en/data/blueprints.xml.append:2913
+#: src-en/data/blueprints.xml.append:2929
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/short"
 msgstr "Soldier"
 
-#: src-en/data/blueprints.xml.append:2916
+#: src-en/data/blueprints.xml.append:2932
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[1]"
 msgstr "대인 공격력 1.2배"
 
-#: src-en/data/blueprints.xml.append:2917
+#: src-en/data/blueprints.xml.append:2933
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[2]"
 msgstr "전투로부터 0.7배, 화재로부터 0.6배의 피해만을 받음"
 
-#: src-en/data/blueprints.xml.append:2918
+#: src-en/data/blueprints.xml.append:2934
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[3]"
 msgstr "신경칩 덕분에 전투 기술을 놀랍도록 빠르게 익힘"
 
-#: src-en/data/blueprints.xml.append:2922
+#: src-en/data/blueprints.xml.append:2938
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/desc"
 msgstr ""
@@ -1381,224 +1386,224 @@ msgstr ""
 "\t\n"
 "\t인간의 기본 특성: 약간의 질식 저항"
 
-#: src-en/data/blueprints.xml.append:2926
+#: src-en/data/blueprints.xml.append:2942
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/title"
 msgstr "클론 병사"
 
-#: src-en/data/blueprints.xml.append:2927
+#: src-en/data/blueprints.xml.append:2943
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/short"
 msgstr "Soldier"
 
-#: src-en/data/blueprints.xml.append:2930
+#: src-en/data/blueprints.xml.append:2946
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[1]"
 msgstr "대인 공격력 1.2배"
 
-#: src-en/data/blueprints.xml.append:2931
+#: src-en/data/blueprints.xml.append:2947
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[2]"
 msgstr "전투로부터 0.7배, 화재로부터 0.6배의 피해만을 받음"
 
-#: src-en/data/blueprints.xml.append:2932
+#: src-en/data/blueprints.xml.append:2948
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[3]"
 msgstr "신경칩 덕분에 전투 기술을 놀랍도록 빠르게 익힘"
 
-#: src-en/data/blueprints.xml.append:2938
+#: src-en/data/blueprints.xml.append:2954
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/title"
 msgstr "연방제 군사용 클론 강습 포드 사출기"
 
-#: src-en/data/blueprints.xml.append:2939
+#: src-en/data/blueprints.xml.append:2955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/short"
 msgstr "F.M.G.C.B.P.L."
 
-#: src-en/data/blueprints.xml.append:2940
+#: src-en/data/blueprints.xml.append:2956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/desc"
 msgstr ""
 "연방의 표준적인 복제실 내장 강습 포드 사출기입니다. 적함의 선체를 뚫고 들어가는 복제 포드를 사출하여 60초 동안 당신을 위해 싸우는 "
 "클론 병사를 배치합니다."
 
-#: src-en/data/blueprints.xml.append:3002
+#: src-en/data/blueprints.xml.append:3018
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3029
+#: src-en/data/blueprints.xml.append:3045
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP_2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3061
+#: src-en/data/blueprints.xml.append:3077
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
 msgstr "제압 드론 마크 I"
 
-#: src-en/data/blueprints.xml.append:3062
+#: src-en/data/blueprints.xml.append:3078
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/short"
 msgstr "Suppr I"
 
-#: src-en/data/blueprints.xml.append:3063
+#: src-en/data/blueprints.xml.append:3079
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/desc"
 msgstr ""
 "전원이 공급되는 동안 방어막을 계속해서 효과적으로 제압할 수 있는 특수 드론입니다. 또한 스텔스 시스템이 내장되어 있어 요격을 피합니다."
 
-#: src-en/data/blueprints.xml.append:3076
+#: src-en/data/blueprints.xml.append:3092
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/title"
 msgstr "제압 드론 마크 II"
 
-#: src-en/data/blueprints.xml.append:3077
+#: src-en/data/blueprints.xml.append:3093
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/short"
 msgstr "Suppr II"
 
-#: src-en/data/blueprints.xml.append:3078
+#: src-en/data/blueprints.xml.append:3094
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/desc"
 msgstr ""
 "전원이 공급되는 동안 방어막을 계속해서 효과적으로 제압할 수 있는 특수 드론입니다. 또한 스텔스 시스템이 내장되어 있어 요격을 피합니다."
 " 마크 2 버전은 속도가 느리지만 한 번에 3겹의 방어막을 제거할 수 있습니다."
 
-#: src-en/data/blueprints.xml.append:3091
+#: src-en/data/blueprints.xml.append:3107
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_BREACH\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3112
+#: src-en/data/blueprints.xml.append:3128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_ION\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3136
+#: src-en/data/blueprints.xml.append:3152
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/title"
 msgstr "천둥 드론 [균열]"
 
-#: src-en/data/blueprints.xml.append:3137
+#: src-en/data/blueprints.xml.append:3153
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/short"
 msgstr "Thunder [B]"
 
-#: src-en/data/blueprints.xml.append:3138
+#: src-en/data/blueprints.xml.append:3154
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/desc"
 msgstr "[현재 모드: 균열] 속도가 다소 느리지만, 미사일 소모 없이 균열 또는 이온 폭탄을 배치할 수 있는 특수드론입니다."
 
-#: src-en/data/blueprints.xml.append:3153
+#: src-en/data/blueprints.xml.append:3169
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/title"
 msgstr "천둥 드론 [이온]"
 
-#: src-en/data/blueprints.xml.append:3154
+#: src-en/data/blueprints.xml.append:3170
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/short"
 msgstr "Thunder [I]"
 
-#: src-en/data/blueprints.xml.append:3155
+#: src-en/data/blueprints.xml.append:3171
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/desc"
 msgstr "[현재 모드: 이온] 속도가 다소 느리지만, 미사일 소모 없이 균열 또는 이온 폭탄을 배치할 수 있는 특수드론입니다."
 
-#: src-en/data/blueprints.xml.append:3171
+#: src-en/data/blueprints.xml.append:3187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3172
+#: src-en/data/blueprints.xml.append:3188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/short"
 msgstr "Drone Missile"
 
-#: src-en/data/blueprints.xml.append:3173
+#: src-en/data/blueprints.xml.append:3189
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3204
+#: src-en/data/blueprints.xml.append:3220
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/title"
 msgstr "'테세우스' 미사일 드론"
 
-#: src-en/data/blueprints.xml.append:3205
+#: src-en/data/blueprints.xml.append:3221
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/short"
 msgstr "'Theseus'"
 
-#: src-en/data/blueprints.xml.append:3206
+#: src-en/data/blueprints.xml.append:3222
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
 msgstr ""
 "이 특별한 전투 드론에는 미사일 저장고가 내장되어 있습니다. 배치 시 3발의 미사일을 소모하지만, 발사에는 미사일을 소모하지 않습니다."
 
-#: src-en/data/blueprints.xml.append:3221
+#: src-en/data/blueprints.xml.append:3237
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DEFENSE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3257
+#: src-en/data/blueprints.xml.append:3273
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/title"
 msgstr "산탄 방어 드론"
 
-#: src-en/data/blueprints.xml.append:3258
+#: src-en/data/blueprints.xml.append:3274
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/short"
 msgstr "Scattershot"
 
-#: src-en/data/blueprints.xml.append:3259
+#: src-en/data/blueprints.xml.append:3275
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
 msgstr ""
 "느리게 날아가는 쓰레기 더미를 발사하는 독특한 방어 드론입니다. 고체 발사체, 레이저, 드론까지 모든 것을 요격할 수 있습니다!\n"
 "\t재장전: 1400 MS"
 
-#: src-en/data/blueprints.xml.append:3276
+#: src-en/data/blueprints.xml.append:3292
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/title"
 msgstr "산탄 방어 드론"
 
-#: src-en/data/blueprints.xml.append:3277
+#: src-en/data/blueprints.xml.append:3293
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/short"
 msgstr "Scattershot"
 
-#: src-en/data/blueprints.xml.append:3278
+#: src-en/data/blueprints.xml.append:3294
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3302
+#: src-en/data/blueprints.xml.append:3318
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3303
+#: src-en/data/blueprints.xml.append:3319
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/short"
 msgstr "Extinguisher Drone"
 
-#: src-en/data/blueprints.xml.append:3304
+#: src-en/data/blueprints.xml.append:3320
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3308
+#: src-en/data/blueprints.xml.append:3324
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/powerList/power"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3315
+#: src-en/data/blueprints.xml.append:3331
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/title"
 msgstr "소화 드론"
 
-#: src-en/data/blueprints.xml.append:3316
+#: src-en/data/blueprints.xml.append:3332
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/short"
 msgstr "Extinguisher"
 
-#: src-en/data/blueprints.xml.append:3317
+#: src-en/data/blueprints.xml.append:3333
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/desc"
 msgstr ""
@@ -1608,32 +1613,32 @@ msgstr ""
 "-화재 진압 속도 4배, 수리속도 0.5배\n"
 "-산소 흡수, 화재에 면역"
 
-#: src-en/data/blueprints.xml.append:3330
+#: src-en/data/blueprints.xml.append:3346
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3331
+#: src-en/data/blueprints.xml.append:3347
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
 msgstr "Voltage Drone"
 
-#: src-en/data/blueprints.xml.append:3332
+#: src-en/data/blueprints.xml.append:3348
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3336
+#: src-en/data/blueprints.xml.append:3352
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/powerList/power"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3343
+#: src-en/data/blueprints.xml.append:3359
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
 msgstr "고전압 드론"
 
-#: src-en/data/blueprints.xml.append:3344
+#: src-en/data/blueprints.xml.append:3360
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
 msgstr "Voltage"
 
-#: src-en/data/blueprints.xml.append:3345
+#: src-en/data/blueprints.xml.append:3361
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
 msgstr ""
 "연결된 시스템에 상당한 양의 전력을 공급하는 조종 가능한 유틸리티 드론입니다. "
@@ -1646,37 +1651,37 @@ msgstr ""
 "일으킴\n"
 "-기절 면역, 회복 불가"
 
-#: src-en/data/blueprints.xml.append:3358
+#: src-en/data/blueprints.xml.append:3374
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3359
+#: src-en/data/blueprints.xml.append:3375
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/short"
 msgstr "Overshield Drone"
 
-#: src-en/data/blueprints.xml.append:3360
+#: src-en/data/blueprints.xml.append:3376
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3364
+#: src-en/data/blueprints.xml.append:3380
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/powerList/power"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3371
+#: src-en/data/blueprints.xml.append:3387
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/title"
 msgstr "방어막 과충전 드론"
 
-#: src-en/data/blueprints.xml.append:3372
+#: src-en/data/blueprints.xml.append:3388
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/short"
 msgstr "Overshield"
 
-#: src-en/data/blueprints.xml.append:3373
+#: src-en/data/blueprints.xml.append:3389
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
 "시스템에서 빨아들인 전력으로 아군에게 방어막을 씌워 모든 종류의 피해를 크게 "
@@ -1686,12 +1691,12 @@ msgstr ""
 "-같은 선실에 위치한 아군에게 방어막을 씌워 75%의 피해를 경감시킴\n"
 "-위치한 시스템의 전력을 3 흡수. 전력을 흡수 중일 때만 방어막이 전개됨."
 
-#: src-en/data/blueprints.xml.append:3394
+#: src-en/data/blueprints.xml.append:3410
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/title"
 msgstr "[L] 전투 시스템"
 
-#: src-en/data/blueprints.xml.append:3395
+#: src-en/data/blueprints.xml.append:3411
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/desc"
 msgstr ""
@@ -1699,111 +1704,111 @@ msgstr ""
 "\t\n"
 "\t[L] - 이 보조장비는 외장형 연구실 업그레이드로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 내장형 업그레이드로 전환할 수는 없지만, 1차 업그레이드 슬롯을 차지하지 않습니다. 중첩되지 않습니다."
 
-#: src-en/data/blueprints.xml.append:3413
+#: src-en/data/blueprints.xml.append:3429
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/class"
 msgstr "수집가의 케스트렐 순양함"
 
-#: src-en/data/blueprints.xml.append:3414
+#: src-en/data/blueprints.xml.append:3430
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3416
+#: src-en/data/blueprints.xml.append:3432
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/desc"
 msgstr "최신 무기에 환장하는 해적이 재구성한 케스트렐입니다."
 
-#: src-en/data/blueprints.xml.append:3487
+#: src-en/data/blueprints.xml.append:3503
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/class"
 msgstr "수집가의 공병 순양함"
 
-#: src-en/data/blueprints.xml.append:3488
+#: src-en/data/blueprints.xml.append:3504
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3490
+#: src-en/data/blueprints.xml.append:3506
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/desc"
 msgstr "이 함선은 아군과 적군을 모두 돌연변이로 만들기로 결심한 미친 과학자가 조종합니다."
 
-#: src-en/data/blueprints.xml.append:3560
+#: src-en/data/blueprints.xml.append:3576
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/class"
 msgstr "수집가의 죽음의 천사"
 
-#: src-en/data/blueprints.xml.append:3561
+#: src-en/data/blueprints.xml.append:3577
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3563
+#: src-en/data/blueprints.xml.append:3579
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/desc"
 msgstr "이 함선은 뛰어난 무장으로 강력한 펀치를 날립니다. 솔직히 말해서 그게 다입니다."
 
-#: src-en/data/blueprints.xml.append:3636
+#: src-en/data/blueprints.xml.append:3652
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/class"
 msgstr "수집가의 엔지 순양함"
 
-#: src-en/data/blueprints.xml.append:3637
+#: src-en/data/blueprints.xml.append:3653
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3639
+#: src-en/data/blueprints.xml.append:3655
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
 msgstr ""
 "일반적인 엔지 함선이 쓰레기를 아무렇게나 엮어놓은 것처럼 보이는 것과는 다르게 이 함선은 진짜로 쓰레기를 아무렇게나 엮어서 "
 "만들어졌습니다."
 
-#: src-en/data/blueprints.xml.append:3714
+#: src-en/data/blueprints.xml.append:3730
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/class"
 msgstr "수집가의 망명자 순양함"
 
-#: src-en/data/blueprints.xml.append:3715
+#: src-en/data/blueprints.xml.append:3731
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3717
+#: src-en/data/blueprints.xml.append:3733
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
 msgstr "이 선박은 인기 TV 캐릭터 '레크마 레미'에게 영감을 받은 웬트워스 이노베이션의 실패한 사회활동 프로그램의 일환이었습니다."
 
-#: src-en/data/blueprints.xml.append:3789
+#: src-en/data/blueprints.xml.append:3805
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/class"
 msgstr "수집가의 군락 순양함"
 
-#: src-en/data/blueprints.xml.append:3790
+#: src-en/data/blueprints.xml.append:3806
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3792
+#: src-en/data/blueprints.xml.append:3808
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
 msgstr ""
 "\"식물 껍질의 약점을 알게 된 후로 나는 줄곧 나 자신에게 역겨움을 느꼈지. 나는 강철 같은 힘과 올곧음을 갈망했어. 이왕이면 미사일의"
 " 형태로 말이야.\""
 
-#: src-en/data/blueprints.xml.append:3866
+#: src-en/data/blueprints.xml.append:3882
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/class"
 msgstr "수집가의 스텔스 순양함"
 
-#: src-en/data/blueprints.xml.append:3867
+#: src-en/data/blueprints.xml.append:3883
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3869
+#: src-en/data/blueprints.xml.append:3885
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/desc"
 msgstr ""
@@ -1811,289 +1816,289 @@ msgstr ""
 "\t\n"
 "\t못 죽이면 끝장이다"
 
-#: src-en/data/blueprints.xml.append:3943
+#: src-en/data/blueprints.xml.append:3959
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/class"
 msgstr "수집가의 연번 순양함"
 
-#: src-en/data/blueprints.xml.append:3944
+#: src-en/data/blueprints.xml.append:3960
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3946
+#: src-en/data/blueprints.xml.append:3962
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/desc"
 msgstr ""
 "이 함선의 선장은 이쪽 연방의 법을 잘 모릅니다. 아무래도 복제 규정에 대한 메모는 깜빡한 것 같지만, 고향 쪽 연방의 순간이동 금지 "
 "조항은 엄격히 지키고 있습니다."
 
-#: src-en/data/blueprints.xml.append:4016
+#: src-en/data/blueprints.xml.append:4032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/class"
 msgstr "수집가의 하이브 순양함"
 
-#: src-en/data/blueprints.xml.append:4017
+#: src-en/data/blueprints.xml.append:4033
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4019
+#: src-en/data/blueprints.xml.append:4035
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/desc"
 msgstr ""
 "이 함선의 선장은 과거 Hymenopus의 선원이었습니다. 근무 조건에 만족하지 못하던 그는 더 많은 폭탄으로 자신의 우월함을 증명하기 "
 "위해 임무를 시작합니다."
 
-#: src-en/data/blueprints.xml.append:4094
+#: src-en/data/blueprints.xml.append:4110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/class"
 msgstr "수집가의 일레스크트리안 순양함"
 
-#: src-en/data/blueprints.xml.append:4095
+#: src-en/data/blueprints.xml.append:4111
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4097
+#: src-en/data/blueprints.xml.append:4113
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/desc"
 msgstr ""
 "이 함선을 관리하는 수도승은 인내심의 미덕을 그 무엇보다 높게 쳤습니다. 유일한 흠은 그녀가 평화에 대한 메모를 놓쳤다는 점입니다."
 
-#: src-en/data/blueprints.xml.append:4168
+#: src-en/data/blueprints.xml.append:4184
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/class"
 msgstr "수집가의 평화유지군 순양함"
 
-#: src-en/data/blueprints.xml.append:4169
+#: src-en/data/blueprints.xml.append:4185
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4171
+#: src-en/data/blueprints.xml.append:4187
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/desc"
 msgstr "인내심은 흔히 미덕으로 여겨집니다. 이는 사실일지도 모르지만, 속도를 좀 낸다고 문제 될 건 없겠죠?"
 
-#: src-en/data/blueprints.xml.append:4243
+#: src-en/data/blueprints.xml.append:4259
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/class"
 msgstr "수집가의 도둑정 순양함"
 
-#: src-en/data/blueprints.xml.append:4244
+#: src-en/data/blueprints.xml.append:4260
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4246
+#: src-en/data/blueprints.xml.append:4262
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/desc"
 msgstr ""
 "불행히도 슬러그 선원들은 이 함선이 이륙할 때 점심을 먹으러 나가 있었습니다. 새로운 선원들이 들어오긴 했지만, 적 선원을 추적하는 데 "
 "어려움이 있을 겁니다..."
 
-#: src-en/data/blueprints.xml.append:4318
+#: src-en/data/blueprints.xml.append:4334
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/class"
 msgstr "수집가의 로스트선 순양함"
 
-#: src-en/data/blueprints.xml.append:4319
+#: src-en/data/blueprints.xml.append:4335
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4321
+#: src-en/data/blueprints.xml.append:4337
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/desc"
 msgstr "용맹한 로스트선들은 용감한 전사를 모집한다는 연방의 부름을 듣자마자 이 수많은 사람을 불태울 기회에 기꺼이 응했습니다."
 
-#: src-en/data/blueprints.xml.append:4394
+#: src-en/data/blueprints.xml.append:4410
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/class"
 msgstr "수집가의 신정 순양함"
 
-#: src-en/data/blueprints.xml.append:4395
+#: src-en/data/blueprints.xml.append:4411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4397
+#: src-en/data/blueprints.xml.append:4413
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
 msgstr ""
 "이 함선의 특수 무기가 발사하는 것이 마그마인지 용암인지에 대한 수많은 논쟁이 이 함선에서 오갔습니다. 아마 적들도 논쟁에 끼어들었을 "
 "겁니다. 죽지만 않았다면 말이죠."
 
-#: src-en/data/blueprints.xml.append:4469
+#: src-en/data/blueprints.xml.append:4485
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/class"
 msgstr "수집가의 이어젠 순양함"
 
-#: src-en/data/blueprints.xml.append:4470
+#: src-en/data/blueprints.xml.append:4486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4472
+#: src-en/data/blueprints.xml.append:4488
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/desc"
 msgstr "이 함선은 AMP 무기가 있어서 AMPere라고 불립니다! 아시겠죠...?"
 
-#: src-en/data/blueprints.xml.append:4543
+#: src-en/data/blueprints.xml.append:4559
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/class"
 msgstr "수집가의 천재정 순양함"
 
-#: src-en/data/blueprints.xml.append:4544
+#: src-en/data/blueprints.xml.append:4560
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4546
+#: src-en/data/blueprints.xml.append:4562
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/desc"
 msgstr ""
 "이 셸은 실수로 일반 입자 가속기가 아니라 충돌형 가속기를 구입했다는 것을 방금 깨달았습니다. 하지만 문제 될 거 없죠. 보라색이 "
 "주황색보다 더 멋지잖아요."
 
-#: src-en/data/blueprints.xml.append:4617
+#: src-en/data/blueprints.xml.append:4633
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/class"
 msgstr "수집가의 무인 순양함"
 
-#: src-en/data/blueprints.xml.append:4618
+#: src-en/data/blueprints.xml.append:4634
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4620
+#: src-en/data/blueprints.xml.append:4636
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/desc"
 msgstr "\"찾는 놈이 임자\"는 황금률로서, 당신이 훔치는 사물들 이상의 것에도 적용됩니다. 바로 생명체에도 말이죠!"
 
-#: src-en/data/blueprints.xml.append:4694
+#: src-en/data/blueprints.xml.append:4710
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/class"
 msgstr "수집가의 왕조 순양함"
 
-#: src-en/data/blueprints.xml.append:4695
+#: src-en/data/blueprints.xml.append:4711
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4697
+#: src-en/data/blueprints.xml.append:4713
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
 msgstr ""
 "수천 년간 내분을 촉진하기 위해 점점 더 나은 병기를 고안한 끝에, 왕조는 마침내 그들의 무기가 다른 세력의 함선도 죽일 수 있다는 것을"
 " 깨달았습니다."
 
-#: src-en/data/blueprints.xml.append:4768
+#: src-en/data/blueprints.xml.append:4784
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/class"
 msgstr "수집가의 브루드 순양함"
 
-#: src-en/data/blueprints.xml.append:4769
+#: src-en/data/blueprints.xml.append:4785
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4771
+#: src-en/data/blueprints.xml.append:4787
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
 msgstr "이 함선의 선장을 뭐라고 설명해야 할까요? 그는 거미를 좋아합니다. 그는 거미를 '사랑'합니다. 좀 과할 정도로요."
 
-#: src-en/data/blueprints.xml.append:4841
+#: src-en/data/blueprints.xml.append:4857
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/class"
 msgstr "수집가의 티카카 순양함"
 
-#: src-en/data/blueprints.xml.append:4842
+#: src-en/data/blueprints.xml.append:4858
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4844
+#: src-en/data/blueprints.xml.append:4860
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/desc"
 msgstr ""
 "이것은 티카카의 선박으로, 어느 유명한 해적/망명자와 아무런 관계도 없습니다. 헷갈리지 마십시오. 또한, 많은 레이저를 탑재했습니다."
 
-#: src-en/data/blueprints.xml.append:4915
+#: src-en/data/blueprints.xml.append:4931
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/class"
 msgstr "수집가의 분리주의자 순양함"
 
-#: src-en/data/blueprints.xml.append:4916
+#: src-en/data/blueprints.xml.append:4932
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4918
+#: src-en/data/blueprints.xml.append:4934
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/desc"
 msgstr "미래 시대에 누가 유기체 친구를 원할까요? 동료는 드론만 있으면 됩니다."
 
-#: src-en/data/blueprints.xml.append:4993
+#: src-en/data/blueprints.xml.append:5009
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/class"
 msgstr "수집가의 라니우스 순양함"
 
-#: src-en/data/blueprints.xml.append:4994
+#: src-en/data/blueprints.xml.append:5010
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4996
+#: src-en/data/blueprints.xml.append:5012
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/desc"
 msgstr ""
 "사람들이 계속해서 이 배의 외벽에 달린 깃발을 쳐다보자 선장은 혼란에 빠졌습니다. \"천 아니라? 무늬 없어서?\" 그가 보기엔 그저 "
 "멋진 색을 지닌 깃발이었습니다."
 
-#: src-en/data/blueprints.xml.append:5066
+#: src-en/data/blueprints.xml.append:5083
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/class"
 msgstr "수집가의 MV 반군 순양함"
 
-#: src-en/data/blueprints.xml.append:5067
+#: src-en/data/blueprints.xml.append:5084
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5069
+#: src-en/data/blueprints.xml.append:5086
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/desc"
 msgstr ""
 "드론 시스템의 성능을 극대화하기 위해 많은 예산이 삭감됐습니다. 어쩌면 너무 삭감했는지도 모르지만, 이미 지나간 일은 잊어버립시다."
 
-#: src-en/data/blueprints.xml.append:5142
+#: src-en/data/blueprints.xml.append:5159
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/class"
 msgstr "수집가의 영주 순양함"
 
-#: src-en/data/blueprints.xml.append:5143
+#: src-en/data/blueprints.xml.append:5160
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5145
+#: src-en/data/blueprints.xml.append:5162
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/desc"
 msgstr "미래를 품다! 기술주의 하이브가 미래적인 로봇 친구들과의 융화를 시작합니다!"
 
-#: src-en/data/blueprints.xml.append:5219
+#: src-en/data/blueprints.xml.append:5236
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/class"
 msgstr "수집가의 쾌락의 순향함"
 
-#: src-en/data/blueprints.xml.append:5220
+#: src-en/data/blueprints.xml.append:5237
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5222
+#: src-en/data/blueprints.xml.append:5239
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/desc"
 msgstr ""
@@ -2101,84 +2106,84 @@ msgstr ""
 "\t선장의 친구가 말했습니다. \"당연히 실존하지\"\n"
 "\t이어서 선장이 말했습니다. \"우와아아\""
 
-#: src-en/data/blueprints.xml.append:5295
+#: src-en/data/blueprints.xml.append:5312
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/class"
 msgstr "수집가의 증강자 순양함"
 
-#: src-en/data/blueprints.xml.append:5296
+#: src-en/data/blueprints.xml.append:5313
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5298
+#: src-en/data/blueprints.xml.append:5315
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/desc"
 msgstr ""
 "이 함선의 선장이 살던 우주의 지성체들은, 소행성 채굴로 자원이 남아돌아 탈희소성 사회가 이뤄지자 넘쳐나는 부를 낭비할 새로운 방법을 "
 "찾아야 했습니다. 무기화하지 않을 이유가 있을까요?"
 
-#: src-en/data/blueprints.xml.append:5370
+#: src-en/data/blueprints.xml.append:5387
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/class"
 msgstr "수집가의 해커 순양함"
 
-#: src-en/data/blueprints.xml.append:5371
+#: src-en/data/blueprints.xml.append:5388
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5373
+#: src-en/data/blueprints.xml.append:5390
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
 msgstr ""
 "메인 프레임 보정 중. 바이패스 여과 코어에 연결 중. 프로세서 오버클록 메가칩이 최대 효율로 작동 중. 이 함선은 전투 준비가 "
 "완료되었습니다."
 
-#: src-en/data/blueprints.xml.append:5445
+#: src-en/data/blueprints.xml.append:5462
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/class"
 msgstr "수집가의 반군 순양함"
 
-#: src-en/data/blueprints.xml.append:5446
+#: src-en/data/blueprints.xml.append:5463
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5448
+#: src-en/data/blueprints.xml.append:5465
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
 msgstr ""
 "이 해적선의 선원들은 아이러니하게도 그들의 함선에 남은 반군의 유산을 아직도 고수하고 있습니다. 이는 멀티버스를 구하고자 하는 강렬한 "
 "열망을 조금 더 날카롭게 해주죠."
 
-#: src-en/data/blueprints.xml.append:5519
+#: src-en/data/blueprints.xml.append:5536
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/class"
 msgstr "수집가의 순양함"
 
-#: src-en/data/blueprints.xml.append:5520
+#: src-en/data/blueprints.xml.append:5537
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5522
+#: src-en/data/blueprints.xml.append:5539
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
 msgstr ""
 "고대 이물의 초강력 병기로 무장하였고.... 그리고 어, 고대 이물의 초강력 병기로 무장했습니다. 그게 당신이 알아야할 전부입니다."
 
-#: src-en/data/blueprints.xml.append:5591
+#: src-en/data/blueprints.xml.append:5608
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
 msgstr "수집가의 부서진 폭격기"
 
-#: src-en/data/blueprints.xml.append:5592
+#: src-en/data/blueprints.xml.append:5609
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:5594
+#: src-en/data/blueprints.xml.append:5611
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/desc"
 msgstr ""
