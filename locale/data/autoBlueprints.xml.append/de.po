@@ -1,39 +1,46 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-08-23 14:05+0000\n"
+"Last-Translator: Janosch Javurek <ppan71749@gmail.com>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/"
+"the-renegade-collection/dataautoblueprintsxmlappend/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/autoBlueprints.xml.append:969
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_COLLECTOR\"]/class"
-msgstr ""
+msgstr "Der Sammler"
 
 #: src-en/data/autoBlueprints.xml.append:1047
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CONTINUITY_BOSS\"]/class"
-msgstr ""
+msgstr "Quarantänevollstrecker"
 
 #: src-en/data/autoBlueprints.xml.append:1120
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_1\"]/class"
-msgstr ""
+msgstr "Vereinigte Föderation Bobcat-Klasse-Langstrecken-Patrouillenbomber"
 
 #: src-en/data/autoBlueprints.xml.append:1173
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_2\"]/class"
-msgstr ""
+msgstr "Unveränderlicher Wächter"
 
 #: src-en/data/autoBlueprints.xml.append:1231
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_3\"]/class"
-msgstr ""
+msgstr "Colonie-Aufklärer"
 
 #: src-en/data/autoBlueprints.xml.append:1270
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_4\"]/class"
-msgstr ""
+msgstr "Wahnsinniger Visionär"
 
 #: src-en/data/autoBlueprints.xml.append:1318
 msgid ""
