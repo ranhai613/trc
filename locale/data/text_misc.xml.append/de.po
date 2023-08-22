@@ -1,58 +1,93 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-08-23 14:05+0000\n"
+"Last-Translator: Janosch Javurek <ppan71749@gmail.com>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/"
+"the-renegade-collection/datatext_miscxmlappend/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
 msgstr ""
+"Tipp: Gespawnte Crew wird nicht zur Crew-Begrenzung gezählt, aber bleiben "
+"nur Temporär. Kann ebenso nicht geklont werden."
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
 msgstr ""
+"Tipp: Hergestellte Drohnen bieten temporär Vorteile bevor sie abschalten."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
 msgstr ""
+"Tipp: Gegner die mit dieser Waffe getroffen wurden, werden kurzzeitig "
+"kontrollierbar wenn möglich. Die Vorteile eines verbesserten "
+"Gedankenkontrolle-Systems werden nicht angewendet."
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
 msgstr ""
+"Tipp: Köder verursachen keinen physischen Schaden zu dem feindlichem Schiff, "
+"aber lenken Abwehrdrohnen ab und erblinden Crew."
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
 msgstr ""
+"Tipp: Lupenwaffen erhalten erhöhte Boni auf ihre Werte, für jede zusätzliche "
+"Ladung, anstatt mehr Projektile."
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
 msgstr ""
+"Tipp: Kaskadewaffen bereiten anliegenden Räumen unterschiedlichste Arten von "
+"Schaden zu. Diagonal liegende räume sind nicht betroffen."
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
 msgstr ""
+"Tipp: Dieser Spaltstrahl richtet Schaden per Raumeinheit anstatt per Raum. "
+"Das bedeutet größere Räume sind für den Effekt anfälliger!"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
 msgstr ""
+"Tipp: Unterdrücker richten keinen physischen Schaden an, aber sind exzellent "
+"um Schilde auszuschalten. Energieschilde können davon ebenso beschädigt "
+"werden."
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
 msgstr ""
+"Tipp: Kompaktwaffen werden von kleinen Energielecks innerhalb eines Systems "
+"gespeist und brauchen keine eigene Energiequelle. Anders als herkömmliche "
+"Konservative Waffen, können sie nur laden wenn das Waffensystem aktiv ist."
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
 msgstr ""
+"Tipp: Raketendrohnen brauchen eine Menge Raketen, wenn sie eingesetzt "
+"werden, aber verbrauchen keine Raketen zum feuern.\n"
+"\n"
+"Tipp: Kampfdrohnen benötigen bei jedem neuen Gegner 1 Drohnenteil, wenn sie "
+"eingesetzt werden. Sie greifen an, solange sie mit Energie versorgt werden."
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
 msgstr ""
+"DIE ABTRÜNNIGEN KOLLEKTION\n"
+"Gerade Aktiviert.\n"
+"Drücke für mehr Informationen."
 
 #: src-en/data/text_misc.xml.append:29
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
-msgstr ""
+msgstr "???"
 
 #: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
-msgstr ""
+msgstr "KOPFGELD [!]"
