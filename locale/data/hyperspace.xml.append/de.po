@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-23 14:05+0000\n"
+"PO-Revision-Date: 2023-09-24 12:10+0000\n"
 "Last-Translator: Janosch Javurek <ppan71749@gmail.com>\n"
 "Language-Team: German <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datahyperspace-xml-append/de/>\n"
