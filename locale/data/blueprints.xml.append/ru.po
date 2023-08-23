@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-08-24 15:05+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1297,12 +1297,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/title"
-msgstr ""
+msgstr "Ракета дрона"
 
 #: src-en/data/blueprints.xml.append:3188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/short"
-msgstr ""
+msgstr "Ракета дрона"
 
 #: src-en/data/blueprints.xml.append:3189
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
@@ -1311,7 +1311,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:3220
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/title"
-msgstr ""
+msgstr "Ракетный дрон \"Тесей\""
 
 #: src-en/data/blueprints.xml.append:3221
 msgid ""
