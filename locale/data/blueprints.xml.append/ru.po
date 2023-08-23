@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-22 05:05+0000\n"
+"PO-Revision-Date: 2023-08-23 14:05+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1316,7 +1316,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3221
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/short"
-msgstr ""
+msgstr "Тесей"
 
 #: src-en/data/blueprints.xml.append:3222
 msgid ""
@@ -1363,12 +1363,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3318
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/title"
-msgstr ""
+msgstr "Дрон-огнетушитель"
 
 #: src-en/data/blueprints.xml.append:3319
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/short"
-msgstr ""
+msgstr "Дрон-огнетушитель"
 
 #: src-en/data/blueprints.xml.append:3320
 msgid ""
@@ -1378,17 +1378,17 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:3324
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/powerList/power"
-msgstr ""
+msgstr "ДРОН"
 
 #: src-en/data/blueprints.xml.append:3331
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/title"
-msgstr ""
+msgstr "Дрон-огнетушитель"
 
 #: src-en/data/blueprints.xml.append:3332
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/short"
-msgstr ""
+msgstr "Огнетушитель"
 
 #: src-en/data/blueprints.xml.append:3333
 msgid ""
@@ -1410,7 +1410,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:3352
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/powerList/power"
-msgstr ""
+msgstr "ДРОН"
 
 #: src-en/data/blueprints.xml.append:3359
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
@@ -1442,7 +1442,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:3380
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/powerList/power"
-msgstr ""
+msgstr "ДРОН"
 
 #: src-en/data/blueprints.xml.append:3387
 msgid ""
@@ -1461,12 +1461,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3410
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/title"
-msgstr ""
+msgstr "[Л} Боевые системы"
 
 #: src-en/data/blueprints.xml.append:3411
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/desc"
 msgstr ""
+"Члены экипажа-энджи наносят стандартный урон в бою и получают +10 здоровья, "
+"но осуществляют ремонт на 25% медленнее.\n"
+"\t\n"
+"\t[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, "
+"но занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:3429
 msgid ""
