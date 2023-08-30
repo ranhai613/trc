@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-23 14:05+0000\n"
+"PO-Revision-Date: 2023-08-31 17:05+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
@@ -316,7 +316,7 @@ msgstr ""
 #: src-en/data/events.xml.append:259
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Да, мы можем общаться. Что в этом удивительного?"
 
 #: src-en/data/events.xml.append:261
 msgid ""
@@ -326,7 +326,7 @@ msgstr ""
 #: src-en/data/events.xml.append:263
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Кому? Чему?"
 
 #: src-en/data/events.xml.append:265
 msgid ""
