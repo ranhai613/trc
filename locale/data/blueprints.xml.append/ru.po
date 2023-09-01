@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-01 18:03+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-01 18:05+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -507,17 +507,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1146
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/title"
-msgstr "Энергетический зажигатель"
+msgstr "Энергетический поджигатель"
 
 #: src-en/data/blueprints.xml.append:1147
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/short"
-msgstr "Энергозажигатель"
+msgstr "Энергоподжигатель"
 
 #: src-en/data/blueprints.xml.append:1149
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/desc"
 msgstr ""
+"Энергетическое оружие отключает системы и повреждает корпус. Кроме того, это "
+"оружие вызывает больше пожаров, чем обычная энергетическая пушка."
 
 #: src-en/data/blueprints.xml.append:1200
 msgid ""
