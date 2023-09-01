@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-01 18:27+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -761,22 +761,22 @@ msgstr "Мутант"
 #: src-en/data/blueprints.xml.append:1620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[1]"
-msgstr ""
+msgstr "Наносит 2.3x урона в бою, перемещается с половинной скоростью"
 
 #: src-en/data/blueprints.xml.append:1621
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[2]"
-msgstr ""
+msgstr "Не может ремонтировать или лечиться"
 
 #: src-en/data/blueprints.xml.append:1622
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[3]"
-msgstr ""
+msgstr "Взрывается при смерти, нанося 15 урона экипажу и 1 урон системе"
 
 #: src-en/data/blueprints.xml.append:1623
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[4]"
-msgstr ""
+msgstr "Через 15 секунд возвращается в исходную форму"
 
 #: src-en/data/blueprints.xml.append:1629
 msgid ""
@@ -786,12 +786,18 @@ msgstr "Мутагенная бомба"
 #: src-en/data/blueprints.xml.append:1630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/short"
-msgstr ""
+msgstr "Мутаген. бомба"
 
 #: src-en/data/blueprints.xml.append:1632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/desc"
 msgstr ""
+"Самотелепортирующаяся стимулятор, временно мутирующий экипаж, в который он "
+"попадает, превращая его в ужасающего мутанта на 15 секунд.\n"
+"\n"
+"\tМутанты наносят 2.3x урон в бою, не могут восстанавливаться и лечиться, "
+"двигаются с половинной скоростью и взрываются при смерти, нанося 15 урон "
+"экипажу и 1 урон системе."
 
 #: src-en/data/blueprints.xml.append:1689
 msgid ""
