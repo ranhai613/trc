@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-30 13:05+0000\n"
+"PO-Revision-Date: 2023-09-01 16:57+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -319,12 +319,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:659
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/title"
-msgstr ""
+msgstr "Расщепляющий луч \"Фангтянь\""
 
 #: src-en/data/blueprints.xml.append:660
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/short"
-msgstr ""
+msgstr "Фангтянь"
 
 #: src-en/data/blueprints.xml.append:661
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
@@ -334,6 +334,24 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/descriptionOverride"
 msgstr ""
+"Расщепляющие лучи наносят урон за плитку, а не за отсек. Этот луч "
+"специализируется на разрушении систем и тем больше отсек системы, тем больше "
+"урона он нанесет.\n"
+"\n"
+"\t\tХарактеристики:\n"
+"\t\tНеобходимая мощность: 2\n"
+"\t\tВремя перезарядки: 11 секунд\n"
+"\n"
+"\t\tДлина луча: 128\n"
+"\t\tСкорость луча: 6\n"
+"\t\t\n"
+"\t\tУрон системам: 1\n"
+"\t\tПробитие щита: 1\n"
+"\t\tУрон наносится за плитку\n"
+"\t\t\n"
+"\t\tВероятность пробоины: 20%\n"
+"\n"
+"\t\tСтоимость покупки/продажи: 60~/30~"
 
 #: src-en/data/blueprints.xml.append:704
 msgid ""
