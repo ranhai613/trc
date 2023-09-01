@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-01 18:18+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-01 18:22+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -650,7 +650,7 @@ msgstr "Установочная бомба"
 #: src-en/data/blueprints.xml.append:1434
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/short"
-msgstr ""
+msgstr "Установ. бомба"
 
 #: src-en/data/blueprints.xml.append:1435
 msgid ""
@@ -706,7 +706,7 @@ msgstr "1.8x урон в ближнем бою, 2.2x скорость перед
 #: src-en/data/blueprints.xml.append:1493
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[3]"
-msgstr ""
+msgstr "Лечится с утроенной скоростью"
 
 #: src-en/data/blueprints.xml.append:1494
 msgid ""
@@ -727,6 +727,9 @@ msgstr "Арахно-бомба"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/desc"
 msgstr ""
+"Самотелепортирующее устройство, позволяющее вывести 2 детенышей с "
+"ограниченным сроком жизни, которые будут сражаться за вас. Может "
+"использоваться для поражения собственного корабля."
 
 #: src-en/data/blueprints.xml.append:1567
 msgid ""
