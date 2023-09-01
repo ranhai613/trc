@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-01 18:27+0000\n"
+"PO-Revision-Date: 2023-09-01 18:33+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -813,6 +813,9 @@ msgstr "Аполлон"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/desc"
 msgstr ""
+"Нишевое, но эффективное ракетное орудие, не наносящее урона экипажу, но "
+"дающее пассивное исцеление 4 ОЗ/с всем союзникам, в которых оно попадает, в "
+"течение 15 секунд."
 
 #: src-en/data/blueprints.xml.append:1741
 msgid ""
