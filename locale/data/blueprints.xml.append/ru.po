@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-01 18:16+0000\n"
+"PO-Revision-Date: 2023-09-01 18:18+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -626,7 +626,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/title"
-msgstr ""
+msgstr "Бензиновая бомба"
 
 #: src-en/data/blueprints.xml.append:1378
 msgid ""
@@ -637,6 +637,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/desc"
 msgstr ""
+"Самотелепортирующаяся взрывчатка, обливающая экипаж бензином, в результате "
+"чего он получает 4x урон от огня в течение 30 секунд, а также двигается на "
+"25% медленнее. Обладает способностью к самовоспроизведению и не нуждается в "
+"ракете."
 
 #: src-en/data/blueprints.xml.append:1433
 msgid ""
