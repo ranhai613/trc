@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-01 18:33+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-01 18:37+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -869,12 +869,12 @@ msgstr "Борей"
 #: src-en/data/blueprints.xml.append:1817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/desc"
-msgstr ""
+msgstr "Тяжелое ракетное оружие, запирающее отсеки при попадании."
 
 #: src-en/data/blueprints.xml.append:1868
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/title"
-msgstr ""
+msgstr "Осколочная ракетная установка \"Фемида\""
 
 #: src-en/data/blueprints.xml.append:1869
 msgid ""
@@ -894,7 +894,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1931
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/title"
-msgstr ""
+msgstr "Осколочная ракетная установка \"Персей\""
 
 #: src-en/data/blueprints.xml.append:1932
 msgid ""
