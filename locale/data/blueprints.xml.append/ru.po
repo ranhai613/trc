@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-02 18:26+0000\n"
+"PO-Revision-Date: 2023-09-02 18:31+0000\n"
 "Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1762,7 +1762,7 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
 msgstr ""
 "Это судно стало частью неудачной программы \"Инновации Вентворта\", "
-"вдохновленной популярным телевизионным персонажем Ремми Рекма."
+"вдохновленной популярным телевизионным персонажем \"Ремми Рекма\"."
 
 #: src-en/data/blueprints.xml.append:3805
 msgid ""
@@ -1772,7 +1772,7 @@ msgstr "Коллекционерский крейсер Соцветия"
 #: src-en/data/blueprints.xml.append:3806
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/name"
-msgstr ""
+msgstr "Компостер"
 
 #: src-en/data/blueprints.xml.append:3808
 msgid ""
