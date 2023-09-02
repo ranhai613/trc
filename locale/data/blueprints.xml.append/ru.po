@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-02 04:53+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-02 04:54+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1505,7 +1505,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3273
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/title"
-msgstr ""
+msgstr "Защитный дрон \"Рассеиватель\""
 
 #: src-en/data/blueprints.xml.append:3274
 msgid ""
@@ -1568,6 +1568,12 @@ msgstr "Огнетушитель"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/desc"
 msgstr ""
+"Управляемый служебный дрон, который может тушить пожары и поглощать "
+"кислород. Может также медленно ремонтировать системы в аварийных ситуациях.\n"
+"    \n"
+"-50 ОЗ, 1,5x скорость передвижения\n"
+"-4x скорость тушения, 0.5x скорость ремонта\n"
+"-Поглощает кислород, невосприимчив к урону от огня"
 
 #: src-en/data/blueprints.xml.append:3346
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
