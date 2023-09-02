@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-02 18:31+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1778,6 +1778,8 @@ msgstr "Компостер"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
 msgstr ""
+"\"С того момента, как я понял слабость своего мезокарпа, она вызывала у меня "
+"отвращение. Я жажду силы и уверенности стали. Желательно в виде ракеты\"."
 
 #: src-en/data/blueprints.xml.append:3882
 msgid ""
