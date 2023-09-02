@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-02 19:13+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-03 06:28+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1893,12 +1893,14 @@ msgstr "Коллекционерский крейсер Затерянных С�
 #: src-en/data/blueprints.xml.append:4335
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/name"
-msgstr ""
+msgstr "Разруха"
 
 #: src-en/data/blueprints.xml.append:4337
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/desc"
 msgstr ""
+"Услышав призыв Федерации о необходимости отважных бойцов, доблестное "
+"Затерянное Солнце ухватилось за возможность поджечь как можно больше людей."
 
 #: src-en/data/blueprints.xml.append:4410
 msgid ""
@@ -1914,6 +1916,9 @@ msgstr "Игней"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
 msgstr ""
+"На борту этого корабля не раз возникали споры о том, чем стреляет его "
+"уникальное оружие - магмой или лавой. Возможно, к ним присоединились бы и "
+"враги, если бы не были мертвы."
 
 #: src-en/data/blueprints.xml.append:4485
 msgid ""
@@ -1944,6 +1949,8 @@ msgstr "Адрон"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/desc"
 msgstr ""
+"Вскоре ракушка поняла, что случайно купила не ускоритель, а коллайдер "
+"частиц. Но ничего страшного - фиолетовый все равно лучше оранжевого."
 
 #: src-en/data/blueprints.xml.append:4633
 msgid ""
@@ -1959,6 +1966,8 @@ msgstr "Виктория"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/desc"
 msgstr ""
+"Золотое правило - \"кто ищет, тот хранит\", и это относится не только к "
+"вещам, которые вы крадете. Оно распространяется и на людей!"
 
 #: src-en/data/blueprints.xml.append:4710
 msgid ""
