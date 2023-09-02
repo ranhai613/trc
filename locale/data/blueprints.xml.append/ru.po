@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-02 18:24+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1727,9 +1727,7 @@ msgstr "Хтон"
 #: src-en/data/blueprints.xml.append:3579
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/desc"
-msgstr ""
-"Этот корабль обладает мощным вооружением. Вот, собственно, и все, что можно "
-"сказать о нем."
+msgstr "Этот корабль обладает мощным вооружением. Вот и все, честно говоря."
 
 #: src-en/data/blueprints.xml.append:3652
 msgid ""
