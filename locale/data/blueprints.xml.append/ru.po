@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-02 04:56+0000\n"
+"PO-Revision-Date: 2023-09-02 18:15+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1098,7 +1098,7 @@ msgstr "\"Сверхподжог\""
 #: src-en/data/blueprints.xml.append:2456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/short"
-msgstr ""
+msgstr "Сверхподжог"
 
 #: src-en/data/blueprints.xml.append:2457
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/desc"
@@ -1335,7 +1335,7 @@ msgstr "Наносит 1.2x урона в бою"
 #: src-en/data/blueprints.xml.append:2933
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[2]"
-msgstr ""
+msgstr "Получает 0.7x урона от боя и 0.6x от пожаров"
 
 #: src-en/data/blueprints.xml.append:2934
 msgid ""
@@ -1413,17 +1413,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3092
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/title"
-msgstr ""
+msgstr "Дрон-подавитель мод. II"
 
 #: src-en/data/blueprints.xml.append:3093
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/short"
-msgstr ""
+msgstr "Подавитель II"
 
 #: src-en/data/blueprints.xml.append:3094
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/desc"
 msgstr ""
+"Специализированный дрон, который при питании может эффективно подавить слой "
+"щита навечно. Также имеет встроенную систему маскировки, позволяющую "
+"бесконечно избегать защитных дронов. Версия мод. II медленнее, но может "
+"пробивать сразу 3 слоя щита."
 
 #: src-en/data/blueprints.xml.append:3107
 msgid ""
@@ -1433,7 +1437,7 @@ msgstr "Бомба дрона"
 #: src-en/data/blueprints.xml.append:3128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_ION\"]/title"
-msgstr ""
+msgstr "Бомба дрона"
 
 #: src-en/data/blueprints.xml.append:3152
 msgid ""
@@ -1467,6 +1471,8 @@ msgstr "Громоотвод [И]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Ион] Специализированный дрон, способный переключаться между "
+"пробойными и ионными бомбами без затрат на ракеты, но относительно медленный."
 
 #: src-en/data/blueprints.xml.append:3187
 msgid ""
@@ -1500,7 +1506,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3237
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DEFENSE\"]/title"
-msgstr ""
+msgstr "Осколки дрона"
 
 #: src-en/data/blueprints.xml.append:3273
 msgid ""
@@ -1510,7 +1516,7 @@ msgstr "Защитный дрон \"Рассеиватель\""
 #: src-en/data/blueprints.xml.append:3274
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/short"
-msgstr ""
+msgstr "Рассеиватель"
 
 #: src-en/data/blueprints.xml.append:3275
 msgid ""
@@ -1520,12 +1526,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3292
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/title"
-msgstr ""
+msgstr "Защитный дрон \"Рассеиватель\""
 
 #: src-en/data/blueprints.xml.append:3293
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/short"
-msgstr ""
+msgstr "Рассеиватель"
 
 #: src-en/data/blueprints.xml.append:3294
 msgid ""
@@ -1648,6 +1654,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3389
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
+"Управляемый служебный дрон, который отнимает энергию из системы, чтобы "
+"обеспечить щит союзникам, значительно снижая урон от всех источников.\n"
+"    \n"
+"-50 ОЗ, 0,75x скорость передвижения\n"
+"-Экранирует всех союзников в отсеке, снижая их урон от всех источников на 75%"
+"\n"
+"-Отнимает 3 единицы энергии от любой текущей системы. Чтобы применить щиты, "
+"необходимо отнять энергию."
 
 #: src-en/data/blueprints.xml.append:3410
 msgid ""
