@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-02 19:01+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1816,7 +1816,7 @@ msgid ""
 msgstr ""
 "Законы Федерации чужды капитану этого корабля. Хотя они, возможно, и "
 "пропустили сообщение о правилах клонирования, они строго придерживаются "
-"правила о запрете телепортации с родины."
+"правила о запрете телепортации из дома."
 
 #: src-en/data/blueprints.xml.append:4032
 msgid ""
