@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-02 04:01+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-02 04:43+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -642,7 +642,7 @@ msgstr "Бензиновая бомба"
 #: src-en/data/blueprints.xml.append:1378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/short"
-msgstr ""
+msgstr "Бензин. бомба"
 
 #: src-en/data/blueprints.xml.append:1380
 msgid ""
@@ -936,6 +936,8 @@ msgstr "Эпиметей"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/desc"
 msgstr ""
+"В начале боя выпускает одну очень точную и разрушительную ракету. Может быть "
+"использована только один раз за бой."
 
 #: src-en/data/blueprints.xml.append:2051
 msgid ""
@@ -951,6 +953,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/desc"
 msgstr ""
+"Размещает в целевом отсеке временного стража, который удваивает урон от "
+"опасности и продолжительность оглушения для ВСЕХ членов экипажа в комнате на "
+"20 секунд."
 
 #: src-en/data/blueprints.xml.append:2124
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
@@ -983,21 +988,28 @@ msgstr "Баал"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
 msgstr ""
+"Минометы быстро заряжаются и выстреливают залпами медленно движущихся "
+"снарядов. Также служит эффективным средством создания ловушек для флота.\n"
+"\t\n"
+"\tНа пустых маяках может задержать флот на 2 прыжка за 15 боеголовок, не "
+"влияет на дурную славу."
 
 #: src-en/data/blueprints.xml.append:2250
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/title"
-msgstr ""
+msgstr "Трифекта"
 
 #: src-en/data/blueprints.xml.append:2251
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/short"
-msgstr ""
+msgstr "Трифекта"
 
 #: src-en/data/blueprints.xml.append:2253
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/desc"
 msgstr ""
+"Причудливая конструкция, стреляющая 2 зенитными снарядами и медленно "
+"движущимся, но наносящим большой урон лазером за символическое время заряда."
 
 #: src-en/data/blueprints.xml.append:2294
 msgid ""
@@ -1184,7 +1196,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/short"
-msgstr ""
+msgstr "Магма"
 
 #: src-en/data/blueprints.xml.append:2709
 msgid ""
