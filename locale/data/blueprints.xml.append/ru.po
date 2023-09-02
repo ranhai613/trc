@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-01 18:37+0000\n"
+"PO-Revision-Date: 2023-09-02 04:01+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -385,6 +385,9 @@ msgstr "Фокон II†"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
 msgstr ""
+"Этот ужасающий радиационный луч наносит тяжелый урон экипажу и ослабляет "
+"его. Он длиннее и наносит больше урона, чем мод. I, но не проникает сквозь "
+"щиты."
 
 #: src-en/data/blueprints.xml.append:827
 msgid ""
@@ -453,6 +456,8 @@ msgstr "Асфиксион†"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/desc"
 msgstr ""
+"Специализированный ион, который особенно эффективен для удушения противника, "
+"хотя может применяться и для других целей."
 
 #: src-en/data/blueprints.xml.append:993
 msgid ""
@@ -503,6 +508,9 @@ msgstr "Энергофазер†"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/desc"
 msgstr ""
+"Энергетическое оружие отключает системы и повреждает корпус. Эта специальная "
+"версия проникает сквозь щиты, нанося ионный урон первому слою щитов при "
+"прохождении через него."
 
 #: src-en/data/blueprints.xml.append:1146
 msgid ""
@@ -563,7 +571,7 @@ msgstr "Осколочная бомба"
 #: src-en/data/blueprints.xml.append:1263
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/short"
-msgstr ""
+msgstr "Оск. бомба"
 
 #: src-en/data/blueprints.xml.append:1265
 msgid ""
@@ -622,6 +630,9 @@ msgstr "Бомба част.†"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/desc"
 msgstr ""
+"Самотелепортирующаяся взрывчатка, содержащая ускоритель частиц, который "
+"тяжело повреждает системы и вызывает пожар. Можно нацелить на собственный "
+"корабль."
 
 #: src-en/data/blueprints.xml.append:1377
 msgid ""
@@ -649,7 +660,7 @@ msgstr "Установочная бомба"
 #: src-en/data/blueprints.xml.append:1434
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/short"
-msgstr "Установ. бомба"
+msgstr "Установ. бомба."
 
 #: src-en/data/blueprints.xml.append:1435
 msgid ""
@@ -914,7 +925,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/title"
-msgstr ""
+msgstr "Упреждающая ракетная установка \"Эпиметей\""
 
 #: src-en/data/blueprints.xml.append:1995
 msgid ""
