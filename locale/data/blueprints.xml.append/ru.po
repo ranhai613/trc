@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-02 18:15+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-02 18:16+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1694,6 +1694,8 @@ msgstr "Иволга"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/desc"
 msgstr ""
+"Переоборудованный крейсер \"Пустельга\", пилотируемый пиратом, помешанным на "
+"передовом оружии."
 
 #: src-en/data/blueprints.xml.append:3503
 msgid ""
