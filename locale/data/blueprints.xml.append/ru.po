@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-02 19:13+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1858,7 +1858,7 @@ msgstr "Коллекционерский Миротворческий крейс
 #: src-en/data/blueprints.xml.append:4185
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/name"
-msgstr "Флюсовый конденсатор"
+msgstr "Конденсатор потока"
 
 #: src-en/data/blueprints.xml.append:4187
 msgid ""
