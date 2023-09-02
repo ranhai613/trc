@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-02 04:43+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-02 04:50+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1034,7 +1034,7 @@ msgstr "Морозное осколочное орудие"
 #: src-en/data/blueprints.xml.append:2331
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/short"
-msgstr ""
+msgstr "Морозн. оскл. оруд."
 
 #: src-en/data/blueprints.xml.append:2333
 msgid ""
@@ -1049,7 +1049,7 @@ msgstr "Изготовленный дрон"
 #: src-en/data/blueprints.xml.append:2390
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/short"
-msgstr ""
+msgstr "Изготовл. дрон"
 
 #: src-en/data/blueprints.xml.append:2391
 msgid ""
@@ -1059,12 +1059,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:2401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/title"
-msgstr ""
+msgstr "Пушка-изготовитель"
 
 #: src-en/data/blueprints.xml.append:2402
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/short"
-msgstr ""
+msgstr "Изготовитель"
 
 #: src-en/data/blueprints.xml.append:2403
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
@@ -1093,7 +1093,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/title"
-msgstr ""
+msgstr "\"Сверхподжог\""
 
 #: src-en/data/blueprints.xml.append:2456
 msgid ""
@@ -1127,7 +1127,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/title"
-msgstr ""
+msgstr "Сигнальная ракетница"
 
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
@@ -1178,7 +1178,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2676
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
-msgstr ""
+msgstr "Излучатель тесла"
 
 #: src-en/data/blueprints.xml.append:2677
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/short"
@@ -1375,7 +1375,7 @@ msgstr "Нейронный чип позволяет осваивать боев
 #: src-en/data/blueprints.xml.append:2954
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/title"
-msgstr ""
+msgstr "Пусковая установка клонов военного класса Федерации"
 
 #: src-en/data/blueprints.xml.append:2955
 msgid ""
@@ -1397,15 +1397,18 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3077
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
-msgstr ""
+msgstr "Дрон-подавитель мод. I"
 
 #: src-en/data/blueprints.xml.append:3078
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/short"
-msgstr ""
+msgstr "Подавитель I"
 
 #: src-en/data/blueprints.xml.append:3079
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/desc"
 msgstr ""
+"Специализированный дрон, который при питании может эффективно подавить слой "
+"щита навечно. Также имеет встроенную систему маскировку, позволяющую "
+"бесконечно долго избегать защитных дронов."
 
 #: src-en/data/blueprints.xml.append:3092
 msgid ""
