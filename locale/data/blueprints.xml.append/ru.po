@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-02 19:02+0000\n"
+"PO-Revision-Date: 2023-09-02 19:13+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1864,6 +1864,8 @@ msgstr "Флюсовый конденсатор"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/desc"
 msgstr ""
+"Терпение чаще всего считается добродетелью. Это, конечно, так, но кто "
+"сказал, что нельзя немного ускорить процесс?"
 
 #: src-en/data/blueprints.xml.append:4259
 msgid ""
@@ -1873,12 +1875,15 @@ msgstr "Коллекционерский крейсер Клептократии
 #: src-en/data/blueprints.xml.append:4260
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/name"
-msgstr ""
+msgstr "Спенсер-45"
 
 #: src-en/data/blueprints.xml.append:4262
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/desc"
 msgstr ""
+"К сожалению, экипаж слизней ушла на обед как раз в то время, когда стартовал "
+"этот корабль. Даже с новым экипажем могут возникнуть некоторые трудности с "
+"выслеживанием вражеского экипажа..."
 
 #: src-en/data/blueprints.xml.append:4334
 msgid ""
