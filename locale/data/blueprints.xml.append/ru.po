@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-02 04:54+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1450,7 +1450,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/desc"
 msgstr ""
 "[ТЕКУЩИЙ РЕЖИМ: Пробоина] Специализированный дрон, способный переключаться "
-"между пробоиными и ионными бомбами без затрат на ракеты, но относительно "
+"между пробойными и ионными бомбами без затрат на ракеты, но относительно "
 "медленный."
 
 #: src-en/data/blueprints.xml.append:3169
