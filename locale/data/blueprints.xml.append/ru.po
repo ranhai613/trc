@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-02 18:24+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-02 18:26+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1755,12 +1755,14 @@ msgstr "Коллекционерский крейсер Изгоев"
 #: src-en/data/blueprints.xml.append:3731
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/name"
-msgstr ""
+msgstr "Коммерческая выгода"
 
 #: src-en/data/blueprints.xml.append:3733
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
 msgstr ""
+"Это судно стало частью неудачной программы \"Инновации Вентворта\", "
+"вдохновленной популярным телевизионным персонажем Ремми Рекма."
 
 #: src-en/data/blueprints.xml.append:3805
 msgid ""
