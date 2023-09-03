@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-03 07:38+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-03 07:54+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2153,6 +2153,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
 msgstr ""
+"Экипаж этого пиратского судна, по иронии судьбы, до сих пор хранит наследие "
+"повстанцев. Это придает спасению Вселенной некую желанную остроту."
 
 #: src-en/data/blueprints.xml.append:5536
 msgid ""
@@ -2168,6 +2170,8 @@ msgstr "Теофил"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
 msgstr ""
+"Вооруженный древним эльдрическим супероружием... он... он вооружен древним "
+"эльдрическим супероружием. Это все, что вам нужно знать, на самом деле."
 
 #: src-en/data/blueprints.xml.append:5608
 msgid ""
