@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-03 10:30+0000\n"
-"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
+"PO-Revision-Date: 2023-09-03 10:32+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1237,7 +1237,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/title"
-msgstr ""
+msgstr "Магма-пушка"
 
 #: src-en/data/blueprints.xml.append:2708
 msgid ""
