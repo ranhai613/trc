@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-15 12:05+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-09-03 10:24+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/mod-appendixmetadataxml/ru/>\n"
 "Language: ru\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/metadata/title"
-msgstr "FTL: MULTIVERSE - THE RENEGADE COLLECTION"
+msgstr "FTL: MULTIVERSE - КОЛЛЕКЦИЯ РЕНЕГАТА"
 
 #: src-en/mod-appendix/metadata.xml:6
 #, fuzzy
