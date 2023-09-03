@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-04 05:53+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -224,7 +224,7 @@ msgstr ""
 "\t\tВремя перезарядки: 13 секунд\n"
 "\t\tБонус к точности: +10%\n"
 "\n"
-"\t\tМаксимум выстрелов за заряд: 4\n"
+"\t\tМаксимальное число зарядов: 4\n"
 "\t\tСокращение перезарядки: 0/50/125/187.5%\n"
 "\t\t\n"
 "\t\tУрон корпусу: 3/4/5/6\n"
@@ -265,7 +265,7 @@ msgstr ""
 "\t\tВремя перезарядки: 8 секунд\n"
 "\t\tБонус к точности: +10%\n"
 "\n"
-"\t\tМаксимум выстрелов за заряд: 4\n"
+"\t\tМаксимальное число зарядов: 4\n"
 "\t\tПробивание щита: 1/2/3/4\n"
 "\t\tСокращение перезарядки: 0/50/125/187.5%\n"
 "\t\t\n"
@@ -306,7 +306,7 @@ msgstr ""
 "\t\tВремя перезарядки: 6 секунд\n"
 "\t\tБонус к точности: +10%\n"
 "\n"
-"\t\tМаксимум выстрелов за заряд: 4\n"
+"\t\tМаксимальное число зарядов: 4\n"
 "\t\tПробивание щита: 1/2/3/4\n"
 "\t\tСокращение перезарядки: 0/10/21/32.1%\n"
 "\t\t\n"
@@ -1771,7 +1771,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3429
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/class"
-msgstr "Коллекционерский крейсер \"Пустельга\""
+msgstr "Коллекционный крейсер \"Пустельга\""
 
 #: src-en/data/blueprints.xml.append:3430
 msgid ""
@@ -1788,7 +1788,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3503
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/class"
-msgstr "Коллекционерский крейсер инженеров"
+msgstr "Коллекционный крейсер инженеров"
 
 #: src-en/data/blueprints.xml.append:3504
 msgid ""
@@ -1805,7 +1805,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/class"
-msgstr "Коллекционерский Вестник смерти"
+msgstr "Коллекционный Вестник смерти"
 
 #: src-en/data/blueprints.xml.append:3577
 msgid ""
@@ -1820,7 +1820,7 @@ msgstr "Этот корабль обладает мощным вооружени
 #: src-en/data/blueprints.xml.append:3652
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/class"
-msgstr "Коллекционерский крейсер энджи"
+msgstr "Коллекционный крейсер энджи"
 
 #: src-en/data/blueprints.xml.append:3653
 msgid ""
@@ -1838,7 +1838,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3730
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/class"
-msgstr "Коллекционерский крейсер Изгоев"
+msgstr "Коллекционный крейсер Изгоев"
 
 #: src-en/data/blueprints.xml.append:3731
 msgid ""
@@ -1855,7 +1855,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3805
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/class"
-msgstr "Коллекционерский крейсер Соцветия"
+msgstr "Коллекционный крейсер Соцветия"
 
 #: src-en/data/blueprints.xml.append:3806
 msgid ""
@@ -1872,7 +1872,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3882
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/class"
-msgstr "Коллекционерский стелс-крейсер"
+msgstr "Коллекционный стелс-крейсер"
 
 #: src-en/data/blueprints.xml.append:3883
 msgid ""
@@ -1891,7 +1891,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3959
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/class"
-msgstr "Коллекционерский крейсер Федерации"
+msgstr "Коллекционный крейсер Федерации"
 
 #: src-en/data/blueprints.xml.append:3960
 msgid ""
@@ -1909,7 +1909,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/class"
-msgstr "Коллекционерский крейсер Улья"
+msgstr "Коллекционный крейсер Улья"
 
 #: src-en/data/blueprints.xml.append:4033
 msgid ""
@@ -1924,7 +1924,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/class"
-msgstr "Коллекционерский Иллекстрианский крейсер"
+msgstr "Коллекционный Иллекстрианский крейсер"
 
 #: src-en/data/blueprints.xml.append:4111
 msgid ""
@@ -1941,7 +1941,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4184
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/class"
-msgstr "Коллекционерский Миротворческий крейсер"
+msgstr "Коллекционный Миротворческий крейсер"
 
 #: src-en/data/blueprints.xml.append:4185
 msgid ""
@@ -1958,7 +1958,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4259
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/class"
-msgstr "Коллекционерский крейсер Клептократии"
+msgstr "Коллекционный крейсер Клептократии"
 
 #: src-en/data/blueprints.xml.append:4260
 msgid ""
@@ -1976,7 +1976,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4334
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/class"
-msgstr "Коллекционерский крейсер Затерянных Солнц"
+msgstr "Коллекционный крейсер Затерянных Солнц"
 
 #: src-en/data/blueprints.xml.append:4335
 msgid ""
@@ -1993,7 +1993,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4410
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/class"
-msgstr "Коллекционерский крейсер Теократии"
+msgstr "Коллекционный крейсер Теократии"
 
 #: src-en/data/blueprints.xml.append:4411
 msgid ""
@@ -2011,22 +2011,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4485
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/class"
-msgstr "Коллекционерский Иргенский крейсер"
+msgstr "Коллекционный Иргенский крейсер"
 
 #: src-en/data/blueprints.xml.append:4486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/name"
-msgstr ""
+msgstr "СИЛа Ампера"
 
 #: src-en/data/blueprints.xml.append:4488
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/desc"
 msgstr ""
+"Он называется \"СИЛа Ампера\", потому что у него есть орудие с уСИЛителем, "
+"дошло...?"
 
 #: src-en/data/blueprints.xml.append:4559
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/class"
-msgstr "Коллекционерский крейсер Гениократии"
+msgstr "Коллекционный крейсер Гениократии"
 
 #: src-en/data/blueprints.xml.append:4560
 msgid ""
@@ -2043,7 +2045,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4633
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/class"
-msgstr "Коллекционерский авто-крейсер"
+msgstr "Коллекционный авто-крейсер"
 
 #: src-en/data/blueprints.xml.append:4634
 msgid ""
@@ -2060,7 +2062,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4710
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/class"
-msgstr "Коллекционерский призрачный крейсер"
+msgstr "Коллекционный призрачный крейсер"
 
 #: src-en/data/blueprints.xml.append:4711
 msgid ""
@@ -2078,7 +2080,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4784
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/class"
-msgstr "Коллекционерский крейсер Выводка"
+msgstr "Коллекционный крейсер Выводка"
 
 #: src-en/data/blueprints.xml.append:4785
 msgid ""
@@ -2095,7 +2097,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4857
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/class"
-msgstr "Коллекционерский крейсер Тииикака"
+msgstr "Коллекционный крейсер Тииикака"
 
 #: src-en/data/blueprints.xml.append:4858
 msgid ""
@@ -2113,7 +2115,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4931
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/class"
-msgstr "Коллекционерский крейсер Сепаратистов"
+msgstr "Коллекционный крейсер Сепаратистов"
 
 #: src-en/data/blueprints.xml.append:4932
 msgid ""
@@ -2128,7 +2130,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5009
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/class"
-msgstr "Коллекционерский крейсер ланиусов"
+msgstr "Коллекционный крейсер ланиусов"
 
 #: src-en/data/blueprints.xml.append:5010
 msgid ""
@@ -2146,7 +2148,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5083
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/class"
-msgstr "Коллекционерский МВ-крейсер повстанцев"
+msgstr "Коллекционный МВ-крейсер повстанцев"
 
 #: src-en/data/blueprints.xml.append:5084
 msgid ""
@@ -2164,7 +2166,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5159
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/class"
-msgstr "Коллекционерский крейсер Сюзеренов"
+msgstr "Коллекционный крейсер Сюзеренов"
 
 #: src-en/data/blueprints.xml.append:5160
 msgid ""
@@ -2200,7 +2202,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5312
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/class"
-msgstr "Коллекционерский крейсер Возвышенных"
+msgstr "Коллекционный крейсер Возвышенных"
 
 #: src-en/data/blueprints.xml.append:5313
 msgid ""
@@ -2219,7 +2221,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5387
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/class"
-msgstr "Коллекционерский крейсер Хакеров"
+msgstr "Коллекционный крейсер Хакеров"
 
 #: src-en/data/blueprints.xml.append:5388
 msgid ""
@@ -2234,7 +2236,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5462
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/class"
-msgstr "Коллекционерский крейсер повстанцев"
+msgstr "Коллекционный крейсер повстанцев"
 
 #: src-en/data/blueprints.xml.append:5463
 msgid ""
@@ -2268,7 +2270,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5608
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
-msgstr "Коллекционерский развалившийся бомбардировщик"
+msgstr "Коллекционный развалившийся бомбардировщик"
 
 #: src-en/data/blueprints.xml.append:5609
 msgid ""
