@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-03 10:27+0000\n"
+"PO-Revision-Date: 2023-09-03 10:28+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1142,6 +1142,9 @@ msgstr "Сверхподжог"
 #: src-en/data/blueprints.xml.append:2457
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/desc"
 msgstr ""
+"Выстреливает концентрированный луч с таким сильным нагревом, что повреждает "
+"корпус и временно лишает экипаж иммунитета к огню, увеличивая урон от огня "
+"на x1,5 в течение 15 секунд. Остерегайтесь поражения собственного экипажа!"
 
 #: src-en/data/blueprints.xml.append:2502
 msgid ""
