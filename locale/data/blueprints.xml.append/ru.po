@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-03 10:32+0000\n"
-"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
+"PO-Revision-Date: 2023-09-03 10:34+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1568,6 +1568,10 @@ msgstr "Рассеиватель"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
 msgstr ""
+"Своеобразный защитный дрон, который стреляет залпами медленно движущиеся "
+"осколки. Может поражать что угодно - твердые снаряды, лазеры, дроны, да что "
+"угодно!\n"
+"\tПерезарядка: 1400 МС"
 
 #: src-en/data/blueprints.xml.append:3292
 msgid ""
