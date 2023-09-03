@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-03 06:30+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1983,6 +1983,9 @@ msgstr "Аваддон"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
 msgstr ""
+"После бесчисленных тысячелетий разработки все более совершенного оружия, "
+"способствующего междоусобицам, Династия наконец поняла, что ее пушки могут "
+"убивать и корабли других фракций."
 
 #: src-en/data/blueprints.xml.append:4784
 msgid ""
