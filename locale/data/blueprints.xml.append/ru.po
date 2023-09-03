@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-03 06:30+0000\n"
+"PO-Revision-Date: 2023-09-03 06:31+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1995,12 +1995,14 @@ msgstr "Коллекционерский крейсер Выводка"
 #: src-en/data/blueprints.xml.append:4785
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/name"
-msgstr ""
+msgstr "Маточник"
 
 #: src-en/data/blueprints.xml.append:4787
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
 msgstr ""
+"Что еще можно сказать о капитане этого судна? Они любят пауков. Они обожают "
+"пауков. Может быть, даже слишком."
 
 #: src-en/data/blueprints.xml.append:4857
 msgid ""
