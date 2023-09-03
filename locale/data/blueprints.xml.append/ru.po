@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-03 07:38+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2001,7 +2001,7 @@ msgstr "Маточник"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
 msgstr ""
-"Что еще можно сказать о капитане этого судна? Они любят пауков. Они обожают "
+"Что еще можно сказать о капитане этого судна? Они любят пауков. Они ОБОЖАЮТ "
 "пауков. Может быть, даже слишком."
 
 #: src-en/data/blueprints.xml.append:4857
