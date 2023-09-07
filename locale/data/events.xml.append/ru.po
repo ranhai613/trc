@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-06 18:05+0000\n"
+"PO-Revision-Date: 2023-09-08 05:38+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
@@ -630,7 +630,7 @@ msgstr ""
 #: src-en/data/events.xml.append:521
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Извините?"
 
 #: src-en/data/events.xml.append:523
 msgid ""
@@ -640,7 +640,7 @@ msgstr ""
 #: src-en/data/events.xml.append:525
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Я... эээ... чего?"
 
 #: src-en/data/events.xml.append:527
 msgid ""
@@ -695,7 +695,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:578
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "Снова связаться с Коллекционером."
 
 #: src-en/data/events.xml.append:580
 msgid ""
@@ -709,7 +709,7 @@ msgstr ""
 #: src-en/data/events.xml.append:600
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/text"
-msgstr ""
+msgstr "Приблизиться к зонду."
 
 #: src-en/data/events.xml.append:602
 msgid ""
@@ -729,7 +729,7 @@ msgstr ""
 #: src-en/data/events.xml.append:610
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Сдаться и прервать связь."
 
 #: src-en/data/events.xml.append:612
 msgid ""
@@ -739,7 +739,7 @@ msgstr ""
 #: src-en/data/events.xml.append:617
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Защитить зонд и атаковать корабль."
 
 #: src-en/data/events.xml.append:619
 msgid ""
@@ -754,7 +754,7 @@ msgstr "Продолжить..."
 #: src-en/data/events.xml.append:634
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/text"
-msgstr ""
+msgstr "Уйти - что-то не так."
 
 #: src-en/data/events.xml.append:636
 msgid ""
