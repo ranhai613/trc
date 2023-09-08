@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 06:07+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 06:08+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1453,6 +1453,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2924
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
 msgstr ""
+"Элитный экипаж гуманоидов. Высокоспособный солдат-клон, созданный в бортовой "
+"лаборатории клонирования вашей капсулы. Из-за дешевого генетического "
+"материала эти солдаты быстро разрушаются после появления.\n"
+"\n"
+"\t\n"
+"\tНаследует характеристики людей: незначительное сопротивление удушью"
 
 #: src-en/data/blueprints.xml.append:2928
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/title"
