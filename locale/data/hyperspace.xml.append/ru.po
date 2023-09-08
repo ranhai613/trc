@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-08 07:25+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -31,7 +31,7 @@ msgstr "Дрон-огнетушитель"
 
 #: src-en/data/hyperspace.xml.append:1113
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
-msgstr ""
+msgstr "Дрон-напряжение"
 
 #: src-en/data/hyperspace.xml.append:1117
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
