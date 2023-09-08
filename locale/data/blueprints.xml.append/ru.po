@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 06:09+0000\n"
+"PO-Revision-Date: 2023-09-08 06:11+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1533,7 +1533,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3018
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
-msgstr ""
+msgstr "Хлопушка дрона"
 
 #: src-en/data/blueprints.xml.append:3045
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP_2\"]/title"
@@ -1646,6 +1646,9 @@ msgstr "Тесей"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
 msgstr ""
+"Этот единственный в своем роде боевой дрон оснащен встроенным ракетным "
+"резервом. Для развертывания требуется 3 ракеты, но для стрельбы ракеты не "
+"расходуются."
 
 #: src-en/data/blueprints.xml.append:3237
 msgid ""
