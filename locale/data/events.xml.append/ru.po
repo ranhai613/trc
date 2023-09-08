@@ -394,6 +394,9 @@ msgstr "Ничего не делать."
 #: src-en/data/events.xml.append:236
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/text"
 msgstr ""
+"\" Ах, величайшая ирония судьбы! Чтобы познать все, нужно познать и смерть! "
+"И все же со смертью все знание... теряется. Трагедия... Возможно, стремление "
+"к бесконечной мудрости - это пустота...\""
 
 #: src-en/data/events.xml.append:240
 msgid ""
