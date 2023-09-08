@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 07:33+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 07:34+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -65,6 +65,9 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
 msgstr ""
+"Совет: компактное оружие питается за счет утечек энергии в системе, поэтому "
+"ему не нужно потреблять энергию самостоятельно. В отличие от стандартного "
+"консервативного оружия, оно заряжается только при питании системы оружия."
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
