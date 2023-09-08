@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 07:38+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 07:56+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -156,7 +156,7 @@ msgstr "Пройдите игру на любой версии крейсера 
 #: src-en/data/text_blueprints.xml.append:30
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SYLVAN_unlock\"]"
-msgstr "Выполните все Задания Коллекционера, чтобы разблокировать это судно."
+msgstr "Выполните все задания Коллекционера, чтобы разблокировать это судно."
 
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
