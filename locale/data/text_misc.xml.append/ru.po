@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 07:34+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 07:38+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -72,6 +72,12 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
 msgstr ""
+"Совет: Ракетные дроны требуют большого количества ракет для запуска, но не "
+"расходуют ракеты при стрельбе.\n"
+"\n"
+"Совет: боевые дроны требуют 1 дрон-комплект для запуска против каждого "
+"нового противника. Они будут атаковать врага до тех пор, пока у них есть "
+"питание."
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
