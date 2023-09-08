@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-08 06:09+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1527,6 +1527,9 @@ msgstr "П.У.К.В.К.Ф."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/desc"
 msgstr ""
+"Пусковая установка с возможностью клонирования. Запускает капсулу для "
+"клонирования, которая пробивает корпус противника и порождает солдата-клона, "
+"который будет сражаться за вас в течение 60 секунд."
 
 #: src-en/data/blueprints.xml.append:3018
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
