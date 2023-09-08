@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-08 09:54+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -418,7 +418,7 @@ msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/text"
 msgstr ""
 "Любопытно, что вокруг этого маяка установлена куча лабораторного "
 "оборудования. Миниатюрные шаттлы вращаются вокруг голубого корабля золтанов, "
-"между ними спешат несколько золтанов-ученых. Все они похоже, заняты своей "
+"между ними спешат несколько золтанов-ученых. Кажется, они все заняты своей "
 "работой."
 
 #: src-en/data/events.xml.append:255
