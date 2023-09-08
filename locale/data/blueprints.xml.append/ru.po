@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 06:16+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 07:25+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1383,7 +1383,7 @@ msgstr "Богач"
 
 #: src-en/data/blueprints.xml.append:2807
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/short"
-msgstr ""
+msgstr "Богач"
 
 #: src-en/data/blueprints.xml.append:2809
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
@@ -1422,7 +1422,7 @@ msgstr "Бомба-колонизатор"
 #: src-en/data/blueprints.xml.append:2878
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/short"
-msgstr ""
+msgstr "Бомба-колон."
 
 #: src-en/data/blueprints.xml.append:2880
 msgid ""
@@ -1487,6 +1487,12 @@ msgstr "Нейронный чип позволяет осваивать боев
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/desc"
 msgstr ""
+"Элитный экипаж гуманоидов. Высоко способный солдат-клон, созданный в "
+"бортовой лаборатории клонирования вашей капсулы. Из-за дешевого "
+"генетического материала эти солдаты быстро разрушаются после появления.\n"
+"\n"
+"\t\n"
+"\tНаследует характеристики людей: незначительное сопротивление удушью"
 
 #: src-en/data/blueprints.xml.append:2942
 msgid ""
@@ -1537,7 +1543,7 @@ msgstr "Хлопушка дрона"
 
 #: src-en/data/blueprints.xml.append:3045
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP_2\"]/title"
-msgstr ""
+msgstr "Хлопушка дрона"
 
 #: src-en/data/blueprints.xml.append:3077
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
@@ -1735,11 +1741,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3346
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
-msgstr ""
+msgstr "Дрон-напряжение"
 
 #: src-en/data/blueprints.xml.append:3347
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
-msgstr ""
+msgstr "Дрон-напряжение"
 
 #: src-en/data/blueprints.xml.append:3348
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
@@ -1752,11 +1758,11 @@ msgstr "ДРОН"
 
 #: src-en/data/blueprints.xml.append:3359
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
-msgstr ""
+msgstr "Дрон-напряжение"
 
 #: src-en/data/blueprints.xml.append:3360
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
-msgstr ""
+msgstr "Напряжение"
 
 #: src-en/data/blueprints.xml.append:3361
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
@@ -1775,12 +1781,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3374
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/title"
-msgstr ""
+msgstr "Дрон-щитоносец"
 
 #: src-en/data/blueprints.xml.append:3375
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/short"
-msgstr ""
+msgstr "Дрон-щитоносец"
 
 #: src-en/data/blueprints.xml.append:3376
 msgid ""
@@ -1795,12 +1801,12 @@ msgstr "ДРОН"
 #: src-en/data/blueprints.xml.append:3387
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/title"
-msgstr ""
+msgstr "Дрон-щитоносец"
 
 #: src-en/data/blueprints.xml.append:3388
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/short"
-msgstr ""
+msgstr "Щитоносец"
 
 #: src-en/data/blueprints.xml.append:3389
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
@@ -1943,7 +1949,6 @@ msgid ""
 msgstr "Один выстрел"
 
 #: src-en/data/blueprints.xml.append:3885
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/desc"
 msgstr ""
@@ -2300,7 +2305,7 @@ msgstr "6И6-60К"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
 msgstr ""
-"Калибровка основной консоли. Включение ядра фильтрации обхода. Мегачип с "
+"Калибровка основного каркаса. Включение ядра фильтрации обхода. Мегачип с "
 "разгонным процессором работает в режиме максимальной эффективности. Корабль "
 "готов к бою."
 
