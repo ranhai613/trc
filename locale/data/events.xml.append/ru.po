@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 18:20+0000\n"
+"PO-Revision-Date: 2023-09-08 18:29+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
@@ -728,12 +728,22 @@ msgstr ""
 #: src-en/data/events.xml.append:433
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Так вышло, что у меня есть конечности. А что случилось с вашими?"
 
 #: src-en/data/events.xml.append:435
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"\"ХАХАХАХАХ! ХАХАХАХАХАХ!\" Валун разражается хохотом, и его бесчисленные "
+"помощники присоединяются к нему. Вдруг его лицо становится серьезным, и он "
+"прыгает к экрану. \"С МОИМИ КОНЕЧНОСТЯМИ? ХОЧЕШЬ ЗНАТ', ЧТО СЛУЧИЛОСЬ С "
+"МОИМИ КОНЕЧНОСТЯМИ? ХАХ! ТОГДА Я РАССКАЖУ ТЕБЕ, ЯЗЫЧНИК! Для великой богини "
+"Аг'тхарии я вырезаю свои глаза и вковываю их в Божественный Окулус! Для "
+"благородного бога Тавла Эоса я отрываю себе руку и делаю из нее Небесный "
+"Скипетр! А для всемогущего повелителя Гаджгри я отрубаю ногу и делаю из нее "
+"Боевой МакСтик. Мое лучшее творение. Говорю тебе, язычник. Если у вас ест' "
+"хот' какая-то надежда на блаженную жизнь, вы должны творит'. В этой забытой "
+"земле не осталось места, кроме как для самых божественных провидцев!\""
 
 #: src-en/data/events.xml.append:437
 msgid ""
