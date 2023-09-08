@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-20 18:32+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 07:25+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -35,4 +35,4 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1117
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
-msgstr ""
+msgstr "Дрон-щитоносец"
