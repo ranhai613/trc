@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 09:47+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 09:52+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -394,9 +394,9 @@ msgstr "Ничего не делать."
 #: src-en/data/events.xml.append:236
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/text"
 msgstr ""
-"\" Ах, величайшая ирония судьбы! Чтобы познать все, нужно познать и смерть! "
-"И все же со смертью все знание... теряется. Трагедия... Возможно, стремление "
-"к бесконечной мудрости - это пустота...\""
+"\"Ах, величайшая ирония судьбы! Чтобы познать все, нужно познать и смерть! И "
+"все же со смертью все знание... теряются. Трагедия... Возможно, стремление к "
+"бесконечной мудрости - это пустота...\""
 
 #: src-en/data/events.xml.append:240
 msgid ""
