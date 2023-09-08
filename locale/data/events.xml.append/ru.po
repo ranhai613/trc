@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 18:29+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 18:39+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -748,12 +748,21 @@ msgstr ""
 #: src-en/data/events.xml.append:437
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Это... нормально? Отрубать конечности, я имею в виду?"
 
 #: src-en/data/events.xml.append:439
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"\"НОРМАЛЬНО? Что осталось нормальным? Это было мирное время до Эпохи Новых "
+"Богов. Простые, но мирные времена, скажу я тебе. А потом однажды пробудился "
+"разлом, и вот оно, зло, какого ты никогда не видел. Это боги спасли нас, да. "
+"Вторженцы, чтобы бороться с вторженцами. Да, они лишают нас конечностей, да. "
+"Приходится приносить жертвы. Но для меня? Дело не в грошах. Я был человеком "
+"ремесла до наступления эпохи, и сейчас я человек ремесла. Моя вечная цель - "
+"выковать оружие столь могущественное, столь сильное, что даже Боги будут "
+"трепетать перед ним! И тогда я, я, НИЧТОЖНЫЙ СМЕРТНЫЙ АЛОВ, СТАНУ ВЫСШИМ "
+"ВЛАДЫКОЙ! СВЯЩЕННЫМ ЧЕМПИОНОМ СМЕРТНЫХ ЛЮДЕЙ! УБИЙЦА УЖАСНЫХ... УЖАСНЫХ...\""
 
 #: src-en/data/events.xml.append:441
 msgid ""
