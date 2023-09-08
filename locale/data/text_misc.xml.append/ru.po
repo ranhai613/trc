@@ -92,4 +92,4 @@ msgstr "???"
 
 #: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
-msgstr ""
+msgstr "ЗАДАНИЕ [!]"
