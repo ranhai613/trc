@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-08 06:14+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1647,7 +1647,7 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
 msgstr ""
 "Этот единственный в своем роде боевой дрон оснащен встроенным ракетным "
-"резервом. Для развертывания требуется 3 ракеты, но для стрельбы ракеты не "
+"резервом. Для запуска требуется 3 ракеты, но для стрельбы ракеты не "
 "расходуются."
 
 #: src-en/data/blueprints.xml.append:3237
