@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 18:08+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 18:11+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -707,6 +707,10 @@ msgstr ""
 #: src-en/data/events.xml.append:427
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/text"
 msgstr ""
+"Вы пытаетесь подслушать разговоры на ближайшем корабле валунов, но почти "
+"оглохли от громогласного стука молотков по стали. Экипаж корабля занят "
+"работой, с бешеной скоростью перемещаясь по кораблю. Ну, или настолько, "
+"насколько это возможно для валунов."
 
 #: src-en/data/events.xml.append:429
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/text"
