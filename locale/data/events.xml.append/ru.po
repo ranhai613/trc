@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-09 18:52+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -807,7 +807,7 @@ msgstr "Сразу же атаковать!"
 #: src-en/data/events.xml.append:466
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/event/text"
-msgstr "\"ЯЗЫЧНИКИ, НА БОРТ! Я обрушу на вас, УРОДЫ, СВОЮ ПРЕДЕЛЬНУЮ ЯРОСТЬ!\""
+msgstr "\"ЯЗЫЧНИКИ, НА БОРТ! Я обрушу на вас СВОЮ ПРЕДЕЛЬНУЮ ЯРОСТЬ, УРОДЫ!\""
 
 #: src-en/data/events.xml.append:469
 msgid ""
