@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 07:25+0000\n"
+"PO-Revision-Date: 2023-09-09 18:52+0000\n"
 "Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1982,13 +1982,13 @@ msgstr "Коллекционный крейсер Улья"
 #: src-en/data/blueprints.xml.append:4033
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/name"
-msgstr "Богомол II"
+msgstr "Гименопус II"
 
 #: src-en/data/blueprints.xml.append:4035
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/desc"
 msgstr ""
-"Капитан этого корабля - бывший член экипажа корабля богомолов. "
+"Капитан этого корабля - бывший член экипажа корабля \"Гименопус\". "
 "Неудовлетворенный условиями работы, он посвятил себя тому, чтобы доказать "
 "свое превосходство еще БОЛЬШИМ количеством бомб."
 
