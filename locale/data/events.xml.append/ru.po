@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-10 06:19+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-10 06:22+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -993,6 +993,10 @@ msgstr ""
 #: src-en/data/events.xml.append:598
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
 msgstr ""
+"Вы прибыли на место. Вдалеке виден небольшой зеленый автокорабль - на его "
+"корпусе закреплена хакерская капсула необычной формы. Дрон не вооружен и "
+"имеет относительно небольшие размеры, что, скорее всего, не представляет "
+"реальной угрозы."
 
 #: src-en/data/events.xml.append:600
 msgid ""
@@ -1003,6 +1007,10 @@ msgstr "Приблизиться к зонду."
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/text"
 msgstr ""
+"Как только вы приближаетесь, зонд фиксируется на вашем корпусе и начинает "
+"кружить вокруг вас. \"П***-ПРИ***- Кто нибудь **** меня? Пожалуйста, отве****"
+". Эт** о важ*** сооб**ние!\" Понять, что говорится, трудно - помимо помех, "
+"сообщение искажается и изменяется по громкости."
 
 #: src-en/data/events.xml.append:604
 msgid ""
