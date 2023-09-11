@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-13 07:05+0000\n"
-"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1174,12 +1174,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/title"
-msgstr "Системныйшок"
+msgstr "\"Системныйсбой\""
 
 #: src-en/data/blueprints.xml.append:2503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/short"
-msgstr "Сисшок"
+msgstr "Систсбой"
 
 #: src-en/data/blueprints.xml.append:2505
 msgid ""
@@ -1594,12 +1594,12 @@ msgstr "Бомба дрона"
 #: src-en/data/blueprints.xml.append:3152
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/title"
-msgstr "Дрон \"Громоотвод\" [Пробоина]"
+msgstr "Дрон \"Громобой\" [Пробоина]"
 
 #: src-en/data/blueprints.xml.append:3153
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/short"
-msgstr "Громоотвод [П]"
+msgstr "Громобой [П]"
 
 #: src-en/data/blueprints.xml.append:3154
 msgid ""
@@ -1612,12 +1612,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3169
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/title"
-msgstr "Дрон \"Громоотвод\" [Ион]"
+msgstr "Дрон \"Громобой\" [Ион]"
 
 #: src-en/data/blueprints.xml.append:3170
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/short"
-msgstr "Громоотвод [И]"
+msgstr "Громобой [И]"
 
 #: src-en/data/blueprints.xml.append:3171
 msgid ""
@@ -1667,12 +1667,12 @@ msgstr "Осколки дрона"
 #: src-en/data/blueprints.xml.append:3273
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/title"
-msgstr "Защитный дрон \"Рассеиватель\""
+msgstr "Осколочный защитный дрон"
 
 #: src-en/data/blueprints.xml.append:3274
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/short"
-msgstr "Рассеиватель"
+msgstr "Оскол. защитник"
 
 #: src-en/data/blueprints.xml.append:3275
 msgid ""
@@ -1686,12 +1686,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3292
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/title"
-msgstr "Защитный дрон \"Рассеиватель\""
+msgstr "Осколочный защитный дрон"
 
 #: src-en/data/blueprints.xml.append:3293
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/short"
-msgstr "Рассеиватель"
+msgstr "Оскол. защитник"
 
 #: src-en/data/blueprints.xml.append:3294
 msgid ""
@@ -1744,11 +1744,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3346
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
-msgstr "Дрон-напряжение"
+msgstr "Наэлектризованный дрон"
 
 #: src-en/data/blueprints.xml.append:3347
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
-msgstr "Дрон-напряжение"
+msgstr "Наэлектризованный дрон"
 
 #: src-en/data/blueprints.xml.append:3348
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
@@ -1761,11 +1761,11 @@ msgstr "ДРОН"
 
 #: src-en/data/blueprints.xml.append:3359
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
-msgstr "Дрон-напряжение"
+msgstr "Наэлектризованный дрон"
 
 #: src-en/data/blueprints.xml.append:3360
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
-msgstr "Напряжение"
+msgstr "Электро дрон"
 
 #: src-en/data/blueprints.xml.append:3361
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
