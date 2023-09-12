@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-13 12:33+0000\n"
+"PO-Revision-Date: 2023-09-13 07:05+0000\n"
 "Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_storagexmlappend/ru/>\n"
@@ -34,13 +34,13 @@ msgstr ""
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr "(Дрон \"Громоотвод\") Настроить режим дрона. [Текущий режим: Пробоина]"
+msgstr "(Дрон \"Громобой\") Настроить режим дрона. [Текущий режим: Пробоина]"
 
 #: src-en/data/events_storage.xml.append:24
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr "(Дрон \"Громоотвод\") Настроить режим дрона. [Текущий режим: Ион]"
+msgstr "(Дрон \"Громобой\") Настроить режим дрона. [Текущий режим: Ион]"
 
 #: src-en/data/events_storage.xml.append:28
 msgid ""
