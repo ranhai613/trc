@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 07:56+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-15 13:47+0000\n"
+"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -161,4 +161,4 @@ msgstr "Выполните все задания Коллекционера, ч�
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_STUPIDGHOST_unlock\"]"
-msgstr "Пройдите игру любым способом на всех кораблях Коллекционера."
+msgstr "Пройдите игру любым способом на всех коллекционных кораблях."
