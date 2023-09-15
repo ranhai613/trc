@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-10 10:45+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-15 13:47+0000\n"
+"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -129,27 +129,27 @@ msgstr ""
 #: src-en/data/events.xml.append:47
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr "Принять задание; \"Клоны\""
+msgstr "Принять заказ; \"Клоны\""
 
 #: src-en/data/events.xml.append:55
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_fed\"]/text"
-msgstr "Принять задание; \"Просвещенный\""
+msgstr "Принять заказ; \"Просвещенный\""
 
 #: src-en/data/events.xml.append:63
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_zoltan\"]/text"
-msgstr "Принять задание; \"Колонизатор\""
+msgstr "Принять заказ; \"Колонизатор\""
 
 #: src-en/data/events.xml.append:71
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_auto\"]/text"
-msgstr "Принять задание; \"Ремесленник\""
+msgstr "Принять заказ; \"Ремесленник\""
 
 #: src-en/data/events.xml.append:79
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_rock\"]/text"
-msgstr "Принять задание; \"Богатый\""
+msgstr "Принять заказ; \"Богач\""
 
 #: src-en/data/events.xml.append:87
 msgid ""
@@ -186,7 +186,7 @@ msgstr ""
 #: src-en/data/events.xml.append:101
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_probe\"]/text"
-msgstr "Принять задание; \"Зонд\""
+msgstr "Принять заказ; \"Зонд\""
 
 #: src-en/data/events.xml.append:103
 msgid ""
