@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-15 13:47+0000\n"
-"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -732,7 +732,7 @@ msgstr "Арахно-бомба"
 #: src-en/data/blueprints.xml.append:1519
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/short"
-msgstr "Арахно-бомба"
+msgstr "Арах. бомба"
 
 #: src-en/data/blueprints.xml.append:1521
 msgid ""
@@ -750,7 +750,7 @@ msgstr "Арахно-бомба"
 #: src-en/data/blueprints.xml.append:1568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/short"
-msgstr "Арахно-бомба"
+msgstr "Арах. бомба"
 
 #: src-en/data/blueprints.xml.append:1570
 msgid ""
@@ -1973,7 +1973,6 @@ msgid ""
 msgstr "Лев"
 
 #: src-en/data/blueprints.xml.append:3962
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/desc"
 msgstr ""
@@ -2078,7 +2077,7 @@ msgstr "Коллекционный крейсер Теократии"
 #: src-en/data/blueprints.xml.append:4411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/name"
-msgstr "Игней"
+msgstr "Вулканический"
 
 #: src-en/data/blueprints.xml.append:4413
 msgid ""
@@ -2201,7 +2200,7 @@ msgstr "Коллекционный крейсер Сепаратистов"
 #: src-en/data/blueprints.xml.append:4932
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/name"
-msgstr "Пределоразрыв"
+msgstr "Коронныйудар"
 
 #: src-en/data/blueprints.xml.append:4934
 msgid ""
@@ -2218,7 +2217,7 @@ msgstr "Коллекционный крейсер ланиусов"
 #: src-en/data/blueprints.xml.append:5010
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/name"
-msgstr "Косатка"
+msgstr "Чайка"
 
 #: src-en/data/blueprints.xml.append:5012
 msgid ""
