@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 07:38+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-15 13:47+0000\n"
+"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -35,7 +35,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
 msgstr ""
-"Совет: приманки не наносят физического урона вражескому кораблю, но "
+"Совет: сигнальные ракеты не наносят физического урона вражескому кораблю, но "
 "отвлекают защитных дронов и ослепляют экипаж противника."
 
 #: src-en/data/text_misc.xml.append:10
@@ -47,20 +47,20 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
 msgstr ""
-"Совет: каскадное оружие наносит небольшой урон всем соседним отсекам. Они не "
-"действуют на отсеки, соединенные по диагонали."
+"Совет: каскадное оружие наносит небольшой урон всем соседним отсекам. Оно не "
+"действует на отсеки, находящиеся по диагонали."
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
 msgstr ""
-"Совет: расщепляющие лучи наносят урон системе по плиткам, а не по отсекам. "
-"Это означает, что большие отсеки более уязвимы к их воздействию!"
+"Совет: системный урон расщепляющих лучей рассчитывается по плиткам, а не по "
+"отсекам. Это означает, что большие отсеки более уязвимы к их воздействию!"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
 msgstr ""
-"Совет: подавители не наносят физического урона, но отлично справляются с "
-"разрушением щитов. Они также могут повреждать Энергетические щиты."
+"Совет: подавители не наносят физического урона, но отлично сбивают щиты. Они "
+"также могут повреждать энергетические щиты."
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
@@ -72,8 +72,8 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
 msgstr ""
-"Совет: ракетным дронам требуются большое количества ракет для запуска, но не "
-"расходуют ракеты при стрельбе.\n"
+"Совет: ракетным дронам требуется большое количество боеголовок для запуска, "
+"но они не расходуют их во время стрельбы.\n"
 "\n"
 "Совет: боевые дроны требуют 1 дрон-комплект для запуска против каждого "
 "нового противника. Они будут атаковать врага до тех пор, пока у них есть "
@@ -92,4 +92,4 @@ msgstr "???"
 
 #: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
-msgstr "ЗАДАНИЕ [!]"
+msgstr "ЦЕЛЬ ЗАКАЗА [!]"
