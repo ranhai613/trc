@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-13 07:05+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-09-15 13:47+0000\n"
+"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -26,7 +26,7 @@ msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"Вы берете боеприпасы и устраиваете ловушку для повстанцев. К счастью, "
+"Вы заряжаете боеприпасы и устраиваете ловушку для повстанцев. К счастью, "
 "благодаря неясным юридическим лазейкам, использование этого оружия не "
 "является незаконным, хотя и весьма сомнительно с моральной точки зрения."
 
@@ -46,19 +46,19 @@ msgstr "(Дрон \"Громобой\") Настроить режим дрона
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr "(Лазер с усилителем) Настроить режим дрона. [Текущая мощность: 2]"
+msgstr "(Лазер с усилителем) Настроить режим орудия. [Текущая мощность: 2]"
 
 #: src-en/data/events_storage.xml.append:32
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr "(Лазер с усилителем) Настроить режим дрона. [Текущая мощность: 3]"
+msgstr "(Лазер с усилителем) Настроить режим орудия. [Текущая мощность: 3]"
 
 #: src-en/data/events_storage.xml.append:36
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr "(Лазер с усилителем) Настроить режим дрона. [Текущая мощность: 4]"
+msgstr "(Лазер с усилителем) Настроить режим орудия. [Текущая мощность: 4]"
 
 #: src-en/data/events_storage.xml.append:49
 msgid ""
@@ -134,18 +134,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/text"
 msgstr ""
-"На какую силу вы хотите настроить оружие?\n"
-"\tТекущая характеристика: [урон: 2, перезарядка: 6]"
+"На какой уровень мощности вы хотите настроить данное орудие?\n"
+"\tТекущие характеристики: [урон: 2, перезарядка: 6]"
 
 #: src-en/data/events_storage.xml.append:110
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/text"
-msgstr "Настроить оружие на мощность 3. [урон: 4, перезарядка: 9]"
+msgstr "Настроить орудие на мощность 3. [урон: 4, перезарядка: 9]"
 
 #: src-en/data/events_storage.xml.append:112
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/text"
-msgstr "Вы начинаете калибровку оружия..."
+msgstr "Вы начинаете калибровку орудия..."
 
 #: src-en/data/events_storage.xml.append:115
 msgid ""
@@ -155,7 +155,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:117
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/choice/event/text"
-msgstr "Вы успешно завершили калибровку оружия."
+msgstr "Вы успешно завершили калибровку орудия."
 
 #: src-en/data/events_storage.xml.append:120
 msgid ""
@@ -165,12 +165,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:128
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/text"
-msgstr "Настроить оружие на мощность 4. [урон: 6, перезарядка: 12]"
+msgstr "Настроить орудие на мощность 4. [урон: 6, перезарядка: 12]"
 
 #: src-en/data/events_storage.xml.append:130
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/text"
-msgstr "Вы начинаете калибровку оружия..."
+msgstr "Вы начинаете калибровку орудия..."
 
 #: src-en/data/events_storage.xml.append:133
 msgid ""
@@ -180,7 +180,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:135
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/choice/event/text"
-msgstr "Вы успешно завершили калибровку оружия."
+msgstr "Вы успешно завершили калибровку орудия."
 
 #: src-en/data/events_storage.xml.append:138
 msgid ""
@@ -196,18 +196,18 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/text"
 msgstr ""
-"На какую силу вы хотите настроить оружие?\n"
-"\tТекущая характеристика: [урон: 4, перезарядка: 9]"
+"На какой уровень мощности вы хотите настроить данное орудие?\n"
+"\tТекущие характеристики: [урон: 4, перезарядка: 9]"
 
 #: src-en/data/events_storage.xml.append:154
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/text"
-msgstr "Настроить оружие на мощность 2. [урон: 2, перезарядка: 6]"
+msgstr "Настроить орудие на мощность 2. [урон: 2, перезарядка: 6]"
 
 #: src-en/data/events_storage.xml.append:156
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/text"
-msgstr "Вы начинаете калибровку оружия..."
+msgstr "Вы начинаете калибровку орудия..."
 
 #: src-en/data/events_storage.xml.append:159
 msgid ""
@@ -217,7 +217,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:161
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/choice/event/text"
-msgstr "Вы успешно завершили калибровку оружия."
+msgstr "Вы успешно завершили калибровку орудия."
 
 #: src-en/data/events_storage.xml.append:164
 msgid ""
@@ -227,12 +227,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:172
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/text"
-msgstr "Настроить оружие на мощность 4. [урон: 6, перезарядка: 12]"
+msgstr "Настроить орудие на мощность 4. [урон: 6, перезарядка: 12]"
 
 #: src-en/data/events_storage.xml.append:174
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/text"
-msgstr "Вы начинаете калибровку оружия..."
+msgstr "Вы начинаете калибровку орудия..."
 
 #: src-en/data/events_storage.xml.append:177
 msgid ""
@@ -242,7 +242,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:179
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/choice/event/text"
-msgstr "Вы успешно завершили калибровку оружия."
+msgstr "Вы успешно завершили калибровку орудия."
 
 #: src-en/data/events_storage.xml.append:182
 msgid ""
@@ -258,18 +258,18 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/text"
 msgstr ""
-"На какую силу вы хотите настроить оружие?\n"
-"\tТекущая характеристика: [урон: 6, перезарядка: 12]"
+"На какой уровень мощности вы хотите настроить данное орудие?\n"
+"\tТекущие характеристики: [урон: 6, перезарядка: 12]"
 
 #: src-en/data/events_storage.xml.append:198
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/text"
-msgstr "Настроить оружие на мощность 2. [урон: 2, перезарядка: 6]"
+msgstr "Настроить орудие на мощность 2. [урон: 2, перезарядка: 6]"
 
 #: src-en/data/events_storage.xml.append:200
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/text"
-msgstr "Вы начинаете калибровку оружия..."
+msgstr "Вы начинаете калибровку орудия..."
 
 #: src-en/data/events_storage.xml.append:203
 msgid ""
@@ -279,7 +279,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:205
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/choice/event/text"
-msgstr "Вы успешно завершили калибровку оружия."
+msgstr "Вы успешно завершили калибровку орудия."
 
 #: src-en/data/events_storage.xml.append:208
 msgid ""
@@ -289,12 +289,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:216
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/text"
-msgstr "Настроить оружие на мощность 3. [урон: 4, перезарядка: 9]"
+msgstr "Настроить орудие на мощность 3. [урон: 4, перезарядка: 9]"
 
 #: src-en/data/events_storage.xml.append:218
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/text"
-msgstr "Вы начинаете калибровку оружия..."
+msgstr "Вы начинаете калибровку орудия..."
 
 #: src-en/data/events_storage.xml.append:221
 msgid ""
@@ -304,7 +304,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_storage.xml.append:223
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/choice/event/text"
-msgstr "Вы успешно завершили калибровку оружия."
+msgstr "Вы успешно завершили калибровку орудия."
 
 #: src-en/data/events_storage.xml.append:226
 msgid ""
