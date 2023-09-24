@@ -12,26 +12,26 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.16.4\n"
 
-#: src-en/data/hyperspace.xml.append:953
+#: src-en/data/hyperspace.xml.append:956
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/buttonText"
 msgstr "KONTROLLE"
 
-#: src-en/data/hyperspace.xml.append:954
+#: src-en/data/hyperspace.xml.append:957
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/tooltip"
 msgstr ""
 "[ABKLINGPHASE:10s  LÄNGE:6s]\n"
 "\t\t\t\tÜbernehme Kontrolle über die Spinne."
 
-#: src-en/data/hyperspace.xml.append:1109
+#: src-en/data/hyperspace.xml.append:1112
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_EXTINGUISHER\"]/tooltipName"
 msgstr "Feuerlöschdrohne"
 
-#: src-en/data/hyperspace.xml.append:1113
+#: src-en/data/hyperspace.xml.append:1116
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
 msgstr "Spannungsdrohne"
 
-#: src-en/data/hyperspace.xml.append:1117
+#: src-en/data/hyperspace.xml.append:1120
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
 msgstr "Über-Schilddrohne"

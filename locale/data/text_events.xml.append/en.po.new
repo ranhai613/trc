@@ -1,0 +1,16 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_events.xml.append:2
+msgid "data/text_events.xml.append$//text[@name=\"text_collector_accept\"]"
+msgstr ""
+"\"Exccccellent, exccccellent! Guesss that tip wasss good after all. Knew it "
+"was worth cassshing in that favor... Alright, ssstranger. I'll send you'sss "
+"the coordinatesss. I'm keepin' them trapped in a kind of wibbly wobbly "
+"ssspace magic ssssphere, so you gotta be quick. Bessst a' luck to ya, "
+"sssstranger! And 'caussse you're ssssuch a good sssport, maybe I can sssell "
+"you ssssomethin' to make the job easssier?\""
