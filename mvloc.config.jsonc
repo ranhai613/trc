@@ -107,9 +107,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/trc/raw/trc-english/Multiverse_-_TRC_2.1.zip",
+            "https://github.com/ftl-mv-translation/trc/raw/trc-english/Multiverse_-_TRC_2.2.zip",
         ],
         "prefix": "The-Renegade-Collection",
-        "version": "2.1"
+        "version": "2.2"
     }
 }

@@ -885,6 +885,7 @@
 		<shipIcons>
             <shipIcon>icon_threat</shipIcon>
 			<shipIcon>icon_auto</shipIcon>
+			<shipIcon>icon_no2</shipIcon>
         </shipIcons>
 		<noFuelStalemate/>
 	</mod-append:customShip>
@@ -897,6 +898,7 @@
 	<mod-append:customShip name="MT_ANOMALY_5">
 		<shipIcons>
             <shipIcon>icon_threat</shipIcon>
+			<shipIcon>icon_no2</shipIcon>
         </shipIcons>
 		<noFuelStalemate/>
 	</mod-append:customShip>
@@ -904,6 +906,7 @@
 		<shipIcons>
             <shipIcon>icon_threat</shipIcon>
 			<shipIcon>icon_auto</shipIcon>
+			<shipIcon>icon_no2</shipIcon>
         </shipIcons>
 		<noFuelStalemate/>
 	</mod-append:customShip>
@@ -1460,32 +1463,21 @@
 		</mod-append:category>
 		<mod-append:category type="WEAPONS">
 				<item>
-					<blueprint>TRC_BEAM_BIO_2_PLAYER</blueprint>
-				</item>
-				<item>
 					<blueprint>TRC_BEAM_HULL_CHAIN</blueprint>
 				</item>
 				<item>
 					<blueprint>TRC_BEAM_ADAPT_CONSERVATIVE</blueprint>
 				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_ION_BREACH</blueprint>
 				</item>
-				<item>
-					<blueprint>TRC_ION_BREACH_PLAYER</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_ION_CHAINGUN_2</blueprint>
-				</item>
 		</mod-append:category>
 		<mod-append:category type="WEAPONS">
 				<item>
-					<blueprint>TRC_ENERGY_PIERCE_1</blueprint>
+					<blueprint>TRC_ION_CHAINGUN_2</blueprint>
 				</item>
 				<item>
-					<blueprint>TRC_ENERGY_PIERCE_1_PLAYER</blueprint>
+					<blueprint>TRC_ENERGY_PIERCE_1</blueprint>
 				</item>
 				<item>
 					<blueprint>TRC_ENERGY_FIRE</blueprint>
@@ -1507,81 +1499,81 @@
 					<blueprint>TRC_BOMB_PART</blueprint>
 				</item>
 				<item>
-					<blueprint>TRC_BOMB_PART_PLAYER</blueprint>
-				</item>
-				<item>
 					<blueprint>TRC_BOMB_GASOLINE</blueprint>
 				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_BOMB_DRONE</blueprint>
 				</item>
+		</mod-append:category>
+		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_BOMB_SPIDER</blueprint>
 				</item>
 				<item>
 					<blueprint>TRC_BOMB_MUTANT</blueprint>
 				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_MISSILES_HEAL</blueprint>
 				</item>
+		</mod-append:category>
+		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_MISSILES_FROST</blueprint>
 				</item>
 				<item>
 					<blueprint>TRC_MISSILES_SHRAPNEL</blueprint>
 				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_MISSILES_SHRAPNEL_2</blueprint>
 				</item>
+		</mod-append:category>
+		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_MISSILES_INSTANT</blueprint>
 				</item>
 				<item>
 					<blueprint>TRC_SENTRY_HAZARD</blueprint>
 				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_VIRULENT</blueprint>
 				</item>
+		</mod-append:category>
+		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_MINELAUNCHER_ION</blueprint>
 				</item>
 				<item>
 					<blueprint>TRC_SHOTGUN_TRIFECTA</blueprint>
 				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_SHOTGUN_FROST</blueprint>
 				</item>
+		</mod-append:category>
+		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_DRONE_GUN</blueprint>
 				</item>
 				<item>
 					<blueprint>TRC_ULTRABURN</blueprint>
 				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_SYSTEMSHOCK</blueprint>
 				</item>
+		</mod-append:category>
+		<mod-append:category type="WEAPONS">
 				<item>
 					<blueprint>TRC_FLARE_LAUNCHER</blueprint>
 				</item>
 				<item>
-					<blueprint>TRC_EPISTLE</blueprint>
+					<blueprint>TRC_BREACHING_POD</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BEAM_ION</blueprint>
 				</item>
 		</mod-append:category>
 		<mod-append:category type="WEAPONS">
 				<item>
-					<blueprint>TRC_BEAM_ION</blueprint>
+					<blueprint>TRC_BOMB_COLONIZER</blueprint>
 				</item>
 				<item>
 					<blueprint>TRC_LAVA_THROWER</blueprint>
@@ -1592,10 +1584,7 @@
 		</mod-append:category>
 		<mod-append:category type="WEAPONS">
 				<item>
-					<blueprint>TRC_BOMB_COLONIZER</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BREACHING_POD</blueprint>
+					<blueprint>TRC_EPISTLE</blueprint>
 				</item>
 		</mod-append:category>
 		<mod-append:category type="DRONES">

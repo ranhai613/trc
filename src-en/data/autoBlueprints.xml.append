@@ -331,8 +331,8 @@
 </mod:findName>
 
 <mod:findName type="blueprintList" name="BLUELIST_PARTICLE">
-	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
-	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+	<!--<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
+	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>-->
 	<mod-append:name>TRC_BOMB_PART</mod-append:name>
 	<mod-append:name>TRC_BOMB_PART_PLAYER</mod-append:name>
 </mod:findName>
@@ -403,7 +403,7 @@
 ********************************************************************************************************************************************************************************************************************************************
 -->
 <mod:findName type="blueprintList" name="GIFTLIST_ENGI">
-	<mod-append:name>TRC_BOMB_DRONE</mod-append:name>
+	<!--<mod-append:name>TRC_BOMB_DRONE</mod-append:name>-->
 </mod:findName>
 
 <mod:findName type="blueprintList" name="GIFTLIST_MANTIS">

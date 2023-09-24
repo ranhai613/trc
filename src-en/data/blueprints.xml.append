@@ -11,7 +11,7 @@
 <weaponBlueprint name="TRC_LASER_CHARGEGUN_HEAVY"> 
 	<type>LASER</type>
 	<title>Charge Heavy Laser</title>
-	<short>C. Heavy</short>
+	<short>Charge Heavy</short>
 	<tip>tip_charge</tip>
 	<desc>This Laser weapon can charge multiple projectiles, or fire its volley early. Does 2 damage per shot.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 2.</tooltip>
@@ -405,7 +405,7 @@
 <weaponBlueprint name="TRC_MAGNIFIER_1">
 	<type>LASER</type>
 	<title>Magnifier MK I</title>
-	<short>Mag I</short>
+	<short>Magnifier I</short>
 	<tip>tip_magnifier</tip>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
 	<descriptionOverride>Magnifiers use special technology to enhance their power with each charge, rather than gaining additional projectiles. Each charge increases damage output and status effect chances. Charges become progressively faster.
@@ -416,7 +416,7 @@
 		Accuracy Bonus: +10%
 
 		Max Charges: 3
-		Cooldown Reduction: 0/30/69%
+		Bonus Charging Speed: 0/30/69%
 		
 		Base Hull Damage: 2/3/4
 		Total System Damage: 2/3/4
@@ -466,7 +466,7 @@
 <weaponBlueprint name="TRC_MAGNIFIER_2">
 	<type>LASER</type>
 	<title>Magnifier MK II</title>
-	<short>Mag II</short>
+	<short>Magnifier II</short>
 	<tip>tip_magnifier</tip>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
 	<descriptionOverride>Magnifiers use special technology to enhance their power with each charge, rather than gaining additional projectiles. Each charge increases damage output and status effect chances. Charges become progressively faster.
@@ -477,7 +477,7 @@
 		Accuracy Bonus: +10%
 
 		Max Charges: 4
-		Cooldown Reduction: 0/50/125/187.5%
+		Bonus Charging Speed: 0/50/125/237.5%
 		
 		Base Hull Damage: 3/4/5/6
 		Total System Damage: 3/4/5/6
@@ -527,7 +527,7 @@
 <weaponBlueprint name="TRC_MAGNIFIER_PIERCE">
 	<type>LASER</type>
 	<title>Pierce Magnifier</title>
-	<short>Pierce Mag</short>
+	<short>Pierce Mag.</short>
 	<tip>tip_magnifier</tip>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
 	<descriptionOverride>Magnifiers use special technology to enhance their power with each charge, rather than gaining additional projectiles. Each charge increases shield pierce and breach chance. Charges become progressively faster.
@@ -539,7 +539,7 @@
 
 		Max Charges: 4
 		Shield Piercing: 1/2/3/4
-		Cooldown Reduction: 0/50/125/187.5%
+		Bonus Charging Speed: 0/50/125/237.5%
 		
 		Base Hull Damage: 2
 		Total System Damage: 2
@@ -588,21 +588,20 @@
 <weaponBlueprint name="TRC_MAGNIFIER_ION">
 	<type>LASER</type>
 	<title>Ionized Magnifier</title>
-	<short>Ion Mag</short>
+	<short>Ion Mag.</short>
 	<tip>tip_magnifier</tip>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
 	<descriptionOverride>Magnifiers use special technology to enhance their power with each charge, rather than gaining additional projectiles. Each charge increases ion damage output and stun chance. Charges become progressively faster.
 
 		Stats:
 		Required Power: 1
-		Charge Time: 6 seconds
+		Charge Time: 8 seconds
 		Accuracy Bonus: +10%
 
 		Max Charges: 4
-		Ion Damage: 1/2/3/4
-		Cooldown Reduction: 0/10/21/32.1%
+		Bonus Charging Speed: 0/20/44/72.8%
 		
-		Ion Damage: 1
+		Ion Damage: 1/2/3/4
 		
 		Stun Chance: 30/40/50/60% (3 seconds long)
 
@@ -618,7 +617,7 @@
 	<fireChance>0</fireChance>
 	<breachChance>0</breachChance>
 	<stunChance>3</stunChance>
-	<cooldown>6</cooldown>
+	<cooldown>8</cooldown>
 	<power>1</power>
 	<cost>50</cost>
 	<bp>6</bp>
@@ -663,7 +662,7 @@
 
 		Stats:
 		Required Power: 2
-		Charge Time: 11 seconds
+		Charge Time: 14 seconds
 
 		Beam Length: 128
 		Beam Speed: 6
@@ -674,7 +673,7 @@
 		
 		Breach Chance: 20%
 
-		Buy/Sell Price: 60~/30~
+		Buy/Sell Price: 65~/32~
 	</descriptionOverride>
 	<tooltip>Beam weapon with extended line. 1 damage per room.</tooltip>
 	<damage>0</damage>
@@ -683,9 +682,9 @@
 	<fireChance>0</fireChance>
 	<breachChance>2</breachChance>
 	<speed>6</speed>
-	<cooldown>11</cooldown>
+	<cooldown>14</cooldown>
 	<power>2</power>
-	<cost>60</cost>
+	<cost>65</cost>
 	<bp>5</bp>
 	<rarity>3</rarity>
 	<image>beam_contact</image>
@@ -1433,7 +1432,7 @@
 	<title>Deployment Bomb</title>
 	<short>Deploy B.</short>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>Self-teleporting device that deploys a repair drone on your ship. Costs a drone part instead of a missile to fire, but the resulting drone will consume no power and last 90 seconds. Can (AND SHOULD) be used to target your own ship.
+	<descriptionOverride>Self-teleporting device that deploys a repair drone on your ship. Costs a drone part instead of a missile to fire. Can (AND SHOULD) be used to target your own ship.
 
 		Stats:
 		Requires no power
@@ -1617,8 +1616,8 @@
 	<short>Mutant</short>
 	<rarity>0</rarity>
 	<powerList>
-		<power>Deals 2.3x combat damage, moves at half speed</power>
-		<power>Cannot repair or heal</power>
+		<power>Inflicts 2.3x damage in crew combat</power>
+		<power>Cannot repair or heal, moves at half speed</power>
 		<power>Explodes on death, dealing 15 crew and 1 system damage</power>
 		<power>Will return to its original form after 15 seconds</power>
 	</powerList>
@@ -1631,7 +1630,7 @@
 	<locked>1</locked>
 	<desc>Self-teleporting stimulant unit that temporarily mutates the crew it hits, changing them into a terrifying mutant for 15 seconds.
 
-	Mutants deal 2.3x combat damage, cannot repair or heal, move at half speed, and explode on death for 15 crew and 1 system damage.</desc>
+	Mutants deal 2.3x damage in crew combat, cannot repair or heal, move at half speed, and explode on death for 15 crew and 1 system damage.</desc>
 	<tooltip>Bomb weapon; requires a missile; heals nearby crewmembers. Can target your own ship.</tooltip>
 	<damage>0</damage>
 	<sysDamage>0</sysDamage>
@@ -2250,7 +2249,7 @@
 	<title>Trifecta</title>
 	<short>Trifecta</short>
 	<tip>tip_flak</tip>
-	<desc>A bizarre jerry-rigged weapon that fires 2 flak shots along with a slow moving but high damage laser for a nominal charge time.</desc>
+	<desc>A bizarre jerry-rigged weapon that fires 2 flak shots along with a slow moving heavy laser for a nominal charge time.</desc>
 	<tooltip>Fires a blast of debris across a random area doing up to 3 damage.</tooltip>
 	<radius>45</radius>
 	<damage>1</damage>
@@ -2297,7 +2296,7 @@
 	<damage>2</damage>
 	<shots>1</shots>
 	<sp>0</sp>
-	<speed>20</speed>
+	<speed>23</speed>
 	<fireChance>3</fireChance>
 	<breachChance>3</breachChance>
 	<stunChance>3</stunChance>
@@ -2405,7 +2404,7 @@
 
 		Stats:
 		Required Power: 2
-		Charge Time: 18 seconds
+		Charge Time: 15 seconds
 		Drone Consumption: 1
 
 		Shots Per Charge: 1
@@ -2424,7 +2423,7 @@
 	<sp>10</sp>
 	<fireChance>0</fireChance>
 	<breachChance>0</breachChance>
-	<cooldown>18</cooldown>
+	<cooldown>15</cooldown>
 	<power>2</power>
 	<cost>60</cost>
 	<rarity>5</rarity>
@@ -2648,6 +2647,7 @@
 			<crewTarget>ENEMIES</crewTarget>
 			<droneTarget>CREW</droneTarget>
 			<affectsSelf>false</affectsSelf>
+			<duration>45</duration>
 			<blackList load="LIST_CREW_MADNESS_IMMUNE"/>
 		</statBoost>
 	</statBoosts>
@@ -2807,12 +2807,12 @@
 	<short>Bedazzler</short>
 	<tip>tip_flak</tip>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>A gun made only for the wealthiest of Renegades. Fires a barrage of 5 gems which have a variety of different effects, but costs 5 scrap to fire.
+	<descriptionOverride>A gun made only for the wealthiest of Renegades. Fires a barrage of 5 gems which have a variety of different effects, but costs scrap to fire.
 
 		Stats:
 		Required Power: 2
-		Charge Time: 16 seconds
-		Scrap Consumption: 5
+		Charge Time: 14 seconds
+		Scrap Consumption: 3
 
 		Shot Radius: 50
 		Fires 5 Random Gems Per Shot
@@ -2832,7 +2832,7 @@
 	<spin>720</spin>
 	<fireChance>0</fireChance>
 	<breachChance>0</breachChance>
-	<cooldown>16</cooldown>
+	<cooldown>14</cooldown>
 	<power>2</power>
 	<cost>80</cost>
 	<bp>10</bp>

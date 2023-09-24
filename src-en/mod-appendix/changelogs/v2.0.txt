@@ -2,7 +2,7 @@
  FEATURES:
 \\\\\\\\\\\\\\\\
 
-Added a mysterious new encounter in sector 5. Maybe you can get some special loot if you play nice...
+Added a mysterious new encounter in sector 6. Maybe you can get some special loot if you play nice...
 
 Added 18 new player ships.
 
@@ -37,7 +37,7 @@ Added the Voltage Drone.
 Added the Overshield Drone.
 
 \\\\\\\\\\\\\\\\
-CHANGES:
+ CHANGES:
 \\\\\\\\\\\\\\\\
 
 Made minor improvements to the Particle Collider Mk 1 and 2 sprites.
@@ -45,7 +45,7 @@ Made minor improvements to the Particle Collider Mk 1 and 2 sprites.
 Improved the Collector's Kestrel Cruiser sprite.
 
 \\\\\\\\\\\\\\\\
-BALANCE:
+ BALANCE:
 \\\\\\\\\\\\\\\\
 
 Lessened the number of enemies with Scattershot drone.

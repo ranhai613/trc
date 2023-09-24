@@ -1,0 +1,35 @@
+\\\\\\\\\\\\\\\\
+ CHANGES:
+\\\\\\\\\\\\\\\\
+
+Replaced Mag weapons stat display "Cooldown Reduction" with "Bonus Charging Speed" for more consistency.
+
+\\\\\\\\\\\\\\\\
+ BALANCE:
+\\\\\\\\\\\\\\\\
+
+Trifecta Heavy Laser projectile speed: 20 -> 23
+This should make the laser more reliable against fast recovery shields.
+
+Ion Magnifier cooldown: 6 -> 8
+Firing speed increase per charge: 10 -> 20%
+
+Fangtian cooldown: 11 -> 14
+Price: 60 -> 65
+
+Deployment Cannon cooldown: 18 -> 15
+
+Bedazzler cooldown: 16 -> 14
+Scrap cost: 5 -> 3
+
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed Particle Collider granting a blue option involving fires.
+
+Fixed Deployment Bomb breaking Engi item giftlist.
+
+Fixed missing depressurized icons on bosses.
+
+Fixed Compact Laser cooldown abruptly resetting when unpowered.

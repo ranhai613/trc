@@ -115,6 +115,23 @@ local function reset_weapon_charge(weapon)
     weapon.chargeLevel = 0
 end
 
+local function reduce_weapon_charge(ship, weapon)
+    if weapon.cooldown.first > 0 then
+        if weapon.cooldown.first >= weapon.cooldown.second then
+            weapon.chargeLevel = weapon.chargeLevel - 1
+        end
+        local gameSpeed = Hyperspace.FPS.SpeedFactor
+        local autoCooldown = 1 + ship:GetAugmentationValue("AUTO_COOLDOWN")
+        weapon.cooldown.first = weapon.cooldown.first - 0.375*gameSpeed - autoCooldown*gameSpeed/16
+        if weapon.cooldown.first <= 0 then
+            weapon.cooldown.first = 0
+            weapon.chargeLevel = 0
+        end
+    else
+        weapon.chargeLevel = 0
+    end
+end
+
 --[[
 int iDamage;
 int iShieldPiercing;
@@ -268,7 +285,7 @@ local cooldownChargers = mods.trc.cooldownChargers
 cooldownChargers["TRC_MAGNIFIER_1"] = 1.3
 cooldownChargers["TRC_MAGNIFIER_2"] = 1.5
 cooldownChargers["TRC_MAGNIFIER_PIERCE"] = 1.5
-cooldownChargers["TRC_MAGNIFIER_ION"] = 1.1
+cooldownChargers["TRC_MAGNIFIER_ION"] = 1.2
 
 script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(ship)
     local weapons = nil
@@ -331,7 +348,7 @@ end)
 -- Valid resources are scrap, fuel, missiles, drones
 mods.trc.resourceWeapons = {}
 local resourceWeapons = mods.trc.resourceWeapons
-resourceWeapons["TRC_CASH_GUN"] = {scrap = 5}
+resourceWeapons["TRC_CASH_GUN"] = {scrap = 3}
 resourceWeapons["TRC_BOMB_DRONE"] = {drones = 1}
 resourceWeapons["TRC_DRONE_GUN"] = {drones = 1}
 
@@ -386,12 +403,11 @@ mods.trc.needSysPowerWeapons = {}
 local needSysPowerWeapons = mods.trc.needSysPowerWeapons
 needSysPowerWeapons["TRC_LASER_COMPACT"] = true
 
-script.on_internal_event(Defines.InternalEvents.ON_TICK, function()
-    local weaponSys = nil
-    if pcall(function() weaponSys = Hyperspace.ships.player.weaponSystem end) and weaponSys and not weaponSys:Powered() then
-        for weapon in vter(weaponSys.weapons) do
+script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(ship)
+    if ship:HasSystem(3) and not ship.weaponSystem:Powered() then
+        for weapon in vter(ship.weaponSystem.weapons) do
             if needSysPowerWeapons[weapon.blueprint.name] then
-                reset_weapon_charge(weapon)
+                reduce_weapon_charge(ship, weapon)
             end
         end
     end
