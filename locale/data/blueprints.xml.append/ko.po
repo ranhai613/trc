@@ -148,7 +148,7 @@ msgstr "증폭기 마크 I"
 #: src-en/data/blueprints.xml.append:408
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/short"
-msgstr "Mag I"
+msgstr "Magnifier I"
 
 #: src-en/data/blueprints.xml.append:410
 msgid ""
@@ -188,7 +188,7 @@ msgstr "증폭기 마크 II"
 #: src-en/data/blueprints.xml.append:469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/short"
-msgstr "Mag II"
+msgstr "Magnifier II"
 
 #: src-en/data/blueprints.xml.append:471
 msgid ""
@@ -228,7 +228,7 @@ msgstr "관통 증폭기"
 #: src-en/data/blueprints.xml.append:530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
-msgstr "Pierce Mag"
+msgstr "Pierce Mag."
 
 #: src-en/data/blueprints.xml.append:532
 msgid ""
@@ -268,7 +268,7 @@ msgstr "이온 증폭기"
 #: src-en/data/blueprints.xml.append:591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/short"
-msgstr "Ion Mag"
+msgstr "Ion Mag."
 
 #: src-en/data/blueprints.xml.append:593
 msgid ""
