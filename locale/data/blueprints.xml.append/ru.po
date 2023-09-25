@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-25 02:00+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2023-09-26 07:58+0000\n"
+"Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -771,7 +771,7 @@ msgstr "Мутант"
 #: src-en/data/blueprints.xml.append:1619
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[1]"
-msgstr "Наносит 2.3x урона экипажу в бою"
+msgstr "Наносит 2.3x урон экипажу в бою"
 
 #: src-en/data/blueprints.xml.append:1620
 msgid ""
