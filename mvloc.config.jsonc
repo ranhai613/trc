@@ -99,7 +99,8 @@
                 "//weaponBlueprint/short",
                 "//crewMember",
                 "//customShip/crew/*/@name",
-                "//mod-append:customShip/crew/*/@name"
+                "//mod-append:customShip/crew/*/@name",
+                "//spawnCrew/name",
             ]
         },
         "zh_Hans": {
