@@ -5,6 +5,14 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: src-en/data/hyperspace.xml.append:820
+msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Collector\"]/@name"
+msgstr "Collector"
+
+#: src-en/data/hyperspace.xml.append:844
+msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
+msgstr "Sylvan"
+
 #: src-en/data/hyperspace.xml.append:956
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/buttonText"

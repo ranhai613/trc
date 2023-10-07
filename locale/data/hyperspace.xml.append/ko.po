@@ -12,6 +12,14 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.16.4\n"
 
+#: src-en/data/hyperspace.xml.append:820
+msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Collector\"]/@name"
+msgstr "Collector"
+
+#: src-en/data/hyperspace.xml.append:844
+msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
+msgstr "Sylvan"
+
 #: src-en/data/hyperspace.xml.append:956
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/buttonText"

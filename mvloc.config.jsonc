@@ -60,6 +60,7 @@
         "//powerEffect/tooltip",
         "//customStore/category/customTitle",
         "//customShip/crew/*/@name",
+        "//mod-append:customShip/crew/*/@name",
         "//victories//name",
         "//victories//description",
         "//victories//secretName",
@@ -71,6 +72,7 @@
         "//achievement/secretName",
         "//achievement/secretDescription",
         "//drones/drone/tooltipName",
+        "//spawnCrew/name",
 
         // sector
         "//sectorDescription/nameList/name",
@@ -97,6 +99,7 @@
                 "//weaponBlueprint/short",
                 "//crewMember",
                 "//customShip/crew/*/@name",
+                "//mod-append:customShip/crew/*/@name"
             ]
         },
         "zh_Hans": {
