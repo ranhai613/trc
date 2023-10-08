@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-24 12:10+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2023-10-09 03:05+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -15,11 +15,11 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:820
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Collector\"]/@name"
-msgstr ""
+msgstr "Коллекционер"
 
 #: src-en/data/hyperspace.xml.append:844
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
-msgstr ""
+msgstr "Сильван"
 
 #: src-en/data/hyperspace.xml.append:956
 msgid ""
