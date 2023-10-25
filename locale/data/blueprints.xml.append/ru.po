@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-26 07:58+0000\n"
+"PO-Revision-Date: 2023-10-27 07:05+0000\n"
 "Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -243,7 +243,7 @@ msgstr "Пронзающий концентратор"
 #: src-en/data/blueprints.xml.append:530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
-msgstr "Пронзающий концентр."
+msgstr "Пронз. конц."
 
 #: src-en/data/blueprints.xml.append:532
 msgid ""
