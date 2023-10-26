@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-13 07:05+0000\n"
+"PO-Revision-Date: 2023-10-27 07:05+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
@@ -1125,11 +1125,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3077
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
-msgstr ""
+msgstr "压制无人机I"
 
 #: src-en/data/blueprints.xml.append:3078
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/short"
-msgstr ""
+msgstr "压制I"
 
 #: src-en/data/blueprints.xml.append:3079
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/desc"
@@ -1138,12 +1138,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3092
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/title"
-msgstr ""
+msgstr "压制无人机II"
 
 #: src-en/data/blueprints.xml.append:3093
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/short"
-msgstr ""
+msgstr "压制II"
 
 #: src-en/data/blueprints.xml.append:3094
 msgid ""
@@ -1257,12 +1257,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3318
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/title"
-msgstr ""
+msgstr "灭火无人机"
 
 #: src-en/data/blueprints.xml.append:3319
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/short"
-msgstr ""
+msgstr "灭火无人机"
 
 #: src-en/data/blueprints.xml.append:3320
 msgid ""
@@ -1277,12 +1277,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3331
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/title"
-msgstr ""
+msgstr "灭火无人机"
 
 #: src-en/data/blueprints.xml.append:3332
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/short"
-msgstr ""
+msgstr "灭火"
 
 #: src-en/data/blueprints.xml.append:3333
 msgid ""
@@ -1355,7 +1355,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3410
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/title"
-msgstr ""
+msgstr "[L]作战程序"
 
 #: src-en/data/blueprints.xml.append:3411
 msgid ""
