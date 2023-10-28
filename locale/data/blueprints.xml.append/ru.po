@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-27 07:05+0000\n"
+"PO-Revision-Date: 2023-10-29 12:05+0000\n"
 "Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1001,11 +1001,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2123
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
-msgstr "Вирусный диск"
+msgstr "Вирусный излучатель"
 
 #: src-en/data/blueprints.xml.append:2124
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/short"
-msgstr "Вирусн. диск"
+msgstr "Излучатель"
 
 #: src-en/data/blueprints.xml.append:2126
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
