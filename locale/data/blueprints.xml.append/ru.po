@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-29 12:05+0000\n"
+"PO-Revision-Date: 2023-11-04 17:05+0000\n"
 "Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1224,7 +1224,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2607
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/title"
-msgstr "Послание безумия"
+msgstr "\"Послание безумия\""
 
 #: src-en/data/blueprints.xml.append:2608
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/short"
