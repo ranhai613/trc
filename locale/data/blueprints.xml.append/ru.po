@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-04 17:05+0000\n"
+"PO-Revision-Date: 2023-11-06 14:05+0000\n"
 "Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -483,7 +483,7 @@ msgstr "Энергетический фазер"
 #: src-en/data/blueprints.xml.append:1054
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/short"
-msgstr "Энергофазер"
+msgstr "Энергофаз"
 
 #: src-en/data/blueprints.xml.append:1057
 msgid ""
@@ -501,7 +501,7 @@ msgstr "Энергетический фазер†"
 #: src-en/data/blueprints.xml.append:1099
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/short"
-msgstr "Энергофазер†"
+msgstr "Энергофаз†"
 
 #: src-en/data/blueprints.xml.append:1102
 msgid ""
