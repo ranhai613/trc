@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-14 08:05+0000\n"
+"PO-Revision-Date: 2023-11-16 08:05+0000\n"
 "Last-Translator: Roman <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1916,7 +1916,7 @@ msgstr "Коллекционный крейсер Изгоев"
 #: src-en/data/blueprints.xml.append:3731
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/name"
-msgstr "Коммерческая выгода"
+msgstr "Выгода"
 
 #: src-en/data/blueprints.xml.append:3733
 msgid ""
