@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-01-13 18:59+0000\n"
-"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
+"Last-Translator: 羽绯 <2488550685@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -25,7 +25,7 @@ msgstr "充能重激"
 #: src-en/data/blueprints.xml.append:16
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/desc"
-msgstr ""
+msgstr "这种激光武器可以充填多个弹体，或者提前射出。每发造成2点伤害。"
 
 #: src-en/data/blueprints.xml.append:52
 msgid ""
@@ -40,7 +40,8 @@ msgstr "多级激光[2]"
 #: src-en/data/blueprints.xml.append:55
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/desc"
-msgstr ""
+msgstr "[当前能量：2]一种具有潜在破坏力的激光武器，可在战斗前中调整其能量消耗来改变伤"
+"害输出。能量越高，冷却时间也会增加。"
 
 #: src-en/data/blueprints.xml.append:90
 msgid ""
@@ -55,7 +56,8 @@ msgstr "多级激光[3]"
 #: src-en/data/blueprints.xml.append:93
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/desc"
-msgstr ""
+msgstr "[当前能量：3]一种具有潜在破坏力的激光武器，可在战斗前中调整其能量消耗来改变伤"
+"害输出。能量越高，冷却时间也会增加。"
 
 #: src-en/data/blueprints.xml.append:128
 msgid ""
@@ -70,147 +72,223 @@ msgstr "多级激光[4]"
 #: src-en/data/blueprints.xml.append:131
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/desc"
-msgstr ""
+msgstr "[当前能量：4]一种具有潜在破坏力的激光武器，可在战斗前中调整其能量消耗来改变伤"
+"害输出。能量越高，冷却时间也会增加。"
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/title"
-msgstr ""
+msgstr "袖珍激光"
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/short"
-msgstr ""
+msgstr "袖珍激光"
 
 #: src-en/data/blueprints.xml.append:170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/desc"
-msgstr ""
+msgstr "这种奇特的激光炮射速极快且不使用能量，但是命中率很差。"
 
 #: src-en/data/blueprints.xml.append:209
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/title"
-msgstr "轻爆激光"
+msgstr "轻型爆裂激光"
 
 #: src-en/data/blueprints.xml.append:210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/short"
-msgstr "轻爆激光"
+msgstr "轻型爆裂"
 
 #: src-en/data/blueprints.xml.append:212
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/desc"
-msgstr ""
+msgstr "尽管充能速度比标准轻型激光更慢，但它可以发射一连串激光弹幕，以快速破坏敌方护"
+"盾。"
 
 #: src-en/data/blueprints.xml.append:254
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/title"
-msgstr ""
+msgstr "粒子加速器I"
 
 #: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/short"
-msgstr ""
+msgstr "粒子加速I"
 
 #: src-en/data/blueprints.xml.append:257
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/desc"
-msgstr ""
+msgstr "精心调制的粒子技术，放弃了起火特性转而对船员直接造成伤害并施加减益。"
 
 #: src-en/data/blueprints.xml.append:327
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/title"
-msgstr ""
+msgstr "粒子加速器II"
 
 #: src-en/data/blueprints.xml.append:328
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/short"
-msgstr ""
+msgstr "粒子加速II"
 
 #: src-en/data/blueprints.xml.append:330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/desc"
-msgstr ""
+msgstr "精心调制的粒子技术，放弃了起火特性转而对船员直接造成伤害并施加减益。此版本充"
+"能时间更长，着弹范围更广，但一次射出更多弹丸。"
 
 #: src-en/data/blueprints.xml.append:407
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/title"
-msgstr ""
+msgstr "汇聚I"
 
 #: src-en/data/blueprints.xml.append:408
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/short"
-msgstr ""
+msgstr "汇聚I"
 
 #: src-en/data/blueprints.xml.append:410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:411
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
 msgstr ""
+"\"汇聚\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充"
+"能都会增加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：1\n"
+"\t充能时间：11秒\n"
+"\t命中率加成：+10%\n"
+"\n"
+"\t最大充能：3\n"
+"\t充能提速：0/30/69%\n"
+"\n"
+"\t船体伤害：2/3/4\n"
+"\t系统伤害：2/3/4\n"
+"\t人员伤害：30/45/60\n"
+"\n"
+"\t着火几率：10/20/30%\n"
+"\t破舱几率：10/20/30% (修正后：9/16/21%)\n"
+"\n"
+"\t购买/出售价格：55~/27~"
 
 #: src-en/data/blueprints.xml.append:468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
-msgstr ""
+msgstr "汇聚II"
 
 #: src-en/data/blueprints.xml.append:469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/short"
-msgstr ""
+msgstr "汇聚II"
 
 #: src-en/data/blueprints.xml.append:471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:472
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
 msgstr ""
+"\"汇聚\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充"
+"能都会增加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：2\n"
+"\t充能时间：13秒\n"
+"\t命中率加成：+10%\n"
+"\n"
+"\t最大充能：4\n"
+"\t充能提速：0/50/125/237.5%\n"
+"\n"
+"\t船体伤害：3/4/5/6\n"
+"\t系统伤害：3/4/5/6\n"
+"\t人员伤害：45/60/75/90\n"
+"\n"
+"\t着火几率：10/20/30/40%\n"
+"\t破舱几率：10/20/30/40% (修正后：9/16/21/24%)\n"
+"\n"
+"\t购买/出售价格：70~/35~"
 
 #: src-en/data/blueprints.xml.append:529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/title"
-msgstr ""
+msgstr "穿刺汇聚"
 
 #: src-en/data/blueprints.xml.append:530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
-msgstr ""
+msgstr "穿刺汇聚."
 
 #: src-en/data/blueprints.xml.append:532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:533
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
+"\"汇聚\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充"
+"能都会增加护盾穿透能力和破舱几率。充能会随时间推移逐渐加快。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：2\n"
+"\t充能时间：9秒\n"
+"\t命中率加成：+10%\n"
+"\n"
+"\t最大充能：4\n"
+"\t护盾穿透：1/2/3/4\n"
+"\t充能提速：0/50/125/237.5%\n"
+"\n"
+"\t船体伤害：2\n"
+"\t系统伤害：2\n"
+"\t人员伤害：30\n"
+"\n"
+"\t破舱几率：60/70/80/90%\n"
+"\n"
+"\t购买/出售价格：60~/30~"
 
 #: src-en/data/blueprints.xml.append:590
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
-msgstr ""
+msgstr "离子汇聚"
 
 #: src-en/data/blueprints.xml.append:591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/short"
-msgstr ""
+msgstr "离子汇聚."
 
 #: src-en/data/blueprints.xml.append:593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
 msgstr ""
+"\"汇聚\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充"
+"能都会增加离子伤害和击晕几率。充能会随时间推移逐渐加快。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：1\n"
+"\t充能时间：8秒\n"
+"\t命中率加成：+10%\n"
+"\n"
+"\t最大充能：4\n"
+"\t充能提速：0/20/44/72.8%\n"
+"\n"
+"\t离子伤害：1/2/3/4\n"
+"\n"
+"\t击晕几率：30/40/50/60% (3秒)\n"
+"\n"
+"\t购买/出售价格：50~/25~"
 
 #: src-en/data/blueprints.xml.append:658
 msgid ""
@@ -224,7 +302,7 @@ msgstr "方天戟束"
 
 #: src-en/data/blueprints.xml.append:660
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:661
 msgid ""
