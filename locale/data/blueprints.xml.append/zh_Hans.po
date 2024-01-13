@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-13 18:59+0000\n"
+"PO-Revision-Date: 2024-01-14 19:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
@@ -223,7 +223,7 @@ msgstr "穿刺汇聚"
 #: src-en/data/blueprints.xml.append:530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
-msgstr "穿刺汇聚."
+msgstr "穿刺汇聚"
 
 #: src-en/data/blueprints.xml.append:532
 msgid ""
