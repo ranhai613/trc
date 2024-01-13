@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-27 07:05+0000\n"
+"PO-Revision-Date: 2024-01-13 18:59+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
@@ -215,12 +215,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:658
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/title"
-msgstr ""
+msgstr "'方天戟'撕裂光束"
 
 #: src-en/data/blueprints.xml.append:659
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/short"
-msgstr ""
+msgstr "方天戟束"
 
 #: src-en/data/blueprints.xml.append:660
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
@@ -234,12 +234,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:703
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/title"
-msgstr ""
+msgstr "'鹰钩'辐射光束II"
 
 #: src-en/data/blueprints.xml.append:704
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/short"
-msgstr ""
+msgstr "鹰钩辐束II"
 
 #: src-en/data/blueprints.xml.append:705
 msgid ""
@@ -249,12 +249,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:764
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/title"
-msgstr ""
+msgstr "'鹰钩'辐射光束II†"
 
 #: src-en/data/blueprints.xml.append:765
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/short"
-msgstr ""
+msgstr "鹰钩辐束II†"
 
 #: src-en/data/blueprints.xml.append:766
 msgid ""
@@ -264,12 +264,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:826
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/title"
-msgstr ""
+msgstr "'月斧'光束"
 
 #: src-en/data/blueprints.xml.append:827
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/short"
-msgstr ""
+msgstr "月斧光束"
 
 #: src-en/data/blueprints.xml.append:829
 msgid ""
@@ -294,12 +294,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:899
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/title"
-msgstr ""
+msgstr "窒息离子"
 
 #: src-en/data/blueprints.xml.append:900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/short"
-msgstr ""
+msgstr "窒息离子"
 
 #: src-en/data/blueprints.xml.append:903
 msgid ""
@@ -309,12 +309,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/title"
-msgstr ""
+msgstr "窒息离子†"
 
 #: src-en/data/blueprints.xml.append:946
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/short"
-msgstr ""
+msgstr "窒息离子∫"
 
 #: src-en/data/blueprints.xml.append:949
 msgid ""
@@ -384,12 +384,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1199
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/title"
-msgstr ""
+msgstr "'灼烧'光点"
 
 #: src-en/data/blueprints.xml.append:1200
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/short"
-msgstr ""
+msgstr "灼烧光点"
 
 #: src-en/data/blueprints.xml.append:1201
 msgid ""
@@ -399,12 +399,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1226
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/title"
-msgstr ""
+msgstr "'细匕'光点"
 
 #: src-en/data/blueprints.xml.append:1227
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/short"
-msgstr ""
+msgstr "细匕光点"
 
 #: src-en/data/blueprints.xml.append:1228
 msgid ""
@@ -434,12 +434,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1311
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/title"
-msgstr ""
+msgstr "粒子炸弹"
 
 #: src-en/data/blueprints.xml.append:1312
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/short"
-msgstr ""
+msgstr "粒子炸弹"
 
 #: src-en/data/blueprints.xml.append:1314
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/desc"
@@ -448,12 +448,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1343
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/title"
-msgstr ""
+msgstr "粒子炸弹†"
 
 #: src-en/data/blueprints.xml.append:1344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/short"
-msgstr ""
+msgstr "粒子炸弹∫"
 
 #: src-en/data/blueprints.xml.append:1346
 msgid ""
@@ -463,12 +463,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/title"
-msgstr ""
+msgstr "汽油炸弹"
 
 #: src-en/data/blueprints.xml.append:1377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/short"
-msgstr ""
+msgstr "汽油炸弹"
 
 #: src-en/data/blueprints.xml.append:1379
 msgid ""
@@ -518,27 +518,27 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1491
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.8倍战斗伤害、2.2倍移动速度"
 
 #: src-en/data/blueprints.xml.append:1492
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[3]"
-msgstr ""
+msgstr "3倍恢复速度"
 
 #: src-en/data/blueprints.xml.append:1493
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[4]"
-msgstr ""
+msgstr "只能被临时控制，无法操控系统"
 
 #: src-en/data/blueprints.xml.append:1517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/title"
-msgstr ""
+msgstr "滋蛛炸弹"
 
 #: src-en/data/blueprints.xml.append:1518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/short"
-msgstr ""
+msgstr "滋蛛炸弹"
 
 #: src-en/data/blueprints.xml.append:1520
 msgid ""
@@ -548,12 +548,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1566
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/title"
-msgstr ""
+msgstr "滋蛛炸弹"
 
 #: src-en/data/blueprints.xml.append:1567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/short"
-msgstr ""
+msgstr "滋蛛炸弹"
 
 #: src-en/data/blueprints.xml.append:1569
 msgid ""
@@ -566,26 +566,26 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:1615
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/title"
-msgstr ""
+msgstr "变异体"
 
 #: src-en/data/blueprints.xml.append:1616
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/short"
-msgstr ""
+msgstr "变异体"
 
 #: src-en/data/blueprints.xml.append:1619
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[1]"
-msgstr ""
+msgstr "2.3倍战斗伤害"
 
 #: src-en/data/blueprints.xml.append:1620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[2]"
-msgstr ""
+msgstr "无法维修或恢复生命、0.5倍移动速度"
 
 #: src-en/data/blueprints.xml.append:1621
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[3]"
-msgstr ""
+msgstr "死亡时爆炸，对同舱室造成15点船员伤害与1点系统伤害"
 
 #: src-en/data/blueprints.xml.append:1622
 msgid ""
@@ -595,12 +595,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1628
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/title"
-msgstr ""
+msgstr "变异炸弹"
 
 #: src-en/data/blueprints.xml.append:1629
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/short"
-msgstr ""
+msgstr "变异炸弹"
 
 #: src-en/data/blueprints.xml.append:1631
 msgid ""
@@ -610,12 +610,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/title"
-msgstr ""
+msgstr "'光神'导弹"
 
 #: src-en/data/blueprints.xml.append:1689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/short"
-msgstr ""
+msgstr "光神导弹"
 
 #: src-en/data/blueprints.xml.append:1690
 msgid ""
@@ -625,12 +625,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1740
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/title"
-msgstr ""
+msgstr "'风神'导弹"
 
 #: src-en/data/blueprints.xml.append:1741
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/short"
-msgstr ""
+msgstr "风神导弹"
 
 #: src-en/data/blueprints.xml.append:1742
 msgid ""
@@ -645,12 +645,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1814
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/title"
-msgstr ""
+msgstr "'风神'导弹"
 
 #: src-en/data/blueprints.xml.append:1815
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/short"
-msgstr ""
+msgstr "风神导弹"
 
 #: src-en/data/blueprints.xml.append:1816
 msgid ""
@@ -660,12 +660,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1867
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/title"
-msgstr ""
+msgstr "'律神'弹片导弹"
 
 #: src-en/data/blueprints.xml.append:1868
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/short"
-msgstr ""
+msgstr "律神导弹"
 
 #: src-en/data/blueprints.xml.append:1869
 msgid ""
@@ -680,12 +680,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1930
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/title"
-msgstr ""
+msgstr "'毁神'弹片导弹"
 
 #: src-en/data/blueprints.xml.append:1931
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/short"
-msgstr ""
+msgstr "毁神导弹"
 
 #: src-en/data/blueprints.xml.append:1932
 msgid ""
@@ -700,12 +700,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/title"
-msgstr ""
+msgstr "'悔神'先发导弹"
 
 #: src-en/data/blueprints.xml.append:1994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/short"
-msgstr ""
+msgstr "悔神导弹"
 
 #: src-en/data/blueprints.xml.append:1995
 msgid ""
@@ -715,12 +715,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2050
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/title"
-msgstr ""
+msgstr "殃害哨卫部署器"
 
 #: src-en/data/blueprints.xml.append:2051
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/short"
-msgstr ""
+msgstr "殃害哨卫"
 
 #: src-en/data/blueprints.xml.append:2052
 msgid ""
@@ -747,12 +747,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/title"
-msgstr ""
+msgstr "'恶鬼'空雷发射器"
 
 #: src-en/data/blueprints.xml.append:2191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/short"
-msgstr ""
+msgstr "恶鬼空雷"
 
 #: src-en/data/blueprints.xml.append:2192
 msgid ""
@@ -762,12 +762,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2249
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/title"
-msgstr ""
+msgstr "三联器"
 
 #: src-en/data/blueprints.xml.append:2250
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/short"
-msgstr ""
+msgstr "三联器"
 
 #: src-en/data/blueprints.xml.append:2252
 msgid ""
@@ -777,12 +777,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2293
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/title"
-msgstr ""
+msgstr "三联激光"
 
 #: src-en/data/blueprints.xml.append:2294
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/short"
-msgstr ""
+msgstr "三联激光"
 
 #: src-en/data/blueprints.xml.append:2295
 msgid ""
@@ -792,12 +792,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/title"
-msgstr ""
+msgstr "冰霜破片"
 
 #: src-en/data/blueprints.xml.append:2330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/short"
-msgstr ""
+msgstr "冰霜破片"
 
 #: src-en/data/blueprints.xml.append:2332
 msgid ""
@@ -875,12 +875,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2559
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/title"
-msgstr ""
+msgstr "闪弹发射器"
 
 #: src-en/data/blueprints.xml.append:2560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/short"
-msgstr ""
+msgstr "闪弹器"
 
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
@@ -906,11 +906,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2676
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
-msgstr ""
+msgstr "磁感放射器"
 
 #: src-en/data/blueprints.xml.append:2677
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/short"
-msgstr ""
+msgstr "磁感器"
 
 #: src-en/data/blueprints.xml.append:2678
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/desc"
@@ -919,12 +919,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/title"
-msgstr ""
+msgstr "岩浆炮"
 
 #: src-en/data/blueprints.xml.append:2708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/short"
-msgstr ""
+msgstr "岩浆炮"
 
 #: src-en/data/blueprints.xml.append:2709
 msgid ""
@@ -938,11 +938,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2749
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/title"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2750
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/short"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2751
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/desc"
@@ -951,12 +951,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2759
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/title"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2760
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/short"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2761
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/desc"
@@ -965,12 +965,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/title"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2768
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/short"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2769
 msgid ""
@@ -980,12 +980,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2777
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/title"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/short"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2779
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
@@ -994,12 +994,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2787
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/title"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/short"
-msgstr ""
+msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2789
 msgid ""
@@ -1049,26 +1049,26 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2928
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/title"
-msgstr ""
+msgstr "克隆士兵"
 
 #: src-en/data/blueprints.xml.append:2929
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/short"
-msgstr ""
+msgstr "克隆士兵"
 
 #: src-en/data/blueprints.xml.append:2932
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[1]"
-msgstr ""
+msgstr "1.2倍战斗伤害"
 
 #: src-en/data/blueprints.xml.append:2933
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[2]"
-msgstr ""
+msgstr "受到0.7倍战斗伤害与0.6倍灼烧伤害"
 
 #: src-en/data/blueprints.xml.append:2934
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[3]"
-msgstr ""
+msgstr "神经芯片使其能够极快地学习技能"
 
 #: src-en/data/blueprints.xml.append:2938
 msgid ""
@@ -1078,37 +1078,37 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2942
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/title"
-msgstr ""
+msgstr "克隆士兵"
 
 #: src-en/data/blueprints.xml.append:2943
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/short"
-msgstr ""
+msgstr "克隆士兵"
 
 #: src-en/data/blueprints.xml.append:2946
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[1]"
-msgstr ""
+msgstr "1.2倍战斗伤害"
 
 #: src-en/data/blueprints.xml.append:2947
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[2]"
-msgstr ""
+msgstr "受到0.7倍战斗伤害与0.6倍灼烧伤害"
 
 #: src-en/data/blueprints.xml.append:2948
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[3]"
-msgstr ""
+msgstr "神经芯片使其能够极快地学习技能"
 
 #: src-en/data/blueprints.xml.append:2954
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/title"
-msgstr ""
+msgstr "联邦军用级克隆性破舰舱发射器"
 
 #: src-en/data/blueprints.xml.append:2955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/short"
-msgstr ""
+msgstr "联军级克舰舱器"
 
 #: src-en/data/blueprints.xml.append:2956
 msgid ""
@@ -1117,11 +1117,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3018
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
-msgstr ""
+msgstr "说唱无人机"
 
 #: src-en/data/blueprints.xml.append:3045
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP_2\"]/title"
-msgstr ""
+msgstr "说唱无人机"
 
 #: src-en/data/blueprints.xml.append:3077
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
@@ -1153,12 +1153,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3107
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_BREACH\"]/title"
-msgstr ""
+msgstr "炸弹无人机"
 
 #: src-en/data/blueprints.xml.append:3128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_ION\"]/title"
-msgstr ""
+msgstr "炸弹无人机"
 
 #: src-en/data/blueprints.xml.append:3152
 msgid ""
@@ -1193,12 +1193,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/title"
-msgstr ""
+msgstr "导弹无人机"
 
 #: src-en/data/blueprints.xml.append:3188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/short"
-msgstr ""
+msgstr "导弹无人机"
 
 #: src-en/data/blueprints.xml.append:3189
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
@@ -1222,17 +1222,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3237
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DEFENSE\"]/title"
-msgstr ""
+msgstr "破片无人机"
 
 #: src-en/data/blueprints.xml.append:3273
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/title"
-msgstr ""
+msgstr "散射防御无人机"
 
 #: src-en/data/blueprints.xml.append:3274
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/short"
-msgstr ""
+msgstr "散射防御"
 
 #: src-en/data/blueprints.xml.append:3275
 msgid ""
@@ -1242,17 +1242,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3292
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/title"
-msgstr ""
+msgstr "散射防御无人机"
 
 #: src-en/data/blueprints.xml.append:3293
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/short"
-msgstr ""
+msgstr "散射防御"
 
 #: src-en/data/blueprints.xml.append:3294
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/desc"
-msgstr ""
+msgstr " "
 
 #: src-en/data/blueprints.xml.append:3318
 msgid ""
@@ -1291,11 +1291,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3346
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
-msgstr ""
+msgstr "高压无人机"
 
 #: src-en/data/blueprints.xml.append:3347
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
-msgstr ""
+msgstr "高压无人机"
 
 #: src-en/data/blueprints.xml.append:3348
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
@@ -1308,11 +1308,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3359
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
-msgstr ""
+msgstr "高压无人机"
 
 #: src-en/data/blueprints.xml.append:3360
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
-msgstr ""
+msgstr "高压"
 
 #: src-en/data/blueprints.xml.append:3361
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
@@ -1365,7 +1365,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3429
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/class"
-msgstr ""
+msgstr "红隼藏品舰"
 
 #: src-en/data/blueprints.xml.append:3430
 msgid ""
@@ -1380,7 +1380,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3503
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/class"
-msgstr ""
+msgstr "工程师藏品舰"
 
 #: src-en/data/blueprints.xml.append:3504
 msgid ""
@@ -1395,7 +1395,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/class"
-msgstr ""
+msgstr "告死藏品舰"
 
 #: src-en/data/blueprints.xml.append:3577
 msgid ""
@@ -1410,7 +1410,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3652
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/class"
-msgstr ""
+msgstr "半械藏品舰"
 
 #: src-en/data/blueprints.xml.append:3653
 msgid ""
@@ -1425,7 +1425,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3730
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/class"
-msgstr ""
+msgstr "流放者藏品舰"
 
 #: src-en/data/blueprints.xml.append:3731
 msgid ""
@@ -1440,7 +1440,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3805
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/class"
-msgstr ""
+msgstr "集议会藏品舰"
 
 #: src-en/data/blueprints.xml.append:3806
 msgid ""
@@ -1455,12 +1455,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3882
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/class"
-msgstr ""
+msgstr "隐形藏品舰"
 
 #: src-en/data/blueprints.xml.append:3883
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/name"
-msgstr ""
+msgstr "转瞬之击"
 
 #: src-en/data/blueprints.xml.append:3885
 msgid ""
@@ -1470,12 +1470,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3959
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/class"
-msgstr ""
+msgstr "联邦藏品舰"
 
 #: src-en/data/blueprints.xml.append:3960
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/name"
-msgstr ""
+msgstr "狮子号"
 
 #: src-en/data/blueprints.xml.append:3962
 msgid ""
@@ -1485,12 +1485,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/class"
-msgstr ""
+msgstr "母巢藏品舰"
 
 #: src-en/data/blueprints.xml.append:4033
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/name"
-msgstr ""
+msgstr "兰花螳螂II"
 
 #: src-en/data/blueprints.xml.append:4035
 msgid ""
@@ -1500,12 +1500,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/class"
-msgstr ""
+msgstr "辉光藏品舰"
 
 #: src-en/data/blueprints.xml.append:4111
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/name"
-msgstr ""
+msgstr "静耐号"
 
 #: src-en/data/blueprints.xml.append:4113
 msgid ""
@@ -1515,7 +1515,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4184
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/class"
-msgstr ""
+msgstr "维和藏品舰"
 
 #: src-en/data/blueprints.xml.append:4185
 msgid ""
@@ -1530,7 +1530,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4259
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/class"
-msgstr ""
+msgstr "星盗会藏品舰"
 
 #: src-en/data/blueprints.xml.append:4260
 msgid ""
@@ -1545,7 +1545,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4334
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/class"
-msgstr ""
+msgstr "迷失烈阳藏品舰"
 
 #: src-en/data/blueprints.xml.append:4335
 msgid ""
@@ -1560,12 +1560,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4410
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/class"
-msgstr ""
+msgstr "神权国藏品舰"
 
 #: src-en/data/blueprints.xml.append:4411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/name"
-msgstr ""
+msgstr "火元号"
 
 #: src-en/data/blueprints.xml.append:4413
 msgid ""
@@ -1575,12 +1575,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4485
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/class"
-msgstr ""
+msgstr "共和国藏品舰"
 
 #: src-en/data/blueprints.xml.append:4486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/name"
-msgstr ""
+msgstr "多极号"
 
 #: src-en/data/blueprints.xml.append:4488
 msgid ""
@@ -1590,7 +1590,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4559
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/class"
-msgstr ""
+msgstr "怪才体藏品舰"
 
 #: src-en/data/blueprints.xml.append:4560
 msgid ""
@@ -1605,7 +1605,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4633
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/class"
-msgstr ""
+msgstr "自动藏品舰"
 
 #: src-en/data/blueprints.xml.append:4634
 msgid ""
@@ -1620,7 +1620,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4710
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/class"
-msgstr ""
+msgstr "灵朝藏品舰"
 
 #: src-en/data/blueprints.xml.append:4711
 msgid ""
@@ -1635,12 +1635,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4784
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/class"
-msgstr ""
+msgstr "蛛团藏品舰"
 
 #: src-en/data/blueprints.xml.append:4785
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/name"
-msgstr ""
+msgstr "育母号"
 
 #: src-en/data/blueprints.xml.append:4787
 msgid ""
@@ -1650,7 +1650,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4857
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/class"
-msgstr ""
+msgstr "提卡卡藏品舰"
 
 #: src-en/data/blueprints.xml.append:4858
 msgid ""
@@ -1665,12 +1665,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4931
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/class"
-msgstr ""
+msgstr "分离者藏品舰"
 
 #: src-en/data/blueprints.xml.append:4932
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/name"
-msgstr ""
+msgstr "破极号"
 
 #: src-en/data/blueprints.xml.append:4934
 msgid ""
@@ -1680,7 +1680,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5009
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/class"
-msgstr ""
+msgstr "食铁藏品舰"
 
 #: src-en/data/blueprints.xml.append:5010
 msgid ""
@@ -1695,12 +1695,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5083
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/class"
-msgstr ""
+msgstr "叛军多元藏品舰"
 
 #: src-en/data/blueprints.xml.append:5084
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/name"
-msgstr ""
+msgstr "暴迫号"
 
 #: src-en/data/blueprints.xml.append:5086
 msgid ""
@@ -1710,12 +1710,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5159
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/class"
-msgstr ""
+msgstr "领主藏品舰"
 
 #: src-en/data/blueprints.xml.append:5160
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/name"
-msgstr ""
+msgstr "机螂号"
 
 #: src-en/data/blueprints.xml.append:5162
 msgid ""
@@ -1725,12 +1725,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5236
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/class"
-msgstr ""
+msgstr "蛞蝓欢愉藏艇"
 
 #: src-en/data/blueprints.xml.append:5237
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/name"
-msgstr ""
+msgstr "姬乐号"
 
 #: src-en/data/blueprints.xml.append:5239
 msgid ""
@@ -1740,7 +1740,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5312
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/class"
-msgstr ""
+msgstr "强铁藏品舰"
 
 #: src-en/data/blueprints.xml.append:5313
 msgid ""
@@ -1755,12 +1755,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5387
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/class"
-msgstr ""
+msgstr "骇客团藏品舰"
 
 #: src-en/data/blueprints.xml.append:5388
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/name"
-msgstr ""
+msgstr "5Y5-5H0CK"
 
 #: src-en/data/blueprints.xml.append:5390
 msgid ""
@@ -1770,7 +1770,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5462
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/class"
-msgstr ""
+msgstr "叛军藏品舰"
 
 #: src-en/data/blueprints.xml.append:5463
 msgid ""
@@ -1785,7 +1785,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5536
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/class"
-msgstr ""
+msgstr "收藏家星舰"
 
 #: src-en/data/blueprints.xml.append:5537
 msgid ""
@@ -1800,12 +1800,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5608
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
-msgstr ""
+msgstr "破损藏品轰炸舰"
 
 #: src-en/data/blueprints.xml.append:5609
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/name"
-msgstr ""
+msgstr "垃圾堆号"
 
 #: src-en/data/blueprints.xml.append:5611
 msgid ""
