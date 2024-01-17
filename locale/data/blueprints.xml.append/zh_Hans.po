@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-14 19:13+0000\n"
+"PO-Revision-Date: 2024-01-18 04:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
@@ -502,7 +502,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:1265
 msgid ""
@@ -566,7 +566,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1434
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:1435
 msgid ""
@@ -636,7 +636,7 @@ msgstr "滋蛛炸弹"
 #: src-en/data/blueprints.xml.append:1569
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:1613
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/desc"
@@ -713,7 +713,7 @@ msgstr "风神导弹"
 #: src-en/data/blueprints.xml.append:1742
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:1743
 msgid ""
@@ -748,7 +748,7 @@ msgstr "律神导弹"
 #: src-en/data/blueprints.xml.append:1869
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:1870
 msgid ""
@@ -768,7 +768,7 @@ msgstr "毁神导弹"
 #: src-en/data/blueprints.xml.append:1932
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:1933
 msgid ""
@@ -815,7 +815,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2126
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2127
 msgid ""
@@ -865,7 +865,7 @@ msgstr "三联激光"
 #: src-en/data/blueprints.xml.append:2295
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2329
 msgid ""
@@ -895,7 +895,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2390
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2400
 msgid ""
@@ -909,7 +909,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2402
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2403
 msgid ""
@@ -943,7 +943,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2505
 msgid ""
@@ -963,7 +963,7 @@ msgstr "闪弹器"
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/desc"
-msgstr ""
+msgstr "发射诱击闪弹来干扰防御无人机，若击中船员，还能将其致盲并击晕。"
 
 #: src-en/data/blueprints.xml.append:2607
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/title"
@@ -975,7 +975,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2609
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2610
 msgid ""
@@ -1007,7 +1007,7 @@ msgstr "岩浆炮"
 #: src-en/data/blueprints.xml.append:2709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2710
 msgid ""
@@ -1024,7 +1024,7 @@ msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2751
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2759
 msgid ""
@@ -1038,7 +1038,7 @@ msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2761
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2767
 msgid ""
@@ -1053,7 +1053,7 @@ msgstr "宝石"
 #: src-en/data/blueprints.xml.append:2769
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2777
 msgid ""
@@ -1067,7 +1067,7 @@ msgstr "宝石"
 
 #: src-en/data/blueprints.xml.append:2779
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2787
 msgid ""
@@ -1082,7 +1082,7 @@ msgstr "宝石"
 #: src-en/data/blueprints.xml.append:2789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2806
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/title"
@@ -1094,7 +1094,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2809
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2810
 msgid ""
@@ -1114,7 +1114,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2881
 msgid ""
@@ -1211,7 +1211,7 @@ msgstr "压制I"
 
 #: src-en/data/blueprints.xml.append:3079
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/desc"
-msgstr ""
+msgstr "一种专用于持续有效压制护盾层数的无人机，自带隐形系统，能够避免反无人机攻击。"
 
 #: src-en/data/blueprints.xml.append:3092
 msgid ""
@@ -1226,7 +1226,8 @@ msgstr "压制II"
 #: src-en/data/blueprints.xml.append:3094
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/desc"
-msgstr ""
+msgstr "一种专用于持续有效压制护盾层数的无人机，自带隐形系统，能够避免反无人机攻击。I"
+"I型移动速度更低但单次开火能破除3层护盾。"
 
 #: src-en/data/blueprints.xml.append:3107
 msgid ""
@@ -1241,7 +1242,7 @@ msgstr "炸弹无人机"
 #: src-en/data/blueprints.xml.append:3152
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/title"
-msgstr ""
+msgstr "电震无人机[破舱]"
 
 #: src-en/data/blueprints.xml.append:3153
 msgid ""
@@ -1256,7 +1257,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3169
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/title"
-msgstr ""
+msgstr "电震无人机[离子]"
 
 #: src-en/data/blueprints.xml.append:3170
 msgid ""
@@ -1280,7 +1281,7 @@ msgstr "导弹无人机"
 
 #: src-en/data/blueprints.xml.append:3189
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:3220
 msgid ""
@@ -1316,6 +1317,9 @@ msgstr "散射防御"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
 msgstr ""
+"一种怪异的防御无人机，发射慢速移动的破片来防御攻击。防御目标包括你能想到的任"
+"何事物——实体弹、激光、无人机等等。\n"
+"\t重新装填：1400 毫秒"
 
 #: src-en/data/blueprints.xml.append:3292
 msgid ""
@@ -1330,7 +1334,9 @@ msgstr "散射防御"
 #: src-en/data/blueprints.xml.append:3294
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/desc"
-msgstr " "
+msgstr ""
+"你 不 应 该 看 到 这 个\n"
+"\t重新装填：1700 毫秒"
 
 #: src-en/data/blueprints.xml.append:3318
 msgid ""
@@ -1345,12 +1351,12 @@ msgstr "灭火无人机"
 #: src-en/data/blueprints.xml.append:3320
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:3324
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/powerList/power"
-msgstr ""
+msgstr "无人机"
 
 #: src-en/data/blueprints.xml.append:3331
 msgid ""
@@ -1377,12 +1383,12 @@ msgstr "高压无人机"
 
 #: src-en/data/blueprints.xml.append:3348
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:3352
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/powerList/power"
-msgstr ""
+msgstr "无人机"
 
 #: src-en/data/blueprints.xml.append:3359
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
@@ -1399,36 +1405,42 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3374
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/title"
-msgstr ""
+msgstr "汲护无人机"
 
 #: src-en/data/blueprints.xml.append:3375
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/short"
-msgstr ""
+msgstr "汲护无人机"
 
 #: src-en/data/blueprints.xml.append:3376
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/desc"
-msgstr ""
+msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:3380
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/powerList/power"
-msgstr ""
+msgstr "无人机"
 
 #: src-en/data/blueprints.xml.append:3387
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/title"
-msgstr ""
+msgstr "汲护无人机"
 
 #: src-en/data/blueprints.xml.append:3388
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/short"
-msgstr ""
+msgstr "汲护无人机"
 
 #: src-en/data/blueprints.xml.append:3389
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
+"可操控的辅助无人机，其能够从所处舱室的系统汲取能量来为同舱室的友方船员提供伤"
+"害减免。\n"
+"    \n"
+"-50点最大生命值，0.75倍移动速度\n"
+"-为同舱室的友方船员提供防护，使其获得75%的伤害抗性\n"
+"-从同舱室的系统中持续汲取3格能量，有可供汲取的能量才会生效"
 
 #: src-en/data/blueprints.xml.append:3410
 msgid ""
@@ -1439,6 +1451,11 @@ msgstr "[L]作战程序"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/desc"
 msgstr ""
+"半械族船员获得标准战斗伤害与10点最大生命值，但失去25%维修速度。\n"
+"\t\n"
+"\t[外] - 作为外置特质，该部件将提供船员的特质效果，但占用一个增强部件槽位。其"
+"无法被转换为不占槽位的物种特质，但也不影响主次要特质的配置，且相同效果不叠加"
+"。"
 
 #: src-en/data/blueprints.xml.append:3429
 msgid ""
@@ -1448,7 +1465,7 @@ msgstr "红隼藏品舰"
 #: src-en/data/blueprints.xml.append:3430
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/name"
-msgstr ""
+msgstr "拟鹂号"
 
 #: src-en/data/blueprints.xml.append:3432
 msgid ""
@@ -1463,12 +1480,12 @@ msgstr "工程师藏品舰"
 #: src-en/data/blueprints.xml.append:3504
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/name"
-msgstr ""
+msgstr "异刺号"
 
 #: src-en/data/blueprints.xml.append:3506
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/desc"
-msgstr ""
+msgstr "这艘星舰由一名疯狂科学家操控，他醉心于将所有船员变成变异体。"
 
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
@@ -1508,12 +1525,13 @@ msgstr "流放者藏品舰"
 #: src-en/data/blueprints.xml.append:3731
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/name"
-msgstr ""
+msgstr "众益至上"
 
 #: src-en/data/blueprints.xml.append:3733
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
-msgstr ""
+msgstr "这艘星舰是温特沃斯革新社一个失败的市场扩展计划的一部分，"
+"该计划主要围绕电视角色\"石头鱼雷米\"展开。"
 
 #: src-en/data/blueprints.xml.append:3805
 msgid ""
@@ -1544,6 +1562,9 @@ msgstr "转瞬之击"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/desc"
 msgstr ""
+"这艘星舰的舰长仅以单单这一个座右铭为生。\n"
+"\t\n"
+"\t要么杀得利落，要么死得顽强。"
 
 #: src-en/data/blueprints.xml.append:3959
 msgid ""
@@ -1588,7 +1609,7 @@ msgstr "静耐号"
 #: src-en/data/blueprints.xml.append:4113
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/desc"
-msgstr ""
+msgstr "这艘舰内的信道者们把耐心奉为唯一的圭臬，但很可惜她却把和平这一初心给忘了。"
 
 #: src-en/data/blueprints.xml.append:4184
 msgid ""
@@ -1663,7 +1684,7 @@ msgstr "多极号"
 #: src-en/data/blueprints.xml.append:4488
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/desc"
-msgstr ""
+msgstr "它叫多极号是因为它附有一件多级武器，合理吧？"
 
 #: src-en/data/blueprints.xml.append:4559
 msgid ""
