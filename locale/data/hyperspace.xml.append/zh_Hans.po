@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-13 18:59+0000\n"
+"PO-Revision-Date: 2024-01-18 04:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datahyperspace-xml-append/zh_Hans/>\n"
@@ -42,4 +42,4 @@ msgstr "高压无人机"
 
 #: src-en/data/hyperspace.xml.append:1120
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
-msgstr ""
+msgstr "汲护无人机"
