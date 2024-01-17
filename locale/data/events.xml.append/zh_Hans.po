@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-13 18:59+0000\n"
+"PO-Revision-Date: 2024-01-18 04:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/zh_Hans/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: src-en/data/events.xml.append:26
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/text"
-msgstr ""
+msgstr "额，你是？"
 
 #: src-en/data/events.xml.append:28
 msgid ""
@@ -33,7 +33,7 @@ msgstr ""
 #: src-en/data/events.xml.append:35
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "次元漏洞？"
 
 #: src-en/data/events.xml.append:37
 msgid ""
@@ -53,27 +53,27 @@ msgstr ""
 #: src-en/data/events.xml.append:47
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "接受悬赏任务：\"克隆者\"。"
 
 #: src-en/data/events.xml.append:55
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_fed\"]/text"
-msgstr ""
+msgstr "接受悬赏任务：\"\"。"
 
 #: src-en/data/events.xml.append:63
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_zoltan\"]/text"
-msgstr ""
+msgstr "接受悬赏任务：\"\"。"
 
 #: src-en/data/events.xml.append:71
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_auto\"]/text"
-msgstr ""
+msgstr "接受悬赏任务：\"\"。"
 
 #: src-en/data/events.xml.append:79
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_rock\"]/text"
-msgstr ""
+msgstr "接受悬赏任务：\"\"。"
 
 #: src-en/data/events.xml.append:87
 msgid ""
@@ -98,7 +98,7 @@ msgstr ""
 #: src-en/data/events.xml.append:101
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_probe\"]/text"
-msgstr ""
+msgstr "接受悬赏任务：\"\"。"
 
 #: src-en/data/events.xml.append:103
 msgid ""
@@ -108,7 +108,7 @@ msgstr ""
 #: src-en/data/events.xml.append:109
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[8]/text"
-msgstr ""
+msgstr "拒绝。"
 
 #: src-en/data/events.xml.append:111
 msgid ""
@@ -131,7 +131,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:142
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "联系收藏家。"
 
 #: src-en/data/events.xml.append:144
 msgid ""
@@ -223,12 +223,12 @@ msgstr ""
 #: src-en/data/events.xml.append:217
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "星舰管理。"
 
 #: src-en/data/events.xml.append:221
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "跳过。"
 
 #: src-en/data/events.xml.append:236
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/text"
@@ -237,7 +237,7 @@ msgstr ""
 #: src-en/data/events.xml.append:240
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "联系收藏家。"
 
 #: src-en/data/events.xml.append:242
 msgid ""
@@ -331,12 +331,12 @@ msgstr ""
 #: src-en/data/events.xml.append:307
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "星舰管理。"
 
 #: src-en/data/events.xml.append:311
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "跳过。"
 
 #: src-en/data/events.xml.append:326
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/text"
@@ -344,7 +344,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:330
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "联系收藏家。"
 
 #: src-en/data/events.xml.append:332
 msgid ""
@@ -426,12 +426,12 @@ msgstr ""
 #: src-en/data/events.xml.append:391
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "星舰管理。"
 
 #: src-en/data/events.xml.append:395
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "跳过。"
 
 #: src-en/data/events.xml.append:410
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/text"
@@ -439,7 +439,7 @@ msgstr ""
 
 #: src-en/data/events.xml.append:414
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "联系收藏家。"
 
 #: src-en/data/events.xml.append:416
 msgid ""
@@ -531,12 +531,12 @@ msgstr ""
 #: src-en/data/events.xml.append:479
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "星舰管理。"
 
 #: src-en/data/events.xml.append:483
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "跳过。"
 
 #: src-en/data/events.xml.append:498
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/text"
@@ -545,7 +545,7 @@ msgstr ""
 #: src-en/data/events.xml.append:502
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "联系收藏家。"
 
 #: src-en/data/events.xml.append:504
 msgid ""
@@ -619,12 +619,12 @@ msgstr ""
 #: src-en/data/events.xml.append:555
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "星舰管理。"
 
 #: src-en/data/events.xml.append:559
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "跳过。"
 
 #: src-en/data/events.xml.append:574
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/text"
@@ -701,9 +701,9 @@ msgstr ""
 #: src-en/data/events.xml.append:638
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "星舰管理。"
 
 #: src-en/data/events.xml.append:642
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "跳过。"
