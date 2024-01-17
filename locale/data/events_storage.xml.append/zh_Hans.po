@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-13 18:59+0000\n"
+"PO-Revision-Date: 2024-01-18 04:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_storagexmlappend/zh_Hans/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "使用离子空雷发射器。[-15}，拖延2次叛军追击，不影响恶名]"
 
 #: src-en/data/events_storage.xml.append:6
 msgid ""
@@ -28,31 +28,31 @@ msgstr ""
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(电震无人机)切换其模式。[当前模式：破舱]"
 
 #: src-en/data/events_storage.xml.append:24
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(电震无人机)切换其模式。[当前模式：离子]"
 
 #: src-en/data/events_storage.xml.append:28
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(多级激光)切换其能级。[当前能耗：2格]"
 
 #: src-en/data/events_storage.xml.append:32
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(多级激光)切换其能级。[当前能耗：3格]"
 
 #: src-en/data/events_storage.xml.append:36
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "(多级激光)切换其能级。[当前能耗：4格]"
 
 #: src-en/data/events_storage.xml.append:49
 msgid ""
@@ -62,7 +62,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:51
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/text"
-msgstr ""
+msgstr "将无人机设置为\"离子炸弹模式\"。"
 
 #: src-en/data/events_storage.xml.append:53
 msgid ""
@@ -97,7 +97,7 @@ msgstr ""
 #: src-en/data/events_storage.xml.append:76
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/text"
-msgstr ""
+msgstr "将无人机设置为\"破舱炸弹模式\"。"
 
 #: src-en/data/events_storage.xml.append:78
 msgid ""
@@ -182,7 +182,7 @@ msgstr "继续。"
 #: src-en/data/events_storage.xml.append:146
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[3]/text"
-msgstr ""
+msgstr "返回到切换菜单。"
 
 #: src-en/data/events_storage.xml.append:151
 msgid ""
@@ -242,7 +242,7 @@ msgstr "继续。"
 #: src-en/data/events_storage.xml.append:190
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[3]/text"
-msgstr ""
+msgstr "返回到切换菜单。"
 
 #: src-en/data/events_storage.xml.append:195
 msgid ""
@@ -302,4 +302,4 @@ msgstr "继续。"
 #: src-en/data/events_storage.xml.append:234
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[3]/text"
-msgstr ""
+msgstr "返回到切换菜单。"
