@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-13 18:59+0000\n"
+"PO-Revision-Date: 2024-01-18 04:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_miscxmlappend/zh_Hans/>\n"
@@ -14,11 +14,11 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
-msgstr ""
+msgstr "提示：临时生成的船员不会影响其他船员的数量上限，且无法被克隆。"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
-msgstr ""
+msgstr "提示：制造出的无人机会在失效前临时发挥作用。"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
-msgstr ""
+msgstr "提示：诱击闪弹不造成任何物理伤害但会干扰防御无人机并致盲船员。"
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
-msgstr ""
+msgstr "提示：压制无人机不造成伤害但在破除护盾方面十分有效，包括能量护盾。"
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
@@ -51,6 +51,10 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
 msgstr ""
+"提示：导弹无人机需消耗大量弹药来部署，但部署后开火无需则再消耗弹药。\n"
+"\n"
+"提示： 在每个新信标处，战斗无人机都需要1件无人机部件来部署。充能时其将持续攻"
+"击敌舰直至被摧毁。"
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
@@ -65,4 +69,4 @@ msgstr "？？？"
 
 #: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
-msgstr ""
+msgstr "悬赏任务[!]"
