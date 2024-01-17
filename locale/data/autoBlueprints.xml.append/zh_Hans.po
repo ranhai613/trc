@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-13 18:59+0000\n"
+"PO-Revision-Date: 2024-01-18 04:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataautoblueprintsxmlappend/zh_Hans/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:1120
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_1\"]/class"
-msgstr ""
+msgstr "联邦短尾猫级长距巡爆舰"
 
 #: src-en/data/autoBlueprints.xml.append:1173
 msgid ""
