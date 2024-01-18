@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-18 04:13+0000\n"
+"PO-Revision-Date: 2024-01-19 12:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_miscxmlappend/zh_Hans/>\n"
@@ -38,7 +38,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
-msgstr ""
+msgstr "提示：撕裂光束以舱格计算造成的伤害而非以舱室，因此大舱室是其最好的攻击目标！"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
