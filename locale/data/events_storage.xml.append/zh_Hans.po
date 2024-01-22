@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-18 04:13+0000\n"
+"PO-Revision-Date: 2024-01-23 08:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_storagexmlappend/zh_Hans/>\n"
@@ -22,7 +22,8 @@ msgstr "使用离子空雷发射器。[-15}，拖延2次叛军追击，不影响
 msgid ""
 "data/events_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "你隐秘地部署弹药，为叛军设置了一处陷阱。不过还好，由于一些法律漏洞这种武器暂"
+"时还合法，当然人们能不能接受也是另外一回事。"
 
 #: src-en/data/events_storage.xml.append:20
 msgid ""
@@ -57,7 +58,7 @@ msgstr "(多级激光)切换其能级。[当前能耗：4格]"
 #: src-en/data/events_storage.xml.append:49
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/text"
-msgstr ""
+msgstr "确定切换无人机的模式？"
 
 #: src-en/data/events_storage.xml.append:51
 msgid ""
@@ -92,7 +93,7 @@ msgstr "继续。"
 #: src-en/data/events_storage.xml.append:74
 msgid ""
 "data/events_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/text"
-msgstr ""
+msgstr "确定切换无人机的模式？"
 
 #: src-en/data/events_storage.xml.append:76
 msgid ""
