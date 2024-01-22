@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-19 12:13+0000\n"
+"PO-Revision-Date: 2024-01-23 08:13+0000\n"
 "Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
@@ -339,7 +339,8 @@ msgstr "鹰钩辐束II"
 #: src-en/data/blueprints.xml.append:705
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/desc"
-msgstr ""
+msgstr "这种可怕的辐射光束能造成高额船员伤害并将其虚弱。它比I型更长、伤害也更高，但无"
+"法穿透护盾。"
 
 #: src-en/data/blueprints.xml.append:764
 msgid ""
@@ -354,7 +355,8 @@ msgstr "鹰钩辐束II†"
 #: src-en/data/blueprints.xml.append:766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
-msgstr ""
+msgstr "这种可怕的辐射光束能造成高额船员伤害并将其虚弱。它比I型更长、伤害也更高，但无"
+"法穿透护盾。"
 
 #: src-en/data/blueprints.xml.append:826
 msgid ""
@@ -369,7 +371,7 @@ msgstr "月斧光束"
 #: src-en/data/blueprints.xml.append:829
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
-msgstr ""
+msgstr "这件光束武器每次充能后下层充能会加快，还会对空舱室造成两倍伤害。"
 
 #: src-en/data/blueprints.xml.append:859
 msgid ""
@@ -384,7 +386,8 @@ msgstr "钩枪光束"
 #: src-en/data/blueprints.xml.append:861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/desc"
-msgstr ""
+msgstr "一种极其缓慢但自成一系的适应性光束，只要积蓄足够久的时间，可以造成无穷大的伤"
+"害。集能武器无需反应堆供能但需要另一件已充能的武器以吸收能量。"
 
 #: src-en/data/blueprints.xml.append:899
 msgid ""
@@ -399,7 +402,7 @@ msgstr "窒息离子"
 #: src-en/data/blueprints.xml.append:903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/desc"
-msgstr ""
+msgstr "一件非常优于窒息敌人的武器，虽然也有其他用途。"
 
 #: src-en/data/blueprints.xml.append:945
 msgid ""
@@ -414,17 +417,17 @@ msgstr "窒息离子∫"
 #: src-en/data/blueprints.xml.append:949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/desc"
-msgstr ""
+msgstr "一件非常优于窒息敌人的武器，虽然也有其他用途。"
 
 #: src-en/data/blueprints.xml.append:992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/title"
-msgstr ""
+msgstr "'无极'离子"
 
 #: src-en/data/blueprints.xml.append:993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/short"
-msgstr ""
+msgstr "无极离子"
 
 #: src-en/data/blueprints.xml.append:996
 msgid ""
