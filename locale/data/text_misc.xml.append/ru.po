@@ -55,30 +55,23 @@ msgstr ""
 " также могут повреждать энергетические щиты."
 
 #: src-en/data/text_misc.xml.append:18
-msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
-msgstr ""
-"Совет: компактное оружие питается за счет утечек энергии в системе, поэтому "
-"ему не нужно потреблять энергию самостоятельно. В отличие от стандартного "
-"консервативного оружия, оно заряжается только при питании системы оружия."
-
-#: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
 msgstr ""
 "Совет: ракетным дронам требуется большое количество боеголовок для запуска, но они не расходуют их во время стрельбы.\n"
 "\n"
 "Совет: боевые дроны требуют 1 дрон-комплект для запуска против каждого нового противника. Они будут атаковать врага до тех пор, пока у них есть питание."
 
-#: src-en/data/text_misc.xml.append:24
+#: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
 msgstr ""
 "КОЛЛЕКЦИЯ РЕНЕГАТА\n"
 "В настоящее время включен.\n"
 "Нажмите, чтобы увидеть больше информации."
 
-#: src-en/data/text_misc.xml.append:29
+#: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
 msgstr "???"
 
-#: src-en/data/text_misc.xml.append:30
+#: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
 msgstr "ЦЕЛЬ ЗАКАЗА [!]"

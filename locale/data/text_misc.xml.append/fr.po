@@ -38,21 +38,17 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:18
-msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
-msgstr ""
-
-#: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:24
+#: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:29
+#: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
 msgstr ""
 
-#: src-en/data/text_misc.xml.append:30
+#: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
 msgstr ""

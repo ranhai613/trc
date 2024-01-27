@@ -38,27 +38,23 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
 msgstr "提示：压制无人机不造成伤害但在破除护盾方面十分有效，包括能量护盾。"
 
 #: src-en/data/text_misc.xml.append:18
-msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
-msgstr ""
-
-#: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
 msgstr ""
 "提示：导弹无人机需消耗大量弹药来部署，但部署后开火无需则再消耗弹药。\n"
 "\n"
 "提示： 在每个新信标处，战斗无人机都需要1件无人机部件来部署。充能时其将持续攻击敌舰直至被摧毁。"
 
-#: src-en/data/text_misc.xml.append:24
+#: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
 msgstr ""
 "变元者合集\n"
 "当前已启用。\n"
 "点此了解更多。"
 
-#: src-en/data/text_misc.xml.append:29
+#: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
 msgstr "？？？"
 
-#: src-en/data/text_misc.xml.append:30
+#: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
 msgstr "悬赏任务[!]"

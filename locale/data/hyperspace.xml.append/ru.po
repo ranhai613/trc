@@ -5,34 +5,34 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/hyperspace.xml.append:820
+#: src-en/data/hyperspace.xml.append:790
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Collector\"]/@name"
 msgstr "Коллекционер"
 
-#: src-en/data/hyperspace.xml.append:844
+#: src-en/data/hyperspace.xml.append:809
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
 msgstr "Сильван"
 
-#: src-en/data/hyperspace.xml.append:956
+#: src-en/data/hyperspace.xml.append:921
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/buttonText"
 msgstr "КОНТРОЛЬ"
 
-#: src-en/data/hyperspace.xml.append:957
+#: src-en/data/hyperspace.xml.append:922
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:10c  ДЛИТЕЛЬНОСТЬ:6c]\n"
 "\t\t\t\tВзять на себя контроль над пауком."
 
-#: src-en/data/hyperspace.xml.append:1112
+#: src-en/data/hyperspace.xml.append:1077
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_EXTINGUISHER\"]/tooltipName"
 msgstr "Дрон-огнетушитель"
 
-#: src-en/data/hyperspace.xml.append:1116
+#: src-en/data/hyperspace.xml.append:1081
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
 msgstr "Наэлектризованный дрон"
 
-#: src-en/data/hyperspace.xml.append:1120
+#: src-en/data/hyperspace.xml.append:1085
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
 msgstr "Дрон-щитоносец"

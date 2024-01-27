@@ -55,30 +55,23 @@ msgstr ""
 "werden."
 
 #: src-en/data/text_misc.xml.append:18
-msgid "data/text_misc.xml.append$//text[@name=\"tip_compact\"]"
-msgstr ""
-"Tipp: Kompaktwaffen werden von kleinen Energielecks innerhalb eines Systems "
-"gespeist und brauchen keine eigene Energiequelle. Anders als herkömmliche "
-"Konservative Waffen, können sie nur laden wenn das Waffensystem aktiv ist."
-
-#: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
 msgstr ""
 "Tipp: Raketendrohnen brauchen eine Menge Raketen, wenn sie eingesetzt werden, aber verbrauchen keine Raketen zum feuern.\n"
 "\n"
 "Tipp: Kampfdrohnen benötigen bei jedem neuen Gegner 1 Drohnenteil, wenn sie eingesetzt werden. Sie greifen an, solange sie mit Energie versorgt werden."
 
-#: src-en/data/text_misc.xml.append:24
+#: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
 msgstr ""
 "DIE ABTRÜNNIGEN KOLLEKTION\n"
 "Gerade Aktiviert.\n"
 "Drücke für mehr Informationen."
 
-#: src-en/data/text_misc.xml.append:29
+#: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
 msgstr "???"
 
-#: src-en/data/text_misc.xml.append:30
+#: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
 msgstr "KOPFGELD [!]"

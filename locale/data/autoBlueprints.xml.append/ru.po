@@ -5,37 +5,37 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/autoBlueprints.xml.append:969
+#: src-en/data/autoBlueprints.xml.append:983
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_COLLECTOR\"]/class"
 msgstr "Коллекционер"
 
-#: src-en/data/autoBlueprints.xml.append:1047
+#: src-en/data/autoBlueprints.xml.append:1061
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CONTINUITY_BOSS\"]/class"
 msgstr "Карантинный инспектор"
 
-#: src-en/data/autoBlueprints.xml.append:1120
+#: src-en/data/autoBlueprints.xml.append:1134
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_1\"]/class"
 msgstr "Дальний патрульный бомбардировщик \"Рысь\" Объединенной Федерации"
 
-#: src-en/data/autoBlueprints.xml.append:1173
+#: src-en/data/autoBlueprints.xml.append:1187
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_2\"]/class"
 msgstr "Неизменный наблюдатель"
 
-#: src-en/data/autoBlueprints.xml.append:1231
+#: src-en/data/autoBlueprints.xml.append:1245
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_3\"]/class"
 msgstr "Колониальный разведчик"
 
-#: src-en/data/autoBlueprints.xml.append:1270
+#: src-en/data/autoBlueprints.xml.append:1284
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_4\"]/class"
 msgstr "Невменяемый провидец"
 
-#: src-en/data/autoBlueprints.xml.append:1318
+#: src-en/data/autoBlueprints.xml.append:1332
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_5\"]/class"
 msgstr "Воплощение богатства"

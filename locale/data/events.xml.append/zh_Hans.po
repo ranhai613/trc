@@ -131,572 +131,602 @@ msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:162
+#: src-en/data/events.xml.append:152
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events.xml.append:163
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:165
+#: src-en/data/events.xml.append:166
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:167
+#: src-en/data/events.xml.append:168
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:169
+#: src-en/data/events.xml.append:170
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:171
+#: src-en/data/events.xml.append:172
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:173
+#: src-en/data/events.xml.append:174
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:175
+#: src-en/data/events.xml.append:176
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:177
+#: src-en/data/events.xml.append:178
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:179
+#: src-en/data/events.xml.append:180
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:183
+#: src-en/data/events.xml.append:184
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:185
+#: src-en/data/events.xml.append:186
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:188
+#: src-en/data/events.xml.append:189
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:202
+#: src-en/data/events.xml.append:203
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[@req=\"trc_fed\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:204
+#: src-en/data/events.xml.append:205
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[@req=\"trc_fed\"]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:207
+#: src-en/data/events.xml.append:208
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[@req=\"trc_fed\"]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:213
+#: src-en/data/events.xml.append:214
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:215
+#: src-en/data/events.xml.append:216
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:217
+#: src-en/data/events.xml.append:218
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events.xml.append:221
+#: src-en/data/events.xml.append:222
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events.xml.append:236
+#: src-en/data/events.xml.append:237
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:240
+#: src-en/data/events.xml.append:241
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/choice/text"
 msgstr "联系收藏家。"
 
-#: src-en/data/events.xml.append:242
+#: src-en/data/events.xml.append:243
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:253
-msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/text"
+#: src-en/data/events.xml.append:251
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
 #: src-en/data/events.xml.append:255
-msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/text"
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:257
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:259
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:261
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:263
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:265
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:269
+#: src-en/data/events.xml.append:267
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:271
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:273
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:275
 msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:277
+msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:278
+#: src-en/data/events.xml.append:280
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:292
+#: src-en/data/events.xml.append:294
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[@req=\"trc_zoltan\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:294
+#: src-en/data/events.xml.append:296
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[@req=\"trc_zoltan\"]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:297
+#: src-en/data/events.xml.append:299
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[@req=\"trc_zoltan\"]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:303
+#: src-en/data/events.xml.append:305
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:305
+#: src-en/data/events.xml.append:307
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:307
+#: src-en/data/events.xml.append:309
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events.xml.append:311
+#: src-en/data/events.xml.append:313
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events.xml.append:326
+#: src-en/data/events.xml.append:328
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:330
+#: src-en/data/events.xml.append:332
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/choice/text"
 msgstr "联系收藏家。"
 
-#: src-en/data/events.xml.append:332
+#: src-en/data/events.xml.append:334
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:343
+#: src-en/data/events.xml.append:342
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events.xml.append:346
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:345
+#: src-en/data/events.xml.append:348
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:347
+#: src-en/data/events.xml.append:350
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:349
+#: src-en/data/events.xml.append:352
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:351
+#: src-en/data/events.xml.append:354
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:353
+#: src-en/data/events.xml.append:356
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:355
+#: src-en/data/events.xml.append:358
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:359
+#: src-en/data/events.xml.append:362
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:361
+#: src-en/data/events.xml.append:364
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:364
+#: src-en/data/events.xml.append:367
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:376
+#: src-en/data/events.xml.append:379
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[@req=\"trc_auto\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:378
+#: src-en/data/events.xml.append:381
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[@req=\"trc_auto\"]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:381
+#: src-en/data/events.xml.append:384
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[@req=\"trc_auto\"]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:387
+#: src-en/data/events.xml.append:390
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:389
+#: src-en/data/events.xml.append:392
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:391
+#: src-en/data/events.xml.append:394
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events.xml.append:395
+#: src-en/data/events.xml.append:398
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events.xml.append:410
+#: src-en/data/events.xml.append:413
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:414
+#: src-en/data/events.xml.append:417
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/choice/text"
 msgstr "联系收藏家。"
 
-#: src-en/data/events.xml.append:416
+#: src-en/data/events.xml.append:419
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/choice/event/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:427
-msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/text"
-msgstr ""
-
-#: src-en/data/events.xml.append:429
-msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/text"
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
 #: src-en/data/events.xml.append:431
-msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/text"
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:433
-msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/text"
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:435
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:437
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:439
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:441
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:443
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:445
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:447
 msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:449
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:451
+msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:450
+#: src-en/data/events.xml.append:454
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:464
+#: src-en/data/events.xml.append:468
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:466
+#: src-en/data/events.xml.append:470
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:469
+#: src-en/data/events.xml.append:473
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:475
+#: src-en/data/events.xml.append:479
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:477
+#: src-en/data/events.xml.append:481
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:479
+#: src-en/data/events.xml.append:483
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events.xml.append:483
+#: src-en/data/events.xml.append:487
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events.xml.append:498
+#: src-en/data/events.xml.append:502
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:502
+#: src-en/data/events.xml.append:506
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/choice/text"
 msgstr "联系收藏家。"
 
-#: src-en/data/events.xml.append:504
+#: src-en/data/events.xml.append:508
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:515
+#: src-en/data/events.xml.append:516
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events.xml.append:520
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:517
+#: src-en/data/events.xml.append:522
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:519
+#: src-en/data/events.xml.append:524
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:521
+#: src-en/data/events.xml.append:526
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:523
+#: src-en/data/events.xml.append:528
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:525
+#: src-en/data/events.xml.append:530
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:527
+#: src-en/data/events.xml.append:532
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:530
+#: src-en/data/events.xml.append:535
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:540
+#: src-en/data/events.xml.append:545
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:542
+#: src-en/data/events.xml.append:547
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:545
+#: src-en/data/events.xml.append:550
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:551
+#: src-en/data/events.xml.append:556
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:553
+#: src-en/data/events.xml.append:558
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:555
+#: src-en/data/events.xml.append:560
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events.xml.append:559
+#: src-en/data/events.xml.append:564
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events.xml.append:574
+#: src-en/data/events.xml.append:579
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:578
+#: src-en/data/events.xml.append:583
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:580
+#: src-en/data/events.xml.append:585
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:598
-msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
-msgstr ""
-
-#: src-en/data/events.xml.append:600
+#: src-en/data/events.xml.append:596
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events.xml.append:602
-msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
 #: src-en/data/events.xml.append:604
-msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/text"
+msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:606
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:608
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:610
 msgid ""
-"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/text"
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events.xml.append:612
 msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:616
+msgid ""
+"data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events.xml.append:618
+msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:617
+#: src-en/data/events.xml.append:623
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:619
+#: src-en/data/events.xml.append:625
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:622
+#: src-en/data/events.xml.append:628
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events.xml.append:634
+#: src-en/data/events.xml.append:640
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:636
+#: src-en/data/events.xml.append:642
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events.xml.append:638
+#: src-en/data/events.xml.append:644
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events.xml.append:642
+#: src-en/data/events.xml.append:648
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"

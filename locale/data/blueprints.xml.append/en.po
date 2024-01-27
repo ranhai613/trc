@@ -93,51 +93,51 @@ msgstr ""
 "This peculiar Laser fires extremely fast and uses no power, but has terrible"
 " aim."
 
-#: src-en/data/blueprints.xml.append:209
+#: src-en/data/blueprints.xml.append:210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/title"
 msgstr "Light Burst Laser"
 
-#: src-en/data/blueprints.xml.append:210
+#: src-en/data/blueprints.xml.append:211
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/short"
 msgstr "Light Burst"
 
-#: src-en/data/blueprints.xml.append:212
+#: src-en/data/blueprints.xml.append:213
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/desc"
 msgstr ""
 "Though it charges slower than your standard Light Laser, it fires a burst of"
 " laser projectiles in rapid succession to take down shields quickly."
 
-#: src-en/data/blueprints.xml.append:254
+#: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/title"
 msgstr "Particle Collider MK I"
 
-#: src-en/data/blueprints.xml.append:255
+#: src-en/data/blueprints.xml.append:256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/short"
 msgstr "Collider I"
 
-#: src-en/data/blueprints.xml.append:257
+#: src-en/data/blueprints.xml.append:258
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/desc"
 msgstr ""
 "Modified particle technology that trades its usual fire starting attributes "
 "to do crew damage and apply debuffs."
 
-#: src-en/data/blueprints.xml.append:327
+#: src-en/data/blueprints.xml.append:328
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/title"
 msgstr "Particle Collider MK II"
 
-#: src-en/data/blueprints.xml.append:328
+#: src-en/data/blueprints.xml.append:329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/short"
 msgstr "Collider II"
 
-#: src-en/data/blueprints.xml.append:330
+#: src-en/data/blueprints.xml.append:331
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/desc"
 msgstr ""
@@ -145,22 +145,22 @@ msgstr ""
 "to do crew damage and apply debuffs. Has a longer cooldown and larger radius"
 " but fires more bolts."
 
-#: src-en/data/blueprints.xml.append:407
+#: src-en/data/blueprints.xml.append:408
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/title"
 msgstr "Magnifier MK I"
 
-#: src-en/data/blueprints.xml.append:408
+#: src-en/data/blueprints.xml.append:409
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/short"
 msgstr "Magnifier I"
 
-#: src-en/data/blueprints.xml.append:410
+#: src-en/data/blueprints.xml.append:411
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:411
+#: src-en/data/blueprints.xml.append:412
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
 msgstr ""
@@ -183,22 +183,22 @@ msgstr ""
 "\n"
 "\t\tBuy/Sell Price: 55~/27~"
 
-#: src-en/data/blueprints.xml.append:468
+#: src-en/data/blueprints.xml.append:469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
 msgstr "Magnifier MK II"
 
-#: src-en/data/blueprints.xml.append:469
+#: src-en/data/blueprints.xml.append:470
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/short"
 msgstr "Magnifier II"
 
-#: src-en/data/blueprints.xml.append:471
+#: src-en/data/blueprints.xml.append:472
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:472
+#: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
 msgstr ""
@@ -221,22 +221,22 @@ msgstr ""
 "\n"
 "\t\tBuy/Sell Price: 70~/35~"
 
-#: src-en/data/blueprints.xml.append:529
+#: src-en/data/blueprints.xml.append:530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/title"
 msgstr "Pierce Magnifier"
 
-#: src-en/data/blueprints.xml.append:530
+#: src-en/data/blueprints.xml.append:531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
 msgstr "Pierce Mag."
 
-#: src-en/data/blueprints.xml.append:532
+#: src-en/data/blueprints.xml.append:533
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:533
+#: src-en/data/blueprints.xml.append:534
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
@@ -259,22 +259,22 @@ msgstr ""
 "\n"
 "\t\tBuy/Sell Price: 60~/30~"
 
-#: src-en/data/blueprints.xml.append:590
+#: src-en/data/blueprints.xml.append:591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
 msgstr "Ionized Magnifier"
 
-#: src-en/data/blueprints.xml.append:591
+#: src-en/data/blueprints.xml.append:592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/short"
 msgstr "Ion Mag."
 
-#: src-en/data/blueprints.xml.append:593
+#: src-en/data/blueprints.xml.append:594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:594
+#: src-en/data/blueprints.xml.append:595
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
 msgstr ""
@@ -294,21 +294,21 @@ msgstr ""
 "\n"
 "\t\tBuy/Sell Price: 50~/25~"
 
-#: src-en/data/blueprints.xml.append:658
+#: src-en/data/blueprints.xml.append:659
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/title"
 msgstr "'Fangtian' Fissure Beam"
 
-#: src-en/data/blueprints.xml.append:659
+#: src-en/data/blueprints.xml.append:660
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/short"
 msgstr "'Fangtian'"
 
-#: src-en/data/blueprints.xml.append:660
+#: src-en/data/blueprints.xml.append:661
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:661
+#: src-en/data/blueprints.xml.append:662
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/descriptionOverride"
 msgstr ""
@@ -329,68 +329,68 @@ msgstr ""
 "\n"
 "\t\tBuy/Sell Price: 65~/32~"
 
-#: src-en/data/blueprints.xml.append:703
+#: src-en/data/blueprints.xml.append:704
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/title"
 msgstr "'Faucon' Rad-Beam II"
 
-#: src-en/data/blueprints.xml.append:704
+#: src-en/data/blueprints.xml.append:705
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/short"
 msgstr "'Faucon' II"
 
-#: src-en/data/blueprints.xml.append:705
+#: src-en/data/blueprints.xml.append:706
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/desc"
 msgstr ""
 "This terrifying radiation Beam does heavy crew damage and weakens enemy "
 "crew. Longer and does more damage than the MK 1 but doesn't pierce shields."
 
-#: src-en/data/blueprints.xml.append:764
+#: src-en/data/blueprints.xml.append:765
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/title"
 msgstr "'Faucon' Rad-Beam II†"
 
-#: src-en/data/blueprints.xml.append:765
+#: src-en/data/blueprints.xml.append:766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/short"
 msgstr "'Faucon' II†"
 
-#: src-en/data/blueprints.xml.append:766
+#: src-en/data/blueprints.xml.append:767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
 msgstr ""
 "This terrifying radiation Beam does heavy crew damage and weakens enemy "
 "crew. Longer and does more damage than the MK 1 but doesn't pierce shields."
 
-#: src-en/data/blueprints.xml.append:826
+#: src-en/data/blueprints.xml.append:827
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/title"
 msgstr "'Bardiche' Beam"
 
-#: src-en/data/blueprints.xml.append:827
+#: src-en/data/blueprints.xml.append:828
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/short"
 msgstr "'Bardiche'"
 
-#: src-en/data/blueprints.xml.append:829
+#: src-en/data/blueprints.xml.append:830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
 msgstr ""
 "This Beam charges quicker with each shot but can also do heavy hull damage "
 "when aimed at empty rooms."
 
-#: src-en/data/blueprints.xml.append:859
+#: src-en/data/blueprints.xml.append:860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/title"
 msgstr "'Kagiyari' Beam"
 
-#: src-en/data/blueprints.xml.append:860
+#: src-en/data/blueprints.xml.append:861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/short"
 msgstr "'Kagiyari'"
 
-#: src-en/data/blueprints.xml.append:861
+#: src-en/data/blueprints.xml.append:862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/desc"
 msgstr ""
@@ -399,68 +399,68 @@ msgstr ""
 "with systems. Conservative weapons use no power but require another weapon "
 "to be powered."
 
-#: src-en/data/blueprints.xml.append:899
+#: src-en/data/blueprints.xml.append:901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/title"
 msgstr "Asphyxiator Ion"
 
-#: src-en/data/blueprints.xml.append:900
+#: src-en/data/blueprints.xml.append:902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/short"
 msgstr "Asphyxion"
 
-#: src-en/data/blueprints.xml.append:903
+#: src-en/data/blueprints.xml.append:905
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/desc"
 msgstr ""
 "A specialized ion that excells particularly at suffocating the enemy, though"
 " it can be applied to other purposes."
 
-#: src-en/data/blueprints.xml.append:945
+#: src-en/data/blueprints.xml.append:947
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/title"
 msgstr "Asphyxiator Ion†"
 
-#: src-en/data/blueprints.xml.append:946
+#: src-en/data/blueprints.xml.append:948
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/short"
 msgstr "Asphyxion†"
 
-#: src-en/data/blueprints.xml.append:949
+#: src-en/data/blueprints.xml.append:951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/desc"
 msgstr ""
 "A specialized ion that excells particularly at suffocating the enemy, though"
 " it can be applied to other purposes."
 
-#: src-en/data/blueprints.xml.append:992
+#: src-en/data/blueprints.xml.append:994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/title"
 msgstr "'Infinity' Ion"
 
-#: src-en/data/blueprints.xml.append:993
+#: src-en/data/blueprints.xml.append:995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/short"
 msgstr "'Infinity'"
 
-#: src-en/data/blueprints.xml.append:996
+#: src-en/data/blueprints.xml.append:998
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/desc"
 msgstr ""
 "Unlike the standard adaptive ion, this weapon can chain to an effectively "
 "infinite number of times, but charges slower."
 
-#: src-en/data/blueprints.xml.append:1053
+#: src-en/data/blueprints.xml.append:1055
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/title"
 msgstr "Energy Phaser"
 
-#: src-en/data/blueprints.xml.append:1054
+#: src-en/data/blueprints.xml.append:1056
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/short"
 msgstr "Phase E."
 
-#: src-en/data/blueprints.xml.append:1057
+#: src-en/data/blueprints.xml.append:1059
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/desc"
 msgstr ""
@@ -468,17 +468,17 @@ msgstr ""
 "special version pierces shields, dealing ion damage to the first layer of "
 "shields as it goes through."
 
-#: src-en/data/blueprints.xml.append:1098
+#: src-en/data/blueprints.xml.append:1100
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/title"
 msgstr "Energy Phaser†"
 
-#: src-en/data/blueprints.xml.append:1099
+#: src-en/data/blueprints.xml.append:1101
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/short"
 msgstr "Phase E.†"
 
-#: src-en/data/blueprints.xml.append:1102
+#: src-en/data/blueprints.xml.append:1104
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/desc"
 msgstr ""
@@ -486,73 +486,73 @@ msgstr ""
 "special version pierces shields, dealing ion damage to the first layer of "
 "shields as it goes through."
 
-#: src-en/data/blueprints.xml.append:1145
+#: src-en/data/blueprints.xml.append:1147
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/title"
 msgstr "Energy Flamer"
 
-#: src-en/data/blueprints.xml.append:1146
+#: src-en/data/blueprints.xml.append:1148
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/short"
 msgstr "Fire Energy"
 
-#: src-en/data/blueprints.xml.append:1148
+#: src-en/data/blueprints.xml.append:1150
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/desc"
 msgstr ""
 "Energy weapons can disable systems and cause hull damage. This weapon also "
 "starts more fires than the average Energy Cannon."
 
-#: src-en/data/blueprints.xml.append:1199
+#: src-en/data/blueprints.xml.append:1201
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/title"
 msgstr "'Scorch' Pinpoint"
 
-#: src-en/data/blueprints.xml.append:1200
+#: src-en/data/blueprints.xml.append:1202
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/short"
 msgstr "'Scorch'"
 
-#: src-en/data/blueprints.xml.append:1201
+#: src-en/data/blueprints.xml.append:1203
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/desc"
 msgstr ""
 "A quick charging Pinpoint with minimal pierce that does no physical damage "
 "but lights fires."
 
-#: src-en/data/blueprints.xml.append:1226
+#: src-en/data/blueprints.xml.append:1228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/title"
 msgstr "'Poniard' Pinpoint"
 
-#: src-en/data/blueprints.xml.append:1227
+#: src-en/data/blueprints.xml.append:1229
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/short"
 msgstr "'Poniard'"
 
-#: src-en/data/blueprints.xml.append:1228
+#: src-en/data/blueprints.xml.append:1230
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/desc"
 msgstr ""
 "A slow charging but reliable Pinpoint. Conservative weapons use no power but"
 " require another weapon to be powered."
 
-#: src-en/data/blueprints.xml.append:1261
+#: src-en/data/blueprints.xml.append:1264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/title"
 msgstr "Shrapnel Bomb"
 
-#: src-en/data/blueprints.xml.append:1262
+#: src-en/data/blueprints.xml.append:1265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/short"
 msgstr "Shrapnel B."
 
-#: src-en/data/blueprints.xml.append:1264
+#: src-en/data/blueprints.xml.append:1267
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:1265
+#: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/descriptionOverride"
 msgstr ""
@@ -572,50 +572,50 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 55~/27~"
 
-#: src-en/data/blueprints.xml.append:1311
+#: src-en/data/blueprints.xml.append:1314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/title"
 msgstr "Particle Bomb"
 
-#: src-en/data/blueprints.xml.append:1312
+#: src-en/data/blueprints.xml.append:1315
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/short"
 msgstr "Part B."
 
-#: src-en/data/blueprints.xml.append:1314
+#: src-en/data/blueprints.xml.append:1317
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/desc"
 msgstr ""
 "Self-teleporting explosive that contains a particle accelerator, which does "
 "heavy system damage and starts fires. Can target your own ship."
 
-#: src-en/data/blueprints.xml.append:1343
+#: src-en/data/blueprints.xml.append:1346
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/title"
 msgstr "Particle Bomb†"
 
-#: src-en/data/blueprints.xml.append:1344
+#: src-en/data/blueprints.xml.append:1347
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/short"
 msgstr "Part B.†"
 
-#: src-en/data/blueprints.xml.append:1346
+#: src-en/data/blueprints.xml.append:1349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/desc"
 msgstr ""
 "Self-teleporting explosive that contains a particle accelerator, which does "
 "heavy system damage and starts fires. Can target your own ship."
 
-#: src-en/data/blueprints.xml.append:1376
+#: src-en/data/blueprints.xml.append:1379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/title"
 msgstr "Gasoline Bomb"
 
-#: src-en/data/blueprints.xml.append:1377
+#: src-en/data/blueprints.xml.append:1380
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/short"
 msgstr "Gas B."
 
-#: src-en/data/blueprints.xml.append:1379
+#: src-en/data/blueprints.xml.append:1382
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/desc"
 msgstr ""
@@ -623,22 +623,22 @@ msgstr ""
 " damage from fire for 30 seconds, as well as move 25% slower. Has self-"
 "replicating abilities and does not need a missile."
 
-#: src-en/data/blueprints.xml.append:1432
+#: src-en/data/blueprints.xml.append:1448
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/title"
 msgstr "Deployment Bomb"
 
-#: src-en/data/blueprints.xml.append:1433
+#: src-en/data/blueprints.xml.append:1449
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/short"
 msgstr "Deploy B."
 
-#: src-en/data/blueprints.xml.append:1434
+#: src-en/data/blueprints.xml.append:1450
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:1435
+#: src-en/data/blueprints.xml.append:1451
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
 msgstr ""
@@ -656,116 +656,116 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 45~/22~"
 
-#: src-en/data/blueprints.xml.append:1484
+#: src-en/data/blueprints.xml.append:1501
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/desc"
 msgstr "Infant spiders."
 
-#: src-en/data/blueprints.xml.append:1485
+#: src-en/data/blueprints.xml.append:1502
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/title"
 msgstr "Hatchling"
 
-#: src-en/data/blueprints.xml.append:1486
+#: src-en/data/blueprints.xml.append:1503
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/short"
 msgstr "Hatchling"
 
-#: src-en/data/blueprints.xml.append:1490
+#: src-en/data/blueprints.xml.append:1507
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[1]"
 msgstr "50 health, 1.2x fire damage taken, 0.10x repairs"
 
-#: src-en/data/blueprints.xml.append:1491
+#: src-en/data/blueprints.xml.append:1508
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[2]"
 msgstr "1.8x combat damage, 2.2x movement speed"
 
-#: src-en/data/blueprints.xml.append:1492
+#: src-en/data/blueprints.xml.append:1509
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[3]"
 msgstr "Heals at triple speed"
 
-#: src-en/data/blueprints.xml.append:1493
+#: src-en/data/blueprints.xml.append:1510
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[4]"
 msgstr "Can only be controlled temporarily, cannot man systems"
 
-#: src-en/data/blueprints.xml.append:1517
+#: src-en/data/blueprints.xml.append:1534
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/title"
 msgstr "Arachno-Bomb"
 
-#: src-en/data/blueprints.xml.append:1518
+#: src-en/data/blueprints.xml.append:1535
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/short"
 msgstr "Arach B."
 
-#: src-en/data/blueprints.xml.append:1520
+#: src-en/data/blueprints.xml.append:1537
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/desc"
 msgstr ""
 "Self-teleporting device that deploys 2 hatchlings with a limited lifespan "
 "that will fight for you. Can be used to target your own ship."
 
-#: src-en/data/blueprints.xml.append:1566
+#: src-en/data/blueprints.xml.append:1583
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/title"
 msgstr "Arachno-Bomb"
 
-#: src-en/data/blueprints.xml.append:1567
+#: src-en/data/blueprints.xml.append:1584
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/short"
 msgstr "Arach B."
 
-#: src-en/data/blueprints.xml.append:1569
+#: src-en/data/blueprints.xml.append:1586
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:1613
+#: src-en/data/blueprints.xml.append:1630
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/desc"
 msgstr "A gross mutant creature, created by you. Why would you do this?"
 
-#: src-en/data/blueprints.xml.append:1615
+#: src-en/data/blueprints.xml.append:1632
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/title"
 msgstr "Mutant"
 
-#: src-en/data/blueprints.xml.append:1616
+#: src-en/data/blueprints.xml.append:1633
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/short"
 msgstr "Mutant"
 
-#: src-en/data/blueprints.xml.append:1619
+#: src-en/data/blueprints.xml.append:1636
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[1]"
 msgstr "Inflicts 2.3x damage in crew combat"
 
-#: src-en/data/blueprints.xml.append:1620
+#: src-en/data/blueprints.xml.append:1637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[2]"
 msgstr "Cannot repair or heal, moves at half speed"
 
-#: src-en/data/blueprints.xml.append:1621
+#: src-en/data/blueprints.xml.append:1638
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[3]"
 msgstr "Explodes on death, dealing 15 crew and 1 system damage"
 
-#: src-en/data/blueprints.xml.append:1622
+#: src-en/data/blueprints.xml.append:1639
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[4]"
 msgstr "Will return to its original form after 15 seconds"
 
-#: src-en/data/blueprints.xml.append:1628
+#: src-en/data/blueprints.xml.append:1645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/title"
 msgstr "Mutagen Bomb"
 
-#: src-en/data/blueprints.xml.append:1629
+#: src-en/data/blueprints.xml.append:1646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/short"
 msgstr "Mutant B."
 
-#: src-en/data/blueprints.xml.append:1631
+#: src-en/data/blueprints.xml.append:1648
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/desc"
 msgstr ""
@@ -773,39 +773,39 @@ msgstr ""
 "\n"
 "\tMutants deal 2.3x damage in crew combat, cannot repair or heal, move at half speed, and explode on death for 15 crew and 1 system damage."
 
-#: src-en/data/blueprints.xml.append:1688
+#: src-en/data/blueprints.xml.append:1705
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/title"
 msgstr "'Apollo' Missiles"
 
-#: src-en/data/blueprints.xml.append:1689
+#: src-en/data/blueprints.xml.append:1706
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/short"
 msgstr "'Apollo'"
 
-#: src-en/data/blueprints.xml.append:1690
+#: src-en/data/blueprints.xml.append:1707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/desc"
 msgstr ""
 "A niche but effective missile weapon that does no crew damage but provides "
 "stacking passive 4hp/s healing to allied crew that it hits for 15 seconds."
 
-#: src-en/data/blueprints.xml.append:1740
+#: src-en/data/blueprints.xml.append:1757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/title"
 msgstr "'Boreas' Missiles"
 
-#: src-en/data/blueprints.xml.append:1741
+#: src-en/data/blueprints.xml.append:1758
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/short"
 msgstr "'Boreas'"
 
-#: src-en/data/blueprints.xml.append:1742
+#: src-en/data/blueprints.xml.append:1759
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:1743
+#: src-en/data/blueprints.xml.append:1760
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/descriptionOverride"
 msgstr ""
@@ -829,37 +829,37 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 65~/32~"
 
-#: src-en/data/blueprints.xml.append:1814
+#: src-en/data/blueprints.xml.append:1831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/title"
 msgstr "'Boreas' Missiles"
 
-#: src-en/data/blueprints.xml.append:1815
+#: src-en/data/blueprints.xml.append:1832
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/short"
 msgstr "'Boreas'"
 
-#: src-en/data/blueprints.xml.append:1816
+#: src-en/data/blueprints.xml.append:1833
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/desc"
 msgstr "A heavy hitting Missile weapon that locks down rooms on contact."
 
-#: src-en/data/blueprints.xml.append:1867
+#: src-en/data/blueprints.xml.append:1884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/title"
 msgstr "'Themis' Shrapnel Missiles"
 
-#: src-en/data/blueprints.xml.append:1868
+#: src-en/data/blueprints.xml.append:1885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/short"
 msgstr "'Themis'"
 
-#: src-en/data/blueprints.xml.append:1869
+#: src-en/data/blueprints.xml.append:1886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:1870
+#: src-en/data/blueprints.xml.append:1887
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/descriptionOverride"
 msgstr ""
@@ -884,22 +884,22 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 55~/27~"
 
-#: src-en/data/blueprints.xml.append:1930
+#: src-en/data/blueprints.xml.append:1947
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/title"
 msgstr "'Perses' Shrapnel Missiles"
 
-#: src-en/data/blueprints.xml.append:1931
+#: src-en/data/blueprints.xml.append:1948
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/short"
 msgstr "'Perses'"
 
-#: src-en/data/blueprints.xml.append:1932
+#: src-en/data/blueprints.xml.append:1949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:1933
+#: src-en/data/blueprints.xml.append:1950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/descriptionOverride"
 msgstr ""
@@ -924,53 +924,53 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 70~/35~"
 
-#: src-en/data/blueprints.xml.append:1993
+#: src-en/data/blueprints.xml.append:2010
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/title"
 msgstr "'Epimetheus' Pre-Emptive Missiles"
 
-#: src-en/data/blueprints.xml.append:1994
+#: src-en/data/blueprints.xml.append:2011
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/short"
 msgstr "'Epimetheus'"
 
-#: src-en/data/blueprints.xml.append:1995
+#: src-en/data/blueprints.xml.append:2012
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/desc"
 msgstr ""
 "Fires one extremely accurate and destructive missile at the start of the "
 "fight. Can only be used once per fight."
 
-#: src-en/data/blueprints.xml.append:2050
+#: src-en/data/blueprints.xml.append:2068
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/title"
 msgstr "Hazard-Sentry Deployer"
 
-#: src-en/data/blueprints.xml.append:2051
+#: src-en/data/blueprints.xml.append:2069
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/short"
 msgstr "Haz-Sent"
 
-#: src-en/data/blueprints.xml.append:2052
+#: src-en/data/blueprints.xml.append:2070
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/desc"
 msgstr ""
 "Deploys a temporary sentry in the room of impact, which doubles hazard "
 "damage and stun duration for ALL crew in the room for 20 seconds."
 
-#: src-en/data/blueprints.xml.append:2123
+#: src-en/data/blueprints.xml.append:2142
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
 msgstr "Virulent Dish"
 
-#: src-en/data/blueprints.xml.append:2124
+#: src-en/data/blueprints.xml.append:2143
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/short"
 msgstr "Virulent"
 
-#: src-en/data/blueprints.xml.append:2126
+#: src-en/data/blueprints.xml.append:2145
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2127
+#: src-en/data/blueprints.xml.append:2146
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/descriptionOverride"
 msgstr ""
@@ -989,17 +989,17 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 50~/25~"
 
-#: src-en/data/blueprints.xml.append:2190
+#: src-en/data/blueprints.xml.append:2209
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/title"
 msgstr "'Baal' Mine Launcher"
 
-#: src-en/data/blueprints.xml.append:2191
+#: src-en/data/blueprints.xml.append:2210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/short"
 msgstr "'Baal'"
 
-#: src-en/data/blueprints.xml.append:2192
+#: src-en/data/blueprints.xml.append:2211
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
 msgstr ""
@@ -1007,85 +1007,85 @@ msgstr ""
 "\t\n"
 "\tProvides 2 fleet delay for 15 missiles at empty beacons, has no notoriety impact."
 
-#: src-en/data/blueprints.xml.append:2249
+#: src-en/data/blueprints.xml.append:2268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/title"
 msgstr "Trifecta"
 
-#: src-en/data/blueprints.xml.append:2250
+#: src-en/data/blueprints.xml.append:2269
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/short"
 msgstr "Trifecta"
 
-#: src-en/data/blueprints.xml.append:2252
+#: src-en/data/blueprints.xml.append:2271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/desc"
 msgstr ""
 "A bizarre jerry-rigged weapon that fires 2 flak shots along with a slow "
 "moving heavy laser for a nominal charge time."
 
-#: src-en/data/blueprints.xml.append:2293
+#: src-en/data/blueprints.xml.append:2312
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/title"
 msgstr "Trifecta Laser"
 
-#: src-en/data/blueprints.xml.append:2294
+#: src-en/data/blueprints.xml.append:2313
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/short"
 msgstr "Trifecta Laser"
 
-#: src-en/data/blueprints.xml.append:2295
+#: src-en/data/blueprints.xml.append:2314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2329
+#: src-en/data/blueprints.xml.append:2348
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/title"
 msgstr "Frost Flak"
 
-#: src-en/data/blueprints.xml.append:2330
+#: src-en/data/blueprints.xml.append:2349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/short"
 msgstr "Frost Flak"
 
-#: src-en/data/blueprints.xml.append:2332
+#: src-en/data/blueprints.xml.append:2351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/desc"
 msgstr ""
 "Fires 4 supercooled projectiles which create a coating of ice on rooms, "
 "locking them down for 12 seconds as well as stunning crew."
 
-#: src-en/data/blueprints.xml.append:2388
+#: src-en/data/blueprints.xml.append:2407
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/title"
 msgstr "Assembled Drone"
 
-#: src-en/data/blueprints.xml.append:2389
+#: src-en/data/blueprints.xml.append:2408
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/short"
 msgstr "Assembled Drone"
 
-#: src-en/data/blueprints.xml.append:2390
+#: src-en/data/blueprints.xml.append:2409
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS."
 
-#: src-en/data/blueprints.xml.append:2400
+#: src-en/data/blueprints.xml.append:2419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/title"
 msgstr "Assembly Cannon"
 
-#: src-en/data/blueprints.xml.append:2401
+#: src-en/data/blueprints.xml.append:2420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/short"
 msgstr "Assembly"
 
-#: src-en/data/blueprints.xml.append:2402
+#: src-en/data/blueprints.xml.append:2421
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2403
+#: src-en/data/blueprints.xml.append:2422
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/descriptionOverride"
 msgstr ""
@@ -1104,39 +1104,39 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 60~/30~"
 
-#: src-en/data/blueprints.xml.append:2454
+#: src-en/data/blueprints.xml.append:2473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/title"
 msgstr "'Ultraburn'"
 
-#: src-en/data/blueprints.xml.append:2455
+#: src-en/data/blueprints.xml.append:2474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/short"
 msgstr "'Ultraburn'"
 
-#: src-en/data/blueprints.xml.append:2456
+#: src-en/data/blueprints.xml.append:2475
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/desc"
 msgstr ""
 "Fires a concentrated beam with such intense heat it damages both the hull "
 "and temporarily strips crew of fire immunity, multiplying fire damage by "
 "x1.5 for 15 seconds. Be careful of hitting your own crew!"
 
-#: src-en/data/blueprints.xml.append:2501
+#: src-en/data/blueprints.xml.append:2520
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/title"
 msgstr "'Systemshock'"
 
-#: src-en/data/blueprints.xml.append:2502
+#: src-en/data/blueprints.xml.append:2521
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/short"
 msgstr "'Sysshock'"
 
-#: src-en/data/blueprints.xml.append:2504
+#: src-en/data/blueprints.xml.append:2523
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2505
+#: src-en/data/blueprints.xml.append:2524
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/descriptionOverride"
 msgstr ""
@@ -1156,36 +1156,36 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 55~/27~"
 
-#: src-en/data/blueprints.xml.append:2559
+#: src-en/data/blueprints.xml.append:2578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/title"
 msgstr "Flare Launcher"
 
-#: src-en/data/blueprints.xml.append:2560
+#: src-en/data/blueprints.xml.append:2579
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/short"
 msgstr "Flare"
 
-#: src-en/data/blueprints.xml.append:2561
+#: src-en/data/blueprints.xml.append:2580
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/desc"
 msgstr ""
 "Fires decoys that distract Defense drones and, if they make contact, "
 "temporarily blind crew, stunning them."
 
-#: src-en/data/blueprints.xml.append:2607
+#: src-en/data/blueprints.xml.append:2627
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/title"
 msgstr "Epistle of Madness"
 
-#: src-en/data/blueprints.xml.append:2608
+#: src-en/data/blueprints.xml.append:2628
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/short"
 msgstr "Epistle"
 
-#: src-en/data/blueprints.xml.append:2609
+#: src-en/data/blueprints.xml.append:2629
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2610
+#: src-en/data/blueprints.xml.append:2630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/descriptionOverride"
 msgstr ""
@@ -1208,37 +1208,37 @@ msgstr ""
 "\n"
 "\t\tBuy/Sell Price: 125~/62~"
 
-#: src-en/data/blueprints.xml.append:2676
+#: src-en/data/blueprints.xml.append:2696
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
 msgstr "Tesla Emitter"
 
-#: src-en/data/blueprints.xml.append:2677
+#: src-en/data/blueprints.xml.append:2697
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/short"
 msgstr "Tesla"
 
-#: src-en/data/blueprints.xml.append:2678
+#: src-en/data/blueprints.xml.append:2698
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/desc"
 msgstr ""
 "A strange weapon using advanced ion tech unlike anything you've seen. It "
 "appears capable of generating enough ionized energy to deal ion damage to "
 "multiple rooms like a Beam."
 
-#: src-en/data/blueprints.xml.append:2707
+#: src-en/data/blueprints.xml.append:2727
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/title"
 msgstr "Magma Gun"
 
-#: src-en/data/blueprints.xml.append:2708
+#: src-en/data/blueprints.xml.append:2728
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/short"
 msgstr "Magma"
 
-#: src-en/data/blueprints.xml.append:2709
+#: src-en/data/blueprints.xml.append:2729
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2710
+#: src-en/data/blueprints.xml.append:2730
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/descriptionOverride"
 msgstr ""
@@ -1255,89 +1255,89 @@ msgstr ""
 "\n"
 "\t\tBuy/Sell Price: 70~/35~"
 
-#: src-en/data/blueprints.xml.append:2749
+#: src-en/data/blueprints.xml.append:2769
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/title"
 msgstr "Gem"
 
-#: src-en/data/blueprints.xml.append:2750
+#: src-en/data/blueprints.xml.append:2770
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/short"
 msgstr "Gem"
 
-#: src-en/data/blueprints.xml.append:2751
+#: src-en/data/blueprints.xml.append:2771
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2759
+#: src-en/data/blueprints.xml.append:2779
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/title"
 msgstr "Gem"
 
-#: src-en/data/blueprints.xml.append:2760
+#: src-en/data/blueprints.xml.append:2780
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/short"
 msgstr "Gem"
 
-#: src-en/data/blueprints.xml.append:2761
+#: src-en/data/blueprints.xml.append:2781
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
-
-#: src-en/data/blueprints.xml.append:2767
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/title"
-msgstr "Gem"
-
-#: src-en/data/blueprints.xml.append:2768
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/short"
-msgstr "Gem"
-
-#: src-en/data/blueprints.xml.append:2769
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
-
-#: src-en/data/blueprints.xml.append:2777
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/title"
-msgstr "Gem"
-
-#: src-en/data/blueprints.xml.append:2778
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/short"
-msgstr "Gem"
-
-#: src-en/data/blueprints.xml.append:2779
-msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:2787
 msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/title"
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/title"
 msgstr "Gem"
 
 #: src-en/data/blueprints.xml.append:2788
 msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/short"
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/short"
 msgstr "Gem"
 
 #: src-en/data/blueprints.xml.append:2789
 msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/desc"
+msgstr "YOU SHOULD NEVER SEE THIS"
+
+#: src-en/data/blueprints.xml.append:2797
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/title"
+msgstr "Gem"
+
+#: src-en/data/blueprints.xml.append:2798
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/short"
+msgstr "Gem"
+
+#: src-en/data/blueprints.xml.append:2799
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
+msgstr "YOU SHOULD NEVER SEE THIS"
+
+#: src-en/data/blueprints.xml.append:2807
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/title"
+msgstr "Gem"
+
+#: src-en/data/blueprints.xml.append:2808
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/short"
+msgstr "Gem"
+
+#: src-en/data/blueprints.xml.append:2809
+msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2806
+#: src-en/data/blueprints.xml.append:2826
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/title"
 msgstr "The Bedazzler"
 
-#: src-en/data/blueprints.xml.append:2807
+#: src-en/data/blueprints.xml.append:2827
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/short"
 msgstr "Bedazzler"
 
-#: src-en/data/blueprints.xml.append:2809
+#: src-en/data/blueprints.xml.append:2829
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2810
+#: src-en/data/blueprints.xml.append:2830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/descriptionOverride"
 msgstr ""
@@ -1359,22 +1359,22 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 80~/40~"
 
-#: src-en/data/blueprints.xml.append:2877
+#: src-en/data/blueprints.xml.append:2897
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/title"
 msgstr "Colonizer Bomb"
 
-#: src-en/data/blueprints.xml.append:2878
+#: src-en/data/blueprints.xml.append:2898
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/short"
 msgstr "Colonizer B."
 
-#: src-en/data/blueprints.xml.append:2880
+#: src-en/data/blueprints.xml.append:2900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:2881
+#: src-en/data/blueprints.xml.append:2901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/descriptionOverride"
 msgstr ""
@@ -1393,37 +1393,37 @@ msgstr ""
 "\t\t\n"
 "\t\tBuy/Sell Price: 75~/37~"
 
-#: src-en/data/blueprints.xml.append:2924
+#: src-en/data/blueprints.xml.append:2944
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
 msgstr ""
 "Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soliders rapidly decay after spawning.\n"
 "\t\n"
 "\tInherited Human stat: minor suffocation resistance"
 
-#: src-en/data/blueprints.xml.append:2928
+#: src-en/data/blueprints.xml.append:2948
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/title"
 msgstr "Clone Soldier"
 
-#: src-en/data/blueprints.xml.append:2929
+#: src-en/data/blueprints.xml.append:2949
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/short"
 msgstr "Soldier"
 
-#: src-en/data/blueprints.xml.append:2932
+#: src-en/data/blueprints.xml.append:2952
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[1]"
 msgstr "Inflicts 1.2x damage in crew combat"
 
-#: src-en/data/blueprints.xml.append:2933
+#: src-en/data/blueprints.xml.append:2953
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[2]"
 msgstr "Takes 0.7x damage from crew combat and 0.6x from fires"
 
-#: src-en/data/blueprints.xml.append:2934
+#: src-en/data/blueprints.xml.append:2954
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[3]"
 msgstr "Neural chip allows learning combat skills at an incredible rate"
 
-#: src-en/data/blueprints.xml.append:2938
+#: src-en/data/blueprints.xml.append:2958
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/desc"
 msgstr ""
@@ -1431,42 +1431,42 @@ msgstr ""
 "\t\n"
 "\tInherited Human stat: minor suffocation resistance"
 
-#: src-en/data/blueprints.xml.append:2942
+#: src-en/data/blueprints.xml.append:2962
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/title"
 msgstr "Clone Soldier"
 
-#: src-en/data/blueprints.xml.append:2943
+#: src-en/data/blueprints.xml.append:2963
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/short"
 msgstr "Soldier"
 
-#: src-en/data/blueprints.xml.append:2946
+#: src-en/data/blueprints.xml.append:2966
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[1]"
 msgstr "Inflicts 1.2x damage in crew combat"
 
-#: src-en/data/blueprints.xml.append:2947
+#: src-en/data/blueprints.xml.append:2967
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[2]"
 msgstr "Takes 0.7x damage from crew combat and 0.6x from fires"
 
-#: src-en/data/blueprints.xml.append:2948
+#: src-en/data/blueprints.xml.append:2968
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[3]"
 msgstr "Neural chip allows learning combat skills at an incredible rate"
 
-#: src-en/data/blueprints.xml.append:2954
+#: src-en/data/blueprints.xml.append:2974
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/title"
 msgstr "Federation Military-Grade Clone Breaching Pod Launcher"
 
-#: src-en/data/blueprints.xml.append:2955
+#: src-en/data/blueprints.xml.append:2975
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/short"
 msgstr "F.M.G.C.B.P.L."
 
-#: src-en/data/blueprints.xml.append:2956
+#: src-en/data/blueprints.xml.append:2976
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/desc"
 msgstr ""
@@ -1474,40 +1474,40 @@ msgstr ""
 "cloning pod which will breach the enemy hull and spawn a clone soldier that "
 "will fight for you for 60 seconds."
 
-#: src-en/data/blueprints.xml.append:3018
+#: src-en/data/blueprints.xml.append:3038
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
 msgstr "Drone Popper"
 
-#: src-en/data/blueprints.xml.append:3045
+#: src-en/data/blueprints.xml.append:3065
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP_2\"]/title"
 msgstr "Drone Popper"
 
-#: src-en/data/blueprints.xml.append:3077
+#: src-en/data/blueprints.xml.append:3097
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
 msgstr "Suppressor Drone Mk. I"
 
-#: src-en/data/blueprints.xml.append:3078
+#: src-en/data/blueprints.xml.append:3098
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/short"
 msgstr "Suppr I"
 
-#: src-en/data/blueprints.xml.append:3079
+#: src-en/data/blueprints.xml.append:3099
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/desc"
 msgstr ""
 "A specialized drone which while powered can effectively suppress a shield "
 "layer forever. Also comes with built-in stealth systems, avoiding anti-"
 "drones indefinitely."
 
-#: src-en/data/blueprints.xml.append:3092
+#: src-en/data/blueprints.xml.append:3112
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/title"
 msgstr "Suppressor Drone Mk. II"
 
-#: src-en/data/blueprints.xml.append:3093
+#: src-en/data/blueprints.xml.append:3113
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/short"
 msgstr "Suppr II"
 
-#: src-en/data/blueprints.xml.append:3094
+#: src-en/data/blueprints.xml.append:3114
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/desc"
 msgstr ""
@@ -1516,75 +1516,75 @@ msgstr ""
 "drones indefinitely. The Mark 2 version is slower but can take down 3 "
 "shields at once."
 
-#: src-en/data/blueprints.xml.append:3107
+#: src-en/data/blueprints.xml.append:3127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_BREACH\"]/title"
 msgstr "Drone Bomb"
 
-#: src-en/data/blueprints.xml.append:3128
+#: src-en/data/blueprints.xml.append:3148
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_ION\"]/title"
 msgstr "Drone Bomb"
 
-#: src-en/data/blueprints.xml.append:3152
+#: src-en/data/blueprints.xml.append:3172
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/title"
 msgstr "Thundershock Drone [Breach]"
 
-#: src-en/data/blueprints.xml.append:3153
+#: src-en/data/blueprints.xml.append:3173
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/short"
 msgstr "Thunder [B]"
 
-#: src-en/data/blueprints.xml.append:3154
+#: src-en/data/blueprints.xml.append:3174
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/desc"
 msgstr ""
 "[CURRENT MODE: Breach] A specialized drone that can toggle between deploying"
 " Breach and Ion bombs without the cost of missiles, but is relatively slow."
 
-#: src-en/data/blueprints.xml.append:3169
+#: src-en/data/blueprints.xml.append:3189
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/title"
 msgstr "Thundershock Drone [Ion]"
 
-#: src-en/data/blueprints.xml.append:3170
+#: src-en/data/blueprints.xml.append:3190
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/short"
 msgstr "Thunder [I]"
 
-#: src-en/data/blueprints.xml.append:3171
+#: src-en/data/blueprints.xml.append:3191
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/desc"
 msgstr ""
 "[CURRENT MODE: Ion] A specialized drone that can toggle between deploying "
 "Breach and Ion bombs without the cost of missiles, but is relatively slow."
 
-#: src-en/data/blueprints.xml.append:3187
+#: src-en/data/blueprints.xml.append:3207
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/title"
 msgstr "Drone Missile"
 
-#: src-en/data/blueprints.xml.append:3188
+#: src-en/data/blueprints.xml.append:3208
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/short"
 msgstr "Drone Missile"
 
-#: src-en/data/blueprints.xml.append:3189
+#: src-en/data/blueprints.xml.append:3209
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:3220
+#: src-en/data/blueprints.xml.append:3240
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/title"
 msgstr "'Theseus' Missile Drone"
 
-#: src-en/data/blueprints.xml.append:3221
+#: src-en/data/blueprints.xml.append:3241
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/short"
 msgstr "'Theseus'"
 
-#: src-en/data/blueprints.xml.append:3222
+#: src-en/data/blueprints.xml.append:3242
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
 msgstr ""
@@ -1592,76 +1592,76 @@ msgstr ""
 "Requires a sum of 3 missiles to deploy, but does not consume missiles to "
 "fire."
 
-#: src-en/data/blueprints.xml.append:3237
+#: src-en/data/blueprints.xml.append:3257
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DEFENSE\"]/title"
 msgstr "Drone Flak"
 
-#: src-en/data/blueprints.xml.append:3273
+#: src-en/data/blueprints.xml.append:3293
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/title"
 msgstr "Scattershot Defense Drone"
 
-#: src-en/data/blueprints.xml.append:3274
+#: src-en/data/blueprints.xml.append:3294
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/short"
 msgstr "Scattershot"
 
-#: src-en/data/blueprints.xml.append:3275
+#: src-en/data/blueprints.xml.append:3295
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
 msgstr ""
 "A peculiar Defense drone that fires bursts of slow moving Flak. Can target anything - solid projectiles, lasers, drones, you name it!\n"
 "\tReload: 1400 MS"
 
-#: src-en/data/blueprints.xml.append:3292
+#: src-en/data/blueprints.xml.append:3312
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/title"
 msgstr "Scattershot Defense Drone"
 
-#: src-en/data/blueprints.xml.append:3293
+#: src-en/data/blueprints.xml.append:3313
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/short"
 msgstr "Scattershot"
 
-#: src-en/data/blueprints.xml.append:3294
+#: src-en/data/blueprints.xml.append:3314
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/desc"
 msgstr ""
 "YOU SHOULD NEVER SEE THIS\n"
 "\tReload: 1700 MS"
 
-#: src-en/data/blueprints.xml.append:3318
+#: src-en/data/blueprints.xml.append:3338
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/title"
 msgstr "Extinguisher Drone"
 
-#: src-en/data/blueprints.xml.append:3319
+#: src-en/data/blueprints.xml.append:3339
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/short"
 msgstr "Extinguisher Drone"
 
-#: src-en/data/blueprints.xml.append:3320
+#: src-en/data/blueprints.xml.append:3340
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS."
 
-#: src-en/data/blueprints.xml.append:3324
+#: src-en/data/blueprints.xml.append:3344
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/powerList/power"
 msgstr "DRONE"
 
-#: src-en/data/blueprints.xml.append:3331
+#: src-en/data/blueprints.xml.append:3351
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/title"
 msgstr "Extinguisher Drone"
 
-#: src-en/data/blueprints.xml.append:3332
+#: src-en/data/blueprints.xml.append:3352
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/short"
 msgstr "Extinguisher"
 
-#: src-en/data/blueprints.xml.append:3333
+#: src-en/data/blueprints.xml.append:3353
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/desc"
 msgstr ""
@@ -1671,32 +1671,32 @@ msgstr ""
 "-4x extinguishing speed, 0.5x repair speed\n"
 "-Drains oxygen, immune to fire damage"
 
-#: src-en/data/blueprints.xml.append:3346
+#: src-en/data/blueprints.xml.append:3366
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
 msgstr "Voltage Drone"
 
-#: src-en/data/blueprints.xml.append:3347
+#: src-en/data/blueprints.xml.append:3367
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
 msgstr "Voltage Drone"
 
-#: src-en/data/blueprints.xml.append:3348
+#: src-en/data/blueprints.xml.append:3368
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS."
 
-#: src-en/data/blueprints.xml.append:3352
+#: src-en/data/blueprints.xml.append:3372
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/powerList/power"
 msgstr "DRONE"
 
-#: src-en/data/blueprints.xml.append:3359
+#: src-en/data/blueprints.xml.append:3379
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
 msgstr "Voltage Drone"
 
-#: src-en/data/blueprints.xml.append:3360
+#: src-en/data/blueprints.xml.append:3380
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
 msgstr "Voltage"
 
-#: src-en/data/blueprints.xml.append:3361
+#: src-en/data/blueprints.xml.append:3381
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
 msgstr ""
 "Controllable utility drone that provides significant amounts of power to any system it couples with. However, the drone will also steadily lose health over time until it explodes. Use with caution, as its explosion is more volatile than other drones!\n"
@@ -1706,37 +1706,37 @@ msgstr ""
 "-Loses 1hp/s. Explosion does 4 system damage, with 10% chance to start a fire.\n"
 "-Completely immune to stun, cannot be healed"
 
-#: src-en/data/blueprints.xml.append:3374
+#: src-en/data/blueprints.xml.append:3394
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/title"
 msgstr "Overshield Drone"
 
-#: src-en/data/blueprints.xml.append:3375
+#: src-en/data/blueprints.xml.append:3395
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/short"
 msgstr "Overshield Drone"
 
-#: src-en/data/blueprints.xml.append:3376
+#: src-en/data/blueprints.xml.append:3396
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS."
 
-#: src-en/data/blueprints.xml.append:3380
+#: src-en/data/blueprints.xml.append:3400
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/powerList/power"
 msgstr "DRONE"
 
-#: src-en/data/blueprints.xml.append:3387
+#: src-en/data/blueprints.xml.append:3407
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/title"
 msgstr "Overshield Drone"
 
-#: src-en/data/blueprints.xml.append:3388
+#: src-en/data/blueprints.xml.append:3408
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/short"
 msgstr "Overshield"
 
-#: src-en/data/blueprints.xml.append:3389
+#: src-en/data/blueprints.xml.append:3409
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
 "Controllable utility drone which drains power from a system to provide shields to allied crew, massively reducing their damage from all sources.\n"
@@ -1745,115 +1745,102 @@ msgstr ""
 "-Shields all allied crew in the room, providing them with 75% damage reduction from all sources\n"
 "-Drains 3 power from any occupied system. Must be draining power to apply shields."
 
-#: src-en/data/blueprints.xml.append:3410
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/title"
-msgstr "[L] Combat Systems"
-
-#: src-en/data/blueprints.xml.append:3411
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ENGI_COMBAT\"]/desc"
-msgstr ""
-"Engi crew gain standard combat damage and 10 health, but lose 25% of their repair speed.\n"
-"\t\n"
-"\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself."
-
-#: src-en/data/blueprints.xml.append:3429
+#: src-en/data/blueprints.xml.append:3430
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/class"
 msgstr "Collector's Kestrel Cruiser"
 
-#: src-en/data/blueprints.xml.append:3430
+#: src-en/data/blueprints.xml.append:3431
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/name"
 msgstr "The Oriole"
 
-#: src-en/data/blueprints.xml.append:3432
+#: src-en/data/blueprints.xml.append:3433
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/desc"
 msgstr ""
 "A reoutfitted Kestrel cruiser piloted by a pirate obsessed with state of the"
 " art weaponry."
 
-#: src-en/data/blueprints.xml.append:3503
+#: src-en/data/blueprints.xml.append:3506
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/class"
 msgstr "Collector's Engineer Cruiser"
 
-#: src-en/data/blueprints.xml.append:3504
+#: src-en/data/blueprints.xml.append:3507
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/name"
 msgstr "Splinter"
 
-#: src-en/data/blueprints.xml.append:3506
+#: src-en/data/blueprints.xml.append:3509
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/desc"
 msgstr ""
 "This vessel is piloted by a mad scientist determined to turn both his and "
 "the enemy's crew into mutants."
 
-#: src-en/data/blueprints.xml.append:3576
+#: src-en/data/blueprints.xml.append:3581
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/class"
 msgstr "Collector's Deathbringer"
 
-#: src-en/data/blueprints.xml.append:3577
+#: src-en/data/blueprints.xml.append:3582
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/name"
 msgstr "Chthon"
 
-#: src-en/data/blueprints.xml.append:3579
+#: src-en/data/blueprints.xml.append:3584
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/desc"
 msgstr ""
 "This ship packs a powerful punch with its armaments. That's all there is to "
 "it, honestly."
 
-#: src-en/data/blueprints.xml.append:3652
+#: src-en/data/blueprints.xml.append:3660
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/class"
 msgstr "Collector's Engi Cruiser"
 
-#: src-en/data/blueprints.xml.append:3653
+#: src-en/data/blueprints.xml.append:3661
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/name"
 msgstr "Obsession-C"
 
-#: src-en/data/blueprints.xml.append:3655
+#: src-en/data/blueprints.xml.append:3663
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
 msgstr ""
 "Unlike the average Engi cruiser, which only appears to be made of junk "
 "loosely held together, this ship IS made of junk loosely held together."
 
-#: src-en/data/blueprints.xml.append:3730
+#: src-en/data/blueprints.xml.append:3741
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/class"
 msgstr "Collector's Outcast Cruiser"
 
-#: src-en/data/blueprints.xml.append:3731
+#: src-en/data/blueprints.xml.append:3742
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/name"
 msgstr "Corporate Interest"
 
-#: src-en/data/blueprints.xml.append:3733
+#: src-en/data/blueprints.xml.append:3744
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
 msgstr ""
 "This vessel was part of a failed outreach program in Wentworth Innovations "
 "inspired by popular television character 'Remmy the Rekma'."
 
-#: src-en/data/blueprints.xml.append:3805
+#: src-en/data/blueprints.xml.append:3819
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/class"
 msgstr "Collector's Gathering Cruiser"
 
-#: src-en/data/blueprints.xml.append:3806
+#: src-en/data/blueprints.xml.append:3820
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/name"
 msgstr "Composter"
 
-#: src-en/data/blueprints.xml.append:3808
+#: src-en/data/blueprints.xml.append:3822
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
 msgstr ""
@@ -1861,17 +1848,17 @@ msgstr ""
 " I crave the strength and certainty of steel. Preferably in the form of a "
 "missile.\""
 
-#: src-en/data/blueprints.xml.append:3882
+#: src-en/data/blueprints.xml.append:3899
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/class"
 msgstr "Collector's Stealth Cruiser"
 
-#: src-en/data/blueprints.xml.append:3883
+#: src-en/data/blueprints.xml.append:3900
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/name"
 msgstr "One Shot"
 
-#: src-en/data/blueprints.xml.append:3885
+#: src-en/data/blueprints.xml.append:3902
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/desc"
 msgstr ""
@@ -1879,17 +1866,17 @@ msgstr ""
 "\t\n"
 "\tKill fast - or die hard."
 
-#: src-en/data/blueprints.xml.append:3959
+#: src-en/data/blueprints.xml.append:3979
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/class"
 msgstr "Collector's Federation Cruiser"
 
-#: src-en/data/blueprints.xml.append:3960
+#: src-en/data/blueprints.xml.append:3980
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/name"
 msgstr "The Lion"
 
-#: src-en/data/blueprints.xml.append:3962
+#: src-en/data/blueprints.xml.append:3982
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/desc"
 msgstr ""
@@ -1897,17 +1884,17 @@ msgstr ""
 "they might have missed the memo on cloning regulations, they are strict "
 "about the no teleportation rule from back home."
 
-#: src-en/data/blueprints.xml.append:4032
+#: src-en/data/blueprints.xml.append:4055
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/class"
 msgstr "Collector's Hive Cruiser"
 
-#: src-en/data/blueprints.xml.append:4033
+#: src-en/data/blueprints.xml.append:4056
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/name"
 msgstr "Hymenopus II"
 
-#: src-en/data/blueprints.xml.append:4035
+#: src-en/data/blueprints.xml.append:4058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/desc"
 msgstr ""
@@ -1915,51 +1902,51 @@ msgstr ""
 "with the work conditions, he's dedicated himself to proving his superiority "
 "with even MORE bombs."
 
-#: src-en/data/blueprints.xml.append:4110
+#: src-en/data/blueprints.xml.append:4136
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/class"
 msgstr "Collector's Illesctrian Cruiser"
 
-#: src-en/data/blueprints.xml.append:4111
+#: src-en/data/blueprints.xml.append:4137
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/name"
 msgstr "Patience"
 
-#: src-en/data/blueprints.xml.append:4113
+#: src-en/data/blueprints.xml.append:4139
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/desc"
 msgstr ""
 "The monk responsible for this ship valued the virtue of patience above all "
 "else. It's just unfortunate she missed the memo about being peaceful."
 
-#: src-en/data/blueprints.xml.append:4184
+#: src-en/data/blueprints.xml.append:4212
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/class"
 msgstr "Collector's Peacekeeping Cruiser"
 
-#: src-en/data/blueprints.xml.append:4185
+#: src-en/data/blueprints.xml.append:4213
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/name"
 msgstr "Flux Capacitor"
 
-#: src-en/data/blueprints.xml.append:4187
+#: src-en/data/blueprints.xml.append:4215
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/desc"
 msgstr ""
 "Patience is most often considered a virtue. While this may be true, who says"
 " you can't speed things up a little?"
 
-#: src-en/data/blueprints.xml.append:4259
+#: src-en/data/blueprints.xml.append:4290
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/class"
 msgstr "Collector's Kleptocracy Cruiser"
 
-#: src-en/data/blueprints.xml.append:4260
+#: src-en/data/blueprints.xml.append:4291
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/name"
 msgstr "Spencer-45"
 
-#: src-en/data/blueprints.xml.append:4262
+#: src-en/data/blueprints.xml.append:4293
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/desc"
 msgstr ""
@@ -1967,17 +1954,17 @@ msgstr ""
 "launched. Even with the new crew, there may be some difficulty tracking down"
 " the enemy crew..."
 
-#: src-en/data/blueprints.xml.append:4334
+#: src-en/data/blueprints.xml.append:4368
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/class"
 msgstr "Collector's Lost Sun Cruiser"
 
-#: src-en/data/blueprints.xml.append:4335
+#: src-en/data/blueprints.xml.append:4369
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/name"
 msgstr "The Ruination"
 
-#: src-en/data/blueprints.xml.append:4337
+#: src-en/data/blueprints.xml.append:4371
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/desc"
 msgstr ""
@@ -1985,17 +1972,17 @@ msgstr ""
 " Lost Sun jumped at the opportunity to set as many people on fire as "
 "possible."
 
-#: src-en/data/blueprints.xml.append:4410
+#: src-en/data/blueprints.xml.append:4447
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/class"
 msgstr "Collector's Theocracy Cruiser"
 
-#: src-en/data/blueprints.xml.append:4411
+#: src-en/data/blueprints.xml.append:4448
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/name"
 msgstr "Igneous"
 
-#: src-en/data/blueprints.xml.append:4413
+#: src-en/data/blueprints.xml.append:4450
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
 msgstr ""
@@ -2003,32 +1990,32 @@ msgstr ""
 " fires magma or lava. Perhaps their enemies would have joined in, had they "
 "not been dead."
 
-#: src-en/data/blueprints.xml.append:4485
+#: src-en/data/blueprints.xml.append:4525
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/class"
 msgstr "Collector's Eargen Cruiser"
 
-#: src-en/data/blueprints.xml.append:4486
+#: src-en/data/blueprints.xml.append:4526
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/name"
 msgstr "The AMPere"
 
-#: src-en/data/blueprints.xml.append:4488
+#: src-en/data/blueprints.xml.append:4528
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/desc"
 msgstr "It's called the AMPere because it has an AMP weapon! Get it...?"
 
-#: src-en/data/blueprints.xml.append:4559
+#: src-en/data/blueprints.xml.append:4602
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/class"
 msgstr "Collector's Geniocracy Cruiser"
 
-#: src-en/data/blueprints.xml.append:4560
+#: src-en/data/blueprints.xml.append:4603
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/name"
 msgstr "Hadron"
 
-#: src-en/data/blueprints.xml.append:4562
+#: src-en/data/blueprints.xml.append:4605
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/desc"
 msgstr ""
@@ -2036,34 +2023,34 @@ msgstr ""
 "instead of an Accelerator. But that's fine - purple is better than orange "
 "anyways."
 
-#: src-en/data/blueprints.xml.append:4633
+#: src-en/data/blueprints.xml.append:4679
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/class"
 msgstr "Collector's Auto-Cruiser"
 
-#: src-en/data/blueprints.xml.append:4634
+#: src-en/data/blueprints.xml.append:4680
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/name"
 msgstr "Victoria"
 
-#: src-en/data/blueprints.xml.append:4636
+#: src-en/data/blueprints.xml.append:4682
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/desc"
 msgstr ""
 "Finder's keepers is the golden rule, and that applies to more than the "
 "things you're stealing. It applies to the people too!"
 
-#: src-en/data/blueprints.xml.append:4710
+#: src-en/data/blueprints.xml.append:4759
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/class"
 msgstr "Collector's Spectral Cruiser"
 
-#: src-en/data/blueprints.xml.append:4711
+#: src-en/data/blueprints.xml.append:4760
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/name"
 msgstr "Abaddon"
 
-#: src-en/data/blueprints.xml.append:4713
+#: src-en/data/blueprints.xml.append:4762
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
 msgstr ""
@@ -2071,68 +2058,68 @@ msgstr ""
 "infighting, the Dynasty finally realized their guns could kill ships from "
 "other factions too."
 
-#: src-en/data/blueprints.xml.append:4784
+#: src-en/data/blueprints.xml.append:4836
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/class"
 msgstr "Collector's Brood Cruiser"
 
-#: src-en/data/blueprints.xml.append:4785
+#: src-en/data/blueprints.xml.append:4837
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/name"
 msgstr "Broodmother"
 
-#: src-en/data/blueprints.xml.append:4787
+#: src-en/data/blueprints.xml.append:4839
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
 msgstr ""
 "What else can you really say about the captain of this ship? They like "
 "spiders. They LOVE spiders. Maybe too much."
 
-#: src-en/data/blueprints.xml.append:4857
+#: src-en/data/blueprints.xml.append:4912
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/class"
 msgstr "Collector's Tiiikaka Cruiser"
 
-#: src-en/data/blueprints.xml.append:4858
+#: src-en/data/blueprints.xml.append:4913
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/name"
 msgstr "Humperdinck"
 
-#: src-en/data/blueprints.xml.append:4860
+#: src-en/data/blueprints.xml.append:4915
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/desc"
 msgstr ""
 "This is a Tiiikaka ship, and has zero relation to any famous pirate/outcast."
 " Please do not confuse it for such. Also, it has a bunch of Lasers."
 
-#: src-en/data/blueprints.xml.append:4931
+#: src-en/data/blueprints.xml.append:4989
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/class"
 msgstr "Collector's Separatist Cruiser"
 
-#: src-en/data/blueprints.xml.append:4932
+#: src-en/data/blueprints.xml.append:4990
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/name"
 msgstr "Limitbreak"
 
-#: src-en/data/blueprints.xml.append:4934
+#: src-en/data/blueprints.xml.append:4992
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/desc"
 msgstr ""
 "In the future, who needs organic friends? Your drones are the only company "
 "you'll need."
 
-#: src-en/data/blueprints.xml.append:5009
+#: src-en/data/blueprints.xml.append:5070
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/class"
 msgstr "Collector's Lanius Cruiser"
 
-#: src-en/data/blueprints.xml.append:5010
+#: src-en/data/blueprints.xml.append:5071
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/name"
 msgstr "Kittiwake"
 
-#: src-en/data/blueprints.xml.append:5012
+#: src-en/data/blueprints.xml.append:5073
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/desc"
 msgstr ""
@@ -2140,51 +2127,51 @@ msgstr ""
 "confused. \"Not cloth? Pattern symbol not having?\" He just thinks the "
 "colors are neat."
 
-#: src-en/data/blueprints.xml.append:5083
+#: src-en/data/blueprints.xml.append:5147
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/class"
 msgstr "Collector's MV Rebel Cruiser"
 
-#: src-en/data/blueprints.xml.append:5084
+#: src-en/data/blueprints.xml.append:5148
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/name"
 msgstr "The Oppressor"
 
-#: src-en/data/blueprints.xml.append:5086
+#: src-en/data/blueprints.xml.append:5150
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/desc"
 msgstr ""
 "Many costs were cut in pursuit of maximizing the drone system's power. "
 "Perhaps too many, but let's let bygones be bygones."
 
-#: src-en/data/blueprints.xml.append:5159
+#: src-en/data/blueprints.xml.append:5226
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/class"
 msgstr "Collector's Suzerain Cruiser"
 
-#: src-en/data/blueprints.xml.append:5160
+#: src-en/data/blueprints.xml.append:5227
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/name"
 msgstr "Mechanomantis"
 
-#: src-en/data/blueprints.xml.append:5162
+#: src-en/data/blueprints.xml.append:5229
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/desc"
 msgstr ""
 "Embracing future! Technocratic Hive begins assimilation with futuristic "
 "robot friends!"
 
-#: src-en/data/blueprints.xml.append:5236
+#: src-en/data/blueprints.xml.append:5306
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/class"
 msgstr "Collector's Slug Pleasure Barge"
 
-#: src-en/data/blueprints.xml.append:5237
+#: src-en/data/blueprints.xml.append:5307
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/name"
 msgstr "Elysia"
 
-#: src-en/data/blueprints.xml.append:5239
+#: src-en/data/blueprints.xml.append:5309
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/desc"
 msgstr ""
@@ -2192,17 +2179,17 @@ msgstr ""
 "\t\"Yep, it's real\" says the captain's friend.\n"
 "\t\"Woaaah\" says the captain."
 
-#: src-en/data/blueprints.xml.append:5312
+#: src-en/data/blueprints.xml.append:5385
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/class"
 msgstr "Collector's Augmented Cruiser"
 
-#: src-en/data/blueprints.xml.append:5313
+#: src-en/data/blueprints.xml.append:5386
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/name"
 msgstr "Yacht Club"
 
-#: src-en/data/blueprints.xml.append:5315
+#: src-en/data/blueprints.xml.append:5388
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/desc"
 msgstr ""
@@ -2210,17 +2197,17 @@ msgstr ""
 "society, the sentients of this captain's home reality had to find new ways "
 "to waste their excess wealth. Why not turn it into a weapon?"
 
-#: src-en/data/blueprints.xml.append:5387
+#: src-en/data/blueprints.xml.append:5463
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/class"
 msgstr "Collector's Hacker Cruiser"
 
-#: src-en/data/blueprints.xml.append:5388
+#: src-en/data/blueprints.xml.append:5464
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/name"
 msgstr "5Y5-5H0CK"
 
-#: src-en/data/blueprints.xml.append:5390
+#: src-en/data/blueprints.xml.append:5466
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
 msgstr ""
@@ -2228,51 +2215,51 @@ msgstr ""
 "overclocking megachip is running at maximum efficiency overdrive. This ship "
 "is ready for combat."
 
-#: src-en/data/blueprints.xml.append:5462
+#: src-en/data/blueprints.xml.append:5541
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/class"
 msgstr "Collector's Rebel Cruiser"
 
-#: src-en/data/blueprints.xml.append:5463
+#: src-en/data/blueprints.xml.append:5542
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/name"
 msgstr "Absolution"
 
-#: src-en/data/blueprints.xml.append:5465
+#: src-en/data/blueprints.xml.append:5544
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
 msgstr ""
 "The crew of this pirate vessel ironically still cling to the Rebel legacy of"
 " their vessel. It adds a bit of much desired edge to saving the multiverse."
 
-#: src-en/data/blueprints.xml.append:5536
+#: src-en/data/blueprints.xml.append:5618
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/class"
 msgstr "Collector's Cruiser"
 
-#: src-en/data/blueprints.xml.append:5537
+#: src-en/data/blueprints.xml.append:5619
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/name"
 msgstr "Theophilus"
 
-#: src-en/data/blueprints.xml.append:5539
+#: src-en/data/blueprints.xml.append:5621
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
 msgstr ""
 "Armed with an ancient eldritch super weapon... it's uh. It's armed with an "
 "ancient eldritch super weapon. That's all you need to know, really."
 
-#: src-en/data/blueprints.xml.append:5608
+#: src-en/data/blueprints.xml.append:5693
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
 msgstr "Collector's Wrecked Bomber"
 
-#: src-en/data/blueprints.xml.append:5609
+#: src-en/data/blueprints.xml.append:5694
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/name"
 msgstr "The Garbage Pile"
 
-#: src-en/data/blueprints.xml.append:5611
+#: src-en/data/blueprints.xml.append:5696
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/desc"
 msgstr ""
