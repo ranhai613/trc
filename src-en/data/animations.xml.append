@@ -356,7 +356,7 @@
 	<fireFrame>7</fireFrame>
 	<firePoint  x="19" y="19"/>
 	<mountPoint x="4" y="43"/>
-	<chargeImage>weapon_ion/ion_chain_glow.png</chargeImage>
+	<chargeImage>weapon_ion/ion_chain_2_glow.png</chargeImage>
 	<boost>ion_chaingun_2_charge</boost>
 </weaponAnim>
 

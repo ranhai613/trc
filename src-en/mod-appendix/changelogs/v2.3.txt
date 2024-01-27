@@ -1,0 +1,43 @@
+\\\\\\\\\\\\\\\\
+ CHANGES:
+\\\\\\\\\\\\\\\\
+
+Optimised cloaks and shield images so they re-use the base MV ones.
+
+The ??? beacon is no longer fleet immune.
+
+As with MV 5.4, quest beacons now have a small summary.
+
+\\\\\\\\\\\\\\\\
+ BALANCE:
+\\\\\\\\\\\\\\\\
+
+Hazard Sentry no longer affects allied crew.
+
+Gasoline Bomb:
+-Fire chance: 10% -> 30%
+-Debuff duration: 30s -> 20s
+-Speed debuff: 25% -> 30%
+-New functionality: afflicted targets cause fires on death
+
+Supressor 1 price: 50 -> 45
+
+Collector's Hive: +1 engine, clone bay, life support and pilot level.
+
+Collector's Augmented: +1 shield level, now starts with clone bay.
+
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed Drone Cannon being in Separatist drone list.
+
+Fixed Collector's Brood having stray pixels.
+
+Fixed Spider Bomb not getting increased frequency in Brood sector.
+
+Fixed Hazard sentry not being eligible for sentry boon presentation.
+
+Fixed Ion Mag not granting ion blue options.
+
+Fixed Virulent Dish not granting bio weapons blue options.

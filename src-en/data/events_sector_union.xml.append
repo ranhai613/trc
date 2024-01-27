@@ -1,0 +1,76 @@
+<FTL>
+<mod:findName type="event" name="UNION_EFFICIENCY_ENGINEER">
+	<mod:findLike type="choice"><mod:selector lvl="1" />
+		<mod:findLike type="event">
+			<mod-append:choice req="TRC_BEAM_BIO_2">
+				<text>Upgrade your Faucon Rad-Beam II.</text>
+				<event>
+					<text>You give the weapon to the engineer, allowing him to work on it.</text>
+					<remove name="TRC_BEAM_BIO_2"/>
+					<item_modify>
+						<item type="scrap" min="-40" max="-30"/>
+					</item_modify>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>After a short time, your weapon is returned to you, clad with an optimization.</text>
+							<weapon name="TRC_BEAM_BIO_2_PLAYER"/>
+						</event>
+					</choice>
+				</event>
+			</mod-append:choice>
+			<mod-append:choice req="TRC_ION_BREACH">
+				<text>Upgrade your Asphyxiator Ion.</text>
+				<event>
+					<text>You give the weapon to the engineer, allowing him to work on it.</text>
+					<remove name="TRC_ION_BREACH"/>
+					<item_modify>
+						<item type="scrap" min="-40" max="-30"/>
+					</item_modify>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>After a short time, your weapon is returned to you, clad with an optimization.</text>
+							<weapon name="TRC_ION_BREACH_PLAYER"/>
+						</event>
+					</choice>
+				</event>
+			</mod-append:choice>
+			<mod-append:choice req="TRC_ENERGY_PIERCE_1">
+				<text>Upgrade your Energy Phaser.</text>
+				<event>
+					<text>You give the weapon to the engineer, allowing him to work on it.</text>
+					<remove name="TRC_ENERGY_PIERCE_1"/>
+					<item_modify>
+						<item type="scrap" min="-40" max="-30"/>
+					</item_modify>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>After a short time, your weapon is returned to you, clad with an optimization.</text>
+							<weapon name="TRC_ENERGY_PIERCE_1_PLAYER"/>
+						</event>
+					</choice>
+				</event>
+			</mod-append:choice>
+			<mod-append:choice req="TRC_BOMB_PART">
+				<text>Upgrade your Particle Bomb.</text>
+				<event>
+					<text>You give the weapon to the engineer, allowing him to work on it.</text>
+					<remove name="TRC_BOMB_PART"/>
+					<item_modify>
+						<item type="scrap" min="-40" max="-30"/>
+					</item_modify>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>After a short time, your weapon is returned to you, clad with an optimization.</text>
+							<weapon name="TRC_BOMB_PART_PLAYER"/>
+						</event>
+					</choice>
+				</event>
+			</mod-append:choice>
+		</mod:findLike>
+	</mod:findLike>
+</mod:findName>
+</FTL>

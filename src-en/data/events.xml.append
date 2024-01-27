@@ -13,7 +13,7 @@
 </ship>
 <event name="TRC_BOUNTIES_START">
 	<preventQuest/>
-	<preventFleet/>
+	<!--<preventFleet/>-->
 	<beaconType id="map_icon_collector" global="true">
 		<color r="215" g="255" b="0" a="1"/>
 	</beaconType>
@@ -29,7 +29,7 @@
 			
 			The Slug is clearly uncomfortable. He paces a bit, flicking his eyestalk back and forth. "Now, l-look here sssstranger. I ain't... I ain't really ssss'possse to be tellin' you thisss. Trade sssecret and all that. I usssed to work for sssome powerful people, and they don't really want you'sss typesss findin' out about them. Now I would sssay callin' me ssssome ssssort of... interdimenssssional fugitive on the run from god issss a bit of an exaggeration but... well it ain't far from the truth either."
 			
-			The Slug forces a chuckle. "Now if you haven't noticed, around not too long ago a buncha new equipment'sss been sssshowing up outta nowhere. That... may have been my doing. I ssssorta... made a deal with the devil, ssso to sssspeak. 'Cccept thissss devil's the trick playin' kind. I jussst wanted my handssss on ssssome... foreign tech, but now I've created a ssssort of interdimenssssional leak. Heheh. Heh. Yeah it'ssss not that funny. Actually, we're all kinda sssscrewed. I kinda messsed up big time on thissss one."</text>
+			The Slug forces a chuckle. "Now if you haven't noticed, around not too long ago a buncha new equipment'sss been sssshowing up outta nowhere. That... may have been my doing. I ssssorta... made a deal with the devil, ssso to sssspeak. 'Cept thissss devil's the trick playin' kind. I jussst wanted my handssss on ssssome... foreign tech, but now I've created a ssssort of interdimenssssional leak. Heheh. Heh. Yeah it'ssss not that funny. Actually, we're all kinda sssscrewed. I kinda messsed up big time on thissss one."</text>
 			<metaVariable name="trc_found_collector" op="set" val="1"/>
 			<choice hidden="true">
 				<text>What do you mean an interdimensional leak?</text>
@@ -86,11 +86,11 @@
 							<choice hidden="true" req="PROBE_FIRST_TIME" blue="false">
 								<text>Looks like all of them have been completed... except for this last one?</text>
 								<event>
-									<text>You point out the last item on the list, labeled not with a name but rather a dozen question marks. The collector strokes his chin. "Hmm. Yesss, it ssseemssss the previousss Renegadesss have been quite proficccient. Er... thissss lassst one. Curioussss thing, it issss. It wasssn't originally on my lisssst... and in fact, I... I'm not even ssssure if I wasss the one who brought it here."</text>
+									<text>You point out the last item on the list, labeled not with a name but rather a dozen question marks. The collector strokes his chin. "Hmm. Yesss, it ssseemssss the previousss Renegadesss have been quite proficient. Er... thissss lassst one. Curioussss thing, it issss. It wasssn't originally on my lisssst... and in fact, I... I'm not even ssssure if I wasss the one who brought it here."</text>
 									<choice hidden="true">
 										<text>What do you mean?</text>
 										<event>
-											<text>"Well, while I wassss doing my reconnaissssanccce I noticed an unusssual anomaly. It'sss... I'm not ssssure what it issss. I attempted to contain it, but... couldn't. Well, it'sss an anomaly regardlesss. Whether it'sss my doing or not, it'ssss your job now! Heheh... But no really, thisss one ssscaresss the crap out of me. I'd make ssssure you're prepared for... whatever it issss."</text>
+											<text>"Well, while I wassss doing my reconnaissssance I noticed an unusssual anomaly. It'sss... I'm not ssssure what it issss. I attempted to contain it, but... couldn't. Well, it'sss an anomaly regardlesss. Whether it'sss my doing or not, it'ssss your job now! Heheh... But no really, thisss one ssscaresss the crap out of me. I'd make ssssure you're prepared for... whatever it issss."</text>
 											<quest event="TRC_BOUNTIES_PROBE"/>
 											<store>STORE_COLLECTOR</store>
 										</event>
@@ -149,6 +149,7 @@
 <event name="TRC_BOUNTIES_FED">
 	<beaconType id="map_icon_collector_bounty" global="true">
 		<color r="85" g="100" b="0" a="1"/>
+		<unvisitedTooltip>Location of 'The Cloners' bounty.</unvisitedTooltip>
 	</beaconType>
 	<preventFleet/>
 	<!--
@@ -247,6 +248,7 @@
 <event name="TRC_BOUNTIES_ZOLTAN">
 	<beaconType id="map_icon_collector_bounty" global="true">
 		<color r="85" g="100" b="0" a="1"/>
+		<unvisitedTooltip>Location of 'The Enlightened' bounty.</unvisitedTooltip>
 	</beaconType>
 	<ship load="SHIP_ANOM_ZOLTAN" hostile="false"/>
 	<preventFleet/>
@@ -329,7 +331,7 @@
 	<choice hidden="true">
 		<text>Contact the Collector.</text>
 		<event>
-			<text>"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss it had a sssort of... mind control bomb? Oh how delightfully devilissssh! I can only asssume this would be illegal if not for itssss non-existenccce in thisss clussster until now. Welp, here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you."</text>
+			<text>"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss it had a sssort of... mind control bomb? Oh how delightfully devilissssh! I can only asssume this would be illegal if not for itssss non-existence in thisss clussster until now. Welp, here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you."</text>
 			<weapon name="TRC_BOMB_COLONIZER"/>
 		</event>
 	</choice>
@@ -337,6 +339,7 @@
 <event name="TRC_BOUNTIES_AUTO">
 	<beaconType id="map_icon_collector_bounty" global="true">
 		<color r="85" g="100" b="0" a="1"/>
+		<unvisitedTooltip>Location of 'The Colonizer' bounty.</unvisitedTooltip>
 	</beaconType>
 	<ship load="SHIP_ANOM_AUTO" hostile="false"/>
 	<preventFleet/>
@@ -421,6 +424,7 @@
 <event name="TRC_BOUNTIES_ROCK">
 	<beaconType id="map_icon_collector_bounty" global="true">
 		<color r="85" g="100" b="0" a="1"/>
+		<unvisitedTooltip>Location of 'The Craftsmen' bounty.</unvisitedTooltip>
 	</beaconType>
 	<ship load="SHIP_ANOM_ROCK" hostile="false"/>
 	<preventFleet/>
@@ -509,6 +513,7 @@
 <event name="TRC_BOUNTIES_LANIUS">
 	<beaconType id="map_icon_collector_bounty" global="true">
 		<color r="85" g="100" b="0" a="1"/>
+		<unvisitedTooltip>Location of 'The Affluent' bounty.</unvisitedTooltip>
 	</beaconType>
 	<ship load="SHIP_ANOM_LANIUS" hostile="false"/>
 	<preventFleet/>
@@ -579,7 +584,7 @@
 		<event>
 			<text>"Truly miraculoussss! I'm ssssurprisssed you made it out alive there sssstranger! You're jussst lucky that one wassss underarmed. You've done good work though, sssstranger."
 			
-			"Thissss... probe. It'sss a curiossssity for cccertain. It would be a sssshame to dessstroy it now. I will conduct further ssstudiesss on it in my free time. But in an effort to make your time worthwhile, a ssspecial gift isss in order. Thisss isss a replica of the weapon I... metaphorically ssssold my sssoul for. What got ussss into thisss messs. Ussse it well, sssstranger. One can only hope it hassss no adverssse sssside effectssss."</text>
+			"Thissss... probe. It'sss a curiossssity for certain. It would be a sssshame to dessstroy it now. I will conduct further ssstudiesss on it in my free time. But in an effort to make your time worthwhile, a ssspecial gift isss in order. Thisss isss a replica of the weapon I... metaphorically ssssold my sssoul for. What got ussss into thisss messs. Ussse it well, sssstranger. One can only hope it hassss no adverssse sssside effectssss."</text>
 			<weapon name="TRC_EPISTLE"/>
 			<unlockCustomShip silent="false">TRC_PLAYER_SHIP_REBEL_2</unlockCustomShip>
 		</event>
@@ -588,6 +593,7 @@
 <event name="TRC_BOUNTIES_PROBE">
 	<beaconType id="map_icon_collector_bounty" global="true">
 		<color r="85" g="100" b="0" a="1"/>
+		<unvisitedTooltip>Location of 'The Probe' bounty.</unvisitedTooltip>
 	</beaconType>
 	<quest>
 		<nebulaBeacon>false</nebulaBeacon>

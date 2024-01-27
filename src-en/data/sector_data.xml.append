@@ -32,7 +32,7 @@
 	</mod:findLike>
 </mod:findName>
 
-<mod:findName type="sectorDescription" name="SECTOR_SPIDER">
+<mod:findName type="sectorDescription" name="SECRET_SPIDER">
 	<mod:findLike type="rarityList">
 		<mod-append:blueprint name="TRC_BOMB_SPIDER" rarity="3" />
 	</mod:findLike>

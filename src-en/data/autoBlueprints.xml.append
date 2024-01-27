@@ -273,6 +273,13 @@
 ********************************************************************************************************************************************************************************************************************************************												 
 ********************************************************************************************************************************************************************************************************************************************
 -->
+<mod:findName type="blueprintList" name="LIST_WEAPONS_PLAYER">
+	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
+	<mod-append:name>TRC_ION_BREACH</mod-append:name>
+	<mod-append:name>TRC_ENERGY_PIERCE_1</mod-append:name>
+	<mod-append:name>TRC_BOMB_PART</mod-append:name>
+</mod:findName>
+
 <mod:findName type="blueprintList" name="BLUELIST_WEAPONS_HEAVY">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
 	<mod-append:name>TRC_LASER_AMP2</mod-append:name>
@@ -290,6 +297,7 @@
 	<mod-append:name>TRC_ION_BREACH_PLAYER</mod-append:name>
 	<mod-append:name>TRC_ION_CHAINGUN_2</mod-append:name>
 	<mod-append:name>TRC_MINELAUNCHER_ION</mod-append:name>
+	<mod-append:name>TRC_MAGNIFIER_ION</mod-append:name>
 	<mod-append:name>TRC_SYSTEMSHOCK</mod-append:name>
 </mod:findName>
 
@@ -322,12 +330,14 @@
 	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
 	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
 	<mod-append:name>TRC_BEAM_BIO_2_PLAYER</mod-append:name>
+	<mod-append:name>TRC_VIRULENT</mod-append:name>
 </mod:findName>
 <mod:findName type="blueprintList" name="BLUELIST_ANTIBIO_NODAMAGE">
 	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
 	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
 	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
 	<mod-append:name>TRC_BEAM_BIO_2_PLAYER</mod-append:name>
+	<mod-append:name>TRC_VIRULENT</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="BLUELIST_PARTICLE">
@@ -402,9 +412,9 @@
 ********************************************************************************************************************************************************************************************************************************************												 
 ********************************************************************************************************************************************************************************************************************************************
 -->
-<mod:findName type="blueprintList" name="GIFTLIST_ENGI">
-	<!--<mod-append:name>TRC_BOMB_DRONE</mod-append:name>-->
-</mod:findName>
+<!--<mod:findName type="blueprintList" name="GIFTLIST_ENGI">
+	<mod-append:name>TRC_BOMB_DRONE</mod-append:name>
+</mod:findName>-->
 
 <mod:findName type="blueprintList" name="GIFTLIST_MANTIS">
 	<mod-append:name>TRC_BOMB_SHRAPNEL</mod-append:name>
@@ -441,6 +451,7 @@
 	<mod-append:name>TRC_BEAM_BIO_2</mod-append:name>
 	<mod-append:name>TRC_LASER_PARTICLE_BIO</mod-append:name>
 	<mod-append:name>TRC_LASER_PARTICLE_BIO_2</mod-append:name>
+	<mod-append:name>TRC_VIRULENT</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="GIFTLIST_SLUG">
@@ -663,7 +674,7 @@
 	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
 </mod:findName>
 
-<mod:findName type="blueprintList" name="LIST_WEAPONS_CIVILIAN">
+<mod:findName type="blueprintList" name="LIST_WEAPONS_UNION">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
 </mod:findName>
 
@@ -691,7 +702,6 @@
 
 <mod:findName type="blueprintList" name="LIST_DRONES_SEPARATIST">
 	<mod-append:name>TRC_EXTINGUISHER</mod-append:name>
-	<mod-append:name>TRC_DRONE_GUN</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_ZOLTAN">
@@ -808,6 +818,10 @@
 <mod:findName type="blueprintList" name="LIST_WEAPONS_ESTATE">
 	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
 	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
+	<mod-append:name>TRC_SENTRY_HAZARD</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="LIST_WEAPONS_ESTATE_SENTRY">
 	<mod-append:name>TRC_SENTRY_HAZARD</mod-append:name>
 </mod:findName>
 
@@ -999,7 +1013,7 @@
 	<maxPower amount="99" />
 	<crewCount amount="1" max="1" class="slug_ranger" />
 	<boardingAI>sabotage</boardingAI>
-	<aug name="SYLVAN_GEL" />
+	<aug name="SLUG_GEL" />
 	<aug name="SYLVAN_SHIELD" />
 	<aug name="NO_GHOST" />
 </shipBlueprint>

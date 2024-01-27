@@ -4,10 +4,8 @@ mods.trc = {}
 -- UTILITY FUNCTIONS --
 -----------------------
 
-local function userdata_table(userdata, tableName)
-    if not userdata.table[tableName] then userdata.table[tableName] = {} end
-    return userdata.table[tableName]
-end
+local userdata_table = mods.multiverse.userdata_table
+local is_first_shot = mods.multiverse.is_first_shot
 
 local function vter(cvec)
     local i = -1
@@ -21,14 +19,6 @@ end
 -- Find ID of a room at the given location
 local function get_room_at_location(shipManager, location, includeWalls)
     return Hyperspace.ShipGraph.GetShipInfo(shipManager.iShipId):GetSelectedRoom(location.x, location.y, includeWalls)
-end
-
-local function is_first_shot(weapon, afterFirstShot)
-    local shots = weapon.numShots
-    if weapon.weaponVisual.iChargeLevels > 0 then shots = shots*(weapon.weaponVisual.boostLevel + 1) end
-    if weapon.blueprint.miniProjectiles:size() > 0 then shots = shots*weapon.blueprint.miniProjectiles:size() end
-    if afterFirstShot then shots = shots - 1 end
-    return shots == weapon.queuedProjectiles:size()
 end
 
 -- Returns a table where the indices are the IDs of all rooms adjacent to the given room
@@ -113,23 +103,6 @@ end
 local function reset_weapon_charge(weapon)
     weapon.cooldown.first = 0
     weapon.chargeLevel = 0
-end
-
-local function reduce_weapon_charge(ship, weapon)
-    if weapon.cooldown.first > 0 then
-        if weapon.cooldown.first >= weapon.cooldown.second then
-            weapon.chargeLevel = weapon.chargeLevel - 1
-        end
-        local gameSpeed = Hyperspace.FPS.SpeedFactor
-        local autoCooldown = 1 + ship:GetAugmentationValue("AUTO_COOLDOWN")
-        weapon.cooldown.first = weapon.cooldown.first - 0.375*gameSpeed - autoCooldown*gameSpeed/16
-        if weapon.cooldown.first <= 0 then
-            weapon.cooldown.first = 0
-            weapon.chargeLevel = 0
-        end
-    else
-        weapon.chargeLevel = 0
-    end
 end
 
 --[[
@@ -394,20 +367,6 @@ script.on_internal_event(Defines.InternalEvents.ON_TICK, function()
                     reset_weapon_charge(weapon)
                     return
                 end
-            end
-        end
-    end
-end)
-
-mods.trc.needSysPowerWeapons = {}
-local needSysPowerWeapons = mods.trc.needSysPowerWeapons
-needSysPowerWeapons["TRC_LASER_COMPACT"] = true
-
-script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(ship)
-    if ship:HasSystem(3) and not ship.weaponSystem:Powered() then
-        for weapon in vter(ship.weaponSystem.weapons) do
-            if needSysPowerWeapons[weapon.blueprint.name] then
-                reduce_weapon_charge(ship, weapon)
             end
         end
     end

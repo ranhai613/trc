@@ -85,11 +85,6 @@
 		<hiddenAug>SHIP_PIRATE</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>6</crewLimit>
-		<rooms>
-			<room id="9">
-				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
-			</room>
-		</rooms>
 	</mod-append:customShip>
 	
 	<mod-append:ship name="TRC_PLAYER_SHIP_ENGI" b="true" c="true">
@@ -298,20 +293,10 @@
 	<mod-append:customShip name="TRC_PLAYER_SHIP_MONK_2">
 		<hiddenAug>SHIP_DUSKBRINGER</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
-		<rooms>
-			<room id="6">
-				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
-			</room>
-		</rooms>
 	</mod-append:customShip>
 	<mod-append:customShip name="TRC_PLAYER_SHIP_MONK_3">
 		<hiddenAug>SHIP_SLUG</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
-		<rooms>
-			<room id="11">
-				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
-			</room>
-		</rooms>
 		<crewLimit>9</crewLimit>
 	</mod-append:customShip>
 	
@@ -383,11 +368,7 @@
 	<mod-append:customShip name="TRC_PLAYER_SHIP_LOSTSUN_3">
 		<hiddenAug>SHIP_LEECH</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
-		<rooms>
-			<room id="4">
-				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
-			</room>
-		</rooms>
+		<crewLimit>10</crewLimit>
 	</mod-append:customShip>
 	
 	<mod-append:ship name="TRC_PLAYER_SHIP_SCIENTIST" b="true" c="true">
@@ -483,7 +464,6 @@
 			</room>
 			<room id="10">
 				<roomAnim renderLayer="0">gash_1x3</roomAnim>
-				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
 			</room>
 			<room id="11">
 				<roomAnim renderLayer="0">gash_2x1</roomAnim>
@@ -526,11 +506,6 @@
 		<hiddenAug>SHIP_DYNASTY</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>12</crewLimit>
-		<rooms>
-			<room id="19">
-				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
-			</room>
-		</rooms>
 	</mod-append:customShip>
 	
 	<mod-append:ship name="TRC_PLAYER_SHIP_BROOD" b="true" c="true">
@@ -733,18 +708,13 @@
 		</unlock>
 	</mod-append:ship>
 	<mod-append:customShip name="TRC_PLAYER_SHIP_PLEASURE">
-		<hiddenAug>SHIP_SLUG</hiddenAug>
+		<hiddenAug>SHIP_PLEASURE</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>9</crewLimit>
 	</mod-append:customShip>
 	<mod-append:customShip name="TRC_PLAYER_SHIP_PLEASURE_2">
 		<hiddenAug>SHIP_AUGMENTED</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
-		<rooms>
-			<room id="1">
-				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
-			</room>
-		</rooms>
 	</mod-append:customShip>
 	<mod-append:customShip name="TRC_PLAYER_SHIP_PLEASURE_3">
 		<hiddenAug>SHIP_PIRATE</hiddenAug>
@@ -822,11 +792,6 @@
 			<slug_clansman room="6"/>  <!--weapons-->
 			<slug_clansman room="5"/>  <!--shields-->
 		</crew>
-		<rooms>
-			<room id="2">
-				<roomAnim renderLayer="2">tele_ico</roomAnim> <!--temp-->
-			</room>
-		</rooms>
 	</mod-append:customShip>
 	<mod-append:customShip name="TRC_PLAYER_SHIP_REBEL_3">
 		<hiddenAug>SHIP_GHOST</hiddenAug>
@@ -1121,226 +1086,6 @@
 	</drone>
 </drones>
 
-<mod:findLike type="augments">
-	<mod:findName type="aug" name="UPG_DRONE_SPEED">
-		<mod:findLike type="statBoosts">
-			<mod-append:statBoost name="moveSpeedMultiplier">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<amount>2</amount>
-				<priority>0</priority>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-			<mod-append:statBoost name="damageMultiplier">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<amount>1.5</amount>
-				<priority>0</priority>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-			<mod-append:statBoost name="sabotageSpeedMultiplier">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<amount>1.5</amount>
-				<priority>0</priority>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-			<mod-append:statBoost name="repairSpeed">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<amount>1.5</amount>
-				<priority>0</priority>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-			<mod-append:statBoost name="healCrewAmount">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<amount>1.2</amount>
-				<priority>0</priority>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-		</mod:findLike>
-	</mod:findName>
-	<mod:findName type="aug" name="EX_DRONE_SPEED">
-		<mod:findLike type="statBoosts">
-			<mod-append:statBoost name="moveSpeedMultiplier">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<amount>2</amount>
-				<priority>0</priority>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-			<mod-append:statBoost name="damageMultiplier">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<amount>1.5</amount>
-				<priority>0</priority>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-			<mod-append:statBoost name="sabotageSpeedMultiplier">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<amount>1.5</amount>
-				<priority>0</priority>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-			<mod-append:statBoost name="repairSpeed">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<amount>1.5</amount>
-				<priority>0</priority>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-			<mod-append:statBoost name="healCrewAmount">
-				<boostType>MULT</boostType>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<amount>1.2</amount>
-				<priority>0</priority>
-				<whiteList>
-					<repair/>
-				</whiteList>
-				<systemPowerDependency>
-					<drones/>
-				</systemPowerDependency>
-				<systemPowerScaling>
-					<noSys>0</noSys>
-					<noPwr>0</noPwr>
-					<onePwr>1</onePwr>
-				</systemPowerScaling>
-			</mod-append:statBoost>
-		</mod:findLike>
-	</mod:findName>
-	
-	<mod-append:aug name="EX_LAB_ENGI_COMBAT">
-    	<statBoosts>
-			<statBoost name="damageMultiplier">
-				<boostType>SET</boostType>
-				<amount>1.00</amount>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<priority>999</priority>
-				<whiteList load="LIST_CREW_ENGI"/>
-			</statBoost>
-			<statBoost name="maxHealth">
-				<boostType>FLAT</boostType>
-				<amount>10</amount>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<priority>999</priority>
-				<whiteList load="LIST_CREW_ENGI"/>
-			</statBoost>
-			<statBoost name="repairSpeed">
-				<boostType>MULT</boostType>
-				<amount>0.75</amount>
-				<shipTarget>ALL</shipTarget>
-				<crewTarget>ALLIES</crewTarget>
-				<priority>999</priority>
-				<whiteList load="LIST_CREW_ENGI"/>
-			</statBoost>
-		</statBoosts>
-    </mod-append:aug>
-</mod:findLike>
-
 <events>
 	<bossShip>MU_COLLECTOR</bossShip>
 	<bossShip>MU_CONTINUITY_BOSS</bossShip>
@@ -1415,211 +1160,210 @@
             </item>   
         </category>
     </mod-append:customStore>
-	<!-- WALLACE BEACON -->
-	 <mod:findLike type="customStore"><mod:selector id="STORE_ULTIMATE_SYLVAN"/>
-		<mod-append:category type="WEAPONS">
-			<item>
-				<blueprint>TRC_LASER_CHARGEGUN_HEAVY</blueprint>
-			</item>
-			<item>
-				<blueprint>TRC_LASER_AMP2</blueprint>
-			</item>
-			<item>
-				<blueprint>TRC_LASER_COMPACT</blueprint>
-			</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_LASER_LIGHT_BURST</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_LASER_PARTICLE_BIO</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_LASER_PARTICLE_BIO_2</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_MAGNIFIER_1</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_MAGNIFIER_2</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_MAGNIFIER_PIERCE</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_MAGNIFIER_ION</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BEAM_TILE</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BEAM_BIO_2</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_BEAM_HULL_CHAIN</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BEAM_ADAPT_CONSERVATIVE</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_ION_BREACH</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_ION_CHAINGUN_2</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_ENERGY_PIERCE_1</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_ENERGY_FIRE</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_FOCUS_FIRE</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_FOCUS_CONSERVATIVE</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BOMB_SHRAPNEL</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_BOMB_PART</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BOMB_GASOLINE</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BOMB_DRONE</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_BOMB_SPIDER</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BOMB_MUTANT</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_MISSILES_HEAL</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_MISSILES_FROST</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_MISSILES_SHRAPNEL</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_MISSILES_SHRAPNEL_2</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_MISSILES_INSTANT</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_SENTRY_HAZARD</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_VIRULENT</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_MINELAUNCHER_ION</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_SHOTGUN_TRIFECTA</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_SHOTGUN_FROST</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_DRONE_GUN</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_ULTRABURN</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_SYSTEMSHOCK</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_FLARE_LAUNCHER</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BREACHING_POD</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_BEAM_ION</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_BOMB_COLONIZER</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_LAVA_THROWER</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_CASH_GUN</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="WEAPONS">
-				<item>
-					<blueprint>TRC_EPISTLE</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="DRONES">
-				<item>
-					<blueprint>TRC_DRONE_POP</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_DRONE_POP_2</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_THUNDER_1_BREACH</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="DRONES">
-				<item>
-					<blueprint>TRC_COMBAT_MISSILE</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_SCATTERSHOT</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_EXTINGUISHER</blueprint>
-				</item>
-		</mod-append:category>
-		<mod-append:category type="DRONES">
-				<item>
-					<blueprint>TRC_VOLTAGE</blueprint>
-				</item>
-				<item>
-					<blueprint>TRC_OVERSHIELD</blueprint>
-				</item>
-		</mod-append:category>
-	</mod:findName>
 </mod:findLike>
-
+<!-- WALLACE BEACON -->
+<mod:findLike type="customStore"><mod:selector id="STORE_ULTIMATE_SYLVAN"/>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_LASER_CHARGEGUN_HEAVY</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_LASER_AMP2</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_LASER_COMPACT</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_LASER_LIGHT_BURST</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_LASER_PARTICLE_BIO</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_LASER_PARTICLE_BIO_2</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_MAGNIFIER_1</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_MAGNIFIER_2</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_MAGNIFIER_PIERCE</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_MAGNIFIER_ION</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_BEAM_TILE</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_BEAM_BIO_2</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_BEAM_HULL_CHAIN</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_BEAM_ADAPT_CONSERVATIVE</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_ION_BREACH</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_ION_CHAINGUN_2</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_ENERGY_PIERCE_1</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_ENERGY_FIRE</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_FOCUS_FIRE</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_FOCUS_CONSERVATIVE</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_BOMB_SHRAPNEL</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_BOMB_PART</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_BOMB_GASOLINE</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_BOMB_DRONE</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_BOMB_SPIDER</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_BOMB_MUTANT</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_MISSILES_HEAL</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_MISSILES_FROST</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_MISSILES_SHRAPNEL</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_MISSILES_SHRAPNEL_2</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_MISSILES_INSTANT</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_SENTRY_HAZARD</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_VIRULENT</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_MINELAUNCHER_ION</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_SHOTGUN_TRIFECTA</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_SHOTGUN_FROST</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_DRONE_GUN</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_ULTRABURN</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_SYSTEMSHOCK</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_FLARE_LAUNCHER</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_BREACHING_POD</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_BEAM_ION</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_BOMB_COLONIZER</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_LAVA_THROWER</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_CASH_GUN</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="WEAPONS">
+		<item>
+			<blueprint>TRC_EPISTLE</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="DRONES">
+		<item>
+			<blueprint>TRC_DRONE_POP</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_DRONE_POP_2</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_THUNDER_1_BREACH</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="DRONES">
+		<item>
+			<blueprint>TRC_COMBAT_MISSILE</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_SCATTERSHOT</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_EXTINGUISHER</blueprint>
+		</item>
+	</mod-append:category>
+	<mod-append:category type="DRONES">
+		<item>
+			<blueprint>TRC_VOLTAGE</blueprint>
+		</item>
+		<item>
+			<blueprint>TRC_OVERSHIELD</blueprint>
+		</item>
+	</mod-append:category>
+</mod:findLike>
 
 <mod:findLike type="scripts" limit="1">
     <mod-append:script>data/trc_scripts/trc_weaponFunctions.lua</mod-append:script>

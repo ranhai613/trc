@@ -1,8 +1,8 @@
 <metadata>
   <title><![CDATA[ FTL: MULTIVERSE - THE RENEGADE COLLECTION ]]></title>
-  <threadUrl><![CDATA[https://subsetgames.com/forum/viewtopic.php?f=11&t=38203&sid=405a0cd690be2edf1aa26634fd447b12]]></threadUrl>
+  <threadUrl><![CDATA[https://ftlmultiverse.boards.net/thread/35/renegade-collection-version-]]></threadUrl>
   <author><![CDATA[Kix]]></author>
-  <version><![CDATA[ 2.2 ]]></version>
+  <version><![CDATA[ 2.3 ]]></version>
   <description>
 <![CDATA[ 
 PATCH AFTER MULTIVERSE
@@ -62,7 +62,7 @@ A support Bomb that deploys a temporary repair drone at the cost of a dronepart 
 ---Arachno Bomb---
 A bizare utility bomb that spawns 2 temporary hatchling allies but does no direct physical damage
 --Mutagen Bomb--
-A strange bomb that causes crew to mutate, changing them into terrifying mutants.
+A strange bomb that causes crew to mutate, changing them into terrifying mutants
 ---'Apollo' Missiles---
 A missile that does no crew damage but heals allied crew in the room it hits
 ---'Boreas' Missiles---
@@ -98,7 +98,7 @@ A swift Drone that evades anti-drone measures and supress shield layers without 
 ---Thundershock Combat Drone---
 A bomb-equipped Toggle Drone that can switch between breach bombs and ion bombs
 ---'Theseus' Combat Drone---
-A Missile drone that requires 5 missiles to deploy
+A Missile drone that requires 3 missiles to deploy
 ---Scattershot Defense Drone---
 A flak based Defense Drone with a quick cooldown but slow projectiles which can target anything
 ---Extinguisher Crew Drone---
@@ -106,7 +106,7 @@ A utility repair drone that extinguishes fires very fast and drains oxygen but i
 ---Voltage Crew Drone---
 A utility drone that provides a hefty power boost but decays due to instability
 ---Overshield Crew Drone---
-A boarding drone that drains power from systems to power shields that it provides to allied crew
+A shipboard drone that drains power from systems to power shields that it provides to allied crew
 ]]>
   </description>
 </metadata>

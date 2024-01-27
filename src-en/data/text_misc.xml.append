@@ -15,8 +15,6 @@
 
 <text name="tip_suppressor">Tip: Suppressors do no physical damage but are excellent at taking down shields. They can also damage Energy Shields.</text>
 
-<text name="tip_compact">Tip: Compact weapons feed off of power leaks in a system, so they don't need to use any power themselves. Unlike standard conservative weapons, they only charge while the weapon system is powered.</text>
-
 <text name="tip_missile_combat">Tip: Missile drones require a heavy sum of missiles to deploy, but do not consume missiles when they fire.
 
 Tip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered.</text>
