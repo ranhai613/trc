@@ -586,7 +586,7 @@ msgstr "가솔린 폭탄"
 #: src-en/data/blueprints.xml.append:1380
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/short"
-msgstr "Gas B."
+msgstr "Gasoline B."
 
 #: src-en/data/blueprints.xml.append:1382
 msgid ""
@@ -1143,7 +1143,7 @@ msgstr "광기의 서"
 
 #: src-en/data/blueprints.xml.append:2628
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/short"
-msgstr "Epistle"
+msgstr "'Epistle'"
 
 #: src-en/data/blueprints.xml.append:2629
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
@@ -1450,7 +1450,7 @@ msgstr "제압 드론 마크 I"
 
 #: src-en/data/blueprints.xml.append:3098
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/short"
-msgstr "Suppr I"
+msgstr "Suppressor I"
 
 #: src-en/data/blueprints.xml.append:3099
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/desc"
@@ -1465,7 +1465,7 @@ msgstr "제압 드론 마크 II"
 #: src-en/data/blueprints.xml.append:3113
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/short"
-msgstr "Suppr II"
+msgstr "Suppressor II"
 
 #: src-en/data/blueprints.xml.append:3114
 msgid ""
