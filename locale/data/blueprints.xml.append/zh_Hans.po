@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-01-30 04:25+0000\n"
+"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -128,12 +135,12 @@ msgstr "精心调制的粒子技术，放弃了起火特性转而对船员直接
 #: src-en/data/blueprints.xml.append:408
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/title"
-msgstr "汇聚I"
+msgstr "聚能I"
 
 #: src-en/data/blueprints.xml.append:409
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/short"
-msgstr "汇聚I"
+msgstr "聚能I"
 
 #: src-en/data/blueprints.xml.append:411
 msgid ""
@@ -141,10 +148,12 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:412
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
 msgstr ""
-"\"汇聚\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
+"\"聚能\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充"
+"能都会增加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：1\n"
@@ -166,12 +175,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
-msgstr "汇聚II"
+msgstr "聚能II"
 
 #: src-en/data/blueprints.xml.append:470
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/short"
-msgstr "汇聚II"
+msgstr "聚能II"
 
 #: src-en/data/blueprints.xml.append:472
 msgid ""
@@ -179,10 +188,12 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:473
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
 msgstr ""
-"\"汇聚\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
+"\"聚能\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充"
+"能都会增加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：2\n"
@@ -204,12 +215,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/title"
-msgstr "穿刺汇聚"
+msgstr "穿刺聚能"
 
 #: src-en/data/blueprints.xml.append:531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
-msgstr "穿刺汇聚"
+msgstr "穿刺聚能"
 
 #: src-en/data/blueprints.xml.append:533
 msgid ""
@@ -217,10 +228,12 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:534
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
-"\"汇聚\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增加护盾穿透能力和破舱几率。充能会随时间推移逐渐加快。\n"
+"\"聚能\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充"
+"能都会增加护盾穿透能力和破舱几率。充能会随时间推移逐渐加快。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：2\n"
@@ -242,12 +255,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
-msgstr "离子汇聚"
+msgstr "离子聚能"
 
 #: src-en/data/blueprints.xml.append:592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/short"
-msgstr "离子汇聚"
+msgstr "离子聚能"
 
 #: src-en/data/blueprints.xml.append:594
 msgid ""
@@ -255,10 +268,12 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:595
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
 msgstr ""
-"\"汇聚\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增加离子伤害和击晕几率。充能会随时间推移逐渐加快。\n"
+"\"聚能\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充"
+"能都会增加离子伤害和击晕几率。充能会随时间推移逐渐加快。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：1\n"
