@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 04:25+0000\n"
-"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
+"PO-Revision-Date: 2024-01-31 03:48+0000\n"
+"Last-Translator: 羽绯 <2488550685@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -85,7 +85,7 @@ msgstr "袖珍激光"
 #: src-en/data/blueprints.xml.append:170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_COMPACT\"]/desc"
-msgstr "这种奇特的激光炮射速极快且不使用能量，但是命中率很差。"
+msgstr "这种奇特的激光炮射速极快且不使用能量，但是命中率极差。"
 
 #: src-en/data/blueprints.xml.append:210
 msgid ""
@@ -135,7 +135,7 @@ msgstr "精心调制的粒子技术，放弃了起火特性转而对船员直接
 #: src-en/data/blueprints.xml.append:408
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/title"
-msgstr "聚能I"
+msgstr "聚能激光I"
 
 #: src-en/data/blueprints.xml.append:409
 msgid ""
@@ -148,7 +148,6 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:412
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
 msgstr ""
@@ -157,25 +156,25 @@ msgstr ""
 "\n"
 "\t属性：\n"
 "\t需要能量：1\n"
-"\t充能时间：11秒\n"
+"\t充能时间：11 秒\n"
 "\t命中率加成：+10%\n"
 "\n"
 "\t最大充能：3\n"
-"\t充能提速：0/30/69%\n"
+"\t充能提速：1.3X 每层充能\n"
 "\n"
-"\t船体伤害：2/3/4\n"
-"\t系统伤害：2/3/4\n"
-"\t人员伤害：30/45/60\n"
+"\t船体伤害：2/3/4 点\n"
+"\t系统伤害：2/3/4 点\n"
+"\t人员伤害：30/45/60 点\n"
 "\n"
 "\t着火几率：10/20/30%\n"
 "\t破舱几率：10/20/30% (修正后：9/16/21%)\n"
 "\n"
-"\t购买/出售价格：55~/27~"
+"\t基础价格：55~"
 
 #: src-en/data/blueprints.xml.append:469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
-msgstr "聚能II"
+msgstr "聚能激光II"
 
 #: src-en/data/blueprints.xml.append:470
 msgid ""
@@ -188,7 +187,6 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:473
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
 msgstr ""
@@ -197,25 +195,25 @@ msgstr ""
 "\n"
 "\t属性：\n"
 "\t需要能量：2\n"
-"\t充能时间：13秒\n"
+"\t充能时间：13 秒\n"
 "\t命中率加成：+10%\n"
 "\n"
 "\t最大充能：4\n"
-"\t充能提速：0/50/125/237.5%\n"
+"\t充能提速：1.5X 每层充能\n"
 "\n"
-"\t船体伤害：3/4/5/6\n"
-"\t系统伤害：3/4/5/6\n"
-"\t人员伤害：45/60/75/90\n"
+"\t船体伤害：3/4/5/6 点\n"
+"\t系统伤害：3/4/5/6 点\n"
+"\t人员伤害：45/60/75/90 点\n"
 "\n"
 "\t着火几率：10/20/30/40%\n"
 "\t破舱几率：10/20/30/40% (修正后：9/16/21/24%)\n"
 "\n"
-"\t购买/出售价格：70~/35~"
+"\t基础价格：70~"
 
 #: src-en/data/blueprints.xml.append:530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/title"
-msgstr "穿刺聚能"
+msgstr "穿刺聚能激光"
 
 #: src-en/data/blueprints.xml.append:531
 msgid ""
@@ -228,7 +226,6 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:534
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
@@ -237,25 +234,25 @@ msgstr ""
 "\n"
 "\t属性：\n"
 "\t需要能量：2\n"
-"\t充能时间：9秒\n"
+"\t充能时间：9 秒\n"
 "\t命中率加成：+10%\n"
 "\n"
 "\t最大充能：4\n"
-"\t护盾穿透：1/2/3/4\n"
-"\t充能提速：0/50/125/237.5%\n"
+"\t护盾穿透：1/2/3/4 层\n"
+"\t充能提速：1.5X 每层充能\n"
 "\n"
-"\t船体伤害：2\n"
-"\t系统伤害：2\n"
-"\t人员伤害：30\n"
+"\t船体伤害：2 点\n"
+"\t系统伤害：2 点\n"
+"\t人员伤害：30 点\n"
 "\n"
 "\t破舱几率：60/70/80/90%\n"
 "\n"
-"\t购买/出售价格：60~/30~"
+"\t基础价格：60~"
 
 #: src-en/data/blueprints.xml.append:591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
-msgstr "离子聚能"
+msgstr "离子聚能激光"
 
 #: src-en/data/blueprints.xml.append:592
 msgid ""
@@ -268,7 +265,6 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:595
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
 msgstr ""
@@ -277,17 +273,17 @@ msgstr ""
 "\n"
 "\t属性：\n"
 "\t需要能量：1\n"
-"\t充能时间：8秒\n"
+"\t充能时间：8 秒\n"
 "\t命中率加成：+10%\n"
 "\n"
 "\t最大充能：4\n"
-"\t充能提速：0/20/44/72.8%\n"
+"\t充能提速：1.2X 每层充能\n"
 "\n"
-"\t离子伤害：1/2/3/4\n"
+"\t离子伤害：1/2/3/4 点\n"
 "\n"
 "\t击晕几率：30/40/50/60% (3秒)\n"
 "\n"
-"\t购买/出售价格：50~/25~"
+"\t基础价格：50~"
 
 #: src-en/data/blueprints.xml.append:659
 msgid ""
@@ -307,22 +303,23 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/descriptionOverride"
 msgstr ""
-"撕裂光束以舱格计算造成的伤害而非以舱室。这件武器非常擅长损坏系统，舱室越大，威力就越大。\n"
+"撕裂光束按照划过的的格子数目而非舱室计算伤害。这种光束专精于造成系统伤害，对"
+"处于大型舱室的系统更加有效。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：2\n"
-"\t充能时间：14秒\n"
+"\t充能时间：14 秒\n"
 "\n"
 "\t光束长度：128\n"
 "\t光束速度：6\n"
 "\n"
-"\t系统伤害：1点\n"
-"\t护盾穿透：1层\n"
+"\t系统伤害：1 点\n"
+"\t护盾穿透：1 层\n"
 "\t伤害以划过的舱格计算\n"
 "\n"
 "\t破舱几率：20% \n"
 "\n"
-"\t购买/出售价格：65~/32~"
+"\t基础价格：65~"
 
 #: src-en/data/blueprints.xml.append:704
 msgid ""
@@ -337,7 +334,8 @@ msgstr "鹰钩辐束II"
 #: src-en/data/blueprints.xml.append:706
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/desc"
-msgstr "这种可怕的辐射光束能造成高额船员伤害并将其虚弱。它比I型更长、伤害也更高，但无法穿透护盾。"
+msgstr "这种可怕的辐射光束可对船员造成大量伤害，并削弱敌方船员。相较于其原始型号，该"
+"版本光束更长，威力更高，但牺牲了穿盾能力。"
 
 #: src-en/data/blueprints.xml.append:765
 msgid ""
@@ -352,22 +350,24 @@ msgstr "鹰钩辐束II†"
 #: src-en/data/blueprints.xml.append:767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
-msgstr "这种可怕的辐射光束能造成高额船员伤害并将其虚弱。它比I型更长、伤害也更高，但无法穿透护盾。"
+msgstr "这种可怕的辐射光束可对船员造成大量伤害，并削弱敌方船员。相较于其原始型号，该"
+"版本光束更长，威力更高，但牺牲了穿盾能力。"
 
 #: src-en/data/blueprints.xml.append:827
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/title"
-msgstr "'月斧'光束"
+msgstr "'宽斧'链式光束"
 
 #: src-en/data/blueprints.xml.append:828
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/short"
-msgstr "月斧光束"
+msgstr "宽斧链束"
 
 #: src-en/data/blueprints.xml.append:830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
-msgstr "这件光束武器每次充能后下层充能会加快，还会对空舱室造成两倍伤害。"
+msgstr "这种光束武器每次发射都会减少充能时间，并且能够在瞄准空房间时对舰体造成沉重打"
+"击。"
 
 #: src-en/data/blueprints.xml.append:860
 msgid ""
@@ -382,12 +382,15 @@ msgstr "钩枪光束"
 #: src-en/data/blueprints.xml.append:862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/desc"
-msgstr "一种极其缓慢但自成一系的适应性光束，只要积蓄足够久的时间，可以造成无穷大的伤害。集能武器无需反应堆供能但需要另一件已充能的武器以吸收能量。"
+msgstr ""
+"一种充能较慢但自给自足的自适应光束，如果给予其足够长的时间积蓄能量，它的威力"
+"就可以无限上升。由于不具备初始系统伤害，它需要更长的时间才能有效地破坏系统。"
+"集能武器不使用能量，但需要另一种已供能的武器。"
 
 #: src-en/data/blueprints.xml.append:901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/title"
-msgstr "窒息离子"
+msgstr "窒息离子炮"
 
 #: src-en/data/blueprints.xml.append:902
 msgid ""
@@ -397,22 +400,22 @@ msgstr "窒息离子"
 #: src-en/data/blueprints.xml.append:905
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/desc"
-msgstr "一件非常优于窒息敌人的武器，虽然也有其他用途。"
+msgstr "一种特化于造成破舱以窒息敌方船员的离子武器，尽管它也可以用于其他用途。"
 
 #: src-en/data/blueprints.xml.append:947
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/title"
-msgstr "窒息离子†"
+msgstr "窒息离子炮†"
 
 #: src-en/data/blueprints.xml.append:948
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/short"
-msgstr "窒息离子∫"
+msgstr "窒息离子†"
 
 #: src-en/data/blueprints.xml.append:951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/desc"
-msgstr "一件非常优于窒息敌人的武器，虽然也有其他用途。"
+msgstr "一种特化于造成破舱以窒息敌方船员的离子武器，尽管它也可以用于其他用途。"
 
 #: src-en/data/blueprints.xml.append:994
 msgid ""
@@ -427,52 +430,56 @@ msgstr "无极离子"
 #: src-en/data/blueprints.xml.append:998
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/desc"
-msgstr ""
+msgstr "不同于标准的自适应离子，这种武器可以随射击将威力提升至足以同时压制多个系统，"
+"但充能速度相对更慢。"
 
 #: src-en/data/blueprints.xml.append:1055
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/title"
-msgstr ""
+msgstr "相位能量炮"
 
 #: src-en/data/blueprints.xml.append:1056
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/short"
-msgstr ""
+msgstr "相位能量"
 
 #: src-en/data/blueprints.xml.append:1059
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/desc"
-msgstr ""
+msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种特殊型号的武器可以穿透护盾"
+"，并对第一层护盾和击中舱室的系统造成离子伤害。"
 
 #: src-en/data/blueprints.xml.append:1100
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/title"
-msgstr ""
+msgstr "相位能量炮†"
 
 #: src-en/data/blueprints.xml.append:1101
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/short"
-msgstr ""
+msgstr "相位能量∫"
 
 #: src-en/data/blueprints.xml.append:1104
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/desc"
-msgstr ""
+msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种特殊型号的武器可以穿透护盾"
+"，并对第一层护盾和击中舱室的系统造成离子伤害。"
 
 #: src-en/data/blueprints.xml.append:1147
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/title"
-msgstr ""
+msgstr "火焰能量"
 
 #: src-en/data/blueprints.xml.append:1148
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/short"
-msgstr ""
+msgstr "火焰能量"
 
 #: src-en/data/blueprints.xml.append:1150
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/desc"
-msgstr ""
+msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。相较于标准能量炮，这种武器具有"
+"更高的起火率。"
 
 #: src-en/data/blueprints.xml.append:1201
 msgid ""
@@ -487,32 +494,33 @@ msgstr "灼烧光点"
 #: src-en/data/blueprints.xml.append:1203
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/desc"
-msgstr ""
+msgstr "一种充能速度较快的光点武器，具备最低限度的穿盾能力。该种光点除了点火之外不会"
+"造成任何物理伤害。"
 
 #: src-en/data/blueprints.xml.append:1228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/title"
-msgstr "'细匕'光点"
+msgstr "集能光点"
 
 #: src-en/data/blueprints.xml.append:1229
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/short"
-msgstr "细匕光点"
+msgstr "集能光点"
 
 #: src-en/data/blueprints.xml.append:1230
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/desc"
-msgstr ""
+msgstr "充能较慢但非常可靠的光点武器。集能武器不使用能量，但需要另一种已供能的武器。"
 
 #: src-en/data/blueprints.xml.append:1264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/title"
-msgstr ""
+msgstr "破片炸弹"
 
 #: src-en/data/blueprints.xml.append:1265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/short"
-msgstr ""
+msgstr "破片炸弹"
 
 #: src-en/data/blueprints.xml.append:1267
 msgid ""
@@ -523,6 +531,22 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/descriptionOverride"
 msgstr ""
+"自传送炸弹，可对目标舱室造成系统和船员伤害，并对所有邻近舱室造成1点系统伤害。"
+"可瞄准己方星舰。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：1\n"
+"\t充能时间：14 秒\n"
+"\t弹药消耗：1 发\n"
+"\t命中率加成：+30%\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t系统伤害：1 点\n"
+"\t船员伤害：30 点\n"
+"\t相邻系统伤害：1 点\n"
+"\n"
+"\t基础价格：55~"
 
 #: src-en/data/blueprints.xml.append:1314
 msgid ""
@@ -536,7 +560,8 @@ msgstr "粒子炸弹"
 
 #: src-en/data/blueprints.xml.append:1317
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/desc"
-msgstr ""
+msgstr "自传送炸弹，内含一次性粒子加速器，可对系统造成沉重打击并引发火焰。可瞄准己方"
+"星舰。"
 
 #: src-en/data/blueprints.xml.append:1346
 msgid ""
@@ -551,7 +576,8 @@ msgstr "粒子炸弹∫"
 #: src-en/data/blueprints.xml.append:1349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/desc"
-msgstr ""
+msgstr "自传送炸弹，内含一次性粒子加速器，可对系统造成沉重打击并引发火焰。可瞄准己方"
+"星舰。"
 
 #: src-en/data/blueprints.xml.append:1379
 msgid ""
@@ -567,16 +593,19 @@ msgstr "汽油炸弹"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/desc"
 msgstr ""
+"自传送炸弹，能将汽油喷洒于船员和无人机，使他们受到的火焰伤害增加4倍，移动速度"
+"降低30%，持续20秒。如果作用对象在效果期间死亡，其残骸也会引发火灾。\n"
+"这种武器具有自我复制能力，发射不消耗弹药。"
 
 #: src-en/data/blueprints.xml.append:1448
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/title"
-msgstr ""
+msgstr "维护炸弹"
 
 #: src-en/data/blueprints.xml.append:1449
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/short"
-msgstr ""
+msgstr "维护炸弹"
 
 #: src-en/data/blueprints.xml.append:1450
 msgid ""
@@ -587,26 +616,40 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
 msgstr ""
+"自传送炸弹，可在己方舰船上部署一架有限寿命的维护无人机，辅助船员进行修复作业"
+"。可瞄准己方星舰。\n"
+"\n"
+"\t属性：\n"
+"\t无需供能\n"
+"\t充能时间：15 秒\n"
+"\t无人机消耗：1 架\n"
+"\t命中率加成：+30%\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t维护无人机寿命：90 秒\n"
+"\n"
+"\t基础价格：45~"
 
 #: src-en/data/blueprints.xml.append:1501
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/desc"
-msgstr ""
+msgstr "幼年蜘蛛。"
 
 #: src-en/data/blueprints.xml.append:1502
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/title"
-msgstr ""
+msgstr "幼体异蛛"
 
 #: src-en/data/blueprints.xml.append:1503
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/short"
-msgstr ""
+msgstr "幼体异蛛"
 
 #: src-en/data/blueprints.xml.append:1507
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[1]"
-msgstr ""
+msgstr "50点最大生命值，受到1.2倍灼烧伤害，0.10倍维修速度"
 
 #: src-en/data/blueprints.xml.append:1508
 msgid ""
@@ -616,7 +659,7 @@ msgstr "1.8倍战斗伤害、2.2倍移动速度"
 #: src-en/data/blueprints.xml.append:1509
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[3]"
-msgstr "3倍恢复速度"
+msgstr "3倍生命值恢复速度"
 
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
@@ -636,7 +679,7 @@ msgstr "滋蛛炸弹"
 #: src-en/data/blueprints.xml.append:1537
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/desc"
-msgstr ""
+msgstr "自传送炸弹，孵化2只有限寿命的幼年异形蜘蛛为你而战。可瞄准己方星舰。"
 
 #: src-en/data/blueprints.xml.append:1583
 msgid ""
@@ -655,7 +698,7 @@ msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:1630
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/desc"
-msgstr ""
+msgstr "绿油油像答辩一样的变异生物，真恶心，你为什么要去创造它？"
 
 #: src-en/data/blueprints.xml.append:1632
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/title"
@@ -683,7 +726,7 @@ msgstr "死亡时爆炸，对同舱室造成15点船员伤害与1点系统伤害
 #: src-en/data/blueprints.xml.append:1639
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[4]"
-msgstr ""
+msgstr "将在15秒后退化并释放船员"
 
 #: src-en/data/blueprints.xml.append:1645
 msgid ""
@@ -699,6 +742,11 @@ msgstr "变异炸弹"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/desc"
 msgstr ""
+"自传送炸弹，能够将被击中的船员（不分敌我）转变为绿油油的变异生物。变异效果持"
+"续15秒。\n"
+"\n"
+"\t变异体具有2.3倍战斗伤害，无法维修或恢复生命、0."
+"5倍移动速度。并在死亡时爆炸，对同舱室造成15点船员伤害与1点系统伤害。"
 
 #: src-en/data/blueprints.xml.append:1705
 msgid ""
@@ -713,7 +761,8 @@ msgstr "光神导弹"
 #: src-en/data/blueprints.xml.append:1707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/desc"
-msgstr ""
+msgstr "一种极端特化但效果不错的导弹武器。它不会对船员造成伤害，转而为被击中舱室的友"
+"方船员提供每秒4点生命值回复效果，持续15秒。回复效果可以叠加。"
 
 #: src-en/data/blueprints.xml.append:1757
 msgid ""
@@ -734,6 +783,26 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/descriptionOverride"
 msgstr ""
+"自传送炸弹，可在己方舰船上部署一架有限寿命的维护无人机，辅助船员进行修复作业"
+"。可瞄准己方星舰。\n"
+"\n"
+"\t属性：\n"
+"\t无需供能\n"
+"\t需要能量：2\n"
+"\t充能时间：14 秒\n"
+"\t弹药消耗：1 发\n"
+"\t命中率加成：+10%\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t舰体伤害：3 点\n"
+"\t系统伤害：3 点\n"
+"\t船员伤害：60 点\n"
+"\t护盾穿透：10 层\n"
+"\n"
+"\tf\n"
+"\n"
+"\t基础价格：45~"
 
 #: src-en/data/blueprints.xml.append:1831
 msgid ""
@@ -748,12 +817,12 @@ msgstr "风神导弹"
 #: src-en/data/blueprints.xml.append:1833
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/desc"
-msgstr ""
+msgstr "一种重型导弹武器，将在击中时封锁舱室。"
 
 #: src-en/data/blueprints.xml.append:1884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/title"
-msgstr "'律神'弹片导弹"
+msgstr "'律神'破片导弹"
 
 #: src-en/data/blueprints.xml.append:1885
 msgid ""
@@ -769,16 +838,37 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/descriptionOverride"
 msgstr ""
+"一种效果强大的导弹武器，在击中目标后会产生溅射破片，对所有邻近舱室造成1点系统"
+"伤害。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：1\n"
+"\t充能时间：16 秒\n"
+"\t弹药消耗：1 发\n"
+"\t命中率加成：+10%\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t舰体伤害：2 点\n"
+"\t系统伤害：2 点\n"
+"\t船员伤害：45 点\n"
+"\t护盾穿透：10 层\n"
+"\t相邻系统伤害：1 点\n"
+"\n"
+"\t破舱率：50%\n"
+"\t击晕率：50%（3 秒）\n"
+"\n"
+"\t基础价格：55~"
 
 #: src-en/data/blueprints.xml.append:1947
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/title"
-msgstr "'毁神'弹片导弹"
+msgstr "'湮神'破片导弹"
 
 #: src-en/data/blueprints.xml.append:1948
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/short"
-msgstr "毁神导弹"
+msgstr "湮神导弹"
 
 #: src-en/data/blueprints.xml.append:1949
 msgid ""
@@ -789,6 +879,27 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/descriptionOverride"
 msgstr ""
+"一种效果强大的导弹武器，在击中目标后会产生溅射破片，对所有邻近舱室造成系统伤"
+"害。作为'律神'导弹的升级版本，该武器具有更高的伤害。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：3\n"
+"\t充能时间：16 秒\n"
+"\t弹药消耗：1 发\n"
+"\t命中率加成：+10%\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t舰体伤害：3 点\n"
+"\t系统伤害：3 点\n"
+"\t船员伤害：60 点\n"
+"\t护盾穿透：10 层\n"
+"\t相邻系统伤害：2 点\n"
+"\n"
+"\t破舱率：50%\n"
+"\t击晕率：50%（3 秒）\n"
+"\n"
+"\t基础价格：70~"
 
 #: src-en/data/blueprints.xml.append:2010
 msgid ""
@@ -803,12 +914,13 @@ msgstr "悔神导弹"
 #: src-en/data/blueprints.xml.append:2012
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/desc"
-msgstr ""
+msgstr "这种导弹武器无需供能，充能迅速，并发射一枚毁灭性的追踪导弹。每场战斗只能射击"
+"一次。"
 
 #: src-en/data/blueprints.xml.append:2068
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/title"
-msgstr "殃害哨卫部署器"
+msgstr "风险哨卫部署器"
 
 #: src-en/data/blueprints.xml.append:2069
 msgid ""
@@ -818,15 +930,16 @@ msgstr "殃害哨卫"
 #: src-en/data/blueprints.xml.append:2070
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/desc"
-msgstr ""
+msgstr "在击中舱室部署一个临时哨卫，舱室内敌方船员受到的环境伤害和眩晕时长翻倍，持续2"
+"0秒。哨卫不占用舱室空间并且不会被摧毁。"
 
 #: src-en/data/blueprints.xml.append:2142
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
-msgstr ""
+msgstr "瘟疫射电"
 
 #: src-en/data/blueprints.xml.append:2143
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/short"
-msgstr ""
+msgstr "瘟疫射电"
 
 #: src-en/data/blueprints.xml.append:2145
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
@@ -836,36 +949,56 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/descriptionOverride"
 msgstr ""
+"瘟疫射电镜会发射出高度有毒的辐射，先已在多个星区被禁止使用。它不仅会对目标舱"
+"室的船员造成伤害，还会对周边所有相邻舱室的船员造成伤害。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：2\n"
+"\t充能时间：8 秒\n"
+"\t命中率加成：+10%\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t船员伤害：60 点\n"
+"\t相邻船员伤害：30 点\n"
+"\t护盾穿透：10 层\n"
+"\n"
+"\t基础价格：50~"
 
 #: src-en/data/blueprints.xml.append:2209
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/title"
-msgstr "'恶鬼'空雷发射器"
+msgstr "'霆神'空雷发射器"
 
 #: src-en/data/blueprints.xml.append:2210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/short"
-msgstr "恶鬼空雷"
+msgstr "霆神空雷"
 
 #: src-en/data/blueprints.xml.append:2211
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
 msgstr ""
+"空雷发射器快速充能并发射一片缓慢移动的弹体，还能高效地向追击的叛军部署陷阱。"
+"\n"
+"\n"
+"\t可在空信标处用15发弹药来拖延2次叛军追击，不产生恶名。"
 
 #: src-en/data/blueprints.xml.append:2268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/title"
-msgstr "三联器"
+msgstr "三联破片炮"
 
 #: src-en/data/blueprints.xml.append:2269
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/short"
-msgstr "三联器"
+msgstr "三联破片"
 
 #: src-en/data/blueprints.xml.append:2271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/desc"
-msgstr ""
+msgstr "一挺怪异的，像是临时拼凑而来的武器。它在一轮充能攻击中会同时发射2枚破片和1发"
+"速度较慢的重型激光。"
 
 #: src-en/data/blueprints.xml.append:2312
 msgid ""
@@ -895,17 +1028,17 @@ msgstr "冰霜破片"
 #: src-en/data/blueprints.xml.append:2351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/desc"
-msgstr ""
+msgstr "射出4枚足以冻结房间的超低温弹丸，并且伴有船员眩晕效果。"
 
 #: src-en/data/blueprints.xml.append:2407
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/title"
-msgstr ""
+msgstr "锻炉无人机"
 
 #: src-en/data/blueprints.xml.append:2408
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/short"
-msgstr ""
+msgstr "锻炉无人机"
 
 #: src-en/data/blueprints.xml.append:2409
 msgid ""
@@ -915,12 +1048,12 @@ msgstr "你 不 应 该 看 到 这 个"
 #: src-en/data/blueprints.xml.append:2419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/title"
-msgstr ""
+msgstr "战斗锻炉"
 
 #: src-en/data/blueprints.xml.append:2420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/short"
-msgstr ""
+msgstr "战斗锻炉"
 
 #: src-en/data/blueprints.xml.append:2421
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
@@ -930,30 +1063,46 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/descriptionOverride"
 msgstr ""
+"一种内置小型锻炉的特化武器。以消耗无人机部件为代价，它可以部署一架有限寿命但"
+"火力充沛的战斗无人机来攻击敌方船舰。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：2\n"
+"\t充能时间：15 秒\n"
+"\t无人机消耗：1 架\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t生产类型：激光\n"
+"\t无人机寿命：7 发\n"
+"\t移动速度：35\n"
+"\n"
+"\t基础价格：60~"
 
 #: src-en/data/blueprints.xml.append:2473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/title"
-msgstr ""
+msgstr "‘炽炎’火炬光束"
 
 #: src-en/data/blueprints.xml.append:2474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/short"
-msgstr ""
+msgstr "炽炎火束"
 
 #: src-en/data/blueprints.xml.append:2475
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/desc"
-msgstr ""
+msgstr "一种发射集中热能光束的武器。其不仅能对船体和系统造成伤害，还能暂时打破船员的"
+"火焰免疫，使他们在15秒内受到1.5倍的火焰伤害。小心误伤！"
 
 #: src-en/data/blueprints.xml.append:2520
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/title"
-msgstr ""
+msgstr "'网络奇兵'范围离子炮"
 
 #: src-en/data/blueprints.xml.append:2521
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/short"
-msgstr ""
+msgstr "'网络奇兵'"
 
 #: src-en/data/blueprints.xml.append:2523
 msgid ""
@@ -964,16 +1113,32 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/descriptionOverride"
 msgstr ""
+"一款以过度增压著称的离子武器。当它直接击中一个舱室时，会产生连锁电离损伤效应"
+"，使得相邻所有系统受到1点离子伤害。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：2\n"
+"\t充能时间：12 秒\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t离子伤害：2 点\n"
+"\t相邻离子伤害：1 点\n"
+"\t护盾穿透：2 层\n"
+"\n"
+"\t击晕率：60 %（3 秒）\n"
+"\n"
+"\t基础价格：55~"
 
 #: src-en/data/blueprints.xml.append:2578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/title"
-msgstr "闪弹发射器"
+msgstr "闪光诱弹发射器"
 
 #: src-en/data/blueprints.xml.append:2579
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/short"
-msgstr "闪弹器"
+msgstr "闪光诱弹"
 
 #: src-en/data/blueprints.xml.append:2580
 msgid ""
@@ -996,6 +1161,21 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/descriptionOverride"
 msgstr ""
+"古老邪恶的造物，\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：2\n"
+"\t充能时间：12 秒\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t离子伤害：2 点\n"
+"\t相邻离子伤害：1 点\n"
+"\t护盾穿透：2 层\n"
+"\n"
+"\t击晕率：60 %（3 秒）\n"
+"\n"
+"\t基础价格：55~"
 
 #: src-en/data/blueprints.xml.append:2696
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
