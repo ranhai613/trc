@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-01-31 03:48+0000\n"
-"Last-Translator: 羽绯 <2488550685@qq.com>\n"
+"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
