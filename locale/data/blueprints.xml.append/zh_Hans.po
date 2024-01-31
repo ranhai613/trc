@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-31 03:48+0000\n"
-"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
+"PO-Revision-Date: 2024-01-31 07:58+0000\n"
+"Last-Translator: 羽绯 <2488550685@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1033,12 +1033,12 @@ msgstr "射出4枚足以冻结房间的超低温弹丸，并且伴有船员眩�
 #: src-en/data/blueprints.xml.append:2407
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/title"
-msgstr "锻炉无人机"
+msgstr "工厂无人机"
 
 #: src-en/data/blueprints.xml.append:2408
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/short"
-msgstr "锻炉无人机"
+msgstr "工厂无人机"
 
 #: src-en/data/blueprints.xml.append:2409
 msgid ""
@@ -1048,12 +1048,12 @@ msgstr "你 不 应 该 看 到 这 个"
 #: src-en/data/blueprints.xml.append:2419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/title"
-msgstr "战斗锻炉"
+msgstr "战斗工厂"
 
 #: src-en/data/blueprints.xml.append:2420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/short"
-msgstr "战斗锻炉"
+msgstr "战斗工厂"
 
 #: src-en/data/blueprints.xml.append:2421
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
@@ -1063,8 +1063,8 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/descriptionOverride"
 msgstr ""
-"一种内置小型锻炉的特化武器。以消耗无人机部件为代价，它可以部署一架有限寿命但"
-"火力充沛的战斗无人机来攻击敌方船舰。\n"
+"一种内置小型装配厂的特殊武器。以消耗无人机部件为代价，它可以部署一架有限寿命"
+"但火力充沛的战斗无人机来攻击敌方船舰。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：2\n"
@@ -1147,11 +1147,11 @@ msgstr "发射诱击闪弹来干扰防御无人机，若击中船员，还能将
 
 #: src-en/data/blueprints.xml.append:2627
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/title"
-msgstr ""
+msgstr "‘疯狂信札’"
 
 #: src-en/data/blueprints.xml.append:2628
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/short"
-msgstr ""
+msgstr "'信札'"
 
 #: src-en/data/blueprints.xml.append:2629
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
@@ -1161,43 +1161,48 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/descriptionOverride"
 msgstr ""
-"古老邪恶的造物，\n"
+"古老邪恶的混沌造物，可以将疯狂注入受害者的精神世界，并让其自相残杀。被击中的"
+"敌方船员将被心灵控制，但不能接受指令。\n"
 "\n"
 "\t属性：\n"
-"\t需要能量：2\n"
-"\t充能时间：12 秒\n"
+"\t需要能量：3\n"
+"\t充能时间：25 秒\n"
 "\n"
-"\t弹体数：1 发\n"
+"\t光束长度：200\n"
+"\t光束速度：5\n"
 "\n"
-"\t离子伤害：2 点\n"
-"\t相邻离子伤害：1 点\n"
-"\t护盾穿透：2 层\n"
+"\t护盾穿透：9 层\n"
 "\n"
-"\t击晕率：60 %（3 秒）\n"
+"\t心灵控制被击中的船员\n"
+"\t控制时长：45 秒\n"
 "\n"
-"\t基础价格：55~"
+"\t起火率：10 %\n"
+"\t破舱率：20 %\n"
+"\n"
+"\t基础价格：125~"
 
 #: src-en/data/blueprints.xml.append:2696
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
-msgstr "磁感放射器"
+msgstr "闪电发生器"
 
 #: src-en/data/blueprints.xml.append:2697
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/short"
-msgstr "磁感器"
+msgstr "闪电光束"
 
 #: src-en/data/blueprints.xml.append:2698
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/desc"
-msgstr ""
+msgstr "不同于你之前见过的任何造物，这件奇特的武器似乎使用了某种先进的离子技术，能生"
+"成足够的离子能量并像光束那样对多个舱室造成离子伤害。"
 
 #: src-en/data/blueprints.xml.append:2727
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/title"
-msgstr "岩浆炮"
+msgstr "熔岩炮"
 
 #: src-en/data/blueprints.xml.append:2728
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/short"
-msgstr "岩浆炮"
+msgstr "熔岩炮"
 
 #: src-en/data/blueprints.xml.append:2729
 msgid ""
@@ -1205,9 +1210,20 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2730
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/descriptionOverride"
 msgstr ""
+"属性：\n"
+"\t需要能量：2\n"
+"\t充能时间：15 秒\n"
+"\n"
+"\t光束长度：1\n"
+"\t光束速度：1\n"
+"\n"
+"\t被击中的舱室将完全起火\n"
+"\n"
+"\t基础价格：70~"
 
 #: src-en/data/blueprints.xml.append:2769
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/title"
