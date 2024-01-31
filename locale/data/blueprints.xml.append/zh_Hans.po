@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-31 07:58+0000\n"
-"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
+"PO-Revision-Date: 2024-02-01 10:40+0000\n"
+"Last-Translator: 羽绯 <2488550685@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1210,10 +1210,11 @@ msgid ""
 msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2730
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/descriptionOverride"
 msgstr ""
+"一件怪异的武器，只有真正的疯子才能产生这个设想。尽管它外形只是一种准确光束，"
+"但是其发射的超高热熔浆流一旦击中房间，就能将房间瞬间点燃着火。\n"
 "属性：\n"
 "\t需要能量：2\n"
 "\t充能时间：15 秒\n"
