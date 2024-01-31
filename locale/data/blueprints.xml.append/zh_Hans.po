@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-01-31 07:58+0000\n"
-"Last-Translator: 羽绯 <2488550685@qq.com>\n"
+"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -920,7 +920,7 @@ msgstr "这种导弹武器无需供能，充能迅速，并发射一枚毁灭性
 #: src-en/data/blueprints.xml.append:2068
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/title"
-msgstr "风险哨卫部署器"
+msgstr "殃害哨卫部署器"
 
 #: src-en/data/blueprints.xml.append:2069
 msgid ""
@@ -1082,7 +1082,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/title"
-msgstr "‘炽炎’火炬光束"
+msgstr "‘炽炎’火焰光束"
 
 #: src-en/data/blueprints.xml.append:2474
 msgid ""
