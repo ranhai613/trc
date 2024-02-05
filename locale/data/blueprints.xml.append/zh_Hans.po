@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-01 10:40+0000\n"
-"Last-Translator: 羽绯 <2488550685@qq.com>\n"
+"PO-Revision-Date: 2024-02-05 17:40+0000\n"
+"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -366,7 +366,7 @@ msgstr "宽斧链束"
 #: src-en/data/blueprints.xml.append:830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
-msgstr "这种光束武器每次发射都会减少充能时间，并且能够在瞄准空房间时对舰体造成沉重打"
+msgstr "这种光束武器每次发射都会减少充能时间，并且能够在瞄准空舱室时对舰体造成沉重打"
 "击。"
 
 #: src-en/data/blueprints.xml.append:860
@@ -1028,7 +1028,7 @@ msgstr "冰霜破片"
 #: src-en/data/blueprints.xml.append:2351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/desc"
-msgstr "射出4枚足以冻结房间的超低温弹丸，并且伴有船员眩晕效果。"
+msgstr "射出4枚足以冻结舱室的超低温弹丸，并且伴有船员眩晕效果。"
 
 #: src-en/data/blueprints.xml.append:2407
 msgid ""
@@ -1214,7 +1214,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/descriptionOverride"
 msgstr ""
 "一件怪异的武器，只有真正的疯子才能产生这个设想。尽管它外形只是一种准确光束，"
-"但是其发射的超高热熔浆流一旦击中房间，就能将房间瞬间点燃着火。\n"
+"但是其发射的超高热熔浆流一旦击中舱室，就能将舱室瞬间点燃着火。\n"
 "属性：\n"
 "\t需要能量：2\n"
 "\t充能时间：15 秒\n"
