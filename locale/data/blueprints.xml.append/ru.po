@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-01 16:40+0000\n"
+"PO-Revision-Date: 2024-03-02 08:40+0000\n"
 "Last-Translator: Not Drones <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -1929,7 +1929,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4136
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/class"
-msgstr "Коллекц. Иллекстрианский крейсер"
+msgstr "Коллекц. Иллекстр. крейсер"
 
 #: src-en/data/blueprints.xml.append:4137
 msgid ""
@@ -2105,7 +2105,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4912
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/class"
-msgstr "Коллекционный крейсер Тииикака"
+msgstr "Коллекц. крейсер Тииикака"
 
 #: src-en/data/blueprints.xml.append:4913
 msgid ""
@@ -2158,7 +2158,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5147
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/class"
-msgstr "Коллекц. МВ-крейсер повстанцев"
+msgstr "Коллекц. МВ-крейсер повст."
 
 #: src-en/data/blueprints.xml.append:5148
 msgid ""
@@ -2282,7 +2282,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5693
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
-msgstr "Коллекционный развалившийся бомбардировщик"
+msgstr "Коллекц. развал. бомбардировщик"
 
 #: src-en/data/blueprints.xml.append:5694
 msgid ""
