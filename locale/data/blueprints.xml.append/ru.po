@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-02 08:40+0000\n"
+"PO-Revision-Date: 2024-03-06 15:40+0000\n"
 "Last-Translator: Not Drones <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -2282,7 +2282,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5693
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
-msgstr "Коллекц. развал. бомбардировщик"
+msgstr "Коллекц. развал. бомбардиров."
 
 #: src-en/data/blueprints.xml.append:5694
 msgid ""
