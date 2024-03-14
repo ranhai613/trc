@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-12 14:40+0000\n"
+"PO-Revision-Date: 2024-03-14 20:40+0000\n"
 "Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_sector_unionxmlappend/ru/>\n"
@@ -17,10 +17,9 @@ msgstr ""
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Улучшить Рад-луч \"Фокон\" II."
 
 #: src-en/data/events_sector_union.xml.append:8
-#, fuzzy
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
@@ -33,7 +32,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_union.xml.append:16
-#, fuzzy
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/event/text"
@@ -43,7 +41,7 @@ msgstr "Через некоторое время орудие возвращае
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Улучшить Ионный асфиксиатор."
 
 #: src-en/data/events_sector_union.xml.append:25
 msgid ""
@@ -67,7 +65,7 @@ msgstr "Через некоторое время орудие возвращае
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Улучшить Энергетический фазер."
 
 #: src-en/data/events_sector_union.xml.append:42
 msgid ""
@@ -91,7 +89,7 @@ msgstr "Через некоторое время орудие возвращае
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Улучшить Бомбу частиц."
 
 #: src-en/data/events_sector_union.xml.append:59
 msgid ""
