@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-25 07:40+0000\n"
-"Last-Translator: Not Drones <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-03-14 20:40+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -218,7 +218,7 @@ msgstr ""
 #: src-en/data/events.xml.append:152
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение заказа \"Клоны\"."
 
 #: src-en/data/events.xml.append:163
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/text"
@@ -378,7 +378,7 @@ msgstr ""
 #: src-en/data/events.xml.append:251
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение заказа \"Просвещенный\"."
 
 #: src-en/data/events.xml.append:255
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/text"
@@ -534,7 +534,7 @@ msgstr ""
 #: src-en/data/events.xml.append:342
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение заказа \"Колонизатор\"."
 
 #: src-en/data/events.xml.append:346
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/text"
@@ -662,7 +662,7 @@ msgstr ""
 #: src-en/data/events.xml.append:427
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение заказа \"Ремесленник\"."
 
 #: src-en/data/events.xml.append:431
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/text"
@@ -823,7 +823,7 @@ msgstr ""
 #: src-en/data/events.xml.append:516
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение заказа \"Богач\"."
 
 #: src-en/data/events.xml.append:520
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/text"
@@ -969,7 +969,7 @@ msgstr ""
 #: src-en/data/events.xml.append:596
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение заказа \"Зонд\"."
 
 #: src-en/data/events.xml.append:604
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
