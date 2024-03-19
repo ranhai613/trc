@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-14 20:40+0000\n"
+"PO-Revision-Date: 2024-03-19 18:40+0000\n"
 "Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/ru/>\n"
@@ -183,15 +183,15 @@ msgstr ""
 #: src-en/data/events.xml.append:122
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[@req=\"trc_found_collector\"]/text"
-msgstr "У меня тоже мало времени. Вы что-нибудь продаете?"
+msgstr "У меня тоже мало времени. Ты что-нибудь продаешь?"
 
 #: src-en/data/events.xml.append:124
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[@req=\"trc_found_collector\"]/event/text"
 msgstr ""
-"\"Ссстыд и сссрам. У меня есссть... есть куча всссего, что я хотел бы, чтобы"
-" ты нашшшел время поссслушшшать. Ну что ж, сссстранник. Может быть, в другой"
-" жизни, ага? Ага, у меня есссть что продать. Взглянька, а?\""
+"\"Ссстыд и сссрам. У меня есссть... есссть куча всссего, что я хотел бы, "
+"чтобы ты нашшшел время поссслушшшать. Ну что ж, сссстранник. Может быть, в "
+"другой жизни, ага? Ага, у меня есссть что продать. Взглянька, а?\""
 
 #: src-en/data/events.xml.append:138
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/text"
