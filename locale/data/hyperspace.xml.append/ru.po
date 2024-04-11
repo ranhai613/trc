@@ -1,46 +1,38 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-27 17:24+0000\n"
-"Last-Translator: Roman <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-renegade-collection/datahyperspace-xml-append/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.16.4\n"
 
-#: src-en/data/hyperspace.xml.append:790
+#: src-en/data/hyperspace.xml.append:795
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Collector\"]/@name"
 msgstr "Коллекционер"
 
-#: src-en/data/hyperspace.xml.append:809
+#: src-en/data/hyperspace.xml.append:814
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
 msgstr "Сильван"
 
-#: src-en/data/hyperspace.xml.append:921
+#: src-en/data/hyperspace.xml.append:939
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/buttonText"
 msgstr "КОНТРОЛЬ"
 
-#: src-en/data/hyperspace.xml.append:922
+#: src-en/data/hyperspace.xml.append:940
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:10c  ДЛИТЕЛЬНОСТЬ:6c]\n"
 "\t\t\t\tВзять на себя контроль над пауком."
 
-#: src-en/data/hyperspace.xml.append:1077
+#: src-en/data/hyperspace.xml.append:1095
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_EXTINGUISHER\"]/tooltipName"
 msgstr "Дрон-огнетушитель"
 
-#: src-en/data/hyperspace.xml.append:1081
+#: src-en/data/hyperspace.xml.append:1099
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
 msgstr "Наэлектризованный дрон"
 
-#: src-en/data/hyperspace.xml.append:1085
+#: src-en/data/hyperspace.xml.append:1103
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
 msgstr "Дрон-щитоносец"

@@ -164,20 +164,22 @@ missileDrones["TRC_COMBAT_MISSILE"] = 3
 local deployedMissileDrones = {}
 script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(ship)
     for drone in vter(ship.spaceDrones) do
-        local missileDeployCost = missileDrones[drone.blueprint.name]
-        if missileDeployCost then
-            if drone.deployed then
-                if not deployedMissileDrones[drone.selfId] then
-                    deployedMissileDrones[drone.selfId] = true
-                    if ship:GetMissileCount() >= missileDeployCost then
-                        ship:ModifyMissileCount(-missileDeployCost)
-                    else
-                        drone:SetDestroyed(true, false)
-                        ship:ModifyDroneCount(1)
+        if drone.blueprint then
+            local missileDeployCost = missileDrones[drone.blueprint.name]
+            if missileDeployCost then
+                if drone.deployed then
+                    if not deployedMissileDrones[drone.selfId] then
+                        deployedMissileDrones[drone.selfId] = true
+                        if ship:GetMissileCount() >= missileDeployCost then
+                            ship:ModifyMissileCount(-missileDeployCost)
+                        else
+                            drone:SetDestroyed(true, false)
+                            ship:ModifyDroneCount(1)
+                        end
                     end
+                else
+                    deployedMissileDrones[drone.selfId] = nil
                 end
-            else
-                deployedMissileDrones[drone.selfId] = nil
             end
         end
     end

@@ -1,0 +1,39 @@
+\\\\\\\\\\\\\\\\
+ CHANGES:
+\\\\\\\\\\\\\\\\
+
+Restored the infinite ion stacking of the Infinity.
+
+Added Overshield and Voltage drone to drone AI automation blacklist.
+
+\\\\\\\\\\\\\\\\
+ BALANCE:
+\\\\\\\\\\\\\\\\
+
+Apollo cooldown: 10s -> 13s
+
+Boreas cooldown: 14s -> 17s
+
+Deployment Bomb: 
+-cooldown: 15s -> 12s
+-drone lifetime: 90s -> 60s
+-base repair speed increased from 2.5x to 3x
+-no longer benefits from Drone Booster
+
+Collector's Suzerain: now starts with a manning drone
+
+Collector's cruiser shields are now capped to lvl4 to match Sylvan A.
+
+Overshield power drain: 3 -> 1, health: 50 -> 90
+
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed outdated HS version check.
+
+Corrected an issue generating error logs.
+
+Fixed Collector's cruiser having a wrong unlocked Merchant Shield.
+
+Fixed Repair drone from Deployment Bomb being able to be cloned.

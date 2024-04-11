@@ -1,5 +1,10 @@
 <FTL>
-<version>^1.7.0</version>
+<!--<version>^1.9.0</version>-->
+
+<!-- Don't patch if MV isn't patched -->
+<mod:findWithChildLike type="saveFile" child-type="prefix" panic="true">
+    <mod:selector>mv</mod:selector>
+</mod:findWithChildLike>
 
 <mod:findLike type="ships">
 	<mod:findLike type="shipOrder">
@@ -877,6 +882,19 @@
 	</mod-append:customShip>
 </mod:findLike>
 
+<mod:findLike type="augments">
+	<mod:findName type="aug" name="DRONE_AI_ENABLED">
+		<mod:findLike type="statBoosts">
+			<mod:findName type="statBoost" name="controllable">
+				<mod:findLike type="blackList">
+					<mod-append:drone_overcharger/>
+					<mod-append:drone_battery/>
+				</mod:findLike>
+			</mod:findName>
+		</mod:findLike>
+	</mod:findName>
+</mod:findLike>
+
 <crew>
 	<race name="spider_hatch_temp">
 		<lowHealthThreshold>-1</lowHealthThreshold>
@@ -1040,9 +1058,9 @@
 		<canSabotage>false</canSabotage>
 		<canSuffocate>false</canSuffocate>
 		<canMan>false</canMan>
-		<maxHealth>50</maxHealth>
+		<maxHealth>90</maxHealth>
 		<stunMultiplier>0.25</stunMultiplier>
-		<powerDrain>3</powerDrain>
+		<powerDrain>1</powerDrain>
 		<powerDrainFriendly>true</powerDrainFriendly>
 		<droneAI>
 			<batteryAI/>

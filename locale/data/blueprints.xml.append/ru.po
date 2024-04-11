@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-14 20:40+0000\n"
-"Last-Translator: Роман <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-renegade-collection/datablueprintsxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -172,10 +164,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
 msgstr ""
-"Концентраторы используют специальную технологию, позволяющую им не "
-"увеличивать количество выстрелов за заряд, а усиливать свою мощь с каждым "
-"зарядом. Каждый заряд увеличивает наносимый урон и вероятность наложения "
-"вспомогательного эффекта. Каждый последующий заряд накапливается быстрее.\n"
+"Концентраторы используют специальную технологию, позволяющую им не увеличивать количество выстрелов за заряд, а усиливать свою мощь с каждым зарядом. Каждый заряд увеличивает наносимый урон и вероятность наложения вспомогательного эффекта. Каждый последующий заряд накапливается быстрее.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 1\n"
@@ -213,10 +202,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
 msgstr ""
-"Концентраторы используют специальную технологию, позволяющую им не "
-"увеличивать количество выстрелов за заряд, а усиливать свою мощь с каждым "
-"зарядом. Каждый заряд увеличивает наносимый урон и вероятность наложения "
-"вспомогательного эффекта. Каждый последующий заряд накапливается быстрее.\n"
+"Концентраторы используют специальную технологию, позволяющую им не увеличивать количество выстрелов за заряд, а усиливать свою мощь с каждым зарядом. Каждый заряд увеличивает наносимый урон и вероятность наложения вспомогательного эффекта. Каждый последующий заряд накапливается быстрее.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 2\n"
@@ -254,10 +240,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
-"Концентраторы используют специальную технологию, позволяющую им не "
-"увеличивать количество выстрелов за заряд, а усиливать свою мощь с каждым "
-"зарядом. Каждый заряд увеличивает значение проникновения щита и вероятность "
-"пробоины. Каждый последующий заряд накапливается быстрее.\n"
+"Концентраторы используют специальную технологию, позволяющую им не увеличивать количество выстрелов за заряд, а усиливать свою мощь с каждым зарядом. Каждый заряд увеличивает значение проникновения щита и вероятность пробоины. Каждый последующий заряд накапливается быстрее.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 2\n"
@@ -295,10 +278,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
 msgstr ""
-"Концентраторы используют специальную технологию, позволяющую им не "
-"увеличивать количество выстрелов за заряд, а усиливать свою мощь с каждым "
-"зарядом. Каждый заряд увеличивает ионный урон и шанс оглушения. Каждый "
-"последующий заряд накапливается быстрее.\n"
+"Концентраторы используют специальную технологию, позволяющую им не увеличивать количество выстрелов за заряд, а усиливать свою мощь с каждым зарядом. Каждый заряд увеличивает ионный урон и шанс оглушения. Каждый последующий заряд накапливается быстрее.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 1\n"
@@ -332,9 +312,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/descriptionOverride"
 msgstr ""
-"Расщепляющие лучи наносят урон за каждую плитку, а не за отсек. Этот луч "
-"специализируется на разрушении систем, и чем крупнее отсек системы, тем "
-"больше урона он нанесет.\n"
+"Расщепляющие лучи наносят урон за каждую плитку, а не за отсек. Этот луч специализируется на разрушении систем, и чем крупнее отсек системы, тем больше урона он нанесет.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 2\n"
@@ -438,8 +416,8 @@ msgstr "Асфиксион"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/desc"
 msgstr ""
-"Специализированный ион, который особенно эффективен для удушения противника, "
-"хотя может применяться и для других целей."
+"Специализированный ион, который особенно эффективен для удушения противника,"
+" хотя может применяться и для других целей."
 
 #: src-en/data/blueprints.xml.append:947
 msgid ""
@@ -455,8 +433,8 @@ msgstr "Асфиксион†"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/desc"
 msgstr ""
-"Специализированный ион, который особенно эффективен для удушения противника, "
-"хотя может применяться и для других целей."
+"Специализированный ион, который особенно эффективен для удушения противника,"
+" хотя может применяться и для других целей."
 
 #: src-en/data/blueprints.xml.append:994
 msgid ""
@@ -581,9 +559,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/descriptionOverride"
 msgstr ""
-"Самотелепортирующаяся взрывчатка, которая наносит урон системе не только в "
-"целевом, но и во всех соседних отсеках. Можно нацелить на собственный "
-"корабль.\n"
+"Самотелепортирующаяся взрывчатка, которая наносит урон системе не только в целевом, но и во всех соседних отсеках. Можно нацелить на собственный корабль.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 1\n"
@@ -648,10 +624,7 @@ msgstr "Бензин. бомба"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/desc"
 msgstr ""
-"Самотелепортирующаяся взрывчатка, обливающая экипаж и дроны бензином, в "
-"результате чего он получает 4x урон от огня и передвигаются на 30% медленнее "
-"в течение 20 секунд. Пораженные цели загораются, если погибают во время "
-"действия эффекта.\n"
+"Самотелепортирующаяся взрывчатка, обливающая экипаж и дроны бензином, в результате чего он получает 4x урон от огня и передвигаются на 30% медленнее в течение 20 секунд. Пораженные цели загораются, если погибают во время действия эффекта.\n"
 "Обладает технологией репликации и не нуждается в боеголовках."
 
 #: src-en/data/blueprints.xml.append:1448
@@ -673,9 +646,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
 msgstr ""
-"Самотелепортирующееся устройство, позволяющее разместить на корабле "
-"ремонтный дрон. Требует для запуска один дрон-комплект вместо боеголовки. "
-"Можно (И НАДО) нацеливать на собственный корабль.\n"
+"Самотелепортирующееся устройство, позволяющее разместить на корабле ремонтный дрон. Требует для запуска один дрон-комплект вместо боеголовки. Можно (И НАДО) нацеливать на собственный корабль.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНе требует питания\n"
@@ -689,52 +660,52 @@ msgstr ""
 "\t\t\n"
 "\t\tЦена: 45~"
 
-#: src-en/data/blueprints.xml.append:1501
+#: src-en/data/blueprints.xml.append:1525
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/desc"
 msgstr "Пауки-детеныши."
 
-#: src-en/data/blueprints.xml.append:1502
+#: src-en/data/blueprints.xml.append:1526
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/title"
 msgstr "Детеныш"
 
-#: src-en/data/blueprints.xml.append:1503
+#: src-en/data/blueprints.xml.append:1527
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/short"
 msgstr "Детеныш"
 
-#: src-en/data/blueprints.xml.append:1507
+#: src-en/data/blueprints.xml.append:1531
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[1]"
 msgstr "50 здоровья, 1.2x получаемый урон от огня, 0.10x скорость ремонта"
 
-#: src-en/data/blueprints.xml.append:1508
+#: src-en/data/blueprints.xml.append:1532
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[2]"
 msgstr "1.8x урон в ближнем бою, 2.2x скорость передвижения"
 
-#: src-en/data/blueprints.xml.append:1509
+#: src-en/data/blueprints.xml.append:1533
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[3]"
 msgstr "Лечится с утроенной скоростью"
 
-#: src-en/data/blueprints.xml.append:1510
+#: src-en/data/blueprints.xml.append:1534
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[4]"
 msgstr "Может управляться только временно, не может обслуживать системы"
 
-#: src-en/data/blueprints.xml.append:1534
+#: src-en/data/blueprints.xml.append:1558
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/title"
 msgstr "Арахно-бомба"
 
-#: src-en/data/blueprints.xml.append:1535
+#: src-en/data/blueprints.xml.append:1559
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/short"
 msgstr "Арах. бомба"
 
-#: src-en/data/blueprints.xml.append:1537
+#: src-en/data/blueprints.xml.append:1561
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/desc"
 msgstr ""
@@ -742,65 +713,65 @@ msgstr ""
 "пауков с ограниченным сроком жизни, которые будут сражаться за вас. Можно "
 "нацеливать на собственный корабль."
 
-#: src-en/data/blueprints.xml.append:1583
+#: src-en/data/blueprints.xml.append:1607
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/title"
 msgstr "Арахно-бомба"
 
-#: src-en/data/blueprints.xml.append:1584
+#: src-en/data/blueprints.xml.append:1608
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/short"
 msgstr "Арах. бомба"
 
-#: src-en/data/blueprints.xml.append:1586
+#: src-en/data/blueprints.xml.append:1610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:1630
+#: src-en/data/blueprints.xml.append:1654
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/desc"
 msgstr ""
 "Отвратительное мутировавшее существо, созданное вами. Зачем вы это сделали?"
 
-#: src-en/data/blueprints.xml.append:1632
+#: src-en/data/blueprints.xml.append:1656
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/title"
 msgstr "Мутант"
 
-#: src-en/data/blueprints.xml.append:1633
+#: src-en/data/blueprints.xml.append:1657
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/short"
 msgstr "Мутант"
 
-#: src-en/data/blueprints.xml.append:1636
+#: src-en/data/blueprints.xml.append:1660
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[1]"
 msgstr "Наносит 2.3x урон экипажу в бою"
 
-#: src-en/data/blueprints.xml.append:1637
+#: src-en/data/blueprints.xml.append:1661
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[2]"
 msgstr "Не может ремонтировать или лечиться, движется с половинной скоростью"
 
-#: src-en/data/blueprints.xml.append:1638
+#: src-en/data/blueprints.xml.append:1662
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[3]"
 msgstr "Взрывается при смерти, нанося 15 урона экипажу и 1 урон системе"
 
-#: src-en/data/blueprints.xml.append:1639
+#: src-en/data/blueprints.xml.append:1663
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[4]"
 msgstr "Через 15 секунд возвращается в исходную форму"
 
-#: src-en/data/blueprints.xml.append:1645
+#: src-en/data/blueprints.xml.append:1669
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/title"
 msgstr "Мутагенная бомба"
 
-#: src-en/data/blueprints.xml.append:1646
+#: src-en/data/blueprints.xml.append:1670
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/short"
 msgstr "Мутаген. бомба"
 
-#: src-en/data/blueprints.xml.append:1648
+#: src-en/data/blueprints.xml.append:1672
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/desc"
 msgstr ""
@@ -808,17 +779,17 @@ msgstr ""
 "\n"
 "\tМутанты наносят 2.3x урон экипажу в бою, не могут ремонтировать и лечиться, двигаются с половинной скоростью и взрываются при смерти, нанося 15 урон экипажу и 1 урон системе."
 
-#: src-en/data/blueprints.xml.append:1705
+#: src-en/data/blueprints.xml.append:1729
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/title"
 msgstr "Ракетная установка \"Аполлон\""
 
-#: src-en/data/blueprints.xml.append:1706
+#: src-en/data/blueprints.xml.append:1730
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/short"
 msgstr "Аполлон"
 
-#: src-en/data/blueprints.xml.append:1707
+#: src-en/data/blueprints.xml.append:1731
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/desc"
 msgstr ""
@@ -826,22 +797,22 @@ msgstr ""
 "дающее пассивное исцеление 4 ОЗ/с всем союзникам, по которым оно попало, в "
 "течение 15 секунд."
 
-#: src-en/data/blueprints.xml.append:1757
+#: src-en/data/blueprints.xml.append:1781
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/title"
 msgstr "Ракетная установка \"Борей\""
 
-#: src-en/data/blueprints.xml.append:1758
+#: src-en/data/blueprints.xml.append:1782
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/short"
 msgstr "Борей"
 
-#: src-en/data/blueprints.xml.append:1759
+#: src-en/data/blueprints.xml.append:1783
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:1760
+#: src-en/data/blueprints.xml.append:1784
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/descriptionOverride"
 msgstr ""
@@ -865,42 +836,41 @@ msgstr ""
 "\t\t\n"
 "\t\tЦена: 65~"
 
-#: src-en/data/blueprints.xml.append:1831
+#: src-en/data/blueprints.xml.append:1855
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/title"
 msgstr "Ракетная установка \"Борей\""
 
-#: src-en/data/blueprints.xml.append:1832
+#: src-en/data/blueprints.xml.append:1856
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/short"
 msgstr "Борей"
 
-#: src-en/data/blueprints.xml.append:1833
+#: src-en/data/blueprints.xml.append:1857
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/desc"
 msgstr "Тяжелое ракетное орудие, запирающее отсеки при попадании."
 
-#: src-en/data/blueprints.xml.append:1884
+#: src-en/data/blueprints.xml.append:1908
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/title"
 msgstr "Осколочная ракетная установка \"Фемида\""
 
-#: src-en/data/blueprints.xml.append:1885
+#: src-en/data/blueprints.xml.append:1909
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/short"
 msgstr "Фемида"
 
-#: src-en/data/blueprints.xml.append:1886
+#: src-en/data/blueprints.xml.append:1910
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:1887
+#: src-en/data/blueprints.xml.append:1911
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/descriptionOverride"
 msgstr ""
-"Разрушительная ракета, которая разбрасывает осколки при попадании. Осколки "
-"наносят 1 дополнительный системный урон всем соседним отсекам.\n"
+"Разрушительная ракета, которая разбрасывает осколки при попадании. Осколки наносят 1 дополнительный системный урон всем соседним отсекам.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 1\n"
@@ -921,28 +891,26 @@ msgstr ""
 "\t\t\n"
 "\t\tЦена: 55~"
 
-#: src-en/data/blueprints.xml.append:1947
+#: src-en/data/blueprints.xml.append:1971
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/title"
 msgstr "Осколочная ракетная установка \"Перс\""
 
-#: src-en/data/blueprints.xml.append:1948
+#: src-en/data/blueprints.xml.append:1972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/short"
 msgstr "Перс"
 
-#: src-en/data/blueprints.xml.append:1949
+#: src-en/data/blueprints.xml.append:1973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:1950
+#: src-en/data/blueprints.xml.append:1974
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/descriptionOverride"
 msgstr ""
-"Разрушительная ракета, которая разбрасывает осколки при попадании. Осколки "
-"наносят 1 дополнительный системный урон всем соседним отсекам. Эта "
-"улучшенная версия наносит больше урона.\n"
+"Разрушительная ракета, которая разбрасывает осколки при попадании. Осколки наносят 1 дополнительный системный урон всем соседним отсекам. Эта улучшенная версия наносит больше урона.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 3\n"
@@ -963,34 +931,37 @@ msgstr ""
 "\t\t\n"
 "\t\tЦена: 70~"
 
-#: src-en/data/blueprints.xml.append:2010
+#: src-en/data/blueprints.xml.append:2034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/title"
 msgstr "Упреждающая ракетная установка \"Эпиметей\""
 
-#: src-en/data/blueprints.xml.append:2011
+#: src-en/data/blueprints.xml.append:2035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/short"
 msgstr "Эпиметей"
 
-#: src-en/data/blueprints.xml.append:2012
+#: src-en/data/blueprints.xml.append:2036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/desc"
-msgstr ""
-"В начале боя выпускает одну очень точную и разрушительную ракету. Может быть"
-" использована только один раз за бой."
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2068
+#: src-en/data/blueprints.xml.append:2037
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2112
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/title"
 msgstr "Установщик опасно-стражей"
 
-#: src-en/data/blueprints.xml.append:2069
+#: src-en/data/blueprints.xml.append:2113
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/short"
 msgstr "Опасно-страж"
 
-#: src-en/data/blueprints.xml.append:2070
+#: src-en/data/blueprints.xml.append:2114
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/desc"
 msgstr ""
@@ -998,25 +969,23 @@ msgstr ""
 "опасностей и продолжительность оглушения вражеского экипажа в отсеке на 20 "
 "секунд."
 
-#: src-en/data/blueprints.xml.append:2142
+#: src-en/data/blueprints.xml.append:2186
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
 msgstr "Вирусный излучатель"
 
-#: src-en/data/blueprints.xml.append:2143
+#: src-en/data/blueprints.xml.append:2187
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/short"
 msgstr "Излучатель"
 
-#: src-en/data/blueprints.xml.append:2145
+#: src-en/data/blueprints.xml.append:2189
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2146
+#: src-en/data/blueprints.xml.append:2190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/descriptionOverride"
 msgstr ""
-"Вирусные диски, запрещенные в некоторых частях космоса, испускают "
-"высокотоксичное излучение, наносящее урон экипажу не только в целевом, но и "
-"во всех соседних отсеках.\n"
+"Вирусные диски, запрещенные в некоторых частях космоса, испускают высокотоксичное излучение, наносящее урон экипажу не только в целевом, но и во всех соседних отсеках.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 2\n"
@@ -1031,17 +1000,17 @@ msgstr ""
 "\t\t\n"
 "\t\tЦена: 50~"
 
-#: src-en/data/blueprints.xml.append:2209
+#: src-en/data/blueprints.xml.append:2253
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/title"
 msgstr "Миномет \"Баал\""
 
-#: src-en/data/blueprints.xml.append:2210
+#: src-en/data/blueprints.xml.append:2254
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/short"
 msgstr "Баал"
 
-#: src-en/data/blueprints.xml.append:2211
+#: src-en/data/blueprints.xml.append:2255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
 msgstr ""
@@ -1049,17 +1018,17 @@ msgstr ""
 "\t\n"
 "\tНа пустых маяках может задержать флот на 2 прыжка за 15 боеголовок, не влияет на дурную славу."
 
-#: src-en/data/blueprints.xml.append:2268
+#: src-en/data/blueprints.xml.append:2312
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/title"
 msgstr "Трифекта"
 
-#: src-en/data/blueprints.xml.append:2269
+#: src-en/data/blueprints.xml.append:2313
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/short"
 msgstr "Трифекта"
 
-#: src-en/data/blueprints.xml.append:2271
+#: src-en/data/blueprints.xml.append:2315
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/desc"
 msgstr ""
@@ -1067,74 +1036,72 @@ msgstr ""
 "снарядами, а также медленно движущимся тяжелым лазерным зарядом и при этом "
 "имеет весьма незначительное время перезарядки."
 
-#: src-en/data/blueprints.xml.append:2312
+#: src-en/data/blueprints.xml.append:2356
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/title"
 msgstr "Лазер \"Трифекта\""
 
-#: src-en/data/blueprints.xml.append:2313
+#: src-en/data/blueprints.xml.append:2357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/short"
 msgstr "Лазер \"Трифекта\""
 
-#: src-en/data/blueprints.xml.append:2314
+#: src-en/data/blueprints.xml.append:2358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2348
+#: src-en/data/blueprints.xml.append:2392
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/title"
 msgstr "Морозное осколочное орудие"
 
-#: src-en/data/blueprints.xml.append:2349
+#: src-en/data/blueprints.xml.append:2393
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/short"
 msgstr "Морозн. оскол."
 
-#: src-en/data/blueprints.xml.append:2351
+#: src-en/data/blueprints.xml.append:2395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/desc"
 msgstr ""
 "Выстреливает 4 переохлажденных снаряда, которые создают ледяной покров и "
 "запирают отсеки на 12 секунд, при этом оглушая экипаж."
 
-#: src-en/data/blueprints.xml.append:2407
+#: src-en/data/blueprints.xml.append:2451
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/title"
 msgstr "Изготовленный дрон"
 
-#: src-en/data/blueprints.xml.append:2408
+#: src-en/data/blueprints.xml.append:2452
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/short"
 msgstr "Изготовл. дрон"
 
-#: src-en/data/blueprints.xml.append:2409
+#: src-en/data/blueprints.xml.append:2453
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
-#: src-en/data/blueprints.xml.append:2419
+#: src-en/data/blueprints.xml.append:2463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/title"
 msgstr "Пушка-изготовитель"
 
-#: src-en/data/blueprints.xml.append:2420
+#: src-en/data/blueprints.xml.append:2464
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/short"
 msgstr "Изготовитель"
 
-#: src-en/data/blueprints.xml.append:2421
+#: src-en/data/blueprints.xml.append:2465
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2422
+#: src-en/data/blueprints.xml.append:2466
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/descriptionOverride"
 msgstr ""
-"Специализированное орудие со встроенным фабрикатором. Ценой дрон-комплекта "
-"может запустить временного боевого дрона, который будет атаковать вражеский "
-"корабль.\n"
+"Специализированное орудие со встроенным фабрикатором. Ценой дрон-комплекта может запустить временного боевого дрона, который будет атаковать вражеский корабль.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 2\n"
@@ -1149,44 +1116,43 @@ msgstr ""
 "\t\t\n"
 "\t\tЦена: 60~"
 
-#: src-en/data/blueprints.xml.append:2473
+#: src-en/data/blueprints.xml.append:2517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/title"
 msgstr "\"Сверхподжог\""
 
-#: src-en/data/blueprints.xml.append:2474
+#: src-en/data/blueprints.xml.append:2518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/short"
 msgstr "Сверхподжог"
 
-#: src-en/data/blueprints.xml.append:2475
+#: src-en/data/blueprints.xml.append:2519
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/desc"
 msgstr ""
 "Стреляет концентрированным лучом с таким сильным нагревом, что повреждает "
 "корпус и временно лишает экипаж иммунитета к огню, увеличивая урон от огня "
 "на x1.5 на 15 секунд. Остерегайтесь поражения собственного экипажа!"
 
-#: src-en/data/blueprints.xml.append:2520
+#: src-en/data/blueprints.xml.append:2564
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/title"
 msgstr "\"Системныйсбой\""
 
-#: src-en/data/blueprints.xml.append:2521
+#: src-en/data/blueprints.xml.append:2565
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/short"
 msgstr "Систсбой"
 
-#: src-en/data/blueprints.xml.append:2523
+#: src-en/data/blueprints.xml.append:2567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2524
+#: src-en/data/blueprints.xml.append:2568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/descriptionOverride"
 msgstr ""
-"Усиленное ионное орудие, которое при прямом попадании в отсек вызывает "
-"каскадный эффект, наносящий 1 ионный урон всем соседним системам.\n"
+"Усиленное ионное орудие, которое при прямом попадании в отсек вызывает каскадный эффект, наносящий 1 ионный урон всем соседним системам.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 2\n"
@@ -1202,42 +1168,40 @@ msgstr ""
 "\t\t\n"
 "\t\tЦена: 55~"
 
-#: src-en/data/blueprints.xml.append:2578
+#: src-en/data/blueprints.xml.append:2622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/title"
 msgstr "Сигнальная ракетница"
 
-#: src-en/data/blueprints.xml.append:2579
+#: src-en/data/blueprints.xml.append:2623
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/short"
 msgstr "Сигн. ракетница"
 
-#: src-en/data/blueprints.xml.append:2580
+#: src-en/data/blueprints.xml.append:2624
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/desc"
 msgstr ""
 "Запускает сигнальные ракеты, которые отвлекают защитных дронов и временно "
 "ослепляют экипаж при попадании, оглушая его."
 
-#: src-en/data/blueprints.xml.append:2627
+#: src-en/data/blueprints.xml.append:2671
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/title"
 msgstr "\"Послание безумия\""
 
-#: src-en/data/blueprints.xml.append:2628
+#: src-en/data/blueprints.xml.append:2672
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/short"
 msgstr "Послание"
 
-#: src-en/data/blueprints.xml.append:2629
+#: src-en/data/blueprints.xml.append:2673
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2630
+#: src-en/data/blueprints.xml.append:2674
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/descriptionOverride"
 msgstr ""
-"Орудие древнего зла, которое проникает в сознание жертв и настраивает их "
-"друг против друга. Накладывает контроль разума на любого врага, которого "
-"поражает, но при этом ими нельзя управлять.\n"
+"Орудие древнего зла, которое проникает в сознание жертв и настраивает их друг против друга. Накладывает контроль разума на любого врага, которого поражает, но при этом ими нельзя управлять.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 3\n"
@@ -1256,15 +1220,15 @@ msgstr ""
 "\n"
 "\t\tЦена: 125~"
 
-#: src-en/data/blueprints.xml.append:2696
+#: src-en/data/blueprints.xml.append:2752
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
 msgstr "Излучатель Тесла"
 
-#: src-en/data/blueprints.xml.append:2697
+#: src-en/data/blueprints.xml.append:2753
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/short"
 msgstr "Тесла"
 
-#: src-en/data/blueprints.xml.append:2698
+#: src-en/data/blueprints.xml.append:2754
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/desc"
 msgstr ""
 "Необычное оружие, использующее передовые ионные технологии, не похожее ни на"
@@ -1272,28 +1236,26 @@ msgstr ""
 "ионизированной энергии, чтобы наносить ионный урон нескольким отсекам, "
 "подобно лучу."
 
-#: src-en/data/blueprints.xml.append:2727
+#: src-en/data/blueprints.xml.append:2783
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/title"
 msgstr "Магма-пушка"
 
-#: src-en/data/blueprints.xml.append:2728
+#: src-en/data/blueprints.xml.append:2784
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/short"
 msgstr "Магма"
 
-#: src-en/data/blueprints.xml.append:2729
+#: src-en/data/blueprints.xml.append:2785
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2730
+#: src-en/data/blueprints.xml.append:2786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/descriptionOverride"
 msgstr ""
-"Причудливое орудие, рожденное в голове безумца. Хотя это всего лишь точечный "
-"луч, его концентрированная струя сверхгорячей лавы полностью сжигает любой "
-"отсек.\n"
+"Причудливое орудие, рожденное в голове безумца. Хотя это всего лишь точечный луч, его концентрированная струя сверхгорячей лавы полностью сжигает любой отсек.\n"
 "\n"
 "\t\tХарактеристика:\n"
 "\t\tНеобходимая мощность: 2\n"
@@ -1306,95 +1268,93 @@ msgstr ""
 "\n"
 "\t\tЦена: 70~"
 
-#: src-en/data/blueprints.xml.append:2769
+#: src-en/data/blueprints.xml.append:2825
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/title"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2770
+#: src-en/data/blueprints.xml.append:2826
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/short"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2771
+#: src-en/data/blueprints.xml.append:2827
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2779
+#: src-en/data/blueprints.xml.append:2835
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/title"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2780
+#: src-en/data/blueprints.xml.append:2836
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/short"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2781
+#: src-en/data/blueprints.xml.append:2837
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2787
+#: src-en/data/blueprints.xml.append:2843
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/title"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2788
+#: src-en/data/blueprints.xml.append:2844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/short"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2789
+#: src-en/data/blueprints.xml.append:2845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2797
+#: src-en/data/blueprints.xml.append:2853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/title"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2798
+#: src-en/data/blueprints.xml.append:2854
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/short"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2799
+#: src-en/data/blueprints.xml.append:2855
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2807
+#: src-en/data/blueprints.xml.append:2863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/title"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2808
+#: src-en/data/blueprints.xml.append:2864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/short"
 msgstr "Самоцвет"
 
-#: src-en/data/blueprints.xml.append:2809
+#: src-en/data/blueprints.xml.append:2865
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2826
+#: src-en/data/blueprints.xml.append:2882
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/title"
 msgstr "Богач"
 
-#: src-en/data/blueprints.xml.append:2827
+#: src-en/data/blueprints.xml.append:2883
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/short"
 msgstr "Богач"
 
-#: src-en/data/blueprints.xml.append:2829
+#: src-en/data/blueprints.xml.append:2885
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2830
+#: src-en/data/blueprints.xml.append:2886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/descriptionOverride"
 msgstr ""
-"Орудие, предназначенное только для самых богатых Ренегатов. Выстреливает "
-"шквал из 5 самоцветов, обладающих различными эффектами, но для стрельбы "
-"требуется лом.\n"
+"Орудие, предназначенное только для самых богатых Ренегатов. Выстреливает шквал из 5 самоцветов, обладающих различными эффектами, но для стрельбы требуется лом.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 2\n"
@@ -1404,8 +1364,7 @@ msgstr ""
 "\t\tРазброс выстрела: 50\n"
 "\t\tЗа каждый выстрел по 5 случайных самоцветов\n"
 "\t\t\n"
-"\t\tКрасный самоцвет: 1 урон корпусу, нет урона системам, 80% вероятности "
-"возгорания\n"
+"\t\tКрасный самоцвет: 1 урон корпусу, нет урона системам, 80% вероятности возгорания\n"
 "\t\tСиний самоцвет: 1 ионный урон\n"
 "\t\tЗеленый самоцвет: 1 урон, 45 урон экипажу, 10 секунд оглушения\n"
 "\t\tГолубой самоцвет: 1 урон, запирает отсек\n"
@@ -1413,28 +1372,26 @@ msgstr ""
 "\t\t\n"
 "\t\tЦена: 80~"
 
-#: src-en/data/blueprints.xml.append:2897
+#: src-en/data/blueprints.xml.append:2953
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/title"
 msgstr "Бомба-колонизатор"
 
-#: src-en/data/blueprints.xml.append:2898
+#: src-en/data/blueprints.xml.append:2954
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/short"
 msgstr "Бомба-колон."
 
-#: src-en/data/blueprints.xml.append:2900
+#: src-en/data/blueprints.xml.append:2956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:2901
+#: src-en/data/blueprints.xml.append:2957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/descriptionOverride"
 msgstr ""
-"Самотелепортирующееся устройство, которое контролирует разум члена "
-"вражеского экипажа, если такового еще нет в отсеке. Можно нацеливать на "
-"собственный корабль.\n"
+"Самотелепортирующееся устройство, которое контролирует разум члена вражеского экипажа, если такового еще нет в отсеке. Можно нацеливать на собственный корабль.\n"
 "\n"
 "\t\tХарактеристики:\n"
 "\t\tНеобходимая мощность: 1\n"
@@ -1449,38 +1406,38 @@ msgstr ""
 "\t\t\n"
 "\t\tЦена: 75~"
 
-#: src-en/data/blueprints.xml.append:2944
+#: src-en/data/blueprints.xml.append:3000
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
 msgstr ""
 "Элитный гуманоидный член экипажа. Крайне эффективный солдат-клон, созданный в лаборатории клонирования вашей десантной капсулы. Из-за дешевого генетического материала эти солдаты быстро разлагаются после появления.\n"
 "\t\n"
 "\tНаследует характеристики людей: незначительное сопротивление удушью"
 
-#: src-en/data/blueprints.xml.append:2948
+#: src-en/data/blueprints.xml.append:3004
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/title"
 msgstr "Солдат-клон"
 
-#: src-en/data/blueprints.xml.append:2949
+#: src-en/data/blueprints.xml.append:3005
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/short"
 msgstr "Солдат"
 
-#: src-en/data/blueprints.xml.append:2952
+#: src-en/data/blueprints.xml.append:3008
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[1]"
 msgstr "Наносит 1.2x урона в бою"
 
-#: src-en/data/blueprints.xml.append:2953
+#: src-en/data/blueprints.xml.append:3009
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[2]"
 msgstr "Получает 0.7x урона от боя и 0.6x от пожаров"
 
-#: src-en/data/blueprints.xml.append:2954
+#: src-en/data/blueprints.xml.append:3010
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[3]"
 msgstr ""
 "Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
 
-#: src-en/data/blueprints.xml.append:2958
+#: src-en/data/blueprints.xml.append:3014
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/desc"
 msgstr ""
@@ -1488,44 +1445,44 @@ msgstr ""
 "\t\n"
 "\tНаследует характеристики людей: незначительное сопротивление удушью"
 
-#: src-en/data/blueprints.xml.append:2962
+#: src-en/data/blueprints.xml.append:3018
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/title"
 msgstr "Солдат-клон"
 
-#: src-en/data/blueprints.xml.append:2963
+#: src-en/data/blueprints.xml.append:3019
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/short"
 msgstr "Солдат"
 
-#: src-en/data/blueprints.xml.append:2966
+#: src-en/data/blueprints.xml.append:3022
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[1]"
 msgstr "Наносит 1.2x урона в бою"
 
-#: src-en/data/blueprints.xml.append:2967
+#: src-en/data/blueprints.xml.append:3023
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[2]"
 msgstr "Получает 0.7x урона от боя и 0.6x от пожаров"
 
-#: src-en/data/blueprints.xml.append:2968
+#: src-en/data/blueprints.xml.append:3024
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[3]"
 msgstr ""
 "Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
 
-#: src-en/data/blueprints.xml.append:2974
+#: src-en/data/blueprints.xml.append:3030
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/title"
 msgstr ""
 "Федеративная система запуска десантных капсул с клонами военного класса"
 
-#: src-en/data/blueprints.xml.append:2975
+#: src-en/data/blueprints.xml.append:3031
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/short"
 msgstr "Ф.С.З.Д.К.К.В.К."
 
-#: src-en/data/blueprints.xml.append:2976
+#: src-en/data/blueprints.xml.append:3032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/desc"
 msgstr ""
@@ -1534,40 +1491,40 @@ msgstr ""
 "корабля противника и производит солдата-клона, который будет сражаться за "
 "вас в течение 60 секунд."
 
-#: src-en/data/blueprints.xml.append:3038
+#: src-en/data/blueprints.xml.append:3094
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
 msgstr "Хлопушка дрона"
 
-#: src-en/data/blueprints.xml.append:3065
+#: src-en/data/blueprints.xml.append:3121
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP_2\"]/title"
 msgstr "Хлопушка дрона"
 
-#: src-en/data/blueprints.xml.append:3097
+#: src-en/data/blueprints.xml.append:3153
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
 msgstr "Дрон-подавитель мод. I"
 
-#: src-en/data/blueprints.xml.append:3098
+#: src-en/data/blueprints.xml.append:3154
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/short"
 msgstr "Подавитель I"
 
-#: src-en/data/blueprints.xml.append:3099
+#: src-en/data/blueprints.xml.append:3155
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/desc"
 msgstr ""
 "Специализированный дрон, который при наличии питания может эффективно "
 "подавить один слой щита. Также имеет встроенную систему маскировки, "
 "позволяющую избегать защитных дронов."
 
-#: src-en/data/blueprints.xml.append:3112
+#: src-en/data/blueprints.xml.append:3168
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/title"
 msgstr "Дрон-подавитель мод. II"
 
-#: src-en/data/blueprints.xml.append:3113
+#: src-en/data/blueprints.xml.append:3169
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/short"
 msgstr "Подавитель II"
 
-#: src-en/data/blueprints.xml.append:3114
+#: src-en/data/blueprints.xml.append:3170
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/desc"
 msgstr ""
@@ -1576,27 +1533,27 @@ msgstr ""
 "избегать защитных дронов. Версия мод. II медленнее, но может подавить сразу "
 "3 слоя щита."
 
-#: src-en/data/blueprints.xml.append:3127
+#: src-en/data/blueprints.xml.append:3183
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_BREACH\"]/title"
 msgstr "Бомба дрона"
 
-#: src-en/data/blueprints.xml.append:3148
+#: src-en/data/blueprints.xml.append:3204
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_ION\"]/title"
 msgstr "Бомба дрона"
 
-#: src-en/data/blueprints.xml.append:3172
+#: src-en/data/blueprints.xml.append:3228
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/title"
 msgstr "Дрон \"Громобой\" [Пробоина]"
 
-#: src-en/data/blueprints.xml.append:3173
+#: src-en/data/blueprints.xml.append:3229
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/short"
 msgstr "Громобой [П]"
 
-#: src-en/data/blueprints.xml.append:3174
+#: src-en/data/blueprints.xml.append:3230
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/desc"
 msgstr ""
@@ -1604,17 +1561,17 @@ msgstr ""
 "между пробойными и ионными бомбами, не тратя боеголовки при их запуске, но "
 "при этом относительно медленный."
 
-#: src-en/data/blueprints.xml.append:3189
+#: src-en/data/blueprints.xml.append:3245
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/title"
 msgstr "Дрон \"Громобой\" [Ион]"
 
-#: src-en/data/blueprints.xml.append:3190
+#: src-en/data/blueprints.xml.append:3246
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/short"
 msgstr "Громобой [И]"
 
-#: src-en/data/blueprints.xml.append:3191
+#: src-en/data/blueprints.xml.append:3247
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/desc"
 msgstr ""
@@ -1622,31 +1579,31 @@ msgstr ""
 "пробойными и ионными бомбами, не тратя боеголовки при их запуске, но при "
 "этом относительно медленный."
 
-#: src-en/data/blueprints.xml.append:3207
+#: src-en/data/blueprints.xml.append:3263
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/title"
 msgstr "Ракета дрона"
 
-#: src-en/data/blueprints.xml.append:3208
+#: src-en/data/blueprints.xml.append:3264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/short"
 msgstr "Ракета дрона"
 
-#: src-en/data/blueprints.xml.append:3209
+#: src-en/data/blueprints.xml.append:3265
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
-#: src-en/data/blueprints.xml.append:3240
+#: src-en/data/blueprints.xml.append:3296
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/title"
 msgstr "Ракетный дрон \"Тесей\""
 
-#: src-en/data/blueprints.xml.append:3241
+#: src-en/data/blueprints.xml.append:3297
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/short"
 msgstr "Тесей"
 
-#: src-en/data/blueprints.xml.append:3242
+#: src-en/data/blueprints.xml.append:3298
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
 msgstr ""
@@ -1654,76 +1611,76 @@ msgstr ""
 "резервом. Для его запуска требуется 3 боеголовки, но для стрельбы дрона они "
 "не расходуются."
 
-#: src-en/data/blueprints.xml.append:3257
+#: src-en/data/blueprints.xml.append:3313
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DEFENSE\"]/title"
 msgstr "Осколки дрона"
 
-#: src-en/data/blueprints.xml.append:3293
+#: src-en/data/blueprints.xml.append:3349
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/title"
 msgstr "Осколочный защитный дрон"
 
-#: src-en/data/blueprints.xml.append:3294
+#: src-en/data/blueprints.xml.append:3350
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/short"
 msgstr "Оскол. защитник"
 
-#: src-en/data/blueprints.xml.append:3295
+#: src-en/data/blueprints.xml.append:3351
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
 msgstr ""
 "Своеобразный защитный дрон, который стреляет залпами медленно движущихся осколков. Может поражать что угодно - твердые и лазерные снаряды, дронов, да все, что скажете!\n"
 "\tПерезарядка: 1400 МС"
 
-#: src-en/data/blueprints.xml.append:3312
+#: src-en/data/blueprints.xml.append:3368
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/title"
 msgstr "Осколочный защитный дрон"
 
-#: src-en/data/blueprints.xml.append:3313
+#: src-en/data/blueprints.xml.append:3369
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/short"
 msgstr "Оскол. защитник"
 
-#: src-en/data/blueprints.xml.append:3314
+#: src-en/data/blueprints.xml.append:3370
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/desc"
 msgstr ""
 "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ\n"
 "\tПерезарядка: 1700 МС"
 
-#: src-en/data/blueprints.xml.append:3338
+#: src-en/data/blueprints.xml.append:3394
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/title"
 msgstr "Дрон-огнетушитель"
 
-#: src-en/data/blueprints.xml.append:3339
+#: src-en/data/blueprints.xml.append:3395
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/short"
 msgstr "Дрон-огнетушитель"
 
-#: src-en/data/blueprints.xml.append:3340
+#: src-en/data/blueprints.xml.append:3396
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
-#: src-en/data/blueprints.xml.append:3344
+#: src-en/data/blueprints.xml.append:3400
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/powerList/power"
 msgstr "ДРОН"
 
-#: src-en/data/blueprints.xml.append:3351
+#: src-en/data/blueprints.xml.append:3407
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/title"
 msgstr "Дрон-огнетушитель"
 
-#: src-en/data/blueprints.xml.append:3352
+#: src-en/data/blueprints.xml.append:3408
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/short"
 msgstr "Огнетушитель"
 
-#: src-en/data/blueprints.xml.append:3353
+#: src-en/data/blueprints.xml.append:3409
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/desc"
 msgstr ""
@@ -1733,32 +1690,32 @@ msgstr ""
 "-4x скорость тушения, 0.5x скорость ремонта\n"
 "-Поглощает кислород, невосприимчив к урону от огня"
 
-#: src-en/data/blueprints.xml.append:3366
+#: src-en/data/blueprints.xml.append:3422
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
 msgstr "Наэлектризованный дрон"
 
-#: src-en/data/blueprints.xml.append:3367
+#: src-en/data/blueprints.xml.append:3423
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
 msgstr "Наэлектризованный дрон"
 
-#: src-en/data/blueprints.xml.append:3368
+#: src-en/data/blueprints.xml.append:3424
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
-#: src-en/data/blueprints.xml.append:3372
+#: src-en/data/blueprints.xml.append:3428
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/powerList/power"
 msgstr "ДРОН"
 
-#: src-en/data/blueprints.xml.append:3379
+#: src-en/data/blueprints.xml.append:3435
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
 msgstr "Наэлектризованный дрон"
 
-#: src-en/data/blueprints.xml.append:3380
+#: src-en/data/blueprints.xml.append:3436
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
 msgstr "Электро дрон"
 
-#: src-en/data/blueprints.xml.append:3381
+#: src-en/data/blueprints.xml.append:3437
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
 msgstr ""
 "Управляемый служебный дрон, обеспечивает систему, с которой он взаимодействует, значительным количеством энергии. Однако со временем его здоровье постоянно снижается, и с его падением до нуля дрон взрывается. Используйте его с осторожностью, так как его взрыв более опасен, чем у других дронов!\n"
@@ -1768,37 +1725,37 @@ msgstr ""
 "-Теряет 1ОЗ/с. Взрыв наносит 4 урона системам, с 10% вероятностью вызывает пожар.\n"
 "-Полностью невосприимчив к оглушению, не может лечиться"
 
-#: src-en/data/blueprints.xml.append:3394
+#: src-en/data/blueprints.xml.append:3450
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/title"
 msgstr "Дрон-щитоносец"
 
-#: src-en/data/blueprints.xml.append:3395
+#: src-en/data/blueprints.xml.append:3451
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/short"
 msgstr "Дрон-щитоносец"
 
-#: src-en/data/blueprints.xml.append:3396
+#: src-en/data/blueprints.xml.append:3452
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
-#: src-en/data/blueprints.xml.append:3400
+#: src-en/data/blueprints.xml.append:3456
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/powerList/power"
 msgstr "ДРОН"
 
-#: src-en/data/blueprints.xml.append:3407
+#: src-en/data/blueprints.xml.append:3463
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/title"
 msgstr "Дрон-щитоносец"
 
-#: src-en/data/blueprints.xml.append:3408
+#: src-en/data/blueprints.xml.append:3464
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/short"
 msgstr "Щитоносец"
 
-#: src-en/data/blueprints.xml.append:3409
+#: src-en/data/blueprints.xml.append:3465
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
 "Управляемый служебный дрон, который отнимает энергию из системы, чтобы обеспечить щит союзникам, значительно снижая урон от всех источников.\n"
@@ -1807,68 +1764,68 @@ msgstr ""
 "-Покрывает щитом всех союзников в отсеке, снижая получаемый ими урон от всех источников на 75%\n"
 "-Отнимает 3 единицы энергии из текущей системы. Чтобы применить щиты, в системе должно быть необходимое количество энергии."
 
-#: src-en/data/blueprints.xml.append:3430
+#: src-en/data/blueprints.xml.append:3486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/class"
 msgstr "Коллекционный крейсер \"Пустельга\""
 
-#: src-en/data/blueprints.xml.append:3431
+#: src-en/data/blueprints.xml.append:3487
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/name"
 msgstr "Иволга"
 
-#: src-en/data/blueprints.xml.append:3433
+#: src-en/data/blueprints.xml.append:3489
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/desc"
 msgstr ""
 "Переоборудованный крейсер \"Пустельга\", пилотируемый пиратом, одержимым "
 "современным вооружением."
 
-#: src-en/data/blueprints.xml.append:3506
+#: src-en/data/blueprints.xml.append:3562
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/class"
 msgstr "Коллекционный крейсер инженеров"
 
-#: src-en/data/blueprints.xml.append:3507
+#: src-en/data/blueprints.xml.append:3563
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/name"
 msgstr "Сплинтер"
 
-#: src-en/data/blueprints.xml.append:3509
+#: src-en/data/blueprints.xml.append:3565
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/desc"
 msgstr ""
 "Этим кораблем управляет безумный ученый, решивший превратить в мутантов как "
 "свой, так и вражеский экипаж."
 
-#: src-en/data/blueprints.xml.append:3581
+#: src-en/data/blueprints.xml.append:3637
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/class"
 msgstr "Коллекционный Вестник смерти"
 
-#: src-en/data/blueprints.xml.append:3582
+#: src-en/data/blueprints.xml.append:3638
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/name"
 msgstr "Хтон"
 
-#: src-en/data/blueprints.xml.append:3584
+#: src-en/data/blueprints.xml.append:3640
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/desc"
 msgstr ""
 "Этот корабль обладает мощным вооружением. Вот и все, что можно о нем "
 "сказать, честно говоря."
 
-#: src-en/data/blueprints.xml.append:3660
+#: src-en/data/blueprints.xml.append:3716
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/class"
 msgstr "Коллекционный крейсер энджи"
 
-#: src-en/data/blueprints.xml.append:3661
+#: src-en/data/blueprints.xml.append:3717
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/name"
 msgstr "Одержимост-Ь"
 
-#: src-en/data/blueprints.xml.append:3663
+#: src-en/data/blueprints.xml.append:3719
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
 msgstr ""
@@ -1876,51 +1833,51 @@ msgstr ""
 "сделанным из груды хлама, кое-как соединенной вместе, этот корабль "
 "ДЕЙСТВИТЕЛЬНО сделан из груды хлама, кое-как соединенной вместе."
 
-#: src-en/data/blueprints.xml.append:3741
+#: src-en/data/blueprints.xml.append:3797
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/class"
 msgstr "Коллекционный крейсер Изгоев"
 
-#: src-en/data/blueprints.xml.append:3742
+#: src-en/data/blueprints.xml.append:3798
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/name"
 msgstr "Выгода"
 
-#: src-en/data/blueprints.xml.append:3744
+#: src-en/data/blueprints.xml.append:3800
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
 msgstr ""
 "Это судно стало частью неудачной программы \"Инноваций Вентворта\", "
 "вдохновленной популярным телевизионным персонажем \"Ремми Рекма\"."
 
-#: src-en/data/blueprints.xml.append:3819
+#: src-en/data/blueprints.xml.append:3875
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/class"
 msgstr "Коллекционный крейсер Соцветия"
 
-#: src-en/data/blueprints.xml.append:3820
+#: src-en/data/blueprints.xml.append:3876
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/name"
 msgstr "Компостер"
 
-#: src-en/data/blueprints.xml.append:3822
+#: src-en/data/blueprints.xml.append:3878
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
 msgstr ""
 "\"С того момента, как я понял слабость своего мезокарпия, он мне противен. Я"
 " жажду силы и уверенности стали. Желательно в виде ракеты\"."
 
-#: src-en/data/blueprints.xml.append:3899
+#: src-en/data/blueprints.xml.append:3955
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/class"
 msgstr "Коллекционный стелс-крейсер"
 
-#: src-en/data/blueprints.xml.append:3900
+#: src-en/data/blueprints.xml.append:3956
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/name"
 msgstr "Один выстрел"
 
-#: src-en/data/blueprints.xml.append:3902
+#: src-en/data/blueprints.xml.append:3958
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/desc"
 msgstr ""
@@ -1928,17 +1885,17 @@ msgstr ""
 "\t\n"
 "\tУбей быстро - или умри, сражаясь."
 
-#: src-en/data/blueprints.xml.append:3979
+#: src-en/data/blueprints.xml.append:4035
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/class"
 msgstr "Коллекц. крейсер Федерации"
 
-#: src-en/data/blueprints.xml.append:3980
+#: src-en/data/blueprints.xml.append:4036
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/name"
 msgstr "Лев"
 
-#: src-en/data/blueprints.xml.append:3982
+#: src-en/data/blueprints.xml.append:4038
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/desc"
 msgstr ""
@@ -1946,17 +1903,17 @@ msgstr ""
 "пропустили сообщение о правилах клонирования, они строго придерживаются "
 "правила о запрете телепортации из дома."
 
-#: src-en/data/blueprints.xml.append:4055
+#: src-en/data/blueprints.xml.append:4111
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/class"
 msgstr "Коллекционный крейсер Улья"
 
-#: src-en/data/blueprints.xml.append:4056
+#: src-en/data/blueprints.xml.append:4112
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/name"
 msgstr "Гименопус II"
 
-#: src-en/data/blueprints.xml.append:4058
+#: src-en/data/blueprints.xml.append:4114
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/desc"
 msgstr ""
@@ -1964,17 +1921,17 @@ msgstr ""
 "Неудовлетворенный условиями работы, он посвятил свои усилия тому, чтобы "
 "доказать свое превосходство еще БОЛЬШИМ количеством бомб."
 
-#: src-en/data/blueprints.xml.append:4136
+#: src-en/data/blueprints.xml.append:4192
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/class"
 msgstr "Коллекц. Иллекстр. крейсер"
 
-#: src-en/data/blueprints.xml.append:4137
+#: src-en/data/blueprints.xml.append:4193
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/name"
 msgstr "Терпение"
 
-#: src-en/data/blueprints.xml.append:4139
+#: src-en/data/blueprints.xml.append:4195
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/desc"
 msgstr ""
@@ -1982,34 +1939,34 @@ msgstr ""
 "добродетель терпения. Жаль только, что она упустила из виду, что нужно быть "
 "миролюбивым."
 
-#: src-en/data/blueprints.xml.append:4212
+#: src-en/data/blueprints.xml.append:4268
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/class"
 msgstr "Коллекционный Миротворческий крейсер"
 
-#: src-en/data/blueprints.xml.append:4213
+#: src-en/data/blueprints.xml.append:4269
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/name"
 msgstr "Конденсатор потока"
 
-#: src-en/data/blueprints.xml.append:4215
+#: src-en/data/blueprints.xml.append:4271
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/desc"
 msgstr ""
 "Терпение чаще всего считается добродетелью. Это, конечно, так, но кто "
 "сказал, что нельзя немного ускорить процесс?"
 
-#: src-en/data/blueprints.xml.append:4290
+#: src-en/data/blueprints.xml.append:4346
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/class"
 msgstr "Коллекц. крейсер Клептократии"
 
-#: src-en/data/blueprints.xml.append:4291
+#: src-en/data/blueprints.xml.append:4347
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/name"
 msgstr "Спенсер-45"
 
-#: src-en/data/blueprints.xml.append:4293
+#: src-en/data/blueprints.xml.append:4349
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/desc"
 msgstr ""
@@ -2017,17 +1974,17 @@ msgstr ""
 "был запущен. Даже с новым экипажем, у него могут возникнуть некоторые "
 "трудности с выслеживанием вражеского экипажа..."
 
-#: src-en/data/blueprints.xml.append:4368
+#: src-en/data/blueprints.xml.append:4424
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/class"
 msgstr "Коллекц. крейсер Зат. Солнц"
 
-#: src-en/data/blueprints.xml.append:4369
+#: src-en/data/blueprints.xml.append:4425
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/name"
 msgstr "Разруха"
 
-#: src-en/data/blueprints.xml.append:4371
+#: src-en/data/blueprints.xml.append:4427
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/desc"
 msgstr ""
@@ -2035,17 +1992,17 @@ msgstr ""
 "воин Затерянных Солнц ухватился за возможность поджечь как можно больше "
 "людей."
 
-#: src-en/data/blueprints.xml.append:4447
+#: src-en/data/blueprints.xml.append:4503
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/class"
 msgstr "Коллекц. крейсер Теократии"
 
-#: src-en/data/blueprints.xml.append:4448
+#: src-en/data/blueprints.xml.append:4504
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/name"
 msgstr "Вулканический"
 
-#: src-en/data/blueprints.xml.append:4450
+#: src-en/data/blueprints.xml.append:4506
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
 msgstr ""
@@ -2053,34 +2010,34 @@ msgstr ""
 "уникальное оружие - магмой или лавой. Возможно, к ним присоединились бы и "
 "враги, если бы не были мертвы."
 
-#: src-en/data/blueprints.xml.append:4525
+#: src-en/data/blueprints.xml.append:4581
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/class"
 msgstr "Коллекц. Республиканский крейсер"
 
-#: src-en/data/blueprints.xml.append:4526
+#: src-en/data/blueprints.xml.append:4582
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/name"
 msgstr "СИЛа Ампера"
 
-#: src-en/data/blueprints.xml.append:4528
+#: src-en/data/blueprints.xml.append:4584
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/desc"
 msgstr ""
 "Он называется \"СИЛа Ампера\", потому что у него есть орудие с уСИЛителем, "
 "дошло?.."
 
-#: src-en/data/blueprints.xml.append:4602
+#: src-en/data/blueprints.xml.append:4658
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/class"
 msgstr "Коллекц. крейсер Гениократии"
 
-#: src-en/data/blueprints.xml.append:4603
+#: src-en/data/blueprints.xml.append:4659
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/name"
 msgstr "Адрон"
 
-#: src-en/data/blueprints.xml.append:4605
+#: src-en/data/blueprints.xml.append:4661
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/desc"
 msgstr ""
@@ -2088,34 +2045,34 @@ msgstr ""
 "коллайдер частиц. Но ничего страшного - фиолетовый все равно лучше "
 "оранжевого."
 
-#: src-en/data/blueprints.xml.append:4679
+#: src-en/data/blueprints.xml.append:4735
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/class"
 msgstr "Коллекционный авто-крейсер"
 
-#: src-en/data/blueprints.xml.append:4680
+#: src-en/data/blueprints.xml.append:4736
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/name"
 msgstr "Виктория"
 
-#: src-en/data/blueprints.xml.append:4682
+#: src-en/data/blueprints.xml.append:4738
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/desc"
 msgstr ""
 "Золотое правило - \"кто ищет, тот всегда найдет\", и это относится не только"
 " к вещам, которые вы крадете. Оно распространяется и на людей!"
 
-#: src-en/data/blueprints.xml.append:4759
+#: src-en/data/blueprints.xml.append:4815
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/class"
 msgstr "Коллекц. призрачный крейсер"
 
-#: src-en/data/blueprints.xml.append:4760
+#: src-en/data/blueprints.xml.append:4816
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/name"
 msgstr "Аваддон"
 
-#: src-en/data/blueprints.xml.append:4762
+#: src-en/data/blueprints.xml.append:4818
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
 msgstr ""
@@ -2123,34 +2080,34 @@ msgstr ""
 "способствующего междоусобицам, Династия наконец поняла, что ее пушки могут "
 "уничтожать корабли и других фракций."
 
-#: src-en/data/blueprints.xml.append:4836
+#: src-en/data/blueprints.xml.append:4892
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/class"
 msgstr "Коллекционный крейсер Выводка"
 
-#: src-en/data/blueprints.xml.append:4837
+#: src-en/data/blueprints.xml.append:4893
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/name"
 msgstr "Паучиха"
 
-#: src-en/data/blueprints.xml.append:4839
+#: src-en/data/blueprints.xml.append:4895
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
 msgstr ""
 "Что еще можно сказать о капитане этого судна? Он любит пауков. Он ОБОЖАЕТ "
 "пауков. Может быть, даже слишком."
 
-#: src-en/data/blueprints.xml.append:4912
+#: src-en/data/blueprints.xml.append:4968
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/class"
 msgstr "Коллекц. крейсер Тииикака"
 
-#: src-en/data/blueprints.xml.append:4913
+#: src-en/data/blueprints.xml.append:4969
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/name"
 msgstr "Хампердинк"
 
-#: src-en/data/blueprints.xml.append:4915
+#: src-en/data/blueprints.xml.append:4971
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/desc"
 msgstr ""
@@ -2158,34 +2115,34 @@ msgstr ""
 "известному пирату/изгою. Пожалуйста, не путайте его с таковым. Кроме того, "
 "на нем есть куча лазеров."
 
-#: src-en/data/blueprints.xml.append:4989
+#: src-en/data/blueprints.xml.append:5045
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/class"
 msgstr "Коллекционный крейсер Сепаратистов"
 
-#: src-en/data/blueprints.xml.append:4990
+#: src-en/data/blueprints.xml.append:5046
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/name"
 msgstr "Коронныйудар"
 
-#: src-en/data/blueprints.xml.append:4992
+#: src-en/data/blueprints.xml.append:5048
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/desc"
 msgstr ""
 "Кому в будущем нужны органические друзья? Ваши дроны - единственная "
 "компания, которая вам понадобится."
 
-#: src-en/data/blueprints.xml.append:5070
+#: src-en/data/blueprints.xml.append:5126
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/class"
 msgstr "Коллекц. крейсер ланиусов"
 
-#: src-en/data/blueprints.xml.append:5071
+#: src-en/data/blueprints.xml.append:5127
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/name"
 msgstr "Чайка"
 
-#: src-en/data/blueprints.xml.append:5073
+#: src-en/data/blueprints.xml.append:5129
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/desc"
 msgstr ""
@@ -2193,51 +2150,51 @@ msgstr ""
 "\"Не ткань? Символ узора не имеет?\" Он просто считает, что цвета "
 "аккуратные."
 
-#: src-en/data/blueprints.xml.append:5147
+#: src-en/data/blueprints.xml.append:5203
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/class"
 msgstr "Коллекц. МВ-крейсер повст."
 
-#: src-en/data/blueprints.xml.append:5148
+#: src-en/data/blueprints.xml.append:5204
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/name"
 msgstr "Угнетатель"
 
-#: src-en/data/blueprints.xml.append:5150
+#: src-en/data/blueprints.xml.append:5206
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/desc"
 msgstr ""
 "В стремлении максимально увеличить мощность системы дронов были сокращены "
 "многие расходы. Возможно, даже слишком много, но что сделано, то сделано."
 
-#: src-en/data/blueprints.xml.append:5226
+#: src-en/data/blueprints.xml.append:5282
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/class"
 msgstr "Коллекционный крейсер Сюзеренов"
 
-#: src-en/data/blueprints.xml.append:5227
+#: src-en/data/blueprints.xml.append:5283
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/name"
 msgstr "Механобогомолы"
 
-#: src-en/data/blueprints.xml.append:5229
+#: src-en/data/blueprints.xml.append:5285
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/desc"
 msgstr ""
 "Навстречу будущему! Технократический Улей начинает ассимиляцию с "
 "футуристическими роботами-друзьями!"
 
-#: src-en/data/blueprints.xml.append:5306
+#: src-en/data/blueprints.xml.append:5363
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/class"
 msgstr "Коллекц. Баржа удовольствий"
 
-#: src-en/data/blueprints.xml.append:5307
+#: src-en/data/blueprints.xml.append:5364
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/name"
 msgstr "Элизия"
 
-#: src-en/data/blueprints.xml.append:5309
+#: src-en/data/blueprints.xml.append:5366
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/desc"
 msgstr ""
@@ -2245,17 +2202,17 @@ msgstr ""
 "\t\"Ага, она реальна\", - говорит друг капитана.\n"
 "\t\"Ваааау\", - сказал капитан."
 
-#: src-en/data/blueprints.xml.append:5385
+#: src-en/data/blueprints.xml.append:5442
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/class"
 msgstr "Коллекц. крейсер Возвышенных"
 
-#: src-en/data/blueprints.xml.append:5386
+#: src-en/data/blueprints.xml.append:5443
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/name"
 msgstr "Яхт-клуб"
 
-#: src-en/data/blueprints.xml.append:5388
+#: src-en/data/blueprints.xml.append:5445
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/desc"
 msgstr ""
@@ -2264,17 +2221,17 @@ msgstr ""
 "капитана пришлось искать новые способы растраты избыточных богатств. Почему "
 "бы не превратить его в оружие?"
 
-#: src-en/data/blueprints.xml.append:5463
+#: src-en/data/blueprints.xml.append:5520
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/class"
 msgstr "Коллекционный крейсер Хакеров"
 
-#: src-en/data/blueprints.xml.append:5464
+#: src-en/data/blueprints.xml.append:5521
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/name"
 msgstr "6И6-60К"
 
-#: src-en/data/blueprints.xml.append:5466
+#: src-en/data/blueprints.xml.append:5523
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
 msgstr ""
@@ -2282,34 +2239,34 @@ msgstr ""
 " с разогнанным процессором работает в режиме максимальной эффективности. "
 "Корабль готов к бою."
 
-#: src-en/data/blueprints.xml.append:5541
+#: src-en/data/blueprints.xml.append:5598
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/class"
 msgstr "Коллекц. крейсер повстанцев"
 
-#: src-en/data/blueprints.xml.append:5542
+#: src-en/data/blueprints.xml.append:5599
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/name"
 msgstr "Освобождение"
 
-#: src-en/data/blueprints.xml.append:5544
+#: src-en/data/blueprints.xml.append:5601
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
 msgstr ""
 "Экипаж этого пиратского судна, по иронии судьбы, до сих пор хранит наследие "
 "повстанцев. Это придает спасению Вселенной некую желанную остроту."
 
-#: src-en/data/blueprints.xml.append:5618
+#: src-en/data/blueprints.xml.append:5675
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/class"
 msgstr "Крейсер Коллекционера"
 
-#: src-en/data/blueprints.xml.append:5619
+#: src-en/data/blueprints.xml.append:5676
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/name"
 msgstr "Теофил"
 
-#: src-en/data/blueprints.xml.append:5621
+#: src-en/data/blueprints.xml.append:5678
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
 msgstr ""
@@ -2317,17 +2274,17 @@ msgstr ""
 " древним сверхъестественным супероружием. Это все, что вам нужно знать, "
 "правда."
 
-#: src-en/data/blueprints.xml.append:5693
+#: src-en/data/blueprints.xml.append:5750
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
 msgstr "Коллекц. развал. бомбардиров."
 
-#: src-en/data/blueprints.xml.append:5694
+#: src-en/data/blueprints.xml.append:5751
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/name"
 msgstr "Куча мусора"
 
-#: src-en/data/blueprints.xml.append:5696
+#: src-en/data/blueprints.xml.append:5753
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/desc"
 msgstr ""
